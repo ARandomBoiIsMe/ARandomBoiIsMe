@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Minkowski Space](https://xkcd.com/2646)
+Title - [Dress Color](https://xkcd.com/1492)
 
-![Minkowski Space](./random_comic.png)
+![Dress Color](./random_comic.png)
 
-Description - My liege, we were able to follow the ship into Minkowski space, but now they've jumped to Hilbert space and they could honestly be anywhere.
+Description - This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car.
 
 -----------------------------------
