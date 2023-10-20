@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Thermostat](https://xkcd.com/1912)
+Title - [AI Hiring Algorithm](https://xkcd.com/2237)
 
-![Thermostat](./random_comic.png)
+![AI Hiring Algorithm](./random_comic.png)
 
-Description - Your problem is so terrible, I worry that, if I help you, I risk drawing the attention of whatever god of technology inflicted it on you.
+Description - So glad Kate over in R&D pushed for using the AlgoMaxAnalyzer to look into this. Hiring her was a great decisio- waaaait.
 
 -----------------------------------
