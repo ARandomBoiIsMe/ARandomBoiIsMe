@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Dress Color](https://xkcd.com/1492)
+Title - [Lightning Distance](https://xkcd.com/2027)
 
-![Dress Color](./random_comic.png)
+![Lightning Distance](./random_comic.png)
 
-Description - This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car.
+Description - The index of radio refraction does have a lot of variation, which might throw off your calculations, so you can also look at the difference in brightness between the visible flash and more-attenuated UV and x-rays.
 
 -----------------------------------
