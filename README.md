@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Emotion](https://xkcd.com/1048)
+Title - [Thermostat](https://xkcd.com/1912)
 
-![Emotion](./random_comic.png)
+![Thermostat](./random_comic.png)
 
-Description - Fortunately, the internet has a virtually inexhaustible supply of code that doesn't work and people who are wrong, which bodes well for a return to normalcy. [Note: Click to read context for the cancer comics. She's doing well.]
+Description - Your problem is so terrible, I worry that, if I help you, I risk drawing the attention of whatever god of technology inflicted it on you.
 
 -----------------------------------
