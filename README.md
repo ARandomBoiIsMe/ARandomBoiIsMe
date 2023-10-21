@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Historical Dates](https://xkcd.com/2676)
+Title - [Outdated Periodic Table](https://xkcd.com/2723)
 
-![Historical Dates](./random_comic.png)
+![Outdated Periodic Table](./random_comic.png)
 
-Description - Evidence suggests the 1899 transactions occurred as part of a global event centered around a deity associated with the lotus flower.
+Description - Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.
 
 -----------------------------------
