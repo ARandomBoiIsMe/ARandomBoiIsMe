@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Viral Quiz Identity Theft](https://xkcd.com/2388)
+Title - [RTFM](https://xkcd.com/293)
 
-![Viral Quiz Identity Theft](./random_comic.png)
+![RTFM](./random_comic.png)
 
-Description - [scrolling through a giant spreadsheet of transcribed data] 'Wow, a surprising number of users grew up at 420 69th St.' 'Yeah, must be a high-rise or something.'
+Description - Life is too short for man pages, but occasionally much too short without them.
 
 -----------------------------------
