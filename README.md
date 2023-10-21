@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [RTFM](https://xkcd.com/293)
+Title - [Historical Dates](https://xkcd.com/2676)
 
-![RTFM](./random_comic.png)
+![Historical Dates](./random_comic.png)
 
-Description - Life is too short for man pages, but occasionally much too short without them.
+Description - Evidence suggests the 1899 transactions occurred as part of a global event centered around a deity associated with the lotus flower.
 
 -----------------------------------
