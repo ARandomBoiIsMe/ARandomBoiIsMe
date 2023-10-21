@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [AI Hiring Algorithm](https://xkcd.com/2237)
+Title - [Viral Quiz Identity Theft](https://xkcd.com/2388)
 
-![AI Hiring Algorithm](./random_comic.png)
+![Viral Quiz Identity Theft](./random_comic.png)
 
-Description - So glad Kate over in R&D pushed for using the AlgoMaxAnalyzer to look into this. Hiring her was a great decisio- waaaait.
+Description - [scrolling through a giant spreadsheet of transcribed data] 'Wow, a surprising number of users grew up at 420 69th St.' 'Yeah, must be a high-rise or something.'
 
 -----------------------------------
