@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Outdated Periodic Table](https://xkcd.com/2723)
+Title - [Frankenstein Claim Permutations](https://xkcd.com/2799)
 
-![Outdated Periodic Table](./random_comic.png)
+![Frankenstein Claim Permutations](./random_comic.png)
 
-Description - Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.
+Description - When I began trying to form a new claim by stitching together these parts in such an unnatural way, some called me mad.
 
 -----------------------------------
