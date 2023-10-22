@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cosmologist Gift](https://xkcd.com/2643)
+Title - [Chicken Pox and Name Statistics](https://xkcd.com/1950)
 
-![Cosmologist Gift](./random_comic.png)
+![Chicken Pox and Name Statistics](./random_comic.png)
 
-Description - These neutrinos were freshly produced by a local source just 8 minutes ago
+Description - People with all six of those names agree that it's weird that we have teeth, when you think about it for too long. Just about everyone agrees on that, except—in a still-unexplained statistical anomaly—people named "Trevor."
 
 -----------------------------------
