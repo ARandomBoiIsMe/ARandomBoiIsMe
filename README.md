@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Reno Rhymes](https://xkcd.com/206)
+Title - [Island Storage](https://xkcd.com/2742)
 
-![Reno Rhymes](./random_comic.png)
+![Island Storage](./random_comic.png)
 
-Description - Did you shoot a man in Reno?  Now, I don't mean to pry.
+Description - I always hate dragging around the larger archipelagos, but I appreciate how the Scandinavian peninsula flexes outward to create a snug pocket for Britain and Ireland.
 
 -----------------------------------
