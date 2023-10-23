@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Island Storage](https://xkcd.com/2742)
+Title - [3D](https://xkcd.com/848)
 
-![Island Storage](./random_comic.png)
+![3D](./random_comic.png)
 
-Description - I always hate dragging around the larger archipelagos, but I appreciate how the Scandinavian peninsula flexes outward to create a snug pocket for Britain and Ireland.
+Description - The LINACs in the glasses frames can barely manage one MeV. You should've gone to the screening at CERN.
 
 -----------------------------------
