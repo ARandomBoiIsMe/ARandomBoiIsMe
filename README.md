@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [3D](https://xkcd.com/848)
+Title - [Future Archaeology](https://xkcd.com/1748)
 
-![3D](./random_comic.png)
+![Future Archaeology](./random_comic.png)
 
-Description - The LINACs in the glasses frames can barely manage one MeV. You should've gone to the screening at CERN.
+Description - "The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."
 
 -----------------------------------
