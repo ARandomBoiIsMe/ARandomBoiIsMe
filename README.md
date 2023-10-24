@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Questions for God](https://xkcd.com/1315)
+Title - [Map Projections](https://xkcd.com/977)
 
-![Questions for God](./random_comic.png)
+![Map Projections](./random_comic.png)
 
-Description - What sins could possibly darken the heart of a STEAMBOAT? I asked The Shadow, but he says he only covers men.
+Description - What's that? You think I don't like the Peters map because I'm uncomfortable with having my cultural assumptions challenged?  Are you sure you're not ... ::puts on sunglasses:: ... projecting?
 
 -----------------------------------
