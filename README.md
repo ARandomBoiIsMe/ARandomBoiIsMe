@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Future Archaeology](https://xkcd.com/1748)
+Title - [53 Cards](https://xkcd.com/2217)
 
-![Future Archaeology](./random_comic.png)
+![53 Cards](./random_comic.png)
 
-Description - "The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."
+Description - Well, there's one right here at the bottom, where it says "53."
 
 -----------------------------------
