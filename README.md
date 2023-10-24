@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [53 Cards](https://xkcd.com/2217)
+Title - [Questions for God](https://xkcd.com/1315)
 
-![53 Cards](./random_comic.png)
+![Questions for God](./random_comic.png)
 
-Description - Well, there's one right here at the bottom, where it says "53."
+Description - What sins could possibly darken the heart of a STEAMBOAT? I asked The Shadow, but he says he only covers men.
 
 -----------------------------------
