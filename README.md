@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Frankenstein Captcha](https://xkcd.com/2604)
+Title - [Magic School Bus](https://xkcd.com/911)
 
-![Frankenstein Captcha](./random_comic.png)
+![Magic School Bus](./random_comic.png)
 
-Description - The distinction between a ship and a boat is a line drawn in water.
+Description - At my OLD school, we used Microsoft Encarta 2005.
 
 -----------------------------------
