@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Magic School Bus](https://xkcd.com/911)
+Title - [Keynote](https://xkcd.com/527)
 
-![Magic School Bus](./random_comic.png)
+![Keynote](./random_comic.png)
 
-Description - At my OLD school, we used Microsoft Encarta 2005.
+Description - He should be better soon -- now that the Apple Store is getting rid of DRM, Cory Doctorow will get rid of his Steve Jobs voodoo doll.
 
 -----------------------------------
