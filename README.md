@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Coffee Cup Holes](https://xkcd.com/2658)
+Title - [Self-reference](https://xkcd.com/33)
 
-![Coffee Cup Holes](./random_comic.png)
+![Self-reference](./random_comic.png)
 
-Description - Theoretical physicist: At the Planck length, uncountably many.
+Description - I think about self-reference a lot.  Example: this comment.
 
 -----------------------------------
