@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Self-reference](https://xkcd.com/33)
+Title - [A Better Idea](https://xkcd.com/422)
 
-![Self-reference](./random_comic.png)
+![A Better Idea](./random_comic.png)
 
-Description - I think about self-reference a lot.  Example: this comment.
+Description - It's *almost* enough to make me want to redo high school.
 
 -----------------------------------
