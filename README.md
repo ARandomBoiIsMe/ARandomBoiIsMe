@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Flag Interpretation](https://xkcd.com/2175)
+Title - [Surface Area](https://xkcd.com/1389)
 
-![Flag Interpretation](./random_comic.png)
+![Surface Area](./random_comic.png)
 
-Description - When Salvador Dalí died, it took months to get all the flagpoles sufficiently melted.
+Description - This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle.
 
 -----------------------------------
