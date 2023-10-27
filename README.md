@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Sail](https://xkcd.com/976)
+Title - [50 Ways](https://xkcd.com/118)
 
-![Sail](./random_comic.png)
+![50 Ways](./random_comic.png)
 
-Description - It only works a few times before you have to capsize the boat in a soap lagoon again.
+Description - I woke up to find that I had scrawled the last line of this sleepily on a sheet of paper on my desk.  I shouldn't have listened to the 70's hit marathon on the way home from work the night before.
 
 -----------------------------------
