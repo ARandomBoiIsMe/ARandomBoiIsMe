@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Surface Area](https://xkcd.com/1389)
+Title - [Sail](https://xkcd.com/976)
 
-![Surface Area](./random_comic.png)
+![Sail](./random_comic.png)
 
-Description - This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle.
+Description - It only works a few times before you have to capsize the boat in a soap lagoon again.
 
 -----------------------------------
