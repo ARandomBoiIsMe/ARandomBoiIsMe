@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Man Page](https://xkcd.com/1692)
+Title - [Orbitals](https://xkcd.com/658)
 
-![Man Page](./random_comic.png)
+![Orbitals](./random_comic.png)
 
-Description - For even more info, see blarbl(2)(3) and birb(3ahhaha I'm kidding, just Google it like a normal person.
+Description - Except the people filtering in late are the partiers, so you end up with drunken makeouts in the living room and the next roommate to return home has to sleep in the hall lounge orbital.
 
 -----------------------------------
