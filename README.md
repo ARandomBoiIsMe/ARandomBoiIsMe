@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [CNR](https://xkcd.com/583)
+Title - [Hottest Editors](https://xkcd.com/1823)
 
-![CNR](./random_comic.png)
+![Hottest Editors](./random_comic.png)
 
-Description - Can't and shouldn't.
+Description - Elon Musk finally blocked me from the internal Tesla repository because I wouldn't stop sending pull requests for my code supporting steering via vim keybindings.
 
 -----------------------------------
