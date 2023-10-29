@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hottest Editors](https://xkcd.com/1823)
+Title - [One Two](https://xkcd.com/764)
 
-![Hottest Editors](./random_comic.png)
+![One Two](./random_comic.png)
 
-Description - Elon Musk finally blocked me from the internal Tesla repository because I wouldn't stop sending pull requests for my code supporting steering via vim keybindings.
+Description - Cue letters from anthropology majors complaining that this view of numerolinguistic development perpetuates a widespread myth. They get to write letters like that because when you're not getting a real science degree you have a lot of free time. Zing!
 
 -----------------------------------
