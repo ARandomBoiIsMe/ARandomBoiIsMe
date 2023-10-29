@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [One Two](https://xkcd.com/764)
+Title - [Emojidome](https://xkcd.com/2131)
 
-![One Two](./random_comic.png)
+![Emojidome](./random_comic.png)
 
-Description - Cue letters from anthropology majors complaining that this view of numerolinguistic development perpetuates a widespread myth. They get to write letters like that because when you're not getting a real science degree you have a lot of free time. Zing!
+Description - Thank you to the xkcd April 1st volunteers/commentators, including @Chromakode, Kevin, @Aiiane, Patrick, Kat, Reuven, @cotrone, @bstaffin, @zigdon, schwal, Stereo, and everyone who voted!
 
 -----------------------------------
