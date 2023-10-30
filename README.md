@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Good Code](https://xkcd.com/844)
+Title - [Kitchen Tips](https://xkcd.com/1567)
 
-![Good Code](./random_comic.png)
+![Kitchen Tips](./random_comic.png)
 
-Description - You can either hang out in the Android Loop or the HURD loop.
+Description - Household tip: Tired of buying so much toilet paper? Try unspooling the paper from the roll before using it. A single roll can last for multiple days that way, and it's much easier on your plumbing.
 
 -----------------------------------
