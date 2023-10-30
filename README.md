@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Exercise](https://xkcd.com/189)
+Title - [Good Code](https://xkcd.com/844)
 
-![Exercise](./random_comic.png)
+![Good Code](./random_comic.png)
 
-Description - I haven't had the patience for RPGs in a long time.
+Description - You can either hang out in the Android Loop or the HURD loop.
 
 -----------------------------------
