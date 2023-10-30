@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Geologic Faults](https://xkcd.com/1874)
+Title - [Steepen the Curve](https://xkcd.com/2409)
 
-![Geologic Faults](./random_comic.png)
+![Steepen the Curve](./random_comic.png)
 
-Description - I live on a torn-bag-of-potato-chips-where-the-tear-is-rapidly-growing fault, which is terrifying.
+Description - 1. Flatten the curve. 2. Steepen the curve. 3. Hang out.
 
 -----------------------------------
