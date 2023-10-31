@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Kitchen Tips](https://xkcd.com/1567)
+Title - [1991 and 2021](https://xkcd.com/2481)
 
-![Kitchen Tips](./random_comic.png)
+![1991 and 2021](./random_comic.png)
 
-Description - Household tip: Tired of buying so much toilet paper? Try unspooling the paper from the roll before using it. A single roll can last for multiple days that way, and it's much easier on your plumbing.
+Description - "Oh, and our computers all have cameras now, which is nice during the pandemic lockdowns." "The WHAT."
 
 -----------------------------------
