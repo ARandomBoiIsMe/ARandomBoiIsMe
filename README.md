@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Star Lore](https://xkcd.com/1973)
+Title - [Invisible Formatting](https://xkcd.com/2109)
 
-![Star Lore](./random_comic.png)
+![Invisible Formatting](./random_comic.png)
 
-Description - That one is a variable star which pulses every 30 seconds. Its name comes from a Greek word meaning "smoke alarm."
+Description - To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.
 
 -----------------------------------
