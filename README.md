@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Gravity](https://xkcd.com/2712)
+Title - [Star Lore](https://xkcd.com/1973)
 
-![Gravity](./random_comic.png)
+![Star Lore](./random_comic.png)
 
-Description - It's a long way down.
+Description - That one is a variable star which pulses every 30 seconds. Its name comes from a Greek word meaning "smoke alarm."
 
 -----------------------------------
