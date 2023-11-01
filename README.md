@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [1337: Part 2](https://xkcd.com/342)
+Title - [Cumulonimbus](https://xkcd.com/2185)
 
-![1337: Part 2](./random_comic.png)
+![Cumulonimbus](./random_comic.png)
 
-Description - Trivia: Elaine is actually her middle name.
+Description - The rarest of all clouds is the altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused by an interaction between warm moist air, cool dry air, cold slippery air, cursed air, and a cloud of nanobots.
 
 -----------------------------------
