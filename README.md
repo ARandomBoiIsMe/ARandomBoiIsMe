@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cumulonimbus](https://xkcd.com/2185)
+Title - [Unique Date](https://xkcd.com/1340)
 
-![Cumulonimbus](./random_comic.png)
+![Unique Date](./random_comic.png)
 
-Description - The rarest of all clouds is the altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused by an interaction between warm moist air, cool dry air, cold slippery air, cursed air, and a cloud of nanobots.
+Description - If our current civilization lasts another 8,000 years, it's probably fair to assume the Long Now Foundation got things right, and at some point we started listening to them and switched to five-digit years.
 
 -----------------------------------
