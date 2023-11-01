@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Dating Service](https://xkcd.com/120)
+Title - [1337: Part 2](https://xkcd.com/342)
 
-![Dating Service](./random_comic.png)
+![1337: Part 2](./random_comic.png)
 
-Description - I don't understand why people are so disingenuous!  I just want someone to walk with!
+Description - Trivia: Elaine is actually her middle name.
 
 -----------------------------------
