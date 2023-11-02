@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Sick Day](https://xkcd.com/1157)
+Title - [Thermometer](https://xkcd.com/2292)
 
-![Sick Day](./random_comic.png)
+![Thermometer](./random_comic.png)
 
-Description - Wikipedia path: Virus -> Immune system -> Innate immune system -> Parasites -> List of parasites of humans -> Naegleria fowleri -> Primary amoebic meningoencephalitis -> Deciding I DEFINITELY shouldn't connect an aquarium pump to my sinuses
+Description - I hate how many times you have to press it to get to the system normal people use, degrees Rømer.
 
 -----------------------------------
