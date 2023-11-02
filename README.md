@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Unique Date](https://xkcd.com/1340)
+Title - [Urgent Mission](https://xkcd.com/567)
 
-![Unique Date](./random_comic.png)
+![Urgent Mission](./random_comic.png)
 
-Description - If our current civilization lasts another 8,000 years, it's probably fair to assume the Long Now Foundation got things right, and at some point we started listening to them and switched to five-digit years.
+Description - Sure, we could stop dictators and pandemics, but we could also make the signs on every damn diagram make sense.
 
 -----------------------------------
