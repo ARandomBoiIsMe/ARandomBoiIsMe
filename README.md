@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Urgent Mission](https://xkcd.com/567)
+Title - [Sick Day](https://xkcd.com/1157)
 
-![Urgent Mission](./random_comic.png)
+![Sick Day](./random_comic.png)
 
-Description - Sure, we could stop dictators and pandemics, but we could also make the signs on every damn diagram make sense.
+Description - Wikipedia path: Virus -> Immune system -> Innate immune system -> Parasites -> List of parasites of humans -> Naegleria fowleri -> Primary amoebic meningoencephalitis -> Deciding I DEFINITELY shouldn't connect an aquarium pump to my sinuses
 
 -----------------------------------
