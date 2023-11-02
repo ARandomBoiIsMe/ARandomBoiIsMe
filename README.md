@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Thermometer](https://xkcd.com/2292)
+Title - [1000 Comics](https://xkcd.com/1000)
 
-![Thermometer](./random_comic.png)
+![1000 Comics](./random_comic.png)
 
-Description - I hate how many times you have to press it to get to the system normal people use, degrees Rømer.
+Description - Thank you for making me feel less alone.
 
 -----------------------------------
