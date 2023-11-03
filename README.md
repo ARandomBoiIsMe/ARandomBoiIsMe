@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Definition of e](https://xkcd.com/2768)
+Title - [Conspiracy Theories](https://xkcd.com/258)
 
-![Definition of e](./random_comic.png)
+![Conspiracy Theories](./random_comic.png)
 
-Description - Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.
+Description - There are a lot of graduate-educated young-earth creationists.
 
 -----------------------------------
