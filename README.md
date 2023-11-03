@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Conspiracy Theories](https://xkcd.com/258)
+Title - [Vows](https://xkcd.com/1100)
 
-![Conspiracy Theories](./random_comic.png)
+![Vows](./random_comic.png)
 
-Description - There are a lot of graduate-educated young-earth creationists.
+Description - So, um. Do you want to get a drink after the game?
 
 -----------------------------------
