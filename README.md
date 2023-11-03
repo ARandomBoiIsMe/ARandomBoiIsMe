@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [1000 Comics](https://xkcd.com/1000)
+Title - [Definition of e](https://xkcd.com/2768)
 
-![1000 Comics](./random_comic.png)
+![Definition of e](./random_comic.png)
 
-Description - Thank you for making me feel less alone.
+Description - Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.
 
 -----------------------------------
