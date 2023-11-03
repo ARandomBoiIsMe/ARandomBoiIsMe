@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Vows](https://xkcd.com/1100)
+Title - [Not Really Into Pokemon](https://xkcd.com/178)
 
-![Vows](./random_comic.png)
+![Not Really Into Pokemon](./random_comic.png)
 
-Description - So, um. Do you want to get a drink after the game?
+Description - As of this writing, Ubuntu 6.10 and Firefox 2.0 have left my computer a complete mess.
 
 -----------------------------------
