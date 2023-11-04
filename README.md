@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Universal Install Script](https://xkcd.com/1654)
+Title - [Emoji Movie](https://xkcd.com/1857)
 
-![Universal Install Script](./random_comic.png)
+![Emoji Movie](./random_comic.png)
 
-Description - The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>/dev/null' are recommended additions.)
+Description - Some other studio should do the Antz/A Bug's Life thing and release The Dingbats Movie at the same time.
 
 -----------------------------------
