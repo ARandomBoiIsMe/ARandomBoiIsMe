@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Not Really Into Pokemon](https://xkcd.com/178)
+Title - [Universal Install Script](https://xkcd.com/1654)
 
-![Not Really Into Pokemon](./random_comic.png)
+![Universal Install Script](./random_comic.png)
 
-Description - As of this writing, Ubuntu 6.10 and Firefox 2.0 have left my computer a complete mess.
+Description - The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>/dev/null' are recommended additions.)
 
 -----------------------------------
