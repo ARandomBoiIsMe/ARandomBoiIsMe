@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Assigning Numbers](https://xkcd.com/2610)
+Title - [AI](https://xkcd.com/948)
 
-![Assigning Numbers](./random_comic.png)
+![AI](./random_comic.png)
 
-Description - Gödel should do an article on which branches of math have the lowest average theorem number.
+Description - And they both react poorly to showers.
 
 -----------------------------------
