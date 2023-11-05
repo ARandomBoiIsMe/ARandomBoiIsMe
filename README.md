@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Thor Tools](https://xkcd.com/2097)
+Title - [Clutter](https://xkcd.com/1983)
 
-![Thor Tools](./random_comic.png)
+![Clutter](./random_comic.png)
 
-Description - CORRECTION: After careful evaluation, we have determined that the axis label on this chart was printed backward.
+Description - I found a copy of The Life-Changing Magic of Tidying Up, but the idea of reading it didn't spark joy, so I gave it away.
 
 -----------------------------------
