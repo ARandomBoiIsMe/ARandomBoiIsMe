@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [AI](https://xkcd.com/948)
+Title - [Thor Tools](https://xkcd.com/2097)
 
-![AI](./random_comic.png)
+![Thor Tools](./random_comic.png)
 
-Description - And they both react poorly to showers.
+Description - CORRECTION: After careful evaluation, we have determined that the axis label on this chart was printed backward.
 
 -----------------------------------
