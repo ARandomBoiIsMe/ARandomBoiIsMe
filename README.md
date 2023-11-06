@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Clutter](https://xkcd.com/1983)
+Title - [Teaching Physics](https://xkcd.com/895)
 
-![Clutter](./random_comic.png)
+![Teaching Physics](./random_comic.png)
 
-Description - I found a copy of The Life-Changing Magic of Tidying Up, but the idea of reading it didn't spark joy, so I gave it away.
+Description - Space-time is like some simple and familiar system which is both intuitively understandable and precisely analogous, and if I were Richard Feynman I'd be able to come up with it.
 
 -----------------------------------
