@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Teaching Physics](https://xkcd.com/895)
+Title - [Sun and Earth](https://xkcd.com/2004)
 
-![Teaching Physics](./random_comic.png)
+![Sun and Earth](./random_comic.png)
 
-Description - Space-time is like some simple and familiar system which is both intuitively understandable and precisely analogous, and if I were Richard Feynman I'd be able to come up with it.
+Description - But we don't need to worry about the boiling masses sandwiching the thin layer in which we live, since we're so fragile and short-lived that it's unlikely to kill us before something else does! Wait, why doesn't that sound reassuring?
 
 -----------------------------------
