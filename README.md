@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Listening](https://xkcd.com/1807)
+Title - [No, The Other One](https://xkcd.com/2480)
 
-![Listening](./random_comic.png)
+![No, The Other One](./random_comic.png)
 
-Description - Sure, you could just ask, but this also takes care of the host gift thing.
+Description - Key West, Virginia is not to be confused with Key, West Virginia.
 
 -----------------------------------
