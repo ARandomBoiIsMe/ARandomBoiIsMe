@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Irony Definition](https://xkcd.com/2008)
+Title - [My Phone is Dying](https://xkcd.com/1422)
 
-![Irony Definition](./random_comic.png)
+![My Phone is Dying](./random_comic.png)
 
-Description - Can you stop glaring at me like that? It makes me feel really ironic.
+Description - When it explodes, it will cast off its outer layers, leaving behind nothing but a slowly fading PalmPilot, calculator, or two-way pager.
 
 -----------------------------------
