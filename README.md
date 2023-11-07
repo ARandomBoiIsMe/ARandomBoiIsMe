@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [No, The Other One](https://xkcd.com/2480)
+Title - [Floor Tiles](https://xkcd.com/245)
 
-![No, The Other One](./random_comic.png)
+![Floor Tiles](./random_comic.png)
 
-Description - Key West, Virginia is not to be confused with Key, West Virginia.
+Description - The worst part is when sidewalk cracks are out-of-sync with your natural stride.
 
 -----------------------------------
