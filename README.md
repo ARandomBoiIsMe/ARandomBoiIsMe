@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Floor Tiles](https://xkcd.com/245)
+Title - [Irony Definition](https://xkcd.com/2008)
 
-![Floor Tiles](./random_comic.png)
+![Irony Definition](./random_comic.png)
 
-Description - The worst part is when sidewalk cracks are out-of-sync with your natural stride.
+Description - Can you stop glaring at me like that? It makes me feel really ironic.
 
 -----------------------------------
