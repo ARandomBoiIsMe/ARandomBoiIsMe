@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [One-Liners](https://xkcd.com/813)
+Title - [Cougars](https://xkcd.com/999)
 
-![One-Liners](./random_comic.png)
+![Cougars](./random_comic.png)
 
-Description - 'Upgrade to the latest version of Adobe Flash player to view THIS content, bitch.' ::triggers detonator::
+Description - If you're lying in bed tonight and you see yellow eyes glinting in your window, are you being stalked by a puma, a mountain lion, a panther, a catamount, or a cougar? Trick question--in North America, they're all names for the same species, Puma concolor! Isn't learning fun? Anyway, sleep tight!
 
 -----------------------------------
