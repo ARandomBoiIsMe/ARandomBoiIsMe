@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Soil](https://xkcd.com/2695)
+Title - [Captain Speaking](https://xkcd.com/1660)
 
-![Soil](./random_comic.png)
+![Captain Speaking](./random_comic.png)
 
-Description - You might want to bring your frost-sensitive plants in from the patio. The high-level aerosols may result in short-term cooling across the entire backyard.
+Description - Oh dang, you have to pay? Hey, has anyone else paid already? If so, can I borrow your phone for a sec?
 
 -----------------------------------
