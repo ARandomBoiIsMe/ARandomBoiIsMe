@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cougars](https://xkcd.com/999)
+Title - [Boat Puzzle](https://xkcd.com/2348)
 
-![Cougars](./random_comic.png)
+![Boat Puzzle](./random_comic.png)
 
-Description - If you're lying in bed tonight and you see yellow eyes glinting in your window, are you being stalked by a puma, a mountain lion, a panther, a catamount, or a cougar? Trick question--in North America, they're all names for the same species, Puma concolor! Isn't learning fun? Anyway, sleep tight!
+Description - 'No, my cabbage moths have already started laying eggs in them! Send the trolley into the river!' 'No, the sailing wolf will steal the boat to rescue them!'
 
 -----------------------------------
