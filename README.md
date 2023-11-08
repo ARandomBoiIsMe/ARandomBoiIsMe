@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Boat Puzzle](https://xkcd.com/2348)
+Title - [Soil](https://xkcd.com/2695)
 
-![Boat Puzzle](./random_comic.png)
+![Soil](./random_comic.png)
 
-Description - 'No, my cabbage moths have already started laying eggs in them! Send the trolley into the river!' 'No, the sailing wolf will steal the boat to rescue them!'
+Description - You might want to bring your frost-sensitive plants in from the patio. The high-level aerosols may result in short-term cooling across the entire backyard.
 
 -----------------------------------
