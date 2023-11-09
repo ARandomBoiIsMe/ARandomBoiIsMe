@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Interaction](https://xkcd.com/1961)
+Title - [Secretary: Part 4](https://xkcd.com/497)
 
-![Interaction](./random_comic.png)
+![Secretary: Part 4](./random_comic.png)
 
-Description - [They do not move.]
+Description - It's time to draw the line.
 
 -----------------------------------
