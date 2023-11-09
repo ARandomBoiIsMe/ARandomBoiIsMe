@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Random Obsessions](https://xkcd.com/1835)
+Title - [Interaction](https://xkcd.com/1961)
 
-![Random Obsessions](./random_comic.png)
+![Interaction](./random_comic.png)
 
-Description - I take the view that "open-faced sandwiches" are not sandwiches, but all other physical objects are.
+Description - [They do not move.]
 
 -----------------------------------
