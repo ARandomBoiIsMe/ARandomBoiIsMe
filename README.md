@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Captain Speaking](https://xkcd.com/1660)
+Title - [Inflection](https://xkcd.com/1709)
 
-![Captain Speaking](./random_comic.png)
+![Inflection](./random_comic.png)
 
-Description - Oh dang, you have to pay? Hey, has anyone else paid already? If so, can I borrow your phone for a sec?
+Description - "Or maybe, because we're suddenly having so many conversations through written text, we'll start relying MORE on altered spelling to indicate meaning!" "Wat."
 
 -----------------------------------
