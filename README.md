@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Conversation](https://xkcd.com/1423)
+Title - [L6 Lagrange Point](https://xkcd.com/2717)
 
-![Conversation](./random_comic.png)
+![L6 Lagrange Point](./random_comic.png)
 
-Description - Later, at home: 'Dear diary: Still can't figure out what to write here ...'
+Description - It's difficult to orbit L6 stably due to gravitational perturbation from Akron and Toledo.
 
 -----------------------------------
