@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Secretary: Part 4](https://xkcd.com/497)
+Title - [Inheritance](https://xkcd.com/2468)
 
-![Secretary: Part 4](./random_comic.png)
+![Inheritance](./random_comic.png)
 
-Description - It's time to draw the line.
+Description - People ask me whether I feel any moral qualms about the source of the points, but if he hadn't introduced factory farming to Agricola, someone else would have.
 
 -----------------------------------
