@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [L6 Lagrange Point](https://xkcd.com/2717)
+Title - [Romney Quiz](https://xkcd.com/1044)
 
-![L6 Lagrange Point](./random_comic.png)
+![Romney Quiz](./random_comic.png)
 
-Description - It's difficult to orbit L6 stably due to gravitational perturbation from Akron and Toledo.
+Description - Charlie actually delivered the Medicare line almost verbatim in the 1971 movie's Fizzy Lifting Drink scene, but it was ultimately cut from the final release.
 
 -----------------------------------
