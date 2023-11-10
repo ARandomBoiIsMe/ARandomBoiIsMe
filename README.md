@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Inheritance](https://xkcd.com/2468)
+Title - [Conversation](https://xkcd.com/1423)
 
-![Inheritance](./random_comic.png)
+![Conversation](./random_comic.png)
 
-Description - People ask me whether I feel any moral qualms about the source of the points, but if he hadn't introduced factory farming to Agricola, someone else would have.
+Description - Later, at home: 'Dear diary: Still can't figure out what to write here ...'
 
 -----------------------------------
