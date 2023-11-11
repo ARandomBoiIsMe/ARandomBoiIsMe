@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Industry Nicknames](https://xkcd.com/2130)
+Title - [Disaster Movie](https://xkcd.com/2029)
 
-![Industry Nicknames](./random_comic.png)
+![Disaster Movie](./random_comic.png)
 
-Description - As far as "being in the pocket of Big Egg" goes, I think the real threat is Chansey.
+Description - Really, they'd be rushing around collecting revisions to go into the next scheduled quarterly public data update, not publishing them immediately, but you have to embellish things a little for Hollywood.
 
 -----------------------------------
