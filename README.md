@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Reverse Identity Theft](https://xkcd.com/1279)
+Title - [Photo Library Management](https://xkcd.com/1832)
 
-![Reverse Identity Theft](./random_comic.png)
+![Photo Library Management](./random_comic.png)
 
-Description - I asked a few friends whether they'd had this happen, then looked up the popularity of their initials/names over time.  Based on those numbers, it looks like there must be at least 750,000 people in the US alone who think 'Sure, that's probably my email address' on a regular basis.
+Description - A good lifehack is to use messy and unstable systems to organize your photos. That way, every five years or so it becomes obsolete and/or collapses, and you have to open it up and pick only your favorite pictures to salvage.
 
 -----------------------------------
