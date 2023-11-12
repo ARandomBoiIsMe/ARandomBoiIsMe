@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [3D Printer](https://xkcd.com/924)
+Title - [Drinking Fountains](https://xkcd.com/986)
 
-![3D Printer](./random_comic.png)
+![Drinking Fountains](./random_comic.png)
 
-Description - I just can't wait for the Better Homes and Gardens list of helpful tips for household reuse of sixteen-inch acrylonitrile-butadiene-styrene phalluses.
+Description - I've always wondered whether you could drink slowly enough, and eliminate fast enough, that you just sort of peed continuously. But I'm afraid to try because I worry someone might call while I'm doing it and ask what I'm up to, and I won't be able to think of a lie.
 
 -----------------------------------
