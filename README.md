@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Disaster Movie](https://xkcd.com/2029)
+Title - [Flash Gatsby](https://xkcd.com/2405)
 
-![Disaster Movie](./random_comic.png)
+![Flash Gatsby](./random_comic.png)
 
-Description - Really, they'd be rushing around collecting revisions to go into the next scheduled quarterly public data update, not publishing them immediately, but you have to embellish things a little for Hollywood.
+Description - Protip: At midnight your excuse for not having read The Great Gatsby can switch from "I'm worried about violating copyright" to "I think my copy requires Flash."
 
 -----------------------------------
