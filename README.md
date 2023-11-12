@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Drinking Fountains](https://xkcd.com/986)
+Title - [Internet Archive](https://xkcd.com/2102)
 
-![Drinking Fountains](./random_comic.png)
+![Internet Archive](./random_comic.png)
 
-Description - I've always wondered whether you could drink slowly enough, and eliminate fast enough, that you just sort of peed continuously. But I'm afraid to try because I worry someone might call while I'm doing it and ask what I'm up to, and I won't be able to think of a lie.
+Description - The fact that things like the npm left-pad incident are so rare is oddly reassuring.
 
 -----------------------------------
