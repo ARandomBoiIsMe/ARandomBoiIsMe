@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Night Shift](https://xkcd.com/2112)
+Title - [Childhood Toys](https://xkcd.com/2603)
 
-![Night Shift](./random_comic.png)
+![Childhood Toys](./random_comic.png)
 
-Description - Help, I set my white balance wrong and suddenly everyone is screaming at each other about whether they've been to Colorado.
+Description - The rope keeps breaking, I'm covered in bruises and scrapes, and I've barely reached the end of my driveway, but I don't care--I'm determined to become the first person to commute to work by tetherball.
 
 -----------------------------------
