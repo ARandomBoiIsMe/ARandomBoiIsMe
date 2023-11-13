@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Internet Archive](https://xkcd.com/2102)
+Title - [Night Shift](https://xkcd.com/2112)
 
-![Internet Archive](./random_comic.png)
+![Night Shift](./random_comic.png)
 
-Description - The fact that things like the npm left-pad incident are so rare is oddly reassuring.
+Description - Help, I set my white balance wrong and suddenly everyone is screaming at each other about whether they've been to Colorado.
 
 -----------------------------------
