@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [53 Cards](https://xkcd.com/2217)
+Title - [Star Wars Spoiler Generator](https://xkcd.com/2243)
 
-![53 Cards](./random_comic.png)
+![Star Wars Spoiler Generator](./random_comic.png)
 
-Description - Well, there's one right here at the bottom, where it says "53."
+Description - The heroes seem to be gaining the upper hand until Darth Juul manages to flip the switch on the car wash control panel from 'REGULAR' to 'PREMIUM.'
 
 -----------------------------------
