@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Thesis Defense](https://xkcd.com/1403)
+Title - [Henge](https://xkcd.com/1622)
 
-![Thesis Defense](./random_comic.png)
+![Henge](./random_comic.png)
 
-Description - MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART
+Description - I've got the Craigslist post ready to go! I wasn't sure what category it should go in, so I listed it as property and put that it has 'good sun exposure.'
 
 -----------------------------------
