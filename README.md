@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Blogging](https://xkcd.com/741)
+Title - [Thesis Defense](https://xkcd.com/1403)
 
-![Blogging](./random_comic.png)
+![Thesis Defense](./random_comic.png)
 
-Description - I'm looking to virally monetize your eyeballs by selling them for transplants.
+Description - MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART
 
 -----------------------------------
