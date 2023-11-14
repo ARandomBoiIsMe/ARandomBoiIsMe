@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Henge](https://xkcd.com/1622)
+Title - [53 Cards](https://xkcd.com/2217)
 
-![Henge](./random_comic.png)
+![53 Cards](./random_comic.png)
 
-Description - I've got the Craigslist post ready to go! I wasn't sure what category it should go in, so I listed it as property and put that it has 'good sun exposure.'
+Description - Well, there's one right here at the bottom, where it says "53."
 
 -----------------------------------
