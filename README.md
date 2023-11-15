@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Capri Suns](https://xkcd.com/2647)
+Title - [Emoticon](https://xkcd.com/380)
 
-![Capri Suns](./random_comic.png)
+![Emoticon](./random_comic.png)
 
-Description - [As security is dragging me away] "Come on, at least I didn't make the mistake in the other direction!"
+Description - U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.
 
 -----------------------------------
