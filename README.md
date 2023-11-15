@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Emoticon](https://xkcd.com/380)
+Title - [Purity](https://xkcd.com/435)
 
-![Emoticon](./random_comic.png)
+![Purity](./random_comic.png)
 
-Description - U+FDD0 is actually Unicode for the eye of the basilisk, though for safety reasons no font actually renders it.
+Description - On the other hand, physicists like to say physics is to math as sex is to masturbation.
 
 -----------------------------------
