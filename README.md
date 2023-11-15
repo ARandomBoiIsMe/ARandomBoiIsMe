@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Star Wars Spoiler Generator](https://xkcd.com/2243)
+Title - [debian-main](https://xkcd.com/797)
 
-![Star Wars Spoiler Generator](./random_comic.png)
+![debian-main](./random_comic.png)
 
-Description - The heroes seem to be gaining the upper hand until Darth Juul manages to flip the switch on the car wash control panel from 'REGULAR' to 'PREMIUM.'
+Description - dpkg: error processing package (--purge): subprocess pre-removal script returned error exit 163: OH_GOD_THEYRE_INSIDE_MY_CLOTHES
 
 -----------------------------------
