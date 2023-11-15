@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [debian-main](https://xkcd.com/797)
+Title - [Capri Suns](https://xkcd.com/2647)
 
-![debian-main](./random_comic.png)
+![Capri Suns](./random_comic.png)
 
-Description - dpkg: error processing package (--purge): subprocess pre-removal script returned error exit 163: OH_GOD_THEYRE_INSIDE_MY_CLOTHES
+Description - [As security is dragging me away] "Come on, at least I didn't make the mistake in the other direction!"
 
 -----------------------------------
