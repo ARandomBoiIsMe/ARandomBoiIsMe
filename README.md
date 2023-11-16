@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [One Of The](https://xkcd.com/1368)
+Title - [Cicadas](https://xkcd.com/2263)
 
-![One Of The](./random_comic.png)
+![Cicadas](./random_comic.png)
 
-Description - 'The world's greatest [whatever]' is subjective, but 'One of the world's greatest [whatever]s' is clearly objective. Anyway, that's why I got you this 'one of the world's greatest moms' mug!
+Description - After a while you adjust to the new cicadian rhythm.
 
 -----------------------------------
