@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Purity](https://xkcd.com/435)
+Title - [One Of The](https://xkcd.com/1368)
 
-![Purity](./random_comic.png)
+![One Of The](./random_comic.png)
 
-Description - On the other hand, physicists like to say physics is to math as sex is to masturbation.
+Description - 'The world's greatest [whatever]' is subjective, but 'One of the world's greatest [whatever]s' is clearly objective. Anyway, that's why I got you this 'one of the world's greatest moms' mug!
 
 -----------------------------------
