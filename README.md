@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Bridge](https://xkcd.com/1170)
+Title - [Gold](https://xkcd.com/2826)
 
-![Bridge](./random_comic.png)
+![Gold](./random_comic.png)
 
-Description - And it says a lot about you that when your friends jump off a bridge en masse, your first thought is apparently 'my friends are all foolish and I won't be like them' and not 'are my friends ok?'.
+Description - It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.
 
 -----------------------------------
