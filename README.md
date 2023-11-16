@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cicadas](https://xkcd.com/2263)
+Title - [Bridge](https://xkcd.com/1170)
 
-![Cicadas](./random_comic.png)
+![Bridge](./random_comic.png)
 
-Description - After a while you adjust to the new cicadian rhythm.
+Description - And it says a lot about you that when your friends jump off a bridge en masse, your first thought is apparently 'my friends are all foolish and I won't be like them' and not 'are my friends ok?'.
 
 -----------------------------------
