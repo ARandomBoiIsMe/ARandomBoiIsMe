@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Actually](https://xkcd.com/1318)
+Title - [Drone Training](https://xkcd.com/1881)
 
-![Actually](./random_comic.png)
+![Drone Training](./random_comic.png)
 
-Description - Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.
+Description - The joke will be on him in a few weeks when animal control shows up and takes custody of his Roomba.
 
 -----------------------------------
