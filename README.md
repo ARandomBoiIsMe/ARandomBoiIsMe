@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hot Dogs](https://xkcd.com/1641)
+Title - [Actually](https://xkcd.com/1318)
 
-![Hot Dogs](./random_comic.png)
+![Actually](./random_comic.png)
 
-Description - Okay, I'm just gonna order pizza, and let's never talk about this again.
+Description - Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.
 
 -----------------------------------
