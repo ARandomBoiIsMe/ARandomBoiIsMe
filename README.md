@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Drone Training](https://xkcd.com/1881)
+Title - [Data](https://xkcd.com/1429)
 
-![Drone Training](./random_comic.png)
+![Data](./random_comic.png)
 
-Description - The joke will be on him in a few weeks when animal control shows up and takes custody of his Roomba.
+Description - If you want to have more fun at the expense of language pedants, try developing an hypercorrection habit.
 
 -----------------------------------
