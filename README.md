@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Important Field](https://xkcd.com/970)
+Title - [Puzzle](https://xkcd.com/1287)
 
-![The Important Field](./random_comic.png)
+![Puzzle](./random_comic.png)
 
-Description - I hear in some places, you need one form of ID to buy a gun, but two to pay for it by check. It's interesting who has what incentives to care about what mistakes.
+Description - Prediction for Carlsen v. Anand: ... 25. Qb8+ Nxb8 26. Rd8# f6 27. "... dude." Qf5 28. "The game is over, dude." Qxg5 29. Rxe8 0-1 30. "Dude, your move can't be '0-1'. Don't write that down." [Black flips board]
 
 -----------------------------------
