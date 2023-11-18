@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Mercator Projection](https://xkcd.com/2082)
+Title - [The Important Field](https://xkcd.com/970)
 
-![Mercator Projection](./random_comic.png)
+![The Important Field](./random_comic.png)
 
-Description - The other great lakes are just water on the far side of Canada Island. If you drive north from the Pacific northwest you actually cross directly into Alaska, although a few officials--confused by the Mercator distortion--have put up border signs.
+Description - I hear in some places, you need one form of ID to buy a gun, but two to pay for it by check. It's interesting who has what incentives to care about what mistakes.
 
 -----------------------------------
