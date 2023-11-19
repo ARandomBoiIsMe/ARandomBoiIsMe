@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Pyramid Honey](https://xkcd.com/1717)
+Title - [Natural Parenting](https://xkcd.com/674)
 
-![Pyramid Honey](./random_comic.png)
+![Natural Parenting](./random_comic.png)
 
-Description - They CLAIM honey was found in the chambers under the pyramids, but this conspiracy goes all the way to the TOP, where the GIANT EYE is!
+Description - On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that's the mother of all sampling biases.
 
 -----------------------------------
