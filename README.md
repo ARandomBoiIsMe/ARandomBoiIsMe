@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Unscientific](https://xkcd.com/397)
+Title - [Pyramid Honey](https://xkcd.com/1717)
 
-![Unscientific](./random_comic.png)
+![Pyramid Honey](./random_comic.png)
 
-Description - Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism.  We'll also examine the existence of God and whether true love exists.
+Description - They CLAIM honey was found in the chambers under the pyramids, but this conspiracy goes all the way to the TOP, where the GIANT EYE is!
 
 -----------------------------------
