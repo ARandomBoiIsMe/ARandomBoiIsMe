@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Natural Parenting](https://xkcd.com/674)
+Title - [Global Temperature Over My Lifetime](https://xkcd.com/2500)
 
-![Natural Parenting](./random_comic.png)
+![Global Temperature Over My Lifetime](./random_comic.png)
 
-Description - On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that's the mother of all sampling biases.
+Description - I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.
 
 -----------------------------------
