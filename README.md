@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Global Temperature Over My Lifetime](https://xkcd.com/2500)
+Title - [Solar System Questions](https://xkcd.com/1547)
 
-![Global Temperature Over My Lifetime](./random_comic.png)
+![Solar System Questions](./random_comic.png)
 
-Description - I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.
+Description - My country's World Cup win was exciting and all, but c'mon, what if the players wore nylon wings and COULD LITERALLY FLY?
 
 -----------------------------------
