@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Fresh Pears](https://xkcd.com/2209)
+Title - [Baring My Heart](https://xkcd.com/112)
 
-![Fresh Pears](./random_comic.png)
+![Baring My Heart](./random_comic.png)
 
-Description - I want to sell apples but I'm still working on getting the machine to do the cutting and grafting.
+Description - I'm just trying to explain, please don't be jealous!  Man, why are all my relationships ruined by early 90's rappers?
 
 -----------------------------------
