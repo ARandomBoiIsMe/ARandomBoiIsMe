@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Solar System Questions](https://xkcd.com/1547)
+Title - [Fresh Pears](https://xkcd.com/2209)
 
-![Solar System Questions](./random_comic.png)
+![Fresh Pears](./random_comic.png)
 
-Description - My country's World Cup win was exciting and all, but c'mon, what if the players wore nylon wings and COULD LITERALLY FLY?
+Description - I want to sell apples but I'm still working on getting the machine to do the cutting and grafting.
 
 -----------------------------------
