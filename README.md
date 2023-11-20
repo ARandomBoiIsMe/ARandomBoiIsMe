@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Baring My Heart](https://xkcd.com/112)
+Title - [Audiophiles](https://xkcd.com/841)
 
-![Baring My Heart](./random_comic.png)
+![Audiophiles](./random_comic.png)
 
-Description - I'm just trying to explain, please don't be jealous!  Man, why are all my relationships ruined by early 90's rappers?
+Description - For years, I took the wrong lesson from that Monster Cable experiment and only listened to my music through alligator-clipped coat hangers.
 
 -----------------------------------
