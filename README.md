@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Audiophiles](https://xkcd.com/841)
+Title - [Hurricane Names](https://xkcd.com/944)
 
-![Audiophiles](./random_comic.png)
+![Hurricane Names](./random_comic.png)
 
-Description - For years, I took the wrong lesson from that Monster Cable experiment and only listened to my music through alligator-clipped coat hangers.
+Description - After exhausting the OED, we started numbering them. When overlapping hurricanes formed at all points on the Earth's surface, and our scheme was foiled by Cantor diagonalization, we just decided to name them all "Steve". Your local forecast tomorrow is "Steve". Good luck.
 
 -----------------------------------
