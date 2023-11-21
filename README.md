@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Not Available](https://xkcd.com/1969)
+Title - [1/100,000th Scale World](https://xkcd.com/2412)
 
-![Not Available](./random_comic.png)
+![1/100,000th Scale World](./random_comic.png)
 
-Description - If my country ever picks a new national flag, this is on my shortlist for designs to argue for, but I think in the end I'll go with the green puzzle piece or broken image thumbnail.
+Description - The floor should be slightly curved, but we haven't figured out artificial gravity yet, so for now we just added a trace intoxicating gas to the air that messes with your inner ear and gives you a sense that the ground is tilting away from you.
 
 -----------------------------------
