@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hurricane Names](https://xkcd.com/944)
+Title - [Not Available](https://xkcd.com/1969)
 
-![Hurricane Names](./random_comic.png)
+![Not Available](./random_comic.png)
 
-Description - After exhausting the OED, we started numbering them. When overlapping hurricanes formed at all points on the Earth's surface, and our scheme was foiled by Cantor diagonalization, we just decided to name them all "Steve". Your local forecast tomorrow is "Steve". Good luck.
+Description - If my country ever picks a new national flag, this is on my shortlist for designs to argue for, but I think in the end I'll go with the green puzzle piece or broken image thumbnail.
 
 -----------------------------------
