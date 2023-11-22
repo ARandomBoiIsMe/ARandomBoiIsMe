@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Bill Nye](https://xkcd.com/200)
+Title - [Logic Gates](https://xkcd.com/2497)
 
-![Bill Nye](./random_comic.png)
+![Logic Gates](./random_comic.png)
 
-Description - You could at least not wear the lab coat everywhere, dude.
+Description - In C, the multiocular O represents the bitwise norxondor gorgonax.
 
 -----------------------------------
