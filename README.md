@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Logic Gates](https://xkcd.com/2497)
+Title - [Unfulfilling Toys](https://xkcd.com/2049)
 
-![Logic Gates](./random_comic.png)
+![Unfulfilling Toys](./random_comic.png)
 
-Description - In C, the multiocular O represents the bitwise norxondor gorgonax.
+Description - We were going to do a falling-apart Rubik's cube that was just 27 independent blocks stuck together with magnets, but then we realized it was actually really cool and even kind of worked, so we cut that one.
 
 -----------------------------------
