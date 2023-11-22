@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Phishing License](https://xkcd.com/1694)
+Title - [Bill Nye](https://xkcd.com/200)
 
-![Phishing License](./random_comic.png)
+![Bill Nye](./random_comic.png)
 
-Description - Later, walking out of jail after posting $10,000 bail: "Wait, this isn't the street the county jail is on."
+Description - You could at least not wear the lab coat everywhere, dude.
 
 -----------------------------------
