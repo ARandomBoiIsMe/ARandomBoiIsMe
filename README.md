@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Unfulfilling Toys](https://xkcd.com/2049)
+Title - [Mainly Known For](https://xkcd.com/2621)
 
-![Unfulfilling Toys](./random_comic.png)
+![Mainly Known For](./random_comic.png)
 
-Description - We were going to do a falling-apart Rubik's cube that was just 27 independent blocks stuck together with magnets, but then we realized it was actually really cool and even kind of worked, so we cut that one.
+Description - Oh sure, I know Keira Knightly, from the first movie in that series by The Land Before Time producer. You know, the franchise with the guy from Jurassic Park and Ghostwriter, and script work by Billie Lourd's mom?
 
 -----------------------------------
