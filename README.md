@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [1000 Comics](https://xkcd.com/1000)
+Title - [Rickrolling Anniversary](https://xkcd.com/1981)
 
-![1000 Comics](./random_comic.png)
+![Rickrolling Anniversary](./random_comic.png)
 
-Description - Thank you for making me feel less alone.
+Description - Want to feel old? The 'want to feel old?' factoid meme dates back to around 2011, closer to the Bush/Kerry election than to today.
 
 -----------------------------------
