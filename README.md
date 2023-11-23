@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [s/keyboard/leopard/](https://xkcd.com/1031)
+Title - [Well-Ordering Principle](https://xkcd.com/2193)
 
-![s/keyboard/leopard/](./random_comic.png)
+![Well-Ordering Principle](./random_comic.png)
 
-Description - Problem Exists Between Leopard And Chair
+Description - We could organize a nationwide old-photo-album search, but the real Worst McFly is probably lost to time.
 
 -----------------------------------
