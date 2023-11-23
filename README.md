@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Well-Ordering Principle](https://xkcd.com/2193)
+Title - [1000 Comics](https://xkcd.com/1000)
 
-![Well-Ordering Principle](./random_comic.png)
+![1000 Comics](./random_comic.png)
 
-Description - We could organize a nationwide old-photo-album search, but the real Worst McFly is probably lost to time.
+Description - Thank you for making me feel less alone.
 
 -----------------------------------
