@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Documents](https://xkcd.com/1459)
+Title - [Exoplanets](https://xkcd.com/786)
 
-![Documents](./random_comic.png)
+![Exoplanets](./random_comic.png)
 
-Description - Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Untitled.doc
+Description - I'm just worried that we'll all leave and you won't get to come along!
 
 -----------------------------------
