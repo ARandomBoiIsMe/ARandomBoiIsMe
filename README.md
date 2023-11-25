@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Snapple](https://xkcd.com/18)
+Title - [Spider Paleontology](https://xkcd.com/1747)
 
-![Snapple](./random_comic.png)
+![Spider Paleontology](./random_comic.png)
 
-Description - Sn = tin
+Description - Whenever you see a video of birds doing something weird, remember: Birds are a small subset of dinosaurs, so the weirdness of birds is a small subset of the weirdness of dinosaurs.
 
 -----------------------------------
