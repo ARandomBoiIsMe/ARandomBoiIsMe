@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Toasts](https://xkcd.com/1645)
+Title - [Santa](https://xkcd.com/1464)
 
-![Toasts](./random_comic.png)
+![Santa](./random_comic.png)
 
-Description - Platonic solids for my real friends and real solids for my platonic friends!
+Description - He probably just poops over the side of the sleigh.
 
 -----------------------------------
