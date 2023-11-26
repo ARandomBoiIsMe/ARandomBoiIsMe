@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Classhole](https://xkcd.com/72)
+Title - [Two Years](https://xkcd.com/1141)
 
-![Classhole](./random_comic.png)
+![Two Years](./random_comic.png)
 
-Description - A term coined by my friend Beth
+Description - She won the first half of all our chemo Scrabble games, but then her IV drugs started kicking in and I *dominated*.
 
 -----------------------------------
