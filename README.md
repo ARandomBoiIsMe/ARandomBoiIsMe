@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Santa](https://xkcd.com/1464)
+Title - [Flatten the Planets](https://xkcd.com/2750)
 
-![Santa](./random_comic.png)
+![Flatten the Planets](./random_comic.png)
 
-Description - He probably just poops over the side of the sleigh.
+Description - We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.
 
 -----------------------------------
