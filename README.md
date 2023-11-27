@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Unquote](https://xkcd.com/1262)
+Title - [Hug Count](https://xkcd.com/2419)
 
-![Unquote](./random_comic.png)
+![Hug Count](./random_comic.png)
 
-Description - I guess it's a saying from the Old Country.
+Description - I've never been that big of a hug person, but it turns out I'm not quite this small of a hug person either.
 
 -----------------------------------
