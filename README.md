@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Two Years](https://xkcd.com/1141)
+Title - [Resolution](https://xkcd.com/1154)
 
-![Two Years](./random_comic.png)
+![Resolution](./random_comic.png)
 
-Description - She won the first half of all our chemo Scrabble games, but then her IV drugs started kicking in and I *dominated*.
+Description - If at first you don't succeed, that's one data point.
 
 -----------------------------------
