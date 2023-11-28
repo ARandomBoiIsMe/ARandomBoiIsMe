@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hug Count](https://xkcd.com/2419)
+Title - [Strip Games](https://xkcd.com/696)
 
-![Hug Count](./random_comic.png)
+![Strip Games](./random_comic.png)
 
-Description - I've never been that big of a hug person, but it turns out I'm not quite this small of a hug person either.
+Description - HOW ABOUT A NICE GAME OF STRIP GLOBAL THERMONUCLEAR WAR?
 
 -----------------------------------
