@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Strip Games](https://xkcd.com/696)
+Title - [ISS Vaccine](https://xkcd.com/2449)
 
-![Strip Games](./random_comic.png)
+![ISS Vaccine](./random_comic.png)
 
-Description - HOW ABOUT A NICE GAME OF STRIP GLOBAL THERMONUCLEAR WAR?
+Description - Because they orbit the Earth every 90 minutes, some astronauts should try to argue that, due to CDC regulations and time zone technicalities, they should be able to get their second dose just 30 or 40 hours after their first.
 
 -----------------------------------
