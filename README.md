@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Solar Plexus](https://xkcd.com/64)
+Title - [Canada](https://xkcd.com/180)
 
-![Solar Plexus](./random_comic.png)
+![Canada](./random_comic.png)
 
-Description - It hurts to be hit there, you know
+Description - IT'S ALL REAL
 
 -----------------------------------
