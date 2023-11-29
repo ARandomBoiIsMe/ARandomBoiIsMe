@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cutting Edge](https://xkcd.com/606)
+Title - [Encryptic](https://xkcd.com/1286)
 
-![Cutting Edge](./random_comic.png)
+![Encryptic](./random_comic.png)
 
-Description - I remember trying to log in to the original Command and Conquer servers a year or two back and feeling like I was knocking on the boarded-up gates of a ghost town. 
+Description - It was bound to happen eventually. This data theft will enable almost limitless [xkcd.com/792]-style password reuse attacks in the coming weeks. There's only one group that comes out of this looking smart: Everyone who pirated Photoshop.
 
 -----------------------------------
