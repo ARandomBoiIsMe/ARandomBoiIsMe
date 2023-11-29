@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Canada](https://xkcd.com/180)
+Title - [Tapping](https://xkcd.com/324)
 
-![Canada](./random_comic.png)
+![Tapping](./random_comic.png)
 
-Description - IT'S ALL REAL
+Description - Sometimes the best fun looks like boredom.
 
 -----------------------------------
