@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Academia vs. Business](https://xkcd.com/664)
+Title - [Cutting Edge](https://xkcd.com/606)
 
-![Academia vs. Business](./random_comic.png)
+![Cutting Edge](./random_comic.png)
 
-Description - Some engineer out there has solved P=NP and it's locked up in an electric eggbeater calibration routine.  For every 0x5f375a86 we learn about, there are thousands we never see.
+Description - I remember trying to log in to the original Command and Conquer servers a year or two back and feeling like I was knocking on the boarded-up gates of a ghost town. 
 
 -----------------------------------
