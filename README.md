@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Tapping](https://xkcd.com/324)
+Title - [Academia vs. Business](https://xkcd.com/664)
 
-![Tapping](./random_comic.png)
+![Academia vs. Business](./random_comic.png)
 
-Description - Sometimes the best fun looks like boredom.
+Description - Some engineer out there has solved P=NP and it's locked up in an electric eggbeater calibration routine.  For every 0x5f375a86 we learn about, there are thousands we never see.
 
 -----------------------------------
