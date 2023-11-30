@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Encryptic](https://xkcd.com/1286)
+Title - [Star Wars Voyager 1](https://xkcd.com/2253)
 
-![Encryptic](./random_comic.png)
+![Star Wars Voyager 1](./random_comic.png)
 
-Description - It was bound to happen eventually. This data theft will enable almost limitless [xkcd.com/792]-style password reuse attacks in the coming weeks. There's only one group that comes out of this looking smart: Everyone who pirated Photoshop.
+Description - There's some flexibility depending on your standards for measuring runtime and the various special editions. If you still want to have a party, I'm sure you can find some combination that works.
 
 -----------------------------------
