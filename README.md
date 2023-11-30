@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Experimentation](https://xkcd.com/507)
+Title - [Timeghost](https://xkcd.com/1393)
 
-![Experimentation](./random_comic.png)
+![Timeghost](./random_comic.png)
 
-Description - I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?
+Description - 'Hello, Ghostbusters?' 'ooOOoooo people born years after that movie came out are having a second chiiiild right now ooOoooOoo'
 
 -----------------------------------
