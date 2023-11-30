@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Timeghost](https://xkcd.com/1393)
+Title - [Captain Picard Tea Order](https://xkcd.com/2570)
 
-![Timeghost](./random_comic.png)
+![Captain Picard Tea Order](./random_comic.png)
 
-Description - 'Hello, Ghostbusters?' 'ooOOoooo people born years after that movie came out are having a second chiiiild right now ooOoooOoo'
+Description - We can ask the Earl for his order once he's fully extruded from the dispenser.
 
 -----------------------------------
