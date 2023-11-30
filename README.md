@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Star Wars Voyager 1](https://xkcd.com/2253)
+Title - [Experimentation](https://xkcd.com/507)
 
-![Star Wars Voyager 1](./random_comic.png)
+![Experimentation](./random_comic.png)
 
-Description - There's some flexibility depending on your standards for measuring runtime and the various special editions. If you still want to have a party, I'm sure you can find some combination that works.
+Description - I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?
 
 -----------------------------------
