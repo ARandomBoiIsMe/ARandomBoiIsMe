@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Counter-Red Spiders](https://xkcd.com/47)
+Title - [In Case of Emergency](https://xkcd.com/1634)
 
-![Counter-Red Spiders](./random_comic.png)
+![In Case of Emergency](./random_comic.png)
 
-Description - I hope we can stop them
+Description - I keep first aid kits in those emergency lockers. Sure, it's expensive to have them installed in the wall, but at least for those ones there's no need to pay extra for safety glass.
 
 -----------------------------------
