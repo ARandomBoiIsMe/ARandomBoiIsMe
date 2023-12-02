@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [To Taste](https://xkcd.com/1639)
+Title - [An Apple a Day](https://xkcd.com/2161)
 
-![To Taste](./random_comic.png)
+![An Apple a Day](./random_comic.png)
 
-Description - Look, recipe, if I knew how much was gonna taste good, I wouldn't need you.
+Description - Even the powerful, tart Granny Smith cultivar is proving ineffective against new Gran-negative doctors.
 
 -----------------------------------
