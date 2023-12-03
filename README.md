@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Retro Virus](https://xkcd.com/694)
+Title - [Induced Current](https://xkcd.com/509)
 
-![Retro Virus](./random_comic.png)
+![Induced Current](./random_comic.png)
 
-Description - He says this is the year of Linux on the desktop! The world of Windows will fade any moment now!
+Description - The MythBusters need to tackle whether a black hole from the LHC could REALLY destroy the world.
 
 -----------------------------------
