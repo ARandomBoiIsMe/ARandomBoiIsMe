@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Diploma Legal Notes](https://xkcd.com/2157)
+Title - [Retro Virus](https://xkcd.com/694)
 
-![Diploma Legal Notes](./random_comic.png)
+![Retro Virus](./random_comic.png)
 
-Description - If you're planning to challenge the royal family, you should probably wait 6-8 weeks, since a number of the younger ones have diplomas and Kate was actually on the varsity lightsaber team at St Andrews.
+Description - He says this is the year of Linux on the desktop! The world of Windows will fade any moment now!
 
 -----------------------------------
