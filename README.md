@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Payloads](https://xkcd.com/1461)
+Title - [New Robot](https://xkcd.com/2128)
 
-![Payloads](./random_comic.png)
+![New Robot](./random_comic.png)
 
-Description - With a space elevator, a backyard full of solar panels could launch about 500 horses per year, and a large power plant could launch 10 horses per minute.
+Description - "Some worry that we'll soon have a surplus of search and rescue robots, compared to the number of actual people in situations requiring search and rescue. That's where our other robot project comes in..."
 
 -----------------------------------
