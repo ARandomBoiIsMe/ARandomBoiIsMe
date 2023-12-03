@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [New Robot](https://xkcd.com/2128)
+Title - [Diploma Legal Notes](https://xkcd.com/2157)
 
-![New Robot](./random_comic.png)
+![Diploma Legal Notes](./random_comic.png)
 
-Description - "Some worry that we'll soon have a surplus of search and rescue robots, compared to the number of actual people in situations requiring search and rescue. That's where our other robot project comes in..."
+Description - If you're planning to challenge the royal family, you should probably wait 6-8 weeks, since a number of the younger ones have diplomas and Kate was actually on the varsity lightsaber team at St Andrews.
 
 -----------------------------------
