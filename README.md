@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Electron Holes](https://xkcd.com/2817)
+Title - [Los Alamos](https://xkcd.com/809)
 
-![Electron Holes](./random_comic.png)
+![Los Alamos](./random_comic.png)
 
-Description - They tried to report me to the authorities, but because I had the device they couldn't charge me.
+Description - The test didn't (spoiler alert) destroy the world, but the fact that they were even doing those calculations makes theirs the coolest jobs ever.
 
 -----------------------------------
