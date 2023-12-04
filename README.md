@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [What If? 2](https://xkcd.com/2575)
+Title - [Electron Holes](https://xkcd.com/2817)
 
-![What If? 2](./random_comic.png)
+![Electron Holes](./random_comic.png)
 
-Description - CLARIFICATION: By 9/13, I mean September 13th, not the 9th day of Jancember, the cursed 13th month that exists between December and January in the transdimensional temporal plane.
+Description - They tried to report me to the authorities, but because I had the device they couldn't charge me.
 
 -----------------------------------
