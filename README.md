@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Induced Current](https://xkcd.com/509)
+Title - [Ozymandias](https://xkcd.com/1557)
 
-![Induced Current](./random_comic.png)
+![Ozymandias](./random_comic.png)
 
-Description - The MythBusters need to tackle whether a black hole from the LHC could REALLY destroy the world.
+Description - And on the pedestal these words appear: "And on the pedestal these words appear: "And on the pedestal these words appear: "And ...
 
 -----------------------------------
