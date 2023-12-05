@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Los Alamos](https://xkcd.com/809)
+Title - [Language Development](https://xkcd.com/2567)
 
-![Los Alamos](./random_comic.png)
+![Language Development](./random_comic.png)
 
-Description - The test didn't (spoiler alert) destroy the world, but the fact that they were even doing those calculations makes theirs the coolest jobs ever.
+Description - The worst is the Terrible Twos, when they're always throwing things and shrieking, "forsooth, to bed thou shalt not take me, cur!"
 
 -----------------------------------
