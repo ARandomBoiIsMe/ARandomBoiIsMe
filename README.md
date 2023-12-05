@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [I in Team](https://xkcd.com/1562)
+Title - [Guest Week: Jeffrey Rowland (Overcompensating)](https://xkcd.com/825)
 
-![I in Team](./random_comic.png)
+![Guest Week: Jeffrey Rowland (Overcompensating)](./random_comic.png)
 
-Description - There's no "I" in "VOWELS".
+Description - Guest comic by Jeffrey Rowland of Overcompensating/Wigu.  Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.
 
 -----------------------------------
