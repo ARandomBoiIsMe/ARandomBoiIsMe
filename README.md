@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Language Development](https://xkcd.com/2567)
+Title - [I in Team](https://xkcd.com/1562)
 
-![Language Development](./random_comic.png)
+![I in Team](./random_comic.png)
 
-Description - The worst is the Terrible Twos, when they're always throwing things and shrieking, "forsooth, to bed thou shalt not take me, cur!"
+Description - There's no "I" in "VOWELS".
 
 -----------------------------------
