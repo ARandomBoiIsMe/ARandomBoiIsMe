@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Webb](https://xkcd.com/2550)
+Title - [Drawing Stars](https://xkcd.com/1029)
 
-![Webb](./random_comic.png)
+![Drawing Stars](./random_comic.png)
 
-Description - Each one contains a chocolate shaped like a famous spacecraft and, for the later numbers, a pamphlet on managing anxiety.
+Description - Screw these 36-degree angles. I'm converting to Judaism.
 
 -----------------------------------
