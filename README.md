@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [File Transfer](https://xkcd.com/949)
+Title - [Factorial Numbers](https://xkcd.com/2835)
 
-![File Transfer](./random_comic.png)
+![Factorial Numbers](./random_comic.png)
 
-Description - Every time you email a file to yourself so you can pull it up on your friend's laptop, Tim Berners-Lee sheds a single tear.
+Description - So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal.
 
 -----------------------------------
