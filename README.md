@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Factorial Numbers](https://xkcd.com/2835)
+Title - [Star Lore](https://xkcd.com/1973)
 
-![Factorial Numbers](./random_comic.png)
+![Star Lore](./random_comic.png)
 
-Description - So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal.
+Description - That one is a variable star which pulses every 30 seconds. Its name comes from a Greek word meaning "smoke alarm."
 
 -----------------------------------
