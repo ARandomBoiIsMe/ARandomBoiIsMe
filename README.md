@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Drawing Stars](https://xkcd.com/1029)
+Title - [File Transfer](https://xkcd.com/949)
 
-![Drawing Stars](./random_comic.png)
+![File Transfer](./random_comic.png)
 
-Description - Screw these 36-degree angles. I'm converting to Judaism.
+Description - Every time you email a file to yourself so you can pull it up on your friend's laptop, Tim Berners-Lee sheds a single tear.
 
 -----------------------------------
