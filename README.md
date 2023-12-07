@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Star Lore](https://xkcd.com/1973)
+Title - [Patch](https://xkcd.com/1685)
 
-![Star Lore](./random_comic.png)
+![Patch](./random_comic.png)
 
-Description - That one is a variable star which pulses every 30 seconds. Its name comes from a Greek word meaning "smoke alarm."
+Description - My optimizer uses content-aware inpainting to fill in all the wasted whitespace in the code, repeating the process until it compiles.
 
 -----------------------------------
