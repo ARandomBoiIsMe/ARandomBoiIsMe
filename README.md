@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Success](https://xkcd.com/349)
+Title - [Everything](https://xkcd.com/968)
 
-![Success](./random_comic.png)
+![Everything](./random_comic.png)
 
-Description - 40% of OpenBSD installs lead to shark attacks.  It's their only standing security issue.
+Description - I wanna hold your hand so I don't fall out of your gyrocopter.
 
 -----------------------------------
