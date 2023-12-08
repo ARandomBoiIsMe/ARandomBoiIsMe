@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Everything](https://xkcd.com/968)
+Title - [Right-Hand Rule](https://xkcd.com/199)
 
-![Everything](./random_comic.png)
+![Right-Hand Rule](./random_comic.png)
 
-Description - I wanna hold your hand so I don't fall out of your gyrocopter.
+Description - To really expand your mind try some noncartesian porn.  Edwin Abbot Abbott has nothing on 'Girls on Girls in Tightly Closed Nonorientable Spaces'.
 
 -----------------------------------
