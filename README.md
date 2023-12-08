@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Negativity](https://xkcd.com/1773)
+Title - [Chemistry Nobel](https://xkcd.com/2214)
 
-![Negativity](./random_comic.png)
+![Chemistry Nobel](./random_comic.png)
 
-Description - [Google search] how do I block my lawn
+Description - Most chemists thought the lanthanides and actinides could be inserted in the sixth and seventh rows, but no, they're just floating down at the bottom with lots more undiscovered elements all around them.
 
 -----------------------------------
