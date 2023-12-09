@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [A Simple Plan](https://xkcd.com/97)
+Title - [Banter](https://xkcd.com/65)
 
-![A Simple Plan](./random_comic.png)
+![Banter](./random_comic.png)
 
-Description - This is true.  The lyrics are ridiculous.
+Description - This was an actual mock conversation between me and a friend at TGiF.  The waitress walked up around panel 5 and was somewhat put off.
 
 -----------------------------------
