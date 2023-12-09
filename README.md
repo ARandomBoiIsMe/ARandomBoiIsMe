@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Flinch](https://xkcd.com/2539)
+Title - [Election Commentary](https://xkcd.com/2136)
 
-![Flinch](./random_comic.png)
+![Election Commentary](./random_comic.png)
 
-Description - Premed: "Does this count for a physics credit? Can we shorten the string so I can get it done faster? And can we do one where it hits me in the face? I gotta do a thing for first aid training right after."
+Description - This really validates Jones's strategy of getting several thousand more votes than Smith. In retrospect, that was a smart move; those votes were crucial.
 
 -----------------------------------
