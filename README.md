@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Designated Drivers](https://xkcd.com/589)
+Title - [Flinch](https://xkcd.com/2539)
 
-![Designated Drivers](./random_comic.png)
+![Flinch](./random_comic.png)
 
-Description - Calling a cab means cutting into beer money.
+Description - Premed: "Does this count for a physics credit? Can we shorten the string so I can get it done faster? And can we do one where it hits me in the face? I gotta do a thing for first aid training right after."
 
 -----------------------------------
