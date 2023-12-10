@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Tony Hawk](https://xkcd.com/296)
+Title - [Super Bowl](https://xkcd.com/60)
 
-![Tony Hawk](./random_comic.png)
+![Super Bowl](./random_comic.png)
 
-Description - Bad idea #271: Dropping into the half-pipe on a Segway.
+Description - The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose.  The 'watch it for the ads' addition was a master stroke.
 
 -----------------------------------
