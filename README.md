@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Interaction](https://xkcd.com/1961)
+Title - [Bel-Air](https://xkcd.com/1059)
 
-![Interaction](./random_comic.png)
+![Bel-Air](./random_comic.png)
 
-Description - [They do not move.]
+Description - Aaron Sorkin has been tapped to write the TV movie about the aging prince's eventual election to Pat Toomey's Senate seat, currently titled either 'FRESHman Senator' or 'Mr. Smith Goes to Washington'.
 
 -----------------------------------
