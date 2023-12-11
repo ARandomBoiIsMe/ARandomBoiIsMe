@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Super Bowl Watch Party](https://xkcd.com/1951)
+Title - [Borders](https://xkcd.com/569)
 
-![Super Bowl Watch Party](./random_comic.png)
+![Borders](./random_comic.png)
 
-Description - It's going to be weird near the end of May when the screen goes blank for over 18 hours.
+Description - Eventually a UN is set up.  And then a lone rebel runs down the line of flags in front of it, runs back to his base, and gets a kajillion points.
 
 -----------------------------------
