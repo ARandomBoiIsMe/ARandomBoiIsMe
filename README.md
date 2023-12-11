@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Super Bowl](https://xkcd.com/60)
+Title - [Super Bowl Watch Party](https://xkcd.com/1951)
 
-![Super Bowl](./random_comic.png)
+![Super Bowl Watch Party](./random_comic.png)
 
-Description - The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose.  The 'watch it for the ads' addition was a master stroke.
+Description - It's going to be weird near the end of May when the screen goes blank for over 18 hours.
 
 -----------------------------------
