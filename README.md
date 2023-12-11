@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Keyboards are Disgusting](https://xkcd.com/237)
+Title - [Time Travel Thesis](https://xkcd.com/1716)
 
-![Keyboards are Disgusting](./random_comic.png)
+![Time Travel Thesis](./random_comic.png)
 
-Description - Alternate method: convince them to pretend it's an Etch-a-Sketch and try to erase it.
+Description - 'Hey, what are those futuristic goggles for, anyway?' 'Oh, this is just a broken Google Glass. It was 2010's night at the club.'
 
 -----------------------------------
