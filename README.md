@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Where Do Birds Go](https://xkcd.com/1434)
+Title - [Evaluating Tech Things](https://xkcd.com/2072)
 
-![Where Do Birds Go](./random_comic.png)
+![Evaluating Tech Things](./random_comic.png)
 
-Description - Water/ice has a lot of weird phases. Maybe asking 'where do birds go when it rains' is like asking 'where does Clark Kent go whenever Superman shows up?'
+Description - Also known as the Black Mirror-Mythbusters scale.
 
 -----------------------------------
