@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Time Travel Thesis](https://xkcd.com/1716)
+Title - [Water Phase Diagram](https://xkcd.com/1561)
 
-![Time Travel Thesis](./random_comic.png)
+![Water Phase Diagram](./random_comic.png)
 
-Description - 'Hey, what are those futuristic goggles for, anyway?' 'Oh, this is just a broken Google Glass. It was 2010's night at the club.'
+Description - Vanilla Ice was produced in small quantities for years, but it wasn't until the 90s that experimenters collaborated to produce a sample that could survive at room temperature for several months. 
 
 -----------------------------------
