@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Evaluating Tech Things](https://xkcd.com/2072)
+Title - [Opening Crawl](https://xkcd.com/1843)
 
-![Evaluating Tech Things](./random_comic.png)
+![Opening Crawl](./random_comic.png)
 
-Description - Also known as the Black Mirror-Mythbusters scale.
+Description - Using a classic Timothy Zahn EU/Legends novel is bad enough, but at least the style and setting aren't too far off. If you really want to mess with people, try using Splinter of the Mind's Eye.
 
 -----------------------------------
