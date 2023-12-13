@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [So It Has Come To This](https://xkcd.com/1022)
+Title - [Universe Price Tiers](https://xkcd.com/2666)
 
-![So It Has Come To This](./random_comic.png)
+![Universe Price Tiers](./random_comic.png)
 
-Description - 'Come to what?' 'You. Me. This moment.'
+Description - In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility.
 
 -----------------------------------
