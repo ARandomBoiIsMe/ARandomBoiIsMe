@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Opening Crawl](https://xkcd.com/1843)
+Title - [Payloads](https://xkcd.com/1461)
 
-![Opening Crawl](./random_comic.png)
+![Payloads](./random_comic.png)
 
-Description - Using a classic Timothy Zahn EU/Legends novel is bad enough, but at least the style and setting aren't too far off. If you really want to mess with people, try using Splinter of the Mind's Eye.
+Description - With a space elevator, a backyard full of solar panels could launch about 500 horses per year, and a large power plant could launch 10 horses per minute.
 
 -----------------------------------
