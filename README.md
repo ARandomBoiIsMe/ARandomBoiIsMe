@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Universe Price Tiers](https://xkcd.com/2666)
+Title - [Exoplanets](https://xkcd.com/1071)
 
-![Universe Price Tiers](./random_comic.png)
+![Exoplanets](./random_comic.png)
 
-Description - In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility.
+Description - Planets are turning out to be so common that to show all the planets in our galaxy, this chart would have to be nested in itself--with each planet replaced by a copy of the chart--at least three levels deep.
 
 -----------------------------------
