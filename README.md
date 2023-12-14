@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [ISO 8601](https://xkcd.com/1179)
+Title - [Path Minimization](https://xkcd.com/2821)
 
-![ISO 8601](./random_comic.png)
+![Path Minimization](./random_comic.png)
 
-Description - ISO 8601 was published on 06/05/88 and most recently amended on 12/01/04.
+Description - Of course you get an ice cream cone for the swimmer too! You're not a monster.
 
 -----------------------------------
