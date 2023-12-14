@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Exoplanets](https://xkcd.com/1071)
+Title - [Fall Back](https://xkcd.com/2378)
 
-![Exoplanets](./random_comic.png)
+![Fall Back](./random_comic.png)
 
-Description - Planets are turning out to be so common that to show all the planets in our galaxy, this chart would have to be nested in itself--with each planet replaced by a copy of the chart--at least three levels deep.
+Description - Doing great here in the sixth and hopefully final year of the 2016 election.
 
 -----------------------------------
