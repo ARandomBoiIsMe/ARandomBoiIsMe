@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Fall Back](https://xkcd.com/2378)
+Title - [Field Topology](https://xkcd.com/2625)
 
-![Fall Back](./random_comic.png)
+![Field Topology](./random_comic.png)
 
-Description - Doing great here in the sixth and hopefully final year of the 2016 election.
+Description - The combination croquet set/10-lane pool can also be used for some varieties of foosball and Skee-Ball.
 
 -----------------------------------
