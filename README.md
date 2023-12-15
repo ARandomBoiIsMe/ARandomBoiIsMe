@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Path Minimization](https://xkcd.com/2821)
+Title - [Spore](https://xkcd.com/480)
 
-![Path Minimization](./random_comic.png)
+![Spore](./random_comic.png)
 
-Description - Of course you get an ice cream cone for the swimmer too! You're not a monster.
+Description - Way to not support the GMA 950 under OS X, Spore.  :(
 
 -----------------------------------
