@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [OEIS Submissions](https://xkcd.com/2016)
+Title - [Wikileaks](https://xkcd.com/834)
 
-![OEIS Submissions](./random_comic.png)
+![Wikileaks](./random_comic.png)
 
-Description - SUB[59]: The submission numbers for my accepted OEIS submissions in chronological order
+Description - STUDENTS ARE CALLING PRESIDENT JOHNSON EN MASSE TO PROTEST THE BOMBING AND IT'S JAMMED THE WHITE HOUSE SWITCHBOARD. COULD THEY COLLAPSE OUR CRITICAL PHONE SYSTEMS? HAS THE FIRST TELEPHONE WAR BEGUN? STAY TUNED FOR MORE ON THIS DANGEROUS NEW TECHNOLOGY.
 
 -----------------------------------
