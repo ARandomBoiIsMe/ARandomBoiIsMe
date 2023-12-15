@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Wikileaks](https://xkcd.com/834)
+Title - [Particle Properties](https://xkcd.com/1862)
 
-![Wikileaks](./random_comic.png)
+![Particle Properties](./random_comic.png)
 
-Description - STUDENTS ARE CALLING PRESIDENT JOHNSON EN MASSE TO PROTEST THE BOMBING AND IT'S JAMMED THE WHITE HOUSE SWITCHBOARD. COULD THEY COLLAPSE OUR CRITICAL PHONE SYSTEMS? HAS THE FIRST TELEPHONE WAR BEGUN? STAY TUNED FOR MORE ON THIS DANGEROUS NEW TECHNOLOGY.
+Description - Each particle also has a password which allows its properties to be changed, but the cosmic censorship hypothesis suggests we can never observe the password itself—only its secure hash.
 
 -----------------------------------
