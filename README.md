@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Spore](https://xkcd.com/480)
+Title - [OEIS Submissions](https://xkcd.com/2016)
 
-![Spore](./random_comic.png)
+![OEIS Submissions](./random_comic.png)
 
-Description - Way to not support the GMA 950 under OS X, Spore.  :(
+Description - SUB[59]: The submission numbers for my accepted OEIS submissions in chronological order
 
 -----------------------------------
