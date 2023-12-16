@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Pwned](https://xkcd.com/91)
+Title - [Sloped Border](https://xkcd.com/2519)
 
-![Pwned](./random_comic.png)
+![Sloped Border](./random_comic.png)
 
-Description - I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
+Description - "The slope will be 74° at ground level." "Okay, I think we can hack together a  ... wait, why did they specify ground level? It's 74° everywhere, right? ... Oh no, there's a whole section in the treaty labeled 'curvature.'"
 
 -----------------------------------
