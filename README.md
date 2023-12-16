@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Well 2](https://xkcd.com/568)
+Title - [Pwned](https://xkcd.com/91)
 
-![Well 2](./random_comic.png)
+![Pwned](./random_comic.png)
 
-Description - But I've made $13.72 already today!  Ow, stop throwing pennies.
+Description - I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
 
 -----------------------------------
