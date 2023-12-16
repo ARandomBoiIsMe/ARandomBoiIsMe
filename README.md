@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Particle Properties](https://xkcd.com/1862)
+Title - [Well 2](https://xkcd.com/568)
 
-![Particle Properties](./random_comic.png)
+![Well 2](./random_comic.png)
 
-Description - Each particle also has a password which allows its properties to be changed, but the cosmic censorship hypothesis suggests we can never observe the password itself—only its secure hash.
+Description - But I've made $13.72 already today!  Ow, stop throwing pennies.
 
 -----------------------------------
