@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Supreme Court](https://xkcd.com/1607)
+Title - [Nowhere](https://xkcd.com/650)
 
-![Supreme Court](./random_comic.png)
+![Nowhere](./random_comic.png)
 
-Description - Writing for the majority, Justice Kennedy called the man's arguments that he could be either Alito or Ginsburg "surprisingly compelling, but ultimately unconvincing."
+Description - I mean, seriously, NOWHERE? For starters, there are like a thousand species of dinosaur.
 
 -----------------------------------
