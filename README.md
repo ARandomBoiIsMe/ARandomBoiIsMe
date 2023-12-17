@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Nowhere](https://xkcd.com/650)
+Title - [goto](https://xkcd.com/292)
 
-![Nowhere](./random_comic.png)
+![goto](./random_comic.png)
 
-Description - I mean, seriously, NOWHERE? For starters, there are like a thousand species of dinosaur.
+Description - Neal Stephenson thinks it's cute to name his labels 'dengo'
 
 -----------------------------------
