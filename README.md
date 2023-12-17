@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Organic Fuel](https://xkcd.com/282)
+Title - [Guitar Hero](https://xkcd.com/70)
 
-![Organic Fuel](./random_comic.png)
+![Guitar Hero](./random_comic.png)
 
-Description - I have nothing to apologize for.
+Description - And then do it again in a moment now that they're out of Star Power
 
 -----------------------------------
