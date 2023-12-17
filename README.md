@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [goto](https://xkcd.com/292)
+Title - [Organic Fuel](https://xkcd.com/282)
 
-![goto](./random_comic.png)
+![Organic Fuel](./random_comic.png)
 
-Description - Neal Stephenson thinks it's cute to name his labels 'dengo'
+Description - I have nothing to apologize for.
 
 -----------------------------------
