@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Headline Words](https://xkcd.com/2584)
+Title - [Voice](https://xkcd.com/1541)
 
-![Headline Words](./random_comic.png)
+![Voice](./random_comic.png)
 
-Description - Roundly-condemned headlinese initiative shuttered indefinitely.
+Description - Anyway, we should totally go watch a video story or put some food in our normal mouths!
 
 -----------------------------------
