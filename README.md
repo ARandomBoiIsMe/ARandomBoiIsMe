@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Guitar Hero](https://xkcd.com/70)
+Title - [America Songs](https://xkcd.com/2665)
 
-![Guitar Hero](./random_comic.png)
+![America Songs](./random_comic.png)
 
-Description - And then do it again in a moment now that they're out of Star Power
+Description - Juraaaassic Park, Juraaaassic Park, God shed his grace on theeeee
 
 -----------------------------------
