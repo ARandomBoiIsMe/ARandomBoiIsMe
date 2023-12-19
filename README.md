@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Qwertial Aphasia](https://xkcd.com/604)
+Title - [Iceberg](https://xkcd.com/2787)
 
-![Qwertial Aphasia](./random_comic.png)
+![Iceberg](./random_comic.png)
 
-Description - If this were SMBC, the alt-text drawing thingy would be a giraffe hooker fluttering her eyelashes.
+Description - 90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%.
 
 -----------------------------------
