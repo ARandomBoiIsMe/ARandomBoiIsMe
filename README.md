@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Iceberg](https://xkcd.com/2787)
+Title - [Okeanos](https://xkcd.com/1836)
 
-![Iceberg](./random_comic.png)
+![Okeanos](./random_comic.png)
 
-Description - 90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%.
+Description - WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT
 
 -----------------------------------
