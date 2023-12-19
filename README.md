@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Okeanos](https://xkcd.com/1836)
+Title - [Windows 7](https://xkcd.com/528)
 
-![Okeanos](./random_comic.png)
+![Windows 7](./random_comic.png)
 
-Description - WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT
+Description - Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all.
 
 -----------------------------------
