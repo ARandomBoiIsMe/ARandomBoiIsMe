@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Voice](https://xkcd.com/1541)
+Title - [Qwertial Aphasia](https://xkcd.com/604)
 
-![Voice](./random_comic.png)
+![Qwertial Aphasia](./random_comic.png)
 
-Description - Anyway, we should totally go watch a video story or put some food in our normal mouths!
+Description - If this were SMBC, the alt-text drawing thingy would be a giraffe hooker fluttering her eyelashes.
 
 -----------------------------------
