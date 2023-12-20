@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Windows 7](https://xkcd.com/528)
+Title - [Freedom](https://xkcd.com/706)
 
-![Windows 7](./random_comic.png)
+![Freedom](./random_comic.png)
 
-Description - Disclaimer: I have not actually tried the beta yet.  I hear it's quite pleasant and hardly Hitler-y at all.
+Description - Sometimes I'm terrified to realize how many options other people have.
 
 -----------------------------------
