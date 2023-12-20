@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Universal Dreams](https://xkcd.com/1943)
+Title - [Perseids Pronunciation](https://xkcd.com/2814)
 
-![Universal Dreams](./random_comic.png)
+![Perseids Pronunciation](./random_comic.png)
 
-Description - "That's ... unsettling." "Yeah, those definitely don't sound like the normal drea– ＬＡＴＩＴＵＤＥ ＴＨＲＥＥ ＦＩＶＥ ＰＯＩＮＴ..." 
+Description - When speaking out loud, you can can call it the 'Perseids meatier shower' and no one will ever know. (If you do get caught somehow, just tell them to Google the 'Kentucky meat shower' and that will distract them while you escape.)
 
 -----------------------------------
