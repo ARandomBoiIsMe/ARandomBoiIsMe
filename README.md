@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Freedom](https://xkcd.com/706)
+Title - [Universal Dreams](https://xkcd.com/1943)
 
-![Freedom](./random_comic.png)
+![Universal Dreams](./random_comic.png)
 
-Description - Sometimes I'm terrified to realize how many options other people have.
+Description - "That's ... unsettling." "Yeah, those definitely don't sound like the normal drea– ＬＡＴＩＴＵＤＥ ＴＨＲＥＥ ＦＩＶＥ ＰＯＩＮＴ..." 
 
 -----------------------------------
