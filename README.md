@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Romantic Drama Equation](https://xkcd.com/216)
+Title - [Terminology](https://xkcd.com/503)
 
-![Romantic Drama Equation](./random_comic.png)
+![Terminology](./random_comic.png)
 
-Description - Real-life prospective-pairing curves over things like age can get depressing.
+Description - Also, is it just me, or do Japan and New Zealand look suspiciously similar?  Has anyone seen them at a party together?
 
 -----------------------------------
