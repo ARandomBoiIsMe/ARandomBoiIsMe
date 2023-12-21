@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Sea](https://xkcd.com/450)
+Title - [Dilution](https://xkcd.com/765)
 
-![The Sea](./random_comic.png)
+![Dilution](./random_comic.png)
 
-Description - And then a second one, to drain the sea.
+Description - Dear editors of Homeopathy Monthly: I have two small corrections for your July issue.  One, it's spelled "echinacea", and two, homeopathic medicines are no better than placebos and your entire magazine is a sham.
 
 -----------------------------------
