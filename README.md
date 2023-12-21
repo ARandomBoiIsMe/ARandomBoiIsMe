@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Dilution](https://xkcd.com/765)
+Title - [Galaxies](https://xkcd.com/2596)
 
-![Dilution](./random_comic.png)
+![Galaxies](./random_comic.png)
 
-Description - Dear editors of Homeopathy Monthly: I have two small corrections for your July issue.  One, it's spelled "echinacea", and two, homeopathic medicines are no better than placebos and your entire magazine is a sham.
+Description - I know it seems overwhelming, but don't worry; I'm sure most of them have only a few stars, and probably no planets.
 
 -----------------------------------
