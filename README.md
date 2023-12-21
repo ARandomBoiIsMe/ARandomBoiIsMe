@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Galaxies](https://xkcd.com/2596)
+Title - [Romantic Drama Equation](https://xkcd.com/216)
 
-![Galaxies](./random_comic.png)
+![Romantic Drama Equation](./random_comic.png)
 
-Description - I know it seems overwhelming, but don't worry; I'm sure most of them have only a few stars, and probably no planets.
+Description - Real-life prospective-pairing curves over things like age can get depressing.
 
 -----------------------------------
