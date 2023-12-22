@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Golden Hammer](https://xkcd.com/801)
+Title - [Cursed Chair](https://xkcd.com/2332)
 
-![Golden Hammer](./random_comic.png)
+![Cursed Chair](./random_comic.png)
 
-Description - Took me five tries to find the right one, but I managed to salvage our night out--if not the boat--in the end.
+Description - The Wirecutter staff called the Herman Miller Siege Perilous "the most cursed product we've ever had to fight" and "nearly as immortal as it boasts."
 
 -----------------------------------
