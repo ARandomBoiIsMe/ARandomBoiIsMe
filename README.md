@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Terminology](https://xkcd.com/503)
+Title - [Feathered Dinosaur Venn Diagram](https://xkcd.com/2090)
 
-![Terminology](./random_comic.png)
+![Feathered Dinosaur Venn Diagram](./random_comic.png)
 
-Description - Also, is it just me, or do Japan and New Zealand look suspiciously similar?  Has anyone seen them at a party together?
+Description - My pet theory is that in real life, the kid at the beginning of Jurassic Park who made fun of the 'six-foot turkey' never got a talking-to from Dr. Grant, and grew up to produce several of the movie's sequels.
 
 -----------------------------------
