@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cursed Chair](https://xkcd.com/2332)
+Title - [Qualifications](https://xkcd.com/2756)
 
-![Cursed Chair](./random_comic.png)
+![Qualifications](./random_comic.png)
 
-Description - The Wirecutter staff called the Herman Miller Siege Perilous "the most cursed product we've ever had to fight" and "nearly as immortal as it boasts."
+Description - 'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'
 
 -----------------------------------
