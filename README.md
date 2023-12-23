@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Nightmare Email Feature](https://xkcd.com/1915)
+Title - [Balloon Internet](https://xkcd.com/1226)
 
-![Nightmare Email Feature](./random_comic.png)
+![Balloon Internet](./random_comic.png)
 
-Description - "...just got back and didn't see your message until just now. Sorry! -- TIME THIS MESSAGE SAT HALF-FINISHED IN DRAFTS FOLDER: 3 days, 2 hours, 45 minutes."
+Description - I run a business selling rural internet access. My infrastructure consists of a bunch of Verizon wifi hotspots that I sign up for and then cancel at the end of the 14-day return period.
 
 -----------------------------------
