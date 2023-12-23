@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Qualifications](https://xkcd.com/2756)
+Title - [AirAware](https://xkcd.com/1207)
 
-![Qualifications](./random_comic.png)
+![AirAware](./random_comic.png)
 
-Description - 'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'
+Description - It ships with a version of Google Now that alerts you when it's too late to leave for your appointments.
 
 -----------------------------------
