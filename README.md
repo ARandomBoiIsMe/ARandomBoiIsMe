@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [AirAware](https://xkcd.com/1207)
+Title - [Nightmare Email Feature](https://xkcd.com/1915)
 
-![AirAware](./random_comic.png)
+![Nightmare Email Feature](./random_comic.png)
 
-Description - It ships with a version of Google Now that alerts you when it's too late to leave for your appointments.
+Description - "...just got back and didn't see your message until just now. Sorry! -- TIME THIS MESSAGE SAT HALF-FINISHED IN DRAFTS FOLDER: 3 days, 2 hours, 45 minutes."
 
 -----------------------------------
