@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Balloon Internet](https://xkcd.com/1226)
+Title - [Days of the Week](https://xkcd.com/930)
 
-![Balloon Internet](./random_comic.png)
+![Days of the Week](./random_comic.png)
 
-Description - I run a business selling rural internet access. My infrastructure consists of a bunch of Verizon wifi hotspots that I sign up for and then cancel at the end of the 14-day return period.
+Description - Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.
 
 -----------------------------------
