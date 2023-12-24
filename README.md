@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hamster Ball Heist](https://xkcd.com/211)
+Title - [Venus](https://xkcd.com/1519)
 
-![Hamster Ball Heist](./random_comic.png)
+![Venus](./random_comic.png)
 
-Description - First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.
+Description - The sudden introduction of Venusian flowers led to an explosive growth of unusual Earth pollinators, which became known as the "butterfly effect."
 
 -----------------------------------
