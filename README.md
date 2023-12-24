@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Strunk and White](https://xkcd.com/923)
+Title - [Chain of Command](https://xkcd.com/898)
 
-![Strunk and White](./random_comic.png)
+![Chain of Command](./random_comic.png)
 
-Description - The best thing about Strunk/White fanfiction is that it's virtually guaranteed to be well written.
+Description - Themistocles said his infant son ruled all Greece -- "Athens rules all Greece; I control Athens; my wife controls me; and my infant son controls her." Thus, nowadays the world is controlled by whoever buys advertising time on Dora the Explorer.
 
 -----------------------------------
