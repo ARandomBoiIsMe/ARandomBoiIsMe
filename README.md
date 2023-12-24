@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Days of the Week](https://xkcd.com/930)
+Title - [Hamster Ball Heist](https://xkcd.com/211)
 
-![Days of the Week](./random_comic.png)
+![Hamster Ball Heist](./random_comic.png)
 
-Description - Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.
+Description - First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.
 
 -----------------------------------
