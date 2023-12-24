@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Venus](https://xkcd.com/1519)
+Title - [Strunk and White](https://xkcd.com/923)
 
-![Venus](./random_comic.png)
+![Strunk and White](./random_comic.png)
 
-Description - The sudden introduction of Venusian flowers led to an explosive growth of unusual Earth pollinators, which became known as the "butterfly effect."
+Description - The best thing about Strunk/White fanfiction is that it's virtually guaranteed to be well written.
 
 -----------------------------------
