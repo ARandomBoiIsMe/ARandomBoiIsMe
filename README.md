@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Chain of Command](https://xkcd.com/898)
+Title - [Linguistics Club](https://xkcd.com/1602)
 
-![Chain of Command](./random_comic.png)
+![Linguistics Club](./random_comic.png)
 
-Description - Themistocles said his infant son ruled all Greece -- "Athens rules all Greece; I control Athens; my wife controls me; and my infant son controls her." Thus, nowadays the world is controlled by whoever buys advertising time on Dora the Explorer.
+Description - If that's too easy, you could try joining Tautology Club, which meets on the date of the Tautology Club meeting.
 
 -----------------------------------
