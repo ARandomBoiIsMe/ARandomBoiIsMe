@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Rounding](https://xkcd.com/2585)
+Title - [Common Star Types](https://xkcd.com/2360)
 
-![Rounding](./random_comic.png)
+![Common Star Types](./random_comic.png)
 
-Description - I've developed a novel propulsion system powered by loss of precision in unit conversion.
+Description - This article is about Eta Carinae, a luminous blue hypergiant with anomalous Fe[ii] emission spectra. For the 1998 Brad Bird film, see The Iron Giant (film).
 
 -----------------------------------
