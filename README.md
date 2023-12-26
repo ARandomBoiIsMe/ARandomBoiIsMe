@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Weird Unicode Math Symbols](https://xkcd.com/2606)
+Title - [Increased Risk](https://xkcd.com/1252)
 
-![Weird Unicode Math Symbols](./random_comic.png)
+![Increased Risk](./random_comic.png)
 
-Description - U+2A0B ⨋ Mathematicians need to calm down
+Description - You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!
 
 -----------------------------------
