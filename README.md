@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Siri](https://xkcd.com/2438)
+Title - [Weird Unicode Math Symbols](https://xkcd.com/2606)
 
-![Siri](./random_comic.png)
+![Weird Unicode Math Symbols](./random_comic.png)
 
-Description - Alexa defeated her in a battle hinging on the ability to set multiple timers.
+Description - U+2A0B ⨋ Mathematicians need to calm down
 
 -----------------------------------
