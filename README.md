@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [xkcd Phone 2](https://xkcd.com/1465)
+Title - [Siri](https://xkcd.com/2438)
 
-![xkcd Phone 2](./random_comic.png)
+![Siri](./random_comic.png)
 
-Description - Washable, though only once.
+Description - Alexa defeated her in a battle hinging on the ability to set multiple timers.
 
 -----------------------------------
