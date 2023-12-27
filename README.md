@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Motion Blur](https://xkcd.com/2628)
+Title - [Lithium Batteries](https://xkcd.com/560)
 
-![Motion Blur](./random_comic.png)
+![Lithium Batteries](./random_comic.png)
 
-Description - I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.
+Description - I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30.  In the last few years, this has become a problem.
 
 -----------------------------------
