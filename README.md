@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Lithium Batteries](https://xkcd.com/560)
+Title - [Island Storage](https://xkcd.com/2742)
 
-![Lithium Batteries](./random_comic.png)
+![Island Storage](./random_comic.png)
 
-Description - I'm normally a pretty frugal person, but I still compulsively buy any R/C aircraft that's less than $30.  In the last few years, this has become a problem.
+Description - I always hate dragging around the larger archipelagos, but I appreciate how the Scandinavian peninsula flexes outward to create a snug pocket for Britain and Ireland.
 
 -----------------------------------
