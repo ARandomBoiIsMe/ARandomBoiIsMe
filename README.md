@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Brakes](https://xkcd.com/582)
+Title - [Spinal Tap Amps](https://xkcd.com/670)
 
-![Brakes](./random_comic.png)
+![Spinal Tap Amps](./random_comic.png)
 
-Description - It was the funniest 6.5 seconds of my life, although as usual like 80% of it was just Tom and Ray's gasping, hacking laughter.
+Description - Wow, that's less than $200 per ... uh ... that's a good deal!
 
 -----------------------------------
