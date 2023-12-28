@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Board Game](https://xkcd.com/1566)
+Title - [Brakes](https://xkcd.com/582)
 
-![Board Game](./random_comic.png)
+![Brakes](./random_comic.png)
 
-Description - Yes, it took a lot of work to make the cards and pieces, but it's worth it--the players are way more thorough than the tax prep people ever were.
+Description - It was the funniest 6.5 seconds of my life, although as usual like 80% of it was just Tom and Ray's gasping, hacking laughter.
 
 -----------------------------------
