@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Sympathy](https://xkcd.com/660)
+Title - [The Sierpinski Penis Game](https://xkcd.com/95)
 
-![Sympathy](./random_comic.png)
+![The Sierpinski Penis Game](./random_comic.png)
 
-Description - Excellent recovery: ... which we could try to use to somehow save your original brother!
+Description - Inappropriate places for the Penis Game include baby showers and terrorist attacks
 
 -----------------------------------
