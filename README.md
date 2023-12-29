@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Five Years](https://xkcd.com/1088)
+Title - [Chicken Pox and Name Statistics](https://xkcd.com/1950)
 
-![Five Years](./random_comic.png)
+![Chicken Pox and Name Statistics](./random_comic.png)
 
-Description - 'Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'
+Description - People with all six of those names agree that it's weird that we have teeth, when you think about it for too long. Just about everyone agrees on that, except—in a still-unexplained statistical anomaly—people named "Trevor."
 
 -----------------------------------
