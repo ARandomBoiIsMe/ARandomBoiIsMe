@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Five Years](https://xkcd.com/1088)
+Title - [Apple Spectrum](https://xkcd.com/1766)
 
-![Five Years](./random_comic.png)
+![Apple Spectrum](./random_comic.png)
 
-Description - 'Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'
+Description - If I were trapped on a desert island, and could have an unlimited supply of any one type of apple, I'd be like, "How did this situation happen?"
 
 -----------------------------------
