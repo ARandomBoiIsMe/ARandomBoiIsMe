@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Chicken Pox and Name Statistics](https://xkcd.com/1950)
+Title - [Emails](https://xkcd.com/1783)
 
-![Chicken Pox and Name Statistics](./random_comic.png)
+![Emails](./random_comic.png)
 
-Description - People with all six of those names agree that it's weird that we have teeth, when you think about it for too long. Just about everyone agrees on that, except—in a still-unexplained statistical anomaly—people named "Trevor."
+Description - Hey Rob, sorry it took me a while to get back to you! Sure, I'd love to see WALL-E opening weekend! Are you still doing that, or...?
 
 -----------------------------------
