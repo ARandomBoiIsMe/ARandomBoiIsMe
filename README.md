@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Apple Spectrum](https://xkcd.com/1766)
+Title - [Guest Week: Bill Amend (FoxTrot)](https://xkcd.com/824)
 
-![Apple Spectrum](./random_comic.png)
+![Guest Week: Bill Amend (FoxTrot)](./random_comic.png)
 
-Description - If I were trapped on a desert island, and could have an unlimited supply of any one type of apple, I'd be like, "How did this situation happen?"
+Description - Guest comic by Bill Amend of FoxTrot, an inspiration to all us nerdy-physics-majors-turned-cartoonists, of which there are an oddly large number.
 
 -----------------------------------
