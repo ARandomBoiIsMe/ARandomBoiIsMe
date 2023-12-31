@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Guest Week: Bill Amend (FoxTrot)](https://xkcd.com/824)
+Title - [Viral Vector Immunity](https://xkcd.com/2406)
 
-![Guest Week: Bill Amend (FoxTrot)](./random_comic.png)
+![Viral Vector Immunity](./random_comic.png)
 
-Description - Guest comic by Bill Amend of FoxTrot, an inspiration to all us nerdy-physics-majors-turned-cartoonists, of which there are an oddly large number.
+Description - We've secretly replaced this customer's instant coffee with our patented substitute. Let's see what she ... uh oh, I think she spotted us through the window. Now she's getting something from the closet ... oh jeez, she has a sword! Run!!
 
 -----------------------------------
