@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Python](https://xkcd.com/353)
+Title - [Identification Chart](https://xkcd.com/1824)
 
-![Python](./random_comic.png)
+![Identification Chart](./random_comic.png)
 
-Description - I wrote 20 short programs in Python yesterday.  It was wonderful.  Perl, I'm leaving you.
+Description - Be careful—it's breeding season, and some of these can be *extremely* defensive of their nests.
 
 -----------------------------------
