@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Viral Vector Immunity](https://xkcd.com/2406)
+Title - [Personal Data](https://xkcd.com/1971)
 
-![Viral Vector Immunity](./random_comic.png)
+![Personal Data](./random_comic.png)
 
-Description - We've secretly replaced this customer's instant coffee with our patented substitute. Let's see what she ... uh oh, I think she spotted us through the window. Now she's getting something from the closet ... oh jeez, she has a sword! Run!!
+Description - Do I just leave money in my mailbox? How much? How much money do they need, anyway? I guess it probably depends how the economy is doing. If stocks go up, should I leave more money in my mailbox or less?
 
 -----------------------------------
