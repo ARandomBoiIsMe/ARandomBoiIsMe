@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Identification Chart](https://xkcd.com/1824)
+Title - [Conspiracy Theories](https://xkcd.com/258)
 
-![Identification Chart](./random_comic.png)
+![Conspiracy Theories](./random_comic.png)
 
-Description - Be careful—it's breeding season, and some of these can be *extremely* defensive of their nests.
+Description - There are a lot of graduate-educated young-earth creationists.
 
 -----------------------------------
