@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Red Line Through HTTPS](https://xkcd.com/2634)
+Title - [Writers Strike](https://xkcd.com/360)
 
-![Red Line Through HTTPS](./random_comic.png)
+![Writers Strike](./random_comic.png)
 
-Description - Some organization has been paying to keep this up and it hasn't been removed from search results. Seems like two votes of confidence to me.
+Description - He's just jealous because everyone's up in the attic listening to Stephen Colbert.
 
 -----------------------------------
