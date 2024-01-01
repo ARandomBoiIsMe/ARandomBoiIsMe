@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Asteroid](https://xkcd.com/618)
+Title - [Red Line Through HTTPS](https://xkcd.com/2634)
 
-![Asteroid](./random_comic.png)
+![Red Line Through HTTPS](./random_comic.png)
 
-Description - My Deep Impact/Little Prince crossover fanfic has been poorly received by the community.
+Description - Some organization has been paying to keep this up and it hasn't been removed from search results. Seems like two votes of confidence to me.
 
 -----------------------------------
