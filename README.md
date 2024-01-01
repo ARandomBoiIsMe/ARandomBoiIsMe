@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Conspiracy Theories](https://xkcd.com/258)
+Title - [Asteroid](https://xkcd.com/618)
 
-![Conspiracy Theories](./random_comic.png)
+![Asteroid](./random_comic.png)
 
-Description - There are a lot of graduate-educated young-earth creationists.
+Description - My Deep Impact/Little Prince crossover fanfic has been poorly received by the community.
 
 -----------------------------------
