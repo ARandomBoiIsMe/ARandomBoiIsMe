@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Writers Strike](https://xkcd.com/360)
+Title - [Throw](https://xkcd.com/2198)
 
-![Writers Strike](./random_comic.png)
+![Throw](./random_comic.png)
 
-Description - He's just jealous because everyone's up in the attic listening to Stephen Colbert.
+Description - this calculator implements the simple throwing distance estimation model from the how to throw things chapter of the book how to
 
 -----------------------------------
