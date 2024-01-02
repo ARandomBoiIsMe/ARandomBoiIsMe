@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [First Internet Interaction](https://xkcd.com/2667)
+Title - [That Lovin' Feelin'](https://xkcd.com/317)
 
-![First Internet Interaction](./random_comic.png)
+![That Lovin' Feelin'](./random_comic.png)
 
-Description - To that stranger on the KOOL Tree House chat room, I gotta hand it to you: You were, ultimately, not wrong.
+Description - Maybe there's no tenderness in her fingertips either, but at least SHE puts out.
 
 -----------------------------------
