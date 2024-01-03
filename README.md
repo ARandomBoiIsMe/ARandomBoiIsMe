@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Query](https://xkcd.com/1409)
+Title - [‮LTR](https://xkcd.com/1137)
 
-![Query](./random_comic.png)
+![‮LTR](./random_comic.png)
 
-Description - SELECT * FROM GHOSTS
+Description - Collaborative editing can quickly become a textual rap battle fought with increasingly convoluted invocations of U+202a to U+202e.
 
 -----------------------------------
