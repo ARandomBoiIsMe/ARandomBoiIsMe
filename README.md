@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [That Lovin' Feelin'](https://xkcd.com/317)
+Title - [Bun Trend](https://xkcd.com/1903)
 
-![That Lovin' Feelin'](./random_comic.png)
+![Bun Trend](./random_comic.png)
 
-Description - Maybe there's no tenderness in her fingertips either, but at least SHE puts out.
+Description - Our experts have characterized the ecological impact of this trend as "adorable."
 
 -----------------------------------
