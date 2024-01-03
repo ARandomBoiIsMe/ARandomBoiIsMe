@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Bun Trend](https://xkcd.com/1903)
+Title - [Query](https://xkcd.com/1409)
 
-![Bun Trend](./random_comic.png)
+![Query](./random_comic.png)
 
-Description - Our experts have characterized the ecological impact of this trend as "adorable."
+Description - SELECT * FROM GHOSTS
 
 -----------------------------------
