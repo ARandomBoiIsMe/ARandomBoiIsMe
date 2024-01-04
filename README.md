@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Judgment Day](https://xkcd.com/1626)
+Title - [Flashlights](https://xkcd.com/1603)
 
-![Judgment Day](./random_comic.png)
+![Flashlights](./random_comic.png)
 
-Description - It took a lot of booster rockets, but luckily Amazon had recently built thousands of them to bring Amazon Prime same-day delivery to the Moon colony.
+Description - Due to a typo, I initially found a forum for serious Fleshlight enthusiasts, and it turns out their highest-end models are ALSO capable of setting trees on fire. They're impossible to use without severe burns, but some of them swear it's worth it.
 
 -----------------------------------
