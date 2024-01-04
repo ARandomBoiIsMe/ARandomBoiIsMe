@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Rocket Launch](https://xkcd.com/2087)
+Title - [Judgment Day](https://xkcd.com/1626)
 
-![Rocket Launch](./random_comic.png)
+![Judgment Day](./random_comic.png)
 
-Description - NASA tries to coordinate launch timing with the Care Bears' cloud castle, but unfortunately sometimes collisions with stray Care Bears are unavoidable, so they just try to make the fairings sturdy and hope for a glancing impact.
+Description - It took a lot of booster rockets, but luckily Amazon had recently built thousands of them to bring Amazon Prime same-day delivery to the Moon colony.
 
 -----------------------------------
