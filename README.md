@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Scribblenauts](https://xkcd.com/637)
+Title - [Compiler Complaint](https://xkcd.com/371)
 
-![Scribblenauts](./random_comic.png)
+![Compiler Complaint](./random_comic.png)
 
-Description - Let me look away and type 'guy who's just jealous that I beat all his MarioKart times' and turn back, and ... yup, there you are again!
+Description - Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.
 
 -----------------------------------
