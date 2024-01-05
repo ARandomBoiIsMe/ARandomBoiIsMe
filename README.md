@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Photo Library Management](https://xkcd.com/1832)
+Title - [Welcome Back](https://xkcd.com/2615)
 
-![Photo Library Management](./random_comic.png)
+![Welcome Back](./random_comic.png)
 
-Description - A good lifehack is to use messy and unstable systems to organize your photos. That way, every five years or so it becomes obsolete and/or collapses, and you have to open it up and pick only your favorite pictures to salvage.
+Description - 'We're shocked by the Notre Dame fire. Click for our tribute to--' [okay] 'Now that we're all staying at home these past few weeks thanks to this new coronavirus, we--' [okay]
 
 -----------------------------------
