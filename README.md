@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Anatomy Text](https://xkcd.com/631)
+Title - [Ducklings](https://xkcd.com/537)
 
-![Anatomy Text](./random_comic.png)
+![Ducklings](./random_comic.png)
 
-Description - For many of the anatomy pictures on Wikipedia, I think this is actually not far from reality. They only look all formal and professional due to careful cropping.
+Description - DUCKLOOP'D?
 
 -----------------------------------
