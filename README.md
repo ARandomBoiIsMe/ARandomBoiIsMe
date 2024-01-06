@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Bayes' Theorem](https://xkcd.com/2545)
+Title - [Never Seen Star Wars](https://xkcd.com/1769)
 
-![Bayes' Theorem](./random_comic.png)
+![Never Seen Star Wars](./random_comic.png)
 
-Description - P((B|A)|(A|B)) represents the probability that you'll mix up the order of the terms when using Bayesian notation.
+Description - If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.
 
 -----------------------------------
