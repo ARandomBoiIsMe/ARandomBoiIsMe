@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Ducklings](https://xkcd.com/537)
+Title - [Bayes' Theorem](https://xkcd.com/2545)
 
-![Ducklings](./random_comic.png)
+![Bayes' Theorem](./random_comic.png)
 
-Description - DUCKLOOP'D?
+Description - P((B|A)|(A|B)) represents the probability that you'll mix up the order of the terms when using Bayesian notation.
 
 -----------------------------------
