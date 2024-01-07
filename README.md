@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Improvised](https://xkcd.com/469)
+Title - [Interior Decorating](https://xkcd.com/2692)
 
-![Improvised](./random_comic.png)
+![Interior Decorating](./random_comic.png)
 
-Description - Oh, your brother is Luke.  Sorry, should've mentioned that first.
+Description - It all came flat-packed in Pandora's Box.
 
 -----------------------------------
