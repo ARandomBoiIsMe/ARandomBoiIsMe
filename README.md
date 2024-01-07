@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Never Seen Star Wars](https://xkcd.com/1769)
+Title - [Convincing Pickup Line](https://xkcd.com/403)
 
-![Never Seen Star Wars](./random_comic.png)
+![Convincing Pickup Line](./random_comic.png)
 
-Description - If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.
+Description - Check it out; I've had sex with someone who's had sex with someone who's written a paper with Paul Erdős!
 
 -----------------------------------
