@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Lincoln-Douglas](https://xkcd.com/639)
+Title - [Moments of Inspiration](https://xkcd.com/1584)
 
-![Lincoln-Douglas](./random_comic.png)
+![Moments of Inspiration](./random_comic.png)
 
-Description - Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.
+Description - Charles, I just talked to John and Mildred, who run that company selling seeds and nuts, and their kids with MOUTHS are starving!
 
 -----------------------------------
