@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Moments of Inspiration](https://xkcd.com/1584)
+Title - [Nice To E-Meet You](https://xkcd.com/2196)
 
-![Moments of Inspiration](./random_comic.png)
+![Nice To E-Meet You](./random_comic.png)
 
-Description - Charles, I just talked to John and Mildred, who run that company selling seeds and nuts, and their kids with MOUTHS are starving!
+Description - I'm inside your head and I hate it. Please let me out.
 
 -----------------------------------
