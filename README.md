@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Nice To E-Meet You](https://xkcd.com/2196)
+Title - [Serious](https://xkcd.com/840)
 
-![Nice To E-Meet You](./random_comic.png)
+![Serious](./random_comic.png)
 
-Description - I'm inside your head and I hate it. Please let me out.
+Description - Not to be confused with Serious PuTTY, the Windows terminal client where everything is in Impact.
 
 -----------------------------------
