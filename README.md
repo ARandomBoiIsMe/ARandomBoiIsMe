@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Kayak](https://xkcd.com/209)
+Title - [Integration by Parts](https://xkcd.com/1201)
 
-![Kayak](./random_comic.png)
+![Integration by Parts](./random_comic.png)
 
-Description - Man, there's future *everywhere*.
+Description - If you can manage to choose u and v such that u = v = x, then the answer is just (1/2)x^2, which is easy to remember. Oh, and add a '+C' or you'll get yelled at.
 
 -----------------------------------
