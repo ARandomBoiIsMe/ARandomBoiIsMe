@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Serious](https://xkcd.com/840)
+Title - [Russell's Teapot](https://xkcd.com/1866)
 
-![Serious](./random_comic.png)
+![Russell's Teapot](./random_comic.png)
 
-Description - Not to be confused with Serious PuTTY, the Windows terminal client where everything is in Impact.
+Description - Unfortunately, NASA regulations state that Bertrand Russell-related payloads can only be launched within launch vehicles which do not launch themselves.
 
 -----------------------------------
