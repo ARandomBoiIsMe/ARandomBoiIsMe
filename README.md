@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Electron Holes](https://xkcd.com/2817)
+Title - [Future](https://xkcd.com/338)
 
-![Electron Holes](./random_comic.png)
+![Future](./random_comic.png)
 
-Description - They tried to report me to the authorities, but because I had the device they couldn't charge me.
+Description - But the past was much too cramped!
 
 -----------------------------------
