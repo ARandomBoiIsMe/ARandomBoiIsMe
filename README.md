@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Campfire](https://xkcd.com/742)
+Title - [Electron Holes](https://xkcd.com/2817)
 
-![Campfire](./random_comic.png)
+![Electron Holes](./random_comic.png)
 
-Description - 100 years later, this story remains terrifying--not because it's the local network block, but because the killer is still on IPv4.
+Description - They tried to report me to the authorities, but because I had the device they couldn't charge me.
 
 -----------------------------------
