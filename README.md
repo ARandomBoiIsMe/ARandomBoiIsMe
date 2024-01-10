@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Popper](https://xkcd.com/2078)
+Title - [Campfire](https://xkcd.com/742)
 
-![Popper](./random_comic.png)
+![Campfire](./random_comic.png)
 
-Description - At least, I don't think there's evidence. My claim that there's no evidence hasn't been falsified. At least, not that I know of.
+Description - 100 years later, this story remains terrifying--not because it's the local network block, but because the killer is still on IPv4.
 
 -----------------------------------
