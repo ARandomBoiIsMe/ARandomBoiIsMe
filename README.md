@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Future](https://xkcd.com/338)
+Title - [Columbus](https://xkcd.com/1255)
 
-![Future](./random_comic.png)
+![Columbus](./random_comic.png)
 
-Description - But the past was much too cramped!
+Description - And thus was smallpox introduced into the previously Undying Lands.
 
 -----------------------------------
