@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Autoresponder](https://xkcd.com/2574)
+Title - [Lymphocytes](https://xkcd.com/2749)
 
-![Autoresponder](./random_comic.png)
+![Lymphocytes](./random_comic.png)
 
-Description - I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!
+Description - It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'
 
 -----------------------------------
