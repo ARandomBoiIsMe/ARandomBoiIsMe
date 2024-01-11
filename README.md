@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Fortune Cookies](https://xkcd.com/425)
+Title - [Autoresponder](https://xkcd.com/2574)
 
-![Fortune Cookies](./random_comic.png)
+![Autoresponder](./random_comic.png)
 
-Description - 'You will have hot, steamy, sweaty sex ... IN BED!'
+Description - I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!
 
 -----------------------------------
