@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Columbus](https://xkcd.com/1255)
+Title - [Fortune Cookies](https://xkcd.com/425)
 
-![Columbus](./random_comic.png)
+![Fortune Cookies](./random_comic.png)
 
-Description - And thus was smallpox introduced into the previously Undying Lands.
+Description - 'You will have hot, steamy, sweaty sex ... IN BED!'
 
 -----------------------------------
