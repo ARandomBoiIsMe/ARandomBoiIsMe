@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [arXiv](https://xkcd.com/2085)
+Title - [Wing Lift](https://xkcd.com/2678)
 
-![arXiv](./random_comic.png)
+![Wing Lift](./random_comic.png)
 
-Description - Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
+Description - Once the air from the top passes below the plane of the wing and catches sight of the spooky skulls, it panics, which is the cause of turbulent vortices.
 
 -----------------------------------
