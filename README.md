@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Lymphocytes](https://xkcd.com/2749)
+Title - [Minifigs](https://xkcd.com/1281)
 
-![Lymphocytes](./random_comic.png)
+![Minifigs](./random_comic.png)
 
-Description - It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'
+Description - The LEGO Group is already the world's largest tire manufacturer.
 
 -----------------------------------
