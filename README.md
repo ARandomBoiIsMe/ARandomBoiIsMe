@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Minifigs](https://xkcd.com/1281)
+Title - [arXiv](https://xkcd.com/2085)
 
-![Minifigs](./random_comic.png)
+![arXiv](./random_comic.png)
 
-Description - The LEGO Group is already the world's largest tire manufacturer.
+Description - Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
 
 -----------------------------------
