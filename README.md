@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [State Borders](https://xkcd.com/1902)
+Title - [The Drake Equation](https://xkcd.com/384)
 
-![State Borders](./random_comic.png)
+![The Drake Equation](./random_comic.png)
 
-Description - A schism between the pro-panhandle and anti-panhandle factions eventually led to war, but both sides spent too much time working on their flag designs to actually do much fighting.
+Description - But seriously, there's loads of intelligent life.  It's just not screaming constantly in all directions on the handful of frequencies we search.
 
 -----------------------------------
