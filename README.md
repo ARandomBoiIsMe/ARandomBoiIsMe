@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cell Phone Functions](https://xkcd.com/2212)
+Title - [Conditioning](https://xkcd.com/1156)
 
-![Cell Phone Functions](./random_comic.png)
+![Conditioning](./random_comic.png)
 
-Description - ... tazer ... fire extinguisher ... bird feeder ... toilet paper ...
+Description - 'Why are you standing in the yard wearing a papal hat and a robe covered in seeds?' 'Well, the Pope is visiting our town next month ...'
 
 -----------------------------------
