@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Conditioning](https://xkcd.com/1156)
+Title - [State Borders](https://xkcd.com/1902)
 
-![Conditioning](./random_comic.png)
+![State Borders](./random_comic.png)
 
-Description - 'Why are you standing in the yard wearing a papal hat and a robe covered in seeds?' 'Well, the Pope is visiting our town next month ...'
+Description - A schism between the pro-panhandle and anti-panhandle factions eventually led to war, but both sides spent too much time working on their flag designs to actually do much fighting.
 
 -----------------------------------
