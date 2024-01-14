@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Voice Commands](https://xkcd.com/1787)
+Title - [Ages](https://xkcd.com/907)
 
-![Voice Commands](./random_comic.png)
+![Ages](./random_comic.png)
 
-Description - Dvorak words may sound hard to pronounce, but studies show they actually put less stress on the vocal cords.
+Description - Every age: "I'm glad I'm not the clueless person I was five years ago, but now I don't want to get any older."
 
 -----------------------------------
