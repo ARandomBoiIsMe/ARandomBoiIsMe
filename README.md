@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Semicontrolled Demolition](https://xkcd.com/690)
+Title - [Voice Commands](https://xkcd.com/1787)
 
-![Semicontrolled Demolition](./random_comic.png)
+![Voice Commands](./random_comic.png)
 
-Description - I believe the truth always lies halfway between the most extreme claims.
+Description - Dvorak words may sound hard to pronounce, but studies show they actually put less stress on the vocal cords.
 
 -----------------------------------
