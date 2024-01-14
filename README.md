@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Constraints](https://xkcd.com/1045)
+Title - [Semicontrolled Demolition](https://xkcd.com/690)
 
-![Constraints](./random_comic.png)
+![Semicontrolled Demolition](./random_comic.png)
 
-Description - [title-text similarly alphabetized]
+Description - I believe the truth always lies halfway between the most extreme claims.
 
 -----------------------------------
