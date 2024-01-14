@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Ages](https://xkcd.com/907)
+Title - [Incinerator](https://xkcd.com/1821)
 
-![Ages](./random_comic.png)
+![Incinerator](./random_comic.png)
 
-Description - Every age: "I'm glad I'm not the clueless person I was five years ago, but now I don't want to get any older."
+Description - My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis.
 
 -----------------------------------
