@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Bigger Problem](https://xkcd.com/2368)
+Title - [Worrying](https://xkcd.com/1468)
 
-![Bigger Problem](./random_comic.png)
+![Worrying](./random_comic.png)
 
-Description - Your point that the world contains multiple problems is a real slam-dunk argument against fixing any of them.
+Description - If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.
 
 -----------------------------------
