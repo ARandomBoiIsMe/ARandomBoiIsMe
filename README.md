@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [E Scooters](https://xkcd.com/2188)
+Title - [Bigger Problem](https://xkcd.com/2368)
 
-![E Scooters](./random_comic.png)
+![Bigger Problem](./random_comic.png)
 
-Description - Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.
+Description - Your point that the world contains multiple problems is a real slam-dunk argument against fixing any of them.
 
 -----------------------------------
