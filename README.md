@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Rosetta](https://xkcd.com/1740)
+Title - [E Scooters](https://xkcd.com/2188)
 
-![Rosetta](./random_comic.png)
+![E Scooters](./random_comic.png)
 
-Description - I WONDERED why he kept asking whether we thought the impact speed was too low.
+Description - Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.
 
 -----------------------------------
