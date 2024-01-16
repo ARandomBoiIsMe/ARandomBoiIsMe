@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Video Orientation](https://xkcd.com/2119)
+Title - [Circles](https://xkcd.com/2436)
 
-![Video Orientation](./random_comic.png)
+![Circles](./random_comic.png)
 
-Description - CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle.
+Description - ( MSTE ( AR ) CD )
 
 -----------------------------------
