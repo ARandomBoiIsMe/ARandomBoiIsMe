@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Chain of Command](https://xkcd.com/898)
+Title - [Math Paper](https://xkcd.com/410)
 
-![Chain of Command](./random_comic.png)
+![Math Paper](./random_comic.png)
 
-Description - Themistocles said his infant son ruled all Greece -- "Athens rules all Greece; I control Athens; my wife controls me; and my infant son controls her." Thus, nowadays the world is controlled by whoever buys advertising time on Dora the Explorer.
+Description - That's nothing.  I once lost my genetics, rocketry, and stripping licenses in a single incident.
 
 -----------------------------------
