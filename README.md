@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Worrying](https://xkcd.com/1468)
+Title - [Video Orientation](https://xkcd.com/2119)
 
-![Worrying](./random_comic.png)
+![Video Orientation](./random_comic.png)
 
-Description - If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.
+Description - CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle.
 
 -----------------------------------
