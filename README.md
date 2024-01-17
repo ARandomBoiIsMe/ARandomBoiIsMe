@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [I Could Care Less](https://xkcd.com/1576)
+Title - [Tumblr](https://xkcd.com/1025)
 
-![I Could Care Less](./random_comic.png)
+![Tumblr](./random_comic.png)
 
-Description - I literally could care less.
+Description - Dot Tumblr Dot Com, on the other hand, would be an awful name for a band, if only because of how hard it would be to direct people to your band's website.
 
 -----------------------------------
