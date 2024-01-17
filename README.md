@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Compiler Complaint](https://xkcd.com/371)
+Title - [Listening](https://xkcd.com/1807)
 
-![Compiler Complaint](./random_comic.png)
+![Listening](./random_comic.png)
 
-Description - Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.
+Description - Sure, you could just ask, but this also takes care of the host gift thing.
 
 -----------------------------------
