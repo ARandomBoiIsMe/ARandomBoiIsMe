@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Tumblr](https://xkcd.com/1025)
+Title - [Compiler Complaint](https://xkcd.com/371)
 
-![Tumblr](./random_comic.png)
+![Compiler Complaint](./random_comic.png)
 
-Description - Dot Tumblr Dot Com, on the other hand, would be an awful name for a band, if only because of how hard it would be to direct people to your band's website.
+Description - Checking whether build environment is sane ... build environment is grinning and holding a spatula.  Guess not.
 
 -----------------------------------
