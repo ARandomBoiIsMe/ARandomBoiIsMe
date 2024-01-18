@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [October 2017](https://xkcd.com/1898)
+Title - [Myspace](https://xkcd.com/134)
 
-![October 2017](./random_comic.png)
+![Myspace](./random_comic.png)
 
-Description - And yet I have no trouble believing that the start of the 2016 election was several decades ago.
+Description - It's like they got together and said 'what do we miss most from the internet in 1998?  that's right, embedded MIDI!'
 
 -----------------------------------
