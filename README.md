@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Who?](https://xkcd.com/1841)
+Title - [Sports Knowledge](https://xkcd.com/1859)
 
-![Who?](./random_comic.png)
+![Sports Knowledge](./random_comic.png)
 
-Description - Gonna feel even dumber when I realize that all this time he's been talking into a bluetooth thingy and we're not actually friends.
+Description - I heard they might make the wild card game, which would be cool. Do you know when that is? I have a wedding next weekend, but if it's after that we could try to go!
 
 -----------------------------------
