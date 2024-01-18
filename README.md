@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Sports Knowledge](https://xkcd.com/1859)
+Title - [October 2017](https://xkcd.com/1898)
 
-![Sports Knowledge](./random_comic.png)
+![October 2017](./random_comic.png)
 
-Description - I heard they might make the wild card game, which would be cool. Do you know when that is? I have a wedding next weekend, but if it's after that we could try to go!
+Description - And yet I have no trouble believing that the start of the 2016 election was several decades ago.
 
 -----------------------------------
