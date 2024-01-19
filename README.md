@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Inflection](https://xkcd.com/1709)
+Title - [I Am Not Good with Boomerangs](https://xkcd.com/445)
 
-![Inflection](./random_comic.png)
+![I Am Not Good with Boomerangs](./random_comic.png)
 
-Description - "Or maybe, because we're suddenly having so many conversations through written text, we'll start relying MORE on altered spelling to indicate meaning!" "Wat."
+Description - Bonus strip: just read the rightmost panels straight down. 
 
 -----------------------------------
