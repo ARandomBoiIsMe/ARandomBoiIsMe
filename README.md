@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [I Am Not Good with Boomerangs](https://xkcd.com/445)
+Title - [Water Delivery](https://xkcd.com/1599)
 
-![I Am Not Good with Boomerangs](./random_comic.png)
+![Water Delivery](./random_comic.png)
 
-Description - Bonus strip: just read the rightmost panels straight down. 
+Description - When I was a kid, I asked my parents why our houses didn't have toothpaste pipes in addition to water ones. I'm strangely pleased to see Amazon thinking the same way.
 
 -----------------------------------
