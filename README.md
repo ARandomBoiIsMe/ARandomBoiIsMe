@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Water Delivery](https://xkcd.com/1599)
+Title - [A/B](https://xkcd.com/2151)
 
-![Water Delivery](./random_comic.png)
+![A/B](./random_comic.png)
 
-Description - When I was a kid, I asked my parents why our houses didn't have toothpaste pipes in addition to water ones. I'm strangely pleased to see Amazon thinking the same way.
+Description - We wrote our site in Linear A rather than Aksara Kawi because browser testing showed that Crete script rendered faster than Java script.
 
 -----------------------------------
