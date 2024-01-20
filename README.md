@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [A/B](https://xkcd.com/2151)
+Title - [Dating Service](https://xkcd.com/120)
 
-![A/B](./random_comic.png)
+![Dating Service](./random_comic.png)
 
-Description - We wrote our site in Linear A rather than Aksara Kawi because browser testing showed that Crete script rendered faster than Java script.
+Description - I don't understand why people are so disingenuous!  I just want someone to walk with!
 
 -----------------------------------
