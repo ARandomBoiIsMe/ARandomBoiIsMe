@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Copyright](https://xkcd.com/14)
+Title - [Ceres](https://xkcd.com/1476)
 
-![Copyright](./random_comic.png)
+![Ceres](./random_comic.png)
 
-Description - After reading Slashdot and BoingBoing, sometimes I have to go outside.
+Description - Earth clearly hasn't been inspected, since it's definitely contaminated with salmonella.
 
 -----------------------------------
