@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Ceres](https://xkcd.com/1476)
+Title - [Cuisine](https://xkcd.com/2778)
 
-![Ceres](./random_comic.png)
+![Cuisine](./random_comic.png)
 
-Description - Earth clearly hasn't been inspected, since it's definitely contaminated with salmonella.
+Description - My connection to it goes way back, to my early days, when I was just a cloud of primordial hydrogen collapsing in the darkness of space.
 
 -----------------------------------
