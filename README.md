@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Dating Service](https://xkcd.com/120)
+Title - [Copyright](https://xkcd.com/14)
 
-![Dating Service](./random_comic.png)
+![Copyright](./random_comic.png)
 
-Description - I don't understand why people are so disingenuous!  I just want someone to walk with!
+Description - After reading Slashdot and BoingBoing, sometimes I have to go outside.
 
 -----------------------------------
