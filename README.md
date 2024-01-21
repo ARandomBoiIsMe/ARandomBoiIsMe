@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Things You Learn](https://xkcd.com/1775)
+Title - [Public Key](https://xkcd.com/1553)
 
-![Things You Learn](./random_comic.png)
+![Public Key](./random_comic.png)
 
-Description - Guess who has two thumbs and spent the night in an ER after trying to rescue a kitten that ran under his car at a stoplight and climbed up into the engine compartment? And, thanks to antibiotics, will continue having two thumbs? THIS GUY. (P.S. kitten is safe!)
+Description - I guess I should be signing stuff, but I've never been sure what to sign. Maybe if I post my private key, I can crowdsource my decisions about what to sign.
 
 -----------------------------------
