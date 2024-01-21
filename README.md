@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cuisine](https://xkcd.com/2778)
+Title - [Weather Station](https://xkcd.com/2737)
 
-![Cuisine](./random_comic.png)
+![Weather Station](./random_comic.png)
 
-Description - My connection to it goes way back, to my early days, when I was just a cloud of primordial hydrogen collapsing in the darkness of space.
+Description - 'Pour one out for precipitation data integrity,' I say, solemnly upending the glass into the rain gauge.
 
 -----------------------------------
