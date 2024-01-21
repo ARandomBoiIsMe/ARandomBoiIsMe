@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Field Topology](https://xkcd.com/2625)
+Title - [Things You Learn](https://xkcd.com/1775)
 
-![Field Topology](./random_comic.png)
+![Things You Learn](./random_comic.png)
 
-Description - The combination croquet set/10-lane pool can also be used for some varieties of foosball and Skee-Ball.
+Description - Guess who has two thumbs and spent the night in an ER after trying to rescue a kitten that ran under his car at a stoplight and climbed up into the engine compartment? And, thanks to antibiotics, will continue having two thumbs? THIS GUY. (P.S. kitten is safe!)
 
 -----------------------------------
