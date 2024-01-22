@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Public Key](https://xkcd.com/1553)
+Title - [Pathogen Resistance](https://xkcd.com/2287)
 
-![Public Key](./random_comic.png)
+![Pathogen Resistance](./random_comic.png)
 
-Description - I guess I should be signing stuff, but I've never been sure what to sign. Maybe if I post my private key, I can crowdsource my decisions about what to sign.
+Description - We're not trapped in here with the coronavirus. The coronavirus is trapped in here with us.
 
 -----------------------------------
