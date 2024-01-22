@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Pathogen Resistance](https://xkcd.com/2287)
+Title - [Stingray Nebula](https://xkcd.com/847)
 
-![Pathogen Resistance](./random_comic.png)
+![Stingray Nebula](./random_comic.png)
 
-Description - We're not trapped in here with the coronavirus. The coronavirus is trapped in here with us.
+Description - Eärendil will patrol the walls of night only until the sun reaches red giant stage, engulfing the Morning Star on his brow. Light and high beauty are passing things as well.
 
 -----------------------------------
