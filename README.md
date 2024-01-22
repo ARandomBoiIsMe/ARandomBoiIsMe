@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Selection Bias](https://xkcd.com/2618)
+Title - [Automation](https://xkcd.com/1319)
 
-![Selection Bias](./random_comic.png)
+![Automation](./random_comic.png)
 
-Description - We carefully sampled the general population and found that most people are familiar with acquiescence bias.
+Description - 'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.
 
 -----------------------------------
