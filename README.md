@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Automation](https://xkcd.com/1319)
+Title - [Kites](https://xkcd.com/1614)
 
-![Automation](./random_comic.png)
+![Kites](./random_comic.png)
 
-Description - 'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.
+Description - [Dog returns with the end of a string in its mouth] [Voice drifts down from the sky] Kites are fun!
 
 -----------------------------------
