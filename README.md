@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Meta Collecting](https://xkcd.com/2123)
+Title - [Egg Drop Failure](https://xkcd.com/510)
 
-![Meta Collecting](./random_comic.png)
+![Egg Drop Failure](./random_comic.png)
 
-Description - I'm trying to get the page locked because some jerk keeps adding "Yachts".
+Description - I hear my brother Ricky won his school's egg drop by leaving the egg inside the hen.
 
 -----------------------------------
