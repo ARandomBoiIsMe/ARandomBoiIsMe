@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Rosetta](https://xkcd.com/1740)
+Title - [Sky Color](https://xkcd.com/1145)
 
-![Rosetta](./random_comic.png)
+![Sky Color](./random_comic.png)
 
-Description - I WONDERED why he kept asking whether we thought the impact speed was too low.
+Description - Feynman recounted another good one upperclassmen would use on freshmen physics students: When you look at words in a mirror, how come they're reversed left to right but not top to bottom? What's special about the horizontal axis?
 
 -----------------------------------
