@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Wrong](https://xkcd.com/1731)
+Title - [Rosetta](https://xkcd.com/1740)
 
-![Wrong](./random_comic.png)
+![Rosetta](./random_comic.png)
 
-Description - Hang on, I just remembered another thing I'm right about. See...
+Description - I WONDERED why he kept asking whether we thought the impact speed was too low.
 
 -----------------------------------
