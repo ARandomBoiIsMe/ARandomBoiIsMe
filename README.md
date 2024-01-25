@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [<span style="color: #0000ED">House</span> of Pancakes](https://xkcd.com/472)
+Title - [Space Mission Hearing](https://xkcd.com/2124)
 
-![<span style="color: #0000ED">House</span> of Pancakes](./random_comic.png)
+![Space Mission Hearing](./random_comic.png)
 
-Description - Fuck it.  I'm just going to Waffle House.
+Description - Our grant application contains one of those little greeting card speakers that plays spaceship noises when you open it.
 
 -----------------------------------
