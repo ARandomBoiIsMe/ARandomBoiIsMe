@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Space Mission Hearing](https://xkcd.com/2124)
+Title - [Occulting Telescope](https://xkcd.com/975)
 
-![Space Mission Hearing](./random_comic.png)
+![Occulting Telescope](./random_comic.png)
 
-Description - Our grant application contains one of those little greeting card speakers that plays spaceship noises when you open it.
+Description - Type II Kardashev civilizations eventually completely enclose their planetary system in a Dyson sphere because space is way too big to look at all the time.
 
 -----------------------------------
