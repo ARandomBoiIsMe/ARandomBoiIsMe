@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Random Number](https://xkcd.com/221)
+Title - [<span style="color: #0000ED">House</span> of Pancakes](https://xkcd.com/472)
 
-![Random Number](./random_comic.png)
+![<span style="color: #0000ED">House</span> of Pancakes](./random_comic.png)
 
-Description - RFC 1149.5 specifies 4 as the standard IEEE-vetted random number.
+Description - Fuck it.  I'm just going to Waffle House.
 
 -----------------------------------
