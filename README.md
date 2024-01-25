@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Time](https://xkcd.com/1190)
+Title - [Random Number](https://xkcd.com/221)
 
-![Time](./random_comic.png)
+![Random Number](./random_comic.png)
 
-Description - The end.
+Description - RFC 1149.5 specifies 4 as the standard IEEE-vetted random number.
 
 -----------------------------------
