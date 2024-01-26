@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Exa-Exabyte](https://xkcd.com/2283)
+Title - [Nightmares](https://xkcd.com/390)
 
-![Exa-Exabyte](./random_comic.png)
+![Nightmares](./random_comic.png)
 
-Description - To picture 10^18, just picture 10^13, but then imagine you connect the left side of the 3 to close off the little bays.
+Description - Well, *I* think I'm real.  Look at me.  Look at my face.  Cut me and I'll bleed.  What more do you want?  Please don't go.
 
 -----------------------------------
