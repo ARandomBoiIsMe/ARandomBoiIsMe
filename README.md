@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Nightmares](https://xkcd.com/390)
+Title - [Brightness](https://xkcd.com/1371)
 
-![Nightmares](./random_comic.png)
+![Brightness](./random_comic.png)
 
-Description - Well, *I* think I'm real.  Look at me.  Look at my face.  Cut me and I'll bleed.  What more do you want?  Please don't go.
+Description - Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day.
 
 -----------------------------------
