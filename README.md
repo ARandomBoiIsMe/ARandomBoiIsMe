@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Etch-a-Sketch](https://xkcd.com/551)
+Title - [Exa-Exabyte](https://xkcd.com/2283)
 
-![Etch-a-Sketch](./random_comic.png)
+![Exa-Exabyte](./random_comic.png)
 
-Description - Surrounded by boring mysteries.
+Description - To picture 10^18, just picture 10^13, but then imagine you connect the left side of the 3 to close off the little bays.
 
 -----------------------------------
