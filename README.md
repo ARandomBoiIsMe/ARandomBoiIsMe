@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Autogyros](https://xkcd.com/1972)
+Title - [Hamster Ball Heist](https://xkcd.com/211)
 
-![Autogyros](./random_comic.png)
+![Hamster Ball Heist](./random_comic.png)
 
-Description - I understand modern autogyros are much more stable, so I've probably angered the autogyro people by impugning their safety. Once they finish building the autogyros they've been working on in their garages for 10 years, they'll come after me.
+Description - First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.
 
 -----------------------------------
