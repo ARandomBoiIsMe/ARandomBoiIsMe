@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Brightness](https://xkcd.com/1371)
+Title - [Unscientific](https://xkcd.com/397)
 
-![Brightness](./random_comic.png)
+![Unscientific](./random_comic.png)
 
-Description - Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day.
+Description - Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism.  We'll also examine the existence of God and whether true love exists.
 
 -----------------------------------
