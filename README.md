@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Refrigerator](https://xkcd.com/1109)
+Title - [Nerd Girls](https://xkcd.com/67)
 
-![Refrigerator](./random_comic.png)
+![Nerd Girls](./random_comic.png)
 
-Description - I want this engraved on my tombstone like the Epitaph of Stevinus.
+Description - Nothing personal, high schoolers.
 
 -----------------------------------
