@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Nerd Girls](https://xkcd.com/67)
+Title - [Robotic Garage](https://xkcd.com/1651)
 
-![Nerd Girls](./random_comic.png)
+![Robotic Garage](./random_comic.png)
 
-Description - Nothing personal, high schoolers.
+Description - But listen, if getting your car out from under the pile is REALLY important to you, we do have an axe you can borrow.
 
 -----------------------------------
