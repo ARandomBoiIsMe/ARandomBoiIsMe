@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Robotic Garage](https://xkcd.com/1651)
+Title - [Twitter](https://xkcd.com/491)
 
-![Robotic Garage](./random_comic.png)
+![Twitter](./random_comic.png)
 
-Description - But listen, if getting your car out from under the pile is REALLY important to you, we do have an axe you can borrow.
+Description - If long tooltips / cut off for you / then upgrade from / Firefox 2 / Burma Shave
 
 -----------------------------------
