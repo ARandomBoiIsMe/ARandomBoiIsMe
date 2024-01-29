@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Improvised](https://xkcd.com/469)
+Title - [Okeanos](https://xkcd.com/1836)
 
-![Improvised](./random_comic.png)
+![Okeanos](./random_comic.png)
 
-Description - Oh, your brother is Luke.  Sorry, should've mentioned that first.
+Description - WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT
 
 -----------------------------------
