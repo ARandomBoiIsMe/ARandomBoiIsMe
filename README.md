@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Okeanos](https://xkcd.com/1836)
+Title - [How it Works](https://xkcd.com/385)
 
-![Okeanos](./random_comic.png)
+![How it Works](./random_comic.png)
 
-Description - WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT
+Description - It's pi plus C, of course.
 
 -----------------------------------
