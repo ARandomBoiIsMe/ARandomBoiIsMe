@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Natural Parenting](https://xkcd.com/674)
+Title - [Improvised](https://xkcd.com/469)
 
-![Natural Parenting](./random_comic.png)
+![Improvised](./random_comic.png)
 
-Description - On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that's the mother of all sampling biases.
+Description - Oh, your brother is Luke.  Sorry, should've mentioned that first.
 
 -----------------------------------
