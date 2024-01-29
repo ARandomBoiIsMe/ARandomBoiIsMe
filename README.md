@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [How it Works](https://xkcd.com/385)
+Title - [SOPA](https://xkcd.com/1005)
 
-![How it Works](./random_comic.png)
+![SOPA](./random_comic.png)
 
-Description - It's pi plus C, of course.
+Description - In protest of SOPA, I'm currently getting totally blacked out.
 
 -----------------------------------
