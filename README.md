@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Self-Driving Issues](https://xkcd.com/1958)
+Title - [Research Areas by Size and Countedness](https://xkcd.com/1991)
 
-![Self-Driving Issues](./random_comic.png)
+![Research Areas by Size and Countedness](./random_comic.png)
 
-Description - If most people turn into muderers all of a sudden, we'll need to push out a firmware update or something.
+Description - Mathematicians give a third answer on the vertical axis, "That question is poorly defined, but we have a sub-field devoted to every plausible version of it."
 
 -----------------------------------
