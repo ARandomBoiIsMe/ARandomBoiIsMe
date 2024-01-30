@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [SOPA](https://xkcd.com/1005)
+Title - [Self-Driving Issues](https://xkcd.com/1958)
 
-![SOPA](./random_comic.png)
+![Self-Driving Issues](./random_comic.png)
 
-Description - In protest of SOPA, I'm currently getting totally blacked out.
+Description - If most people turn into muderers all of a sudden, we'll need to push out a firmware update or something.
 
 -----------------------------------
