@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Tones](https://xkcd.com/479)
+Title - [Worst Thing That Could Happen](https://xkcd.com/2261)
 
-![Tones](./random_comic.png)
+![Worst Thing That Could Happen](./random_comic.png)
 
-Description - I need a lawn, so I can yell at kids to stay off it.
+Description - Before I install any patch, I always open the patch notes and Ctrl-F for 'supervolcano', 'seagull', and 'garbage disposal', just to be safe.
 
 -----------------------------------
