@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Wright Brothers](https://xkcd.com/106)
+Title - [Solar Panel Placement](https://xkcd.com/2812)
 
-![Wright Brothers](./random_comic.png)
+![Solar Panel Placement](./random_comic.png)
 
-Description - I'm not sure if this is actually true
+Description - Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.
 
 -----------------------------------
