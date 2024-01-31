@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Solar Panel Placement](https://xkcd.com/2812)
+Title - [Slide Trombone](https://xkcd.com/2334)
 
-![Solar Panel Placement](./random_comic.png)
+![Slide Trombone](./random_comic.png)
 
-Description - Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.
+Description - Remember the CPS 2000, the super soaker that was discontinued because it was too powerful? Relatedly, can I borrow your tuba?
 
 -----------------------------------
