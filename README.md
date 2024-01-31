@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Worst Thing That Could Happen](https://xkcd.com/2261)
+Title - [Wright Brothers](https://xkcd.com/106)
 
-![Worst Thing That Could Happen](./random_comic.png)
+![Wright Brothers](./random_comic.png)
 
-Description - Before I install any patch, I always open the patch notes and Ctrl-F for 'supervolcano', 'seagull', and 'garbage disposal', just to be safe.
+Description - I'm not sure if this is actually true
 
 -----------------------------------
