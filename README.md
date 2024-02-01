@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Slide Trombone](https://xkcd.com/2334)
+Title - [College Knowledge](https://xkcd.com/2771)
 
-![Slide Trombone](./random_comic.png)
+![College Knowledge](./random_comic.png)
 
-Description - Remember the CPS 2000, the super soaker that was discontinued because it was too powerful? Relatedly, can I borrow your tuba?
+Description - 'Your chitin armor is no match for our iron-tipped stingers! Better go hide in your jars!' --common playground taunt
 
 -----------------------------------
