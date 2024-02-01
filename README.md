@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [JWST Delays](https://xkcd.com/2014)
+Title - [Simultaneous](https://xkcd.com/514)
 
-![JWST Delays](./random_comic.png)
+![Simultaneous](./random_comic.png)
 
-Description - Since delays should get less likely closer to the launch, most astronomers in 2018 believed the expansion of the schedule was slowing, but by early 2020 new measurements indicated that it was actually accelerating.
+Description - I'm leaving you for your twin.  He's more mature than you by now.
 
 -----------------------------------
