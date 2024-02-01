@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Simultaneous](https://xkcd.com/514)
+Title - [Incinerator](https://xkcd.com/1821)
 
-![Simultaneous](./random_comic.png)
+![Incinerator](./random_comic.png)
 
-Description - I'm leaving you for your twin.  He's more mature than you by now.
+Description - My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis.
 
 -----------------------------------
