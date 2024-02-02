@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Brakes](https://xkcd.com/582)
+Title - [How Old](https://xkcd.com/2213)
 
-![Brakes](./random_comic.png)
+![How Old](./random_comic.png)
 
-Description - It was the funniest 6.5 seconds of my life, although as usual like 80% of it was just Tom and Ray's gasping, hacking laughter.
+Description - We've met! I remember you when you were thiiiis tall! [*holds a hand an inch above their head*]
 
 -----------------------------------
