@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Incinerator](https://xkcd.com/1821)
+Title - [Brakes](https://xkcd.com/582)
 
-![Incinerator](./random_comic.png)
+![Brakes](./random_comic.png)
 
-Description - My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis.
+Description - It was the funniest 6.5 seconds of my life, although as usual like 80% of it was just Tom and Ray's gasping, hacking laughter.
 
 -----------------------------------
