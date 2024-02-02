@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [How Old](https://xkcd.com/2213)
+Title - [Five Years](https://xkcd.com/1088)
 
-![How Old](./random_comic.png)
+![Five Years](./random_comic.png)
 
-Description - We've met! I remember you when you were thiiiis tall! [*holds a hand an inch above their head*]
+Description - 'Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'
 
 -----------------------------------
