@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Five Years](https://xkcd.com/1088)
+Title - [Chernobyl](https://xkcd.com/2163)
 
-![Five Years](./random_comic.png)
+![Chernobyl](./random_comic.png)
 
-Description - 'Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'
+Description - You know when you can't hear your speakers, and you keep turning various volume controls up higher and higher in confusion, and then someone hits the mute button and there's a deafening blast of sound? That's basically what happened at Chernobyl.
 
 -----------------------------------
