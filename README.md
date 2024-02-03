@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Exposure Models](https://xkcd.com/2429)
+Title - [Millennium Problems](https://xkcd.com/2320)
 
-![Exposure Models](./random_comic.png)
+![Millennium Problems](./random_comic.png)
 
-Description - "Cumulative number of coronavirus spreadsheets created over time" is a spreadsheet I am coming dangerously close to creating.
+Description - The hard part about opening a hole in the proof of the Poincaré conjecture is that Grigori Perelman will come out of retirement to try to fix it by drawing a loop around the hole and contracting it to a point.
 
 -----------------------------------
