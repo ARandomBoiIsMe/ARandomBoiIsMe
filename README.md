@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Trained a Neural Net](https://xkcd.com/2173)
+Title - [Guest Week: Jeph Jacques (Questionable Content)](https://xkcd.com/822)
 
-![Trained a Neural Net](./random_comic.png)
+![Guest Week: Jeph Jacques (Questionable Content)](./random_comic.png)
 
-Description - It also works for anything you teach someone else to do. "Oh yeah, I trained a pair of neural nets, Emily and Kevin, to respond to support tickets."
+Description - Guest comic by Jeph Jacques of Questionable Content, whose internal monologue hasn't been speaking to him for the past three years.
 
 -----------------------------------
