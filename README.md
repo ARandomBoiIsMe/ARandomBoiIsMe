@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Guest Week: Jeph Jacques (Questionable Content)](https://xkcd.com/822)
+Title - [Moving Boxes](https://xkcd.com/1762)
 
-![Guest Week: Jeph Jacques (Questionable Content)](./random_comic.png)
+![Moving Boxes](./random_comic.png)
 
-Description - Guest comic by Jeph Jacques of Questionable Content, whose internal monologue hasn't been speaking to him for the past three years.
+Description - Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.
 
 -----------------------------------
