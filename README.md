@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Expedition](https://xkcd.com/1169)
+Title - [Ufo](https://xkcd.com/2156)
 
-![Expedition](./random_comic.png)
+![Ufo](./random_comic.png)
 
-Description - I'm pretty sure I've logged more hours in Google Maps over the past decade than in any game.
+Description - "It's a little low for a weather balloon; it might be some other kind." "Yeah. Besides, I know I'm the alien conspiracy guy, but come on--the idea that the government would care about hiding something so mundane as atmospheric temperature measurement is too ridiculous even for me."
 
 -----------------------------------
