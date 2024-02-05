@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Location](https://xkcd.com/1143)
+Title - [Expedition](https://xkcd.com/1169)
 
-![Location](./random_comic.png)
+![Expedition](./random_comic.png)
 
-Description - Ingress: Foursquare With Space Noises.
+Description - I'm pretty sure I've logged more hours in Google Maps over the past decade than in any game.
 
 -----------------------------------
