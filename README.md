@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Certainty](https://xkcd.com/263)
+Title - [Location](https://xkcd.com/1143)
 
-![Certainty](./random_comic.png)
+![Location](./random_comic.png)
 
-Description - a(b+c)=(ab)+(ac).  Politicize that, bitches.
+Description - Ingress: Foursquare With Space Noises.
 
 -----------------------------------
