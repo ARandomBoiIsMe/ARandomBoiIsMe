@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Fermirotica](https://xkcd.com/563)
+Title - [Date](https://xkcd.com/634)
 
-![Fermirotica](./random_comic.png)
+![Date](./random_comic.png)
 
-Description - I love how Google handles dimensional analysis.  Stats are ballpark and vary wildly by time of day and whether your mom is in town.
+Description - Well, the kid's definitely getting the biology geek phenotype.
 
 -----------------------------------
