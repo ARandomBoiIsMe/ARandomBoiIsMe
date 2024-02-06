@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Digital Rights Management](https://xkcd.com/86)
+Title - [Fermirotica](https://xkcd.com/563)
 
-![Digital Rights Management](./random_comic.png)
+![Fermirotica](./random_comic.png)
 
-Description - If you're interested in the subject, Lawrence Lessig's 'Free Culture' is pretty good
+Description - I love how Google handles dimensional analysis.  Stats are ballpark and vary wildly by time of day and whether your mom is in town.
 
 -----------------------------------
