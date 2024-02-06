@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Date](https://xkcd.com/634)
+Title - [Margin](https://xkcd.com/1381)
 
-![Date](./random_comic.png)
+![Margin](./random_comic.png)
 
-Description - Well, the kid's definitely getting the biology geek phenotype.
+Description - PROTIP: You can get around the Shannon-Hartley limit by setting your font size to 0.
 
 -----------------------------------
