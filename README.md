@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Margin](https://xkcd.com/1381)
+Title - [Ufo](https://xkcd.com/2156)
 
-![Margin](./random_comic.png)
+![Ufo](./random_comic.png)
 
-Description - PROTIP: You can get around the Shannon-Hartley limit by setting your font size to 0.
+Description - "It's a little low for a weather balloon; it might be some other kind." "Yeah. Besides, I know I'm the alien conspiracy guy, but come on--the idea that the government would care about hiding something so mundane as atmospheric temperature measurement is too ridiculous even for me."
 
 -----------------------------------
