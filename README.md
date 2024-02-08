@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Law of Drama](https://xkcd.com/1124)
+Title - [Large Hadron Collider](https://xkcd.com/401)
 
-![Law of Drama](./random_comic.png)
+![Large Hadron Collider](./random_comic.png)
 
-Description - 'Drama' is just 'people being upset', when someone says they're always surrounded by drama and they just ignore it, it starts to make sense that their strategy might be backfiring.
+Description - When charged particles of more than 5 TeV pass through a bubble chamber, they leave a trail of candy.
 
 -----------------------------------
