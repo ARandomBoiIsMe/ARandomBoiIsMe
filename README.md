@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Myspace](https://xkcd.com/134)
+Title - [Real Estate](https://xkcd.com/1894)
 
-![Myspace](./random_comic.png)
+![Real Estate](./random_comic.png)
 
-Description - It's like they got together and said 'what do we miss most from the internet in 1998?  that's right, embedded MIDI!'
+Description - I tried converting the prices into pizzas, to put it in more familiar terms, and it just became a hard-to-think-about number of pizzas.
 
 -----------------------------------
