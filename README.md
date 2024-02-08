@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [3D Printer](https://xkcd.com/924)
+Title - [Law of Drama](https://xkcd.com/1124)
 
-![3D Printer](./random_comic.png)
+![Law of Drama](./random_comic.png)
 
-Description - I just can't wait for the Better Homes and Gardens list of helpful tips for household reuse of sixteen-inch acrylonitrile-butadiene-styrene phalluses.
+Description - 'Drama' is just 'people being upset', when someone says they're always surrounded by drama and they just ignore it, it starts to make sense that their strategy might be backfiring.
 
 -----------------------------------
