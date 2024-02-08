@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Large Hadron Collider](https://xkcd.com/401)
+Title - [Myspace](https://xkcd.com/134)
 
-![Large Hadron Collider](./random_comic.png)
+![Myspace](./random_comic.png)
 
-Description - When charged particles of more than 5 TeV pass through a bubble chamber, they leave a trail of candy.
+Description - It's like they got together and said 'what do we miss most from the internet in 1998?  that's right, embedded MIDI!'
 
 -----------------------------------
