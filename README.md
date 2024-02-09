@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Real Estate](https://xkcd.com/1894)
+Title - [Reading in the Original](https://xkcd.com/2168)
 
-![Real Estate](./random_comic.png)
+![Reading in the Original](./random_comic.png)
 
-Description - I tried converting the prices into pizzas, to put it in more familiar terms, and it just became a hard-to-think-about number of pizzas.
+Description - The articles are much shorter, but I assume that's because this version predates the merger with the Hawaiian text that created the modern Hawaiian-Greek hybrid wiki-pedia.
 
 -----------------------------------
