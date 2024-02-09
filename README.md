@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The bacon](https://xkcd.com/1054)
+Title - [Perl Problems](https://xkcd.com/1171)
 
-![The bacon](./random_comic.png)
+![Perl Problems](./random_comic.png)
 
-Description - Normally pronounced 'THEH-buh-kon', I assume.
+Description - To generate #1 albums, 'jay --help' recommends the -z flag.
 
 -----------------------------------
