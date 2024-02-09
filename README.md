@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Reading in the Original](https://xkcd.com/2168)
+Title - [The bacon](https://xkcd.com/1054)
 
-![Reading in the Original](./random_comic.png)
+![The bacon](./random_comic.png)
 
-Description - The articles are much shorter, but I assume that's because this version predates the merger with the Hawaiian text that created the modern Hawaiian-Greek hybrid wiki-pedia.
+Description - Normally pronounced 'THEH-buh-kon', I assume.
 
 -----------------------------------
