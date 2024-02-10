@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Perl Problems](https://xkcd.com/1171)
+Title - [The Race: Part 4](https://xkcd.com/580)
 
-![Perl Problems](./random_comic.png)
+![The Race: Part 4](./random_comic.png)
 
-Description - To generate #1 albums, 'jay --help' recommends the -z flag.
+Description - Things are rarely just crazy enough to work, but they're frequently just crazy enough to fail hilariously.
 
 -----------------------------------
