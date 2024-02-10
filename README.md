@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Latitude](https://xkcd.com/596)
+Title - [Query](https://xkcd.com/1409)
 
-![Latitude](./random_comic.png)
+![Query](./random_comic.png)
 
-Description - The G1, especially with the new Android upgrade, is way better than I originally thought.
+Description - SELECT * FROM GHOSTS
 
 -----------------------------------
