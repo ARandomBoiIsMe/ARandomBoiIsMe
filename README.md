@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Final Exam](https://xkcd.com/2385)
+Title - [Latitude](https://xkcd.com/596)
 
-![Final Exam](./random_comic.png)
+![Latitude](./random_comic.png)
 
-Description - For those of you also taking Game Theory, your grade in that class will be based on how close your grade on this exam is to 80% of the average.
+Description - The G1, especially with the new Android upgrade, is way better than I originally thought.
 
 -----------------------------------
