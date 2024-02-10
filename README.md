@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Race: Part 4](https://xkcd.com/580)
+Title - [Final Exam](https://xkcd.com/2385)
 
-![The Race: Part 4](./random_comic.png)
+![Final Exam](./random_comic.png)
 
-Description - Things are rarely just crazy enough to work, but they're frequently just crazy enough to fail hilariously.
+Description - For those of you also taking Game Theory, your grade in that class will be based on how close your grade on this exam is to 80% of the average.
 
 -----------------------------------
