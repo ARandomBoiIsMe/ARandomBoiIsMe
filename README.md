@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Dimensional Chess](https://xkcd.com/2465)
+Title - [Hallucinations](https://xkcd.com/203)
 
-![Dimensional Chess](./random_comic.png)
+![Hallucinations](./random_comic.png)
 
-Description - In Dimensional Chess, every move is annotated '?!'.
+Description - And the possibility of lucid dreaming just makes it that much more fascinating.
 
 -----------------------------------
