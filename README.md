@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Photo Deposit](https://xkcd.com/2335)
+Title - [Dimensional Chess](https://xkcd.com/2465)
 
-![Photo Deposit](./random_comic.png)
+![Dimensional Chess](./random_comic.png)
 
-Description - It's okay, they scan the serial numbers and make sure you can't deposit the same bill more than once.
+Description - In Dimensional Chess, every move is annotated '?!'.
 
 -----------------------------------
