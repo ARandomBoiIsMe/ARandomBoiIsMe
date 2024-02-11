@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Query](https://xkcd.com/1409)
+Title - [Collector's Edition](https://xkcd.com/2288)
 
-![Query](./random_comic.png)
+![Collector's Edition](./random_comic.png)
 
-Description - SELECT * FROM GHOSTS
+Description - I'm sure you can find some suitable worldbuilding material if you scavenge through the archives.
 
 -----------------------------------
