@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Collector's Edition](https://xkcd.com/2288)
+Title - [Photo Deposit](https://xkcd.com/2335)
 
-![Collector's Edition](./random_comic.png)
+![Photo Deposit](./random_comic.png)
 
-Description - I'm sure you can find some suitable worldbuilding material if you scavenge through the archives.
+Description - It's okay, they scan the serial numbers and make sure you can't deposit the same bill more than once.
 
 -----------------------------------
