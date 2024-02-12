@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Facebook](https://xkcd.com/300)
+Title - [Red Spiders 2](https://xkcd.com/43)
 
-![Facebook](./random_comic.png)
+![Red Spiders 2](./random_comic.png)
 
-Description - 'Here, I'll put my number in your cell pho -- wait, why is it already here?'
+Description - This was actually drawn years before Red Spiders
 
 -----------------------------------
