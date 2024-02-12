@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hallucinations](https://xkcd.com/203)
+Title - [Global Temperature Over My Lifetime](https://xkcd.com/2500)
 
-![Hallucinations](./random_comic.png)
+![Global Temperature Over My Lifetime](./random_comic.png)
 
-Description - And the possibility of lucid dreaming just makes it that much more fascinating.
+Description - I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.
 
 -----------------------------------
