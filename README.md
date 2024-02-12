@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Red Spiders 2](https://xkcd.com/43)
+Title - [Is it Christmas?](https://xkcd.com/2236)
 
-![Red Spiders 2](./random_comic.png)
+![Is it Christmas?](./random_comic.png)
 
-Description - This was actually drawn years before Red Spiders
+Description - We've tested it on 30 different days and it hasn't gotten one wrong yet.
 
 -----------------------------------
