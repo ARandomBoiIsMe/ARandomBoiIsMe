@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Global Temperature Over My Lifetime](https://xkcd.com/2500)
+Title - [Facebook](https://xkcd.com/300)
 
-![Global Temperature Over My Lifetime](./random_comic.png)
+![Facebook](./random_comic.png)
 
-Description - I was really impressed by the accuracy of some of the report's predictions about fossil fuel consumption. Then I realized, oh, right, of course.
+Description - 'Here, I'll put my number in your cell pho -- wait, why is it already here?'
 
 -----------------------------------
