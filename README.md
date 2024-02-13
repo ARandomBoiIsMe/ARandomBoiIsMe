@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Light Pollution](https://xkcd.com/2121)
+Title - [Compass and Straightedge](https://xkcd.com/866)
 
-![Light Pollution](./random_comic.png)
+![Compass and Straightedge](./random_comic.png)
 
-Description - It's so sad how almost no one alive today can remember seeing the galactic rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer of Sagittarius.
+Description - The Greeks long suspected this, but it wasn't until April 12th of 1882 that Ferdinand von Lindemann conclusively proved it when he constructed himself the most awesome birthday party possible and nobody showed up.
 
 -----------------------------------
