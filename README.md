@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Diode](https://xkcd.com/814)
+Title - [Light Pollution](https://xkcd.com/2121)
 
-![Diode](./random_comic.png)
+![Light Pollution](./random_comic.png)
 
-Description - And the worst part is you won't apologize.
+Description - It's so sad how almost no one alive today can remember seeing the galactic rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer of Sagittarius.
 
 -----------------------------------
