@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Phone](https://xkcd.com/1802)
+Title - [Campaign Fundraising Emails](https://xkcd.com/1948)
 
-![Phone](./random_comic.png)
+![Campaign Fundraising Emails](./random_comic.png)
 
-Description - [*disables social networking accounts*] [*social isolation increases*] Wait, why does this ALSO feel bad?
+Description - The establishment doesn't take us seriously. You know who else they didn't take seriously? Hitler. I'll be like him, but a GOOD guy instead of...
 
 -----------------------------------
