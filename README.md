@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Airfoil](https://xkcd.com/803)
+Title - [Power Cord](https://xkcd.com/1395)
 
-![Airfoil](./random_comic.png)
+![Power Cord](./random_comic.png)
 
-Description - This is a fun explanation to prepare your kids for; it's common and totally wrong. Good lines include 'why does the air have to travel on both sides at the same time?' and 'I saw the Wright brothers plane and those wings were curved the same on the top and bottom!'
+Description - In this situation, gzip /dev/inside to deflate, then pipe the compressed air to /dev/input to clean your keyboard. Avert your eyes when you do.
 
 -----------------------------------
