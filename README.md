@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Power Cord](https://xkcd.com/1395)
+Title - [Message in a Bottle](https://xkcd.com/1675)
 
-![Power Cord](./random_comic.png)
+![Message in a Bottle](./random_comic.png)
 
-Description - In this situation, gzip /dev/inside to deflate, then pipe the compressed air to /dev/input to clean your keyboard. Avert your eyes when you do.
+Description - I tried to send a message back, but I accidentally hit 'reply all' and now the ocean is clogged with message bottles.
 
 -----------------------------------
