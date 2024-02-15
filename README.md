@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Coffee](https://xkcd.com/1743)
+Title - [Recombination And Reionization](https://xkcd.com/2226)
 
-![Coffee](./random_comic.png)
+![Recombination And Reionization](./random_comic.png)
 
-Description - Remind me to order another pack of coffee filters from Dyson. Man, these things are EXPENSIVE.
+Description - These signals seem to be pre-star-formation but post-Malone.
 
 -----------------------------------
