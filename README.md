@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Last Molecule](https://xkcd.com/2552)
+Title - [Conference Question](https://xkcd.com/2191)
 
-![The Last Molecule](./random_comic.png)
+![Conference Question](./random_comic.png)
 
-Description - Biology is really struggling; they're barely at 93% and they keep finding more ants.
+Description - I also have an utterance. Less of an utterance and more of an incantation. Less of an incantation and more of a malediction. Less of a malediction and more of a Word of Power. Less of a Word of Power and more of an Unforgivable Curse.
 
 -----------------------------------
