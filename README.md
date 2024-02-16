@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Best Camera](https://xkcd.com/2645)
+Title - [The Last Molecule](https://xkcd.com/2552)
 
-![The Best Camera](./random_comic.png)
+![The Last Molecule](./random_comic.png)
 
-Description - The best camera is the one at L2.
+Description - Biology is really struggling; they're barely at 93% and they keep finding more ants.
 
 -----------------------------------
