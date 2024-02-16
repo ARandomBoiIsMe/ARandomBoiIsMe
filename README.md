@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Recombination And Reionization](https://xkcd.com/2226)
+Title - [The Best Camera](https://xkcd.com/2645)
 
-![Recombination And Reionization](./random_comic.png)
+![The Best Camera](./random_comic.png)
 
-Description - These signals seem to be pre-star-formation but post-Malone.
+Description - The best camera is the one at L2.
 
 -----------------------------------
