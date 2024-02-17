@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Buzzfeed Christmas](https://xkcd.com/1307)
+Title - [Foucault Pendulum](https://xkcd.com/2201)
 
-![Buzzfeed Christmas](./random_comic.png)
+![Foucault Pendulum](./random_comic.png)
 
-Description - The 6 Weirdest Objects The Buzzfeed Writers Are Throwing Out Their Windows At Us
+Description - Trust me, you don't want to get on the wrong side of the paramilitary enforcement arm of the International Earth Rotation and Reference Systems Service.
 
 -----------------------------------
