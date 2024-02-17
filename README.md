@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Chaos](https://xkcd.com/1399)
+Title - [Future Archaeology](https://xkcd.com/1748)
 
-![Chaos](./random_comic.png)
+![Future Archaeology](./random_comic.png)
 
-Description - Although the oral exam for the doctorate was just 'can you do that weird laugh?'
+Description - "The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."
 
 -----------------------------------
