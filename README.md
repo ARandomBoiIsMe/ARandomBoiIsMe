@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Lunch Order](https://xkcd.com/1834)
+Title - [Sagan-Man](https://xkcd.com/663)
 
-![Lunch Order](./random_comic.png)
+![Sagan-Man](./random_comic.png)
 
-Description - GO FOR LUNCH, REPEAT, GO FOR LUNCH.
+Description - They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.
 
 -----------------------------------
