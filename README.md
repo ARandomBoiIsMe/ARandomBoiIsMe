@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Conditionals](https://xkcd.com/1652)
+Title - [Lunch Order](https://xkcd.com/1834)
 
-![Conditionals](./random_comic.png)
+![Lunch Order](./random_comic.png)
 
-Description - 'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'
+Description - GO FOR LUNCH, REPEAT, GO FOR LUNCH.
 
 -----------------------------------
