@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Future Archaeology](https://xkcd.com/1748)
+Title - [Conditionals](https://xkcd.com/1652)
 
-![Future Archaeology](./random_comic.png)
+![Conditionals](./random_comic.png)
 
-Description - "The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."
+Description - 'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'
 
 -----------------------------------
