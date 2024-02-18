@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Sagan-Man](https://xkcd.com/663)
+Title - [Physicists](https://xkcd.com/793)
 
-![Sagan-Man](./random_comic.png)
+![Physicists](./random_comic.png)
 
-Description - They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.
+Description - If you need some help with the math, let me know, but that should be enough to get you started! Huh? No, I don't need to read your thesis, I can imagine roughly what it says.
 
 -----------------------------------
