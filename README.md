@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Rey and Kylo](https://xkcd.com/2229)
+Title - [Rainbow](https://xkcd.com/1684)
 
-![Rey and Kylo](./random_comic.png)
+![Rainbow](./random_comic.png)
 
-Description - We're like 10+ movies in and the focus has been almost entirely on the WARS half.
+Description - Listen, in a few thousand years you'll invent a game called 'SimCity' which has a 'disaster' button, and then you'll understand.
 
 -----------------------------------
