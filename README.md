@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Mario](https://xkcd.com/151)
+Title - [Rey and Kylo](https://xkcd.com/2229)
 
-![Mario](./random_comic.png)
+![Rey and Kylo](./random_comic.png)
 
-Description - Why would anyone ever, ever say that?  Please, nobody ever say that.
+Description - We're like 10+ movies in and the focus has been almost entirely on the WARS half.
 
 -----------------------------------
