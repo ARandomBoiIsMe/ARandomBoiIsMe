@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Physicists](https://xkcd.com/793)
+Title - [Hair Growth Rate](https://xkcd.com/2316)
 
-![Physicists](./random_comic.png)
+![Hair Growth Rate](./random_comic.png)
 
-Description - If you need some help with the math, let me know, but that should be enough to get you started! Huh? No, I don't need to read your thesis, I can imagine roughly what it says.
+Description - Hourly haircuts would be annoying, but they'd be easier to do yourself, since you'd have adjacent hairs as a guide. Growing it out would be a huge pain, though.
 
 -----------------------------------
