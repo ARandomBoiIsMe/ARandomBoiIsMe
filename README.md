@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Best-Tasting Colors](https://xkcd.com/1811)
+Title - [Technically](https://xkcd.com/1475)
 
-![Best-Tasting Colors](./random_comic.png)
+![Technically](./random_comic.png)
 
-Description - I recognize that chocolate is its own thing on which reasonable people may differ. Everything else here is objective fact.
+Description - "Technically that sentence started with 'well', so--" "Ooh, a rock with a fossil in it!"
 
 -----------------------------------
