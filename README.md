@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Rainbow](https://xkcd.com/1684)
+Title - [Best-Tasting Colors](https://xkcd.com/1811)
 
-![Rainbow](./random_comic.png)
+![Best-Tasting Colors](./random_comic.png)
 
-Description - Listen, in a few thousand years you'll invent a game called 'SimCity' which has a 'disaster' button, and then you'll understand.
+Description - I recognize that chocolate is its own thing on which reasonable people may differ. Everything else here is objective fact.
 
 -----------------------------------
