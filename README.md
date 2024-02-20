@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Religions](https://xkcd.com/900)
+Title - [Wish Interpretation](https://xkcd.com/2741)
 
-![Religions](./random_comic.png)
+![Wish Interpretation](./random_comic.png)
 
-Description - But to us there is but one God, plus or minus one. --1 Corinthians 8:6±2.
+Description - "I wish for everything in the world. All the people, money, trees, etc." "Are you SURE you--" "And I want you to put it in my house."
 
 -----------------------------------
