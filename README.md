@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Wish Interpretation](https://xkcd.com/2741)
+Title - [Trash](https://xkcd.com/1786)
 
-![Wish Interpretation](./random_comic.png)
+![Trash](./random_comic.png)
 
-Description - "I wish for everything in the world. All the people, money, trees, etc." "Are you SURE you--" "And I want you to put it in my house."
+Description - Plus, time's all weird in there, so most of it probably broke down and decomposed hundreds of years ago. Which reminds me, I've been meaning to get in touch with Yucca Mountain to see if they're interested in a partnership.
 
 -----------------------------------
