@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Sourdough Starter](https://xkcd.com/2296)
+Title - [Lisp](https://xkcd.com/224)
 
-![Sourdough Starter](./random_comic.png)
+![Lisp](./random_comic.png)
 
-Description - Once the lockdown is over, let's all get together and swap starters!
+Description - We lost the documentation on quantum mechanics.  You'll have to decode the regexes yourself.
 
 -----------------------------------
