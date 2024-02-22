@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Tractor Beam](https://xkcd.com/2579)
+Title - [Margaret](https://xkcd.com/1544)
 
-![Tractor Beam](./random_comic.png)
+![Margaret](./random_comic.png)
 
-Description - Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?
+Description - Otherwise known as Margaret the Destroyer, I will bring pain to the the Great One. Then again, maybe I won't.
 
 -----------------------------------
