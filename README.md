@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Margaret](https://xkcd.com/1544)
+Title - [Post-Vaccine Party](https://xkcd.com/2437)
 
-![Margaret](./random_comic.png)
+![Post-Vaccine Party](./random_comic.png)
 
-Description - Otherwise known as Margaret the Destroyer, I will bring pain to the the Great One. Then again, maybe I won't.
+Description - [Future update] Well, someone accidentally dropped an M&M in their cup of ice water, and we all panicked and scattered.
 
 -----------------------------------
