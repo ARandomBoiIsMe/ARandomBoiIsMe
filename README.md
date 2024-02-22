@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Moving Boxes](https://xkcd.com/1762)
+Title - [Tractor Beam](https://xkcd.com/2579)
 
-![Moving Boxes](./random_comic.png)
+![Tractor Beam](./random_comic.png)
 
-Description - Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.
+Description - Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?
 
 -----------------------------------
