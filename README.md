@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [RBA](https://xkcd.com/464)
+Title - [Desecration](https://xkcd.com/782)
 
-![RBA](./random_comic.png)
+![Desecration](./random_comic.png)
 
-Description - This is a story all about how I started drinking.
+Description - It gets worse! You know that wizened old monk with the gypsy wife whose voodoo shop we smash up every day after school?
 
 -----------------------------------
