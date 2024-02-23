@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [I'm An Idiot](https://xkcd.com/530)
+Title - [Juicer](https://xkcd.com/1265)
 
-![I'm An Idiot](./random_comic.png)
+![Juicer](./random_comic.png)
 
-Description - Sadly, this is a true story.  At least I learned about the OS X 'say' command.
+Description - But the rind is where all the vitamins are!
 
 -----------------------------------
