@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Higgs Boson](https://xkcd.com/1437)
+Title - [I'm An Idiot](https://xkcd.com/530)
 
-![Higgs Boson](./random_comic.png)
+![I'm An Idiot](./random_comic.png)
 
-Description - 'Can't you just use the LHC you already built to find it again?' 'We MAY have disassembled it to build a death ray.' 'Just one, though.' 'Nothing you should worry about.' 'The death isn't even very serious.'
+Description - Sadly, this is a true story.  At least I learned about the OS X 'say' command.
 
 -----------------------------------
