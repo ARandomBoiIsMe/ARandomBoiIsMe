@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Desecration](https://xkcd.com/782)
+Title - [Higgs Boson](https://xkcd.com/1437)
 
-![Desecration](./random_comic.png)
+![Higgs Boson](./random_comic.png)
 
-Description - It gets worse! You know that wizened old monk with the gypsy wife whose voodoo shop we smash up every day after school?
+Description - 'Can't you just use the LHC you already built to find it again?' 'We MAY have disassembled it to build a death ray.' 'Just one, though.' 'Nothing you should worry about.' 'The death isn't even very serious.'
 
 -----------------------------------
