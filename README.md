@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Juicer](https://xkcd.com/1265)
+Title - [Well 2](https://xkcd.com/568)
 
-![Juicer](./random_comic.png)
+![Well 2](./random_comic.png)
 
-Description - But the rind is where all the vitamins are!
+Description - But I've made $13.72 already today!  Ow, stop throwing pennies.
 
 -----------------------------------
