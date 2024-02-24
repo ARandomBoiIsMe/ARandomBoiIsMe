@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hydropower Breakthrough](https://xkcd.com/2710)
+Title - [Star Wars Spoiler Generator](https://xkcd.com/2243)
 
-![Hydropower Breakthrough](./random_comic.png)
+![Star Wars Spoiler Generator](./random_comic.png)
 
-Description - A hydroelectric dam is also known as a heavy water reactor.
+Description - The heroes seem to be gaining the upper hand until Darth Juul manages to flip the switch on the car wash control panel from 'REGULAR' to 'PREMIUM.'
 
 -----------------------------------
