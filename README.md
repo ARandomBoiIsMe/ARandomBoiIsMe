@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Star Wars Spoiler Generator](https://xkcd.com/2243)
+Title - [Honest](https://xkcd.com/1146)
 
-![Star Wars Spoiler Generator](./random_comic.png)
+![Honest](./random_comic.png)
 
-Description - The heroes seem to be gaining the upper hand until Darth Juul manages to flip the switch on the car wash control panel from 'REGULAR' to 'PREMIUM.'
+Description - I didn't understand what you meant. I still don't. But I'll figure it out soon!
 
 -----------------------------------
