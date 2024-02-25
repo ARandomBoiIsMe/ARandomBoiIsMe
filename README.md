@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Honest](https://xkcd.com/1146)
+Title - [Logical](https://xkcd.com/1901)
 
-![Honest](./random_comic.png)
+![Logical](./random_comic.png)
 
-Description - I didn't understand what you meant. I still don't. But I'll figure it out soon!
+Description - It's like I've always said--people just need more common sense. But not the kind of common sense that lets them figure out that they're being condescended to by someone who thinks they're stupid, because then I'll be in trouble.
 
 -----------------------------------
