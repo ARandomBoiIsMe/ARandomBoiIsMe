@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [3D](https://xkcd.com/848)
+Title - [Stories of the Past and Future](https://xkcd.com/1491)
 
-![3D](./random_comic.png)
+![Stories of the Past and Future](./random_comic.png)
 
-Description - The LINACs in the glasses frames can barely manage one MeV. You should've gone to the screening at CERN.
+Description - Little-known fact: The 'Dawn of Man' opening sequence in 2001 cuts away seconds before the Flintstones theme becomes recognizable.
 
 -----------------------------------
