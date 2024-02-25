@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Logical](https://xkcd.com/1901)
+Title - [3D](https://xkcd.com/848)
 
-![Logical](./random_comic.png)
+![3D](./random_comic.png)
 
-Description - It's like I've always said--people just need more common sense. But not the kind of common sense that lets them figure out that they're being condescended to by someone who thinks they're stupid, because then I'll be in trouble.
+Description - The LINACs in the glasses frames can barely manage one MeV. You should've gone to the screening at CERN.
 
 -----------------------------------
