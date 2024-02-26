@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hamiltonian](https://xkcd.com/230)
+Title - [Car Problems](https://xkcd.com/1014)
 
-![Hamiltonian](./random_comic.png)
+![Car Problems](./random_comic.png)
 
-Description - The problem with perspective is that it's bidirectional.
+Description - Or if you replace your car, we'll be happy to set it on fire again so you can take another crack at getting that shot.
 
 -----------------------------------
