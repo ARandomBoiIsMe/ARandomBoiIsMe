@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Meteor Showers](https://xkcd.com/1249)
+Title - [Emulation](https://xkcd.com/2221)
 
-![Meteor Showers](./random_comic.png)
+![Emulation](./random_comic.png)
 
-Description - Remember, meteors always hit the tallest object around.
+Description - I laugh at the software as if I'm 100% confident that it's 2019.
 
 -----------------------------------
