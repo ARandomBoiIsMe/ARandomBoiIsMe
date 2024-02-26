@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Emulation](https://xkcd.com/2221)
+Title - [Typical Seating Chart](https://xkcd.com/2862)
 
-![Emulation](./random_comic.png)
+![Typical Seating Chart](./random_comic.png)
 
-Description - I laugh at the software as if I'm 100% confident that it's 2019.
+Description - Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole.
 
 -----------------------------------
