@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Duty Calls](https://xkcd.com/386)
+Title - [H-alpha](https://xkcd.com/2484)
 
-![Duty Calls](./random_comic.png)
+![H-alpha](./random_comic.png)
 
-Description - What do you want me to do?  LEAVE?  Then they'll keep being wrong!
+Description - "All the companies whose blimps I shot fireworks at are mad, but MetLife is especially miffed because I dressed up as the Red Baron."
 
 -----------------------------------
