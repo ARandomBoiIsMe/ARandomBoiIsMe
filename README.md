@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [H-alpha](https://xkcd.com/2484)
+Title - [The Race: Part 5](https://xkcd.com/581)
 
-![H-alpha](./random_comic.png)
+![The Race: Part 5](./random_comic.png)
 
-Description - "All the companies whose blimps I shot fireworks at are mad, but MetLife is especially miffed because I dressed up as the Red Baron."
+Description - It was actually canceled because they just noticed he's been naked under that coat the whole time.  There's a petition on Facebook to get Fox to un-cancel it, and one on Livejournal to get him to take off the coat.
 
 -----------------------------------
