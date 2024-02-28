@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Geochronology](https://xkcd.com/1829)
+Title - [Branding](https://xkcd.com/624)
 
-![Geochronology](./random_comic.png)
+![Branding](./random_comic.png)
 
-Description - 'The mountains near here formed when the ... Newfoundland ... microplate collided with, uhh ... Labrador.' 'Ok, now you're definitely just naming dogs.' 'Wait, no, that's actually almost correct.'
+Description - Actually, 'RSS&M' is kinda catchy.
 
 -----------------------------------
