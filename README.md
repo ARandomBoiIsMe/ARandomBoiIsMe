@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Friends](https://xkcd.com/513)
+Title - [Tabletop Roleplaying](https://xkcd.com/244)
 
-![Friends](./random_comic.png)
+![Tabletop Roleplaying](./random_comic.png)
 
-Description - Friends with detriments.
+Description - I may have also tossed one of a pair of teleportation rings into the ocean, with interesting results.
 
 -----------------------------------
