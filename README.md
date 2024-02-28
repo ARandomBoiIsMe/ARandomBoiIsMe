@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Tabletop Roleplaying](https://xkcd.com/244)
+Title - [Geochronology](https://xkcd.com/1829)
 
-![Tabletop Roleplaying](./random_comic.png)
+![Geochronology](./random_comic.png)
 
-Description - I may have also tossed one of a pair of teleportation rings into the ocean, with interesting results.
+Description - 'The mountains near here formed when the ... Newfoundland ... microplate collided with, uhh ... Labrador.' 'Ok, now you're definitely just naming dogs.' 'Wait, no, that's actually almost correct.'
 
 -----------------------------------
