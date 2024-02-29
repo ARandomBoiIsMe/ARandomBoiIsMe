@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Siren](https://xkcd.com/2547)
+Title - [Killed In Action](https://xkcd.com/1113)
 
-![Siren](./random_comic.png)
+![Killed In Action](./random_comic.png)
 
-Description - Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry
+Description - We can't let this happen again. We need to build a secure TWO-day-before-retirement safe room.
 
 -----------------------------------
