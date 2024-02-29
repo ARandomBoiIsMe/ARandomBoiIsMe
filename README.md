@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Branding](https://xkcd.com/624)
+Title - [Scribblenauts](https://xkcd.com/637)
 
-![Branding](./random_comic.png)
+![Scribblenauts](./random_comic.png)
 
-Description - Actually, 'RSS&M' is kinda catchy.
+Description - Let me look away and type 'guy who's just jealous that I beat all his MarioKart times' and turn back, and ... yup, there you are again!
 
 -----------------------------------
