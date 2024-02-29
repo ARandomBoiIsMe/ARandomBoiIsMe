@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Scribblenauts](https://xkcd.com/637)
+Title - [Siren](https://xkcd.com/2547)
 
-![Scribblenauts](./random_comic.png)
+![Siren](./random_comic.png)
 
-Description - Let me look away and type 'guy who's just jealous that I beat all his MarioKart times' and turn back, and ... yup, there you are again!
+Description - Directions from CITY OF TROY to ITHACA / Total time: 10y 54d 14h 25m / Warning: Route crosses an international border / route includes capture by the goddess Calypso / route includes a ferry
 
 -----------------------------------
