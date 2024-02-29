@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Killed In Action](https://xkcd.com/1113)
+Title - [Security](https://xkcd.com/538)
 
-![Killed In Action](./random_comic.png)
+![Security](./random_comic.png)
 
-Description - We can't let this happen again. We need to build a secure TWO-day-before-retirement safe room.
+Description - Actual actual reality: nobody cares about his secrets.  (Also, I would be hard-pressed to find that wrench for $5.)
 
 -----------------------------------
