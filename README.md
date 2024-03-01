@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Security](https://xkcd.com/538)
+Title - [TMI](https://xkcd.com/1369)
 
-![Security](./random_comic.png)
+![TMI](./random_comic.png)
 
-Description - Actual actual reality: nobody cares about his secrets.  (Also, I would be hard-pressed to find that wrench for $5.)
+Description - 'TMI' he whispered, gazing into the sea.
 
 -----------------------------------
