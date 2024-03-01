@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Angular Size](https://xkcd.com/1276)
+Title - [Permanence](https://xkcd.com/910)
 
-![Angular Size](./random_comic.png)
+![Permanence](./random_comic.png)
 
-Description - If the celestial sphere were mapped to the Earth's surface, astronomy would get a LOT easier; you'd just need a magnifying glass.
+Description - This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!
 
 -----------------------------------
