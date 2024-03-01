@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Permanence](https://xkcd.com/910)
+Title - [Romantic Drama Equation](https://xkcd.com/216)
 
-![Permanence](./random_comic.png)
+![Romantic Drama Equation](./random_comic.png)
 
-Description - This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!
+Description - Real-life prospective-pairing curves over things like age can get depressing.
 
 -----------------------------------
