@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Food Rule](https://xkcd.com/1587)
+Title - [Redshift](https://xkcd.com/2853)
 
-![Food Rule](./random_comic.png)
+![Redshift](./random_comic.png)
 
-Description - I won't eat invertebrates, because I can fight a skeleton, but I have no idea what kind of spooky warrior a squid leaves behind.
+Description - So do you have any plans for z=-0.000000000000045?
 
 -----------------------------------
