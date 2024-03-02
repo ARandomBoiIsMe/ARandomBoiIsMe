@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Dual USB-C](https://xkcd.com/2493)
+Title - [Food Rule](https://xkcd.com/1587)
 
-![Dual USB-C](./random_comic.png)
+![Food Rule](./random_comic.png)
 
-Description - Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.
+Description - I won't eat invertebrates, because I can fight a skeleton, but I have no idea what kind of spooky warrior a squid leaves behind.
 
 -----------------------------------
