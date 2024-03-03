@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Genetic Analysis](https://xkcd.com/830)
+Title - [Trade Expert](https://xkcd.com/727)
 
-![Genetic Analysis](./random_comic.png)
+![Trade Expert](./random_comic.png)
 
-Description - There's still a chance you were conceived via IVF. But we've checked your mom's college yearbook photos, and whether or not she and your father had sex, it's clear that ... listen, I know this is hard for you.
+Description - I mean, it's been almost twenty years. Now, it's possible you're simply embedding Windows directory paths in your URIs, but in that case you need more than just a short lecture.
 
 -----------------------------------
