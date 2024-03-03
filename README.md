@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Redshift](https://xkcd.com/2853)
+Title - [Incinerator](https://xkcd.com/1821)
 
-![Redshift](./random_comic.png)
+![Incinerator](./random_comic.png)
 
-Description - So do you have any plans for z=-0.000000000000045?
+Description - My trash can broke recently and I had to get rid of it. When I picked it up, I suffered a brief but harrowing existential crisis.
 
 -----------------------------------
