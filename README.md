@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Troll Slayer](https://xkcd.com/591)
+Title - [Genetic Analysis](https://xkcd.com/830)
 
-![Troll Slayer](./random_comic.png)
+![Genetic Analysis](./random_comic.png)
 
-Description - We have met the enemy and he is us.
+Description - There's still a chance you were conceived via IVF. But we've checked your mom's college yearbook photos, and whether or not she and your father had sex, it's clear that ... listen, I know this is hard for you.
 
 -----------------------------------
