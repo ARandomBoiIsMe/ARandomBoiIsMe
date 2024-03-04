@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Trade Expert](https://xkcd.com/727)
+Title - [Galilean Moons](https://xkcd.com/1300)
 
-![Trade Expert](./random_comic.png)
+![Galilean Moons](./random_comic.png)
 
-Description - I mean, it's been almost twenty years. Now, it's possible you're simply embedding Windows directory paths in your URIs, but in that case you need more than just a short lecture.
+Description - I'm SO glad I escaped. They almost had me caught in their weird ... thing.
 
 -----------------------------------
