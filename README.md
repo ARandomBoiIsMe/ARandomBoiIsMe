@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Raven](https://xkcd.com/133)
+Title - [Banter](https://xkcd.com/65)
 
-![The Raven](./random_comic.png)
+![Banter](./random_comic.png)
 
-Description - Yes, Eminem is wearing a sleeveless hoodie.  What of it?
+Description - This was an actual mock conversation between me and a friend at TGiF.  The waitress walked up around panel 5 and was somewhat put off.
 
 -----------------------------------
