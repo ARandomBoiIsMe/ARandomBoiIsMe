@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Galilean Moons](https://xkcd.com/1300)
+Title - [The Raven](https://xkcd.com/133)
 
-![Galilean Moons](./random_comic.png)
+![The Raven](./random_comic.png)
 
-Description - I'm SO glad I escaped. They almost had me caught in their weird ... thing.
+Description - Yes, Eminem is wearing a sleeveless hoodie.  What of it?
 
 -----------------------------------
