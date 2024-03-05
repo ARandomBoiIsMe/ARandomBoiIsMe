@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Wish Interpretation](https://xkcd.com/2741)
+Title - [Spore](https://xkcd.com/480)
 
-![Wish Interpretation](./random_comic.png)
+![Spore](./random_comic.png)
 
-Description - "I wish for everything in the world. All the people, money, trees, etc." "Are you SURE you--" "And I want you to put it in my house."
+Description - Way to not support the GMA 950 under OS X, Spore.  :(
 
 -----------------------------------
