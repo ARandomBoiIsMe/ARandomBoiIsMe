@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Spore](https://xkcd.com/480)
+Title - [Etymology](https://xkcd.com/890)
 
-![Spore](./random_comic.png)
+![Etymology](./random_comic.png)
 
-Description - Way to not support the GMA 950 under OS X, Spore.  :(
+Description - For some reason, my childhood suspension of disbelief had no problem with the fact that this ancient galaxy is full of humans, but was derailed by language. There's no Asia OR Europe there, so where'd they get all the Indo-European roots?
 
 -----------------------------------
