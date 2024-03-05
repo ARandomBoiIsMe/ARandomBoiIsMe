@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Literary Opinions](https://xkcd.com/2162)
+Title - [Blagofaire](https://xkcd.com/239)
 
-![Literary Opinions](./random_comic.png)
+![Blagofaire](./random_comic.png)
 
-Description - If I really focus, I can distinguish between John Steinbeck and John Updike, or between Gore Vidal and Vidal Sassoon, but not both at once.
+Description - Things were better before the Structuring and the Levels.
 
 -----------------------------------
