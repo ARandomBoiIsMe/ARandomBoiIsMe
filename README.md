@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Blagofaire](https://xkcd.com/239)
+Title - [Wish Interpretation](https://xkcd.com/2741)
 
-![Blagofaire](./random_comic.png)
+![Wish Interpretation](./random_comic.png)
 
-Description - Things were better before the Structuring and the Levels.
+Description - "I wish for everything in the world. All the people, money, trees, etc." "Are you SURE you--" "And I want you to put it in my house."
 
 -----------------------------------
