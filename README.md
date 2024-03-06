@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Summer Solstice](https://xkcd.com/2792)
+Title - [Stargazing 3](https://xkcd.com/2274)
 
-![Summer Solstice](./random_comic.png)
+![Stargazing 3](./random_comic.png)
 
-Description - Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)
+Description - If we can destroy enough of the lights in our region, we may see more comets, but that's a risk we'll have to take.
 
 -----------------------------------
