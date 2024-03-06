@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cutest-Sounding Scientific Effects](https://xkcd.com/2611)
+Title - [Summer Solstice](https://xkcd.com/2792)
 
-![Cutest-Sounding Scientific Effects](./random_comic.png)
+![Summer Solstice](./random_comic.png)
 
-Description - The Stroop-YORP number of a scientific paper is how many of the 16 finalist names (sans 'effect') it manages to casually sneak into the text.
+Description - Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)
 
 -----------------------------------
