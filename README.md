@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Moon and the Great Wall](https://xkcd.com/1921)
+Title - [Cutest-Sounding Scientific Effects](https://xkcd.com/2611)
 
-![The Moon and the Great Wall](./random_comic.png)
+![Cutest-Sounding Scientific Effects](./random_comic.png)
 
-Description - And arguably sunspots, on rare occasions. But even if they count, it takes ideal conditions and you might hurt your eyes.
+Description - The Stroop-YORP number of a scientific paper is how many of the 16 finalist names (sans 'effect') it manages to casually sneak into the text.
 
 -----------------------------------
