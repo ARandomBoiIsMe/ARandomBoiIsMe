@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Penny Arcade Parody](https://xkcd.com/160)
+Title - [A �](https://xkcd.com/1913)
 
-![Penny Arcade Parody](./random_comic.png)
+![A �](./random_comic.png)
 
-Description - No one show this to Tycho's wife, okay?
+Description - If you want in on the fun, map a key on your keyboard to the sequence U+0041 U+0020 U+FFFD (or U+0021 U+0020 U+FFFD for the exclamation point version), and then no update can never take this away from you.
 
 -----------------------------------
