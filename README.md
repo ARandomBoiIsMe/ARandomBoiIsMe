@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Scribblenauts](https://xkcd.com/637)
+Title - [Drama](https://xkcd.com/592)
 
-![Scribblenauts](./random_comic.png)
+![Drama](./random_comic.png)
 
-Description - Let me look away and type 'guy who's just jealous that I beat all his MarioKart times' and turn back, and ... yup, there you are again!
+Description - This happens in geek circles every so often. The 'Hey, this is just a system I can figure out easily!' is also a problem among engineers first diving into the stock market.
 
 -----------------------------------
