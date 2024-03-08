@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Useless](https://xkcd.com/55)
+Title - [Scribblenauts](https://xkcd.com/637)
 
-![Useless](./random_comic.png)
+![Scribblenauts](./random_comic.png)
 
-Description - Even the identity matrix doesn't work normally
+Description - Let me look away and type 'guy who's just jealous that I beat all his MarioKart times' and turn back, and ... yup, there you are again!
 
 -----------------------------------
