@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Old Accounts](https://xkcd.com/1250)
+Title - [Moving Boxes](https://xkcd.com/1762)
 
-![Old Accounts](./random_comic.png)
+![Moving Boxes](./random_comic.png)
 
-Description - If you close an account while it's still friends with people, it contributes to database linkage accumulation slowdown, which is a major looming problem for web infrastructure and definitely not a thing I just made up.
+Description - Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.
 
 -----------------------------------
