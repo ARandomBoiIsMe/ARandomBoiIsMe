@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Red spiders](https://xkcd.com/8)
+Title - [Advanced Techniques](https://xkcd.com/2595)
 
-![Red spiders](./random_comic.png)
+![Advanced Techniques](./random_comic.png)
 
-Description - They are six-legged spiders
+Description - A blow from Emmy's Cutlass of Variations will transport the dragon to a corresponding symmetric position in the Noetherworld.
 
 -----------------------------------
