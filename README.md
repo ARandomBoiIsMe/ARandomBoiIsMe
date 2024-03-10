@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Geologic Time](https://xkcd.com/2187)
+Title - [Meta Collecting](https://xkcd.com/2123)
 
-![Geologic Time](./random_comic.png)
+![Meta Collecting](./random_comic.png)
 
-Description - Ok, well, we'll be sure to pay you sometime soon, geologically speaking.
+Description - I'm trying to get the page locked because some jerk keeps adding "Yachts".
 
 -----------------------------------
