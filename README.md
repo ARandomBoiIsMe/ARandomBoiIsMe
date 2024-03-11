@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Meta Collecting](https://xkcd.com/2123)
+Title - [Motivation](https://xkcd.com/2154)
 
-![Meta Collecting](./random_comic.png)
+![Motivation](./random_comic.png)
 
-Description - I'm trying to get the page locked because some jerk keeps adding "Yachts".
+Description - What's even worse is, a month ago they transferred me to work on the game I was already playing, and suddenly I found myself procrastinating by playing the one I'd been assigned before. It's possible they're onto me and this is all part of the plan.
 
 -----------------------------------
