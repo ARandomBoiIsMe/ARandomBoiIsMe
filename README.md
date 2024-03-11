@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Eternal Flame](https://xkcd.com/961)
+Title - [Contact Merge](https://xkcd.com/2801)
 
-![Eternal Flame](./random_comic.png)
+![Contact Merge](./random_comic.png)
 
-Description - There's always the hope that if you sit and watch for long enough, the beachball will vanish and the thing it interrupted will return.
+Description - I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.
 
 -----------------------------------
