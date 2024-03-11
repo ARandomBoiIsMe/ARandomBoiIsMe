@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Tones](https://xkcd.com/479)
+Title - [Eternal Flame](https://xkcd.com/961)
 
-![Tones](./random_comic.png)
+![Eternal Flame](./random_comic.png)
 
-Description - I need a lawn, so I can yell at kids to stay off it.
+Description - There's always the hope that if you sit and watch for long enough, the beachball will vanish and the thing it interrupted will return.
 
 -----------------------------------
