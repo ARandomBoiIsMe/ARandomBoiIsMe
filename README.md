@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Facebook](https://xkcd.com/300)
+Title - [Linear Regression](https://xkcd.com/1725)
 
-![Facebook](./random_comic.png)
+![Linear Regression](./random_comic.png)
 
-Description - 'Here, I'll put my number in your cell pho -- wait, why is it already here?'
+Description - The 95% confidence interval suggests Rexthor's dog could also be a cat, or possibly a teapot.
 
 -----------------------------------
