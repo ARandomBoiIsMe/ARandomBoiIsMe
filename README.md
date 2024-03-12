@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Contact Merge](https://xkcd.com/2801)
+Title - [Facebook](https://xkcd.com/300)
 
-![Contact Merge](./random_comic.png)
+![Facebook](./random_comic.png)
 
-Description - I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.
+Description - 'Here, I'll put my number in your cell pho -- wait, why is it already here?'
 
 -----------------------------------
