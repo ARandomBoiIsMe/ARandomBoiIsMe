@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Linear Regression](https://xkcd.com/1725)
+Title - [Types](https://xkcd.com/1537)
 
-![Linear Regression](./random_comic.png)
+![Types](./random_comic.png)
 
-Description - The 95% confidence interval suggests Rexthor's dog could also be a cat, or possibly a teapot.
+Description - colors.rgb("blue") yields "#0000FF". colors.rgb("yellowish blue") yields NaN. colors.sort() yields "rainbow"
 
 -----------------------------------
