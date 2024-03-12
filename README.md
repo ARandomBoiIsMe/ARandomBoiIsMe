@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Types](https://xkcd.com/1537)
+Title - [Excel Lambda](https://xkcd.com/2453)
 
-![Types](./random_comic.png)
+![Excel Lambda](./random_comic.png)
 
-Description - colors.rgb("blue") yields "#0000FF". colors.rgb("yellowish blue") yields NaN. colors.sort() yields "rainbow"
+Description - Extremely rude how Turing's later formulations of the halting problem called me out by name specifically.
 
 -----------------------------------
