@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [DateTime](https://xkcd.com/2867)
+Title - [Common Cold Viruses](https://xkcd.com/2535)
 
-![DateTime](./random_comic.png)
+![Common Cold Viruses](./random_comic.png)
 
-Description - It's not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn't know and the Devil isn't telling.]
+Description - "It's not an influenza, but the onset has notes of the '09 H1N1 strain." "Ah yes, that was a good year for H1N1."
 
 -----------------------------------
