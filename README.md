@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Designated Drivers](https://xkcd.com/589)
+Title - [Contact Merge](https://xkcd.com/2801)
 
-![Designated Drivers](./random_comic.png)
+![Contact Merge](./random_comic.png)
 
-Description - Calling a cab means cutting into beer money.
+Description - I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.
 
 -----------------------------------
