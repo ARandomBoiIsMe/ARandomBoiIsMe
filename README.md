@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Excel Lambda](https://xkcd.com/2453)
+Title - [DateTime](https://xkcd.com/2867)
 
-![Excel Lambda](./random_comic.png)
+![DateTime](./random_comic.png)
 
-Description - Extremely rude how Turing's later formulations of the halting problem called me out by name specifically.
+Description - It's not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn't know and the Devil isn't telling.]
 
 -----------------------------------
