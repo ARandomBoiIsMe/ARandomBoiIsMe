@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Android Boyfriend](https://xkcd.com/600)
+Title - [COVID Risk Comfort Zone](https://xkcd.com/2346)
 
-![Android Boyfriend](./random_comic.png)
+![COVID Risk Comfort Zone](./random_comic.png)
 
-Description - Which is, coincidentally, the most unsettling mantlepiece decoration in my house.
+Description - I'm like a vampire, except I'm not crossing that threshold even if you invite me.
 
 -----------------------------------
