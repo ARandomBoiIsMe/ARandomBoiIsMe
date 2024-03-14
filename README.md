@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Contact Merge](https://xkcd.com/2801)
+Title - [The Race: Part 3](https://xkcd.com/579)
 
-![Contact Merge](./random_comic.png)
+![The Race: Part 3](./random_comic.png)
 
-Description - I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack.
+Description - No, the best things about The Sarah Connor Chronicles were: (1) watching Sarah and Cameron try to pass for normal, and (2) Cameron throwing people and things through walls.  Everything else was pretty secondary.
 
 -----------------------------------
