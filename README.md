@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Piano](https://xkcd.com/532)
+Title - [Android Boyfriend](https://xkcd.com/600)
 
-![Piano](./random_comic.png)
+![Android Boyfriend](./random_comic.png)
 
-Description - Good thing he didn't make it smaller, or it'd need someone three inches tall to play it.
+Description - Which is, coincidentally, the most unsettling mantlepiece decoration in my house.
 
 -----------------------------------
