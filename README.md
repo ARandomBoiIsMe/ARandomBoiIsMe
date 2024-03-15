@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Seat Selection](https://xkcd.com/726)
+Title - [Rocket Launch](https://xkcd.com/2087)
 
-![Seat Selection](./random_comic.png)
+![Rocket Launch](./random_comic.png)
 
-Description - Don't click on the wing.
+Description - NASA tries to coordinate launch timing with the Care Bears' cloud castle, but unfortunately sometimes collisions with stray Care Bears are unavoidable, so they just try to make the fairings sturdy and hope for a glancing impact.
 
 -----------------------------------
