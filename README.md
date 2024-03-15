@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Console Lines](https://xkcd.com/186)
+Title - [Elements](https://xkcd.com/965)
 
-![Console Lines](./random_comic.png)
+![Elements](./random_comic.png)
 
-Description - If I get a Wii, it will be the first game console I've owned.
+Description - Of all the nations, the armies of the ununoctium-benders are probably the least intimidating. The xenon-benders come close, but their flickery signs are at least effective for propaganda.
 
 -----------------------------------
