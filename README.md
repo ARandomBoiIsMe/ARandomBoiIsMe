@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [COVID Risk Comfort Zone](https://xkcd.com/2346)
+Title - [Seat Selection](https://xkcd.com/726)
 
-![COVID Risk Comfort Zone](./random_comic.png)
+![Seat Selection](./random_comic.png)
 
-Description - I'm like a vampire, except I'm not crossing that threshold even if you invite me.
+Description - Don't click on the wing.
 
 -----------------------------------
