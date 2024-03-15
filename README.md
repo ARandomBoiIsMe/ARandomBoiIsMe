@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Rocket Launch](https://xkcd.com/2087)
+Title - [Console Lines](https://xkcd.com/186)
 
-![Rocket Launch](./random_comic.png)
+![Console Lines](./random_comic.png)
 
-Description - NASA tries to coordinate launch timing with the Care Bears' cloud castle, but unfortunately sometimes collisions with stray Care Bears are unavoidable, so they just try to make the fairings sturdy and hope for a glancing impact.
+Description - If I get a Wii, it will be the first game console I've owned.
 
 -----------------------------------
