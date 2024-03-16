@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Revelation](https://xkcd.com/2512)
+Title - [Birds and Dinosaurs](https://xkcd.com/1211)
 
-![Revelation](./random_comic.png)
+![Birds and Dinosaurs](./random_comic.png)
 
-Description - And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.
+Description - Sure, T. rex is closer in height to Stegosaurus than a sparrow. But that doesn't tell you much; 'Dinosaur Comics' author Ryan North is closer in height to certain dinosaurs than to the average human.
 
 -----------------------------------
