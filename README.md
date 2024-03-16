@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Sky Color](https://xkcd.com/1145)
+Title - [Goldbach Conjectures](https://xkcd.com/1310)
 
-![Sky Color](./random_comic.png)
+![Goldbach Conjectures](./random_comic.png)
 
-Description - Feynman recounted another good one upperclassmen would use on freshmen physics students: When you look at words in a mirror, how come they're reversed left to right but not top to bottom? What's special about the horizontal axis?
+Description - The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true.
 
 -----------------------------------
