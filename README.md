@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Goldbach Conjectures](https://xkcd.com/1310)
+Title - [Revelation](https://xkcd.com/2512)
 
-![Goldbach Conjectures](./random_comic.png)
+![Revelation](./random_comic.png)
 
-Description - The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true.
+Description - And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.
 
 -----------------------------------
