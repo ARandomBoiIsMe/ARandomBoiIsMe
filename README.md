@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Elements](https://xkcd.com/965)
+Title - [Sky Color](https://xkcd.com/1145)
 
-![Elements](./random_comic.png)
+![Sky Color](./random_comic.png)
 
-Description - Of all the nations, the armies of the ununoctium-benders are probably the least intimidating. The xenon-benders come close, but their flickery signs are at least effective for propaganda.
+Description - Feynman recounted another good one upperclassmen would use on freshmen physics students: When you look at words in a mirror, how come they're reversed left to right but not top to bottom? What's special about the horizontal axis?
 
 -----------------------------------
