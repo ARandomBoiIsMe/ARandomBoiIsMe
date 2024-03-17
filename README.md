@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Rest and Fluids](https://xkcd.com/2580)
+Title - [Comments](https://xkcd.com/2159)
 
-![Rest and Fluids](./random_comic.png)
+![Comments](./random_comic.png)
 
-Description - Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.
+Description - NPR encourages you to add comments to their stories using the page inspector in your browser's developer tools. Note: Your comments are visible only to you, and will be lost when you refresh the page.
 
 -----------------------------------
