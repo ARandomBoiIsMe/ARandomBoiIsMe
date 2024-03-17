@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Clutter](https://xkcd.com/1983)
+Title - [Rest and Fluids](https://xkcd.com/2580)
 
-![Clutter](./random_comic.png)
+![Rest and Fluids](./random_comic.png)
 
-Description - I found a copy of The Life-Changing Magic of Tidying Up, but the idea of reading it didn't spark joy, so I gave it away.
+Description - Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.
 
 -----------------------------------
