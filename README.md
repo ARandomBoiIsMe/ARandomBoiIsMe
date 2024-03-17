@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Birds and Dinosaurs](https://xkcd.com/1211)
+Title - [Clutter](https://xkcd.com/1983)
 
-![Birds and Dinosaurs](./random_comic.png)
+![Clutter](./random_comic.png)
 
-Description - Sure, T. rex is closer in height to Stegosaurus than a sparrow. But that doesn't tell you much; 'Dinosaur Comics' author Ryan North is closer in height to certain dinosaurs than to the average human.
+Description - I found a copy of The Life-Changing Magic of Tidying Up, but the idea of reading it didn't spark joy, so I gave it away.
 
 -----------------------------------
