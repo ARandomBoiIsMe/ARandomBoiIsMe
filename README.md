@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Ring](https://xkcd.com/396)
+Title - [Moria](https://xkcd.com/760)
 
-![The Ring](./random_comic.png)
+![Moria](./random_comic.png)
 
-Description - On the other hand, poor Samara -- transcoded to FLV.  No one deserves that.
+Description - Someone should really bring them a ladder and remind them to build the Endless Stair *first* next time.
 
 -----------------------------------
