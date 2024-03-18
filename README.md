@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Moria](https://xkcd.com/760)
+Title - [Scientific Briefing](https://xkcd.com/2278)
 
-![Moria](./random_comic.png)
+![Scientific Briefing](./random_comic.png)
 
-Description - Someone should really bring them a ladder and remind them to build the Endless Stair *first* next time.
+Description - "I actually came in in the middle so I don't know which topic we're briefing on; the same slides work for like half of them."
 
 -----------------------------------
