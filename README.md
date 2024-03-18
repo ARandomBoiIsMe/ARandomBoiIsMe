@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Scientific Briefing](https://xkcd.com/2278)
+Title - [Prometheus](https://xkcd.com/1228)
 
-![Scientific Briefing](./random_comic.png)
+![Prometheus](./random_comic.png)
 
-Description - "I actually came in in the middle so I don't know which topic we're briefing on; the same slides work for like half of them."
+Description - 'I'm here to return what Prometheus stole.' would be a good thing to say if you were a fighter pilot in a Michael Bay movie where for some reason the world's militaries had to team up to defeat every god from human mythology, and you'd just broken through the perimeter and gotten a missile lock on Mount Olympus.
 
 -----------------------------------
