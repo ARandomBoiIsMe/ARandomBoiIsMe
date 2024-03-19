@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Time Capsule](https://xkcd.com/1617)
+Title - [Astrophysics](https://xkcd.com/1758)
 
-![Time Capsule](./random_comic.png)
+![Astrophysics](./random_comic.png)
 
-Description - Oh no, I changed the future and now I'm disappearing! Wait, never mind, it was just my hat slipping down over my eyes.
+Description - DEPARTMENT OF NEUROSCIENCE / Motto: "If I hear the phrase 'mirror neurons' I swear to God I will flip this table."
 
 -----------------------------------
