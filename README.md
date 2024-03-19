@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Not Really Into Pokemon](https://xkcd.com/178)
+Title - [Time Capsule](https://xkcd.com/1617)
 
-![Not Really Into Pokemon](./random_comic.png)
+![Time Capsule](./random_comic.png)
 
-Description - As of this writing, Ubuntu 6.10 and Firefox 2.0 have left my computer a complete mess.
+Description - Oh no, I changed the future and now I'm disappearing! Wait, never mind, it was just my hat slipping down over my eyes.
 
 -----------------------------------
