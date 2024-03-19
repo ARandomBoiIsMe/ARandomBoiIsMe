@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Astrophysics](https://xkcd.com/1758)
+Title - [Loud Party](https://xkcd.com/358)
 
-![Astrophysics](./random_comic.png)
+![Loud Party](./random_comic.png)
 
-Description - DEPARTMENT OF NEUROSCIENCE / Motto: "If I hear the phrase 'mirror neurons' I swear to God I will flip this table."
+Description - I'm glad this is so much fun because I'm not sure how we're getting down.
 
 -----------------------------------
