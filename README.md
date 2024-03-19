@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Loud Party](https://xkcd.com/358)
+Title - [Traffic Lights](https://xkcd.com/1116)
 
-![Loud Party](./random_comic.png)
+![Traffic Lights](./random_comic.png)
 
-Description - I'm glad this is so much fun because I'm not sure how we're getting down.
+Description - There's an intersection I drive through sometimes that has a forward green arrow, a red light, and a 'no turns' sign all on one pole. I honestly have no idea what it's telling me to do.
 
 -----------------------------------
