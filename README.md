@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Traffic Lights](https://xkcd.com/1116)
+Title - [Beautiful Dream](https://xkcd.com/800)
 
-![Traffic Lights](./random_comic.png)
+![Beautiful Dream](./random_comic.png)
 
-Description - There's an intersection I drive through sometimes that has a forward green arrow, a red light, and a 'no turns' sign all on one pole. I honestly have no idea what it's telling me to do.
+Description - Lucky. In MY dream, all the people who grew up loving The Giving Tree paired up with all the students who had weird dreams after reading The Metamorphosis. That one was more confusing.
 
 -----------------------------------
