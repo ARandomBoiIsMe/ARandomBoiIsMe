@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Beautiful Dream](https://xkcd.com/800)
+Title - [2016](https://xkcd.com/1624)
 
-![Beautiful Dream](./random_comic.png)
+![2016](./random_comic.png)
 
-Description - Lucky. In MY dream, all the people who grew up loving The Giving Tree paired up with all the students who had weird dreams after reading The Metamorphosis. That one was more confusing.
+Description - Want to feel old? Wait.
 
 -----------------------------------
