@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [2016](https://xkcd.com/1624)
+Title - [M87 Black Hole Size Comparison](https://xkcd.com/2135)
 
-![2016](./random_comic.png)
+![M87 Black Hole Size Comparison](./random_comic.png)
 
-Description - Want to feel old? Wait.
+Description - I think Voyager 1 would be just past the event horizon, but slightly less than halfway to the bright ring.
 
 -----------------------------------
