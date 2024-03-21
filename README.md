@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [TornadoGuard](https://xkcd.com/937)
+Title - [Extrapolating](https://xkcd.com/605)
 
-![TornadoGuard](./random_comic.png)
+![Extrapolating](./random_comic.png)
 
-Description - The bug report was marked 'could not reproduce'.
+Description - By the third trimester, there will be hundreds of babies inside you.
 
 -----------------------------------
