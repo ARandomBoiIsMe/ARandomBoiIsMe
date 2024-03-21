@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Scientist Tech Help](https://xkcd.com/2341)
+Title - [Eclipse Review](https://xkcd.com/1880)
 
-![Scientist Tech Help](./random_comic.png)
+![Eclipse Review](./random_comic.png)
 
-Description - I vaguely and irrationally resent how useful WebPlotDigitizer is.
+Description - I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.
 
 -----------------------------------
