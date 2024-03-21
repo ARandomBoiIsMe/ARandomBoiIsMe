@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Eclipse Review](https://xkcd.com/1880)
+Title - [Language Acquisition](https://xkcd.com/2839)
 
-![Eclipse Review](./random_comic.png)
+![Language Acquisition](./random_comic.png)
 
-Description - I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.
+Description - My first words were 'These were my first words; what were yours?'
 
 -----------------------------------
