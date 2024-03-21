@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Language Acquisition](https://xkcd.com/2839)
+Title - [TornadoGuard](https://xkcd.com/937)
 
-![Language Acquisition](./random_comic.png)
+![TornadoGuard](./random_comic.png)
 
-Description - My first words were 'These were my first words; what were yours?'
+Description - The bug report was marked 'could not reproduce'.
 
 -----------------------------------
