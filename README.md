@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Proteins](https://xkcd.com/1430)
+Title - [Keynote](https://xkcd.com/527)
 
-![Proteins](./random_comic.png)
+![Keynote](./random_comic.png)
 
-Description - Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!
+Description - He should be better soon -- now that the Apple Store is getting rid of DRM, Cory Doctorow will get rid of his Steve Jobs voodoo doll.
 
 -----------------------------------
