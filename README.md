@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Extrapolating](https://xkcd.com/605)
+Title - [River Border](https://xkcd.com/1986)
 
-![Extrapolating](./random_comic.png)
+![River Border](./random_comic.png)
 
-Description - By the third trimester, there will be hundreds of babies inside you.
+Description - I'm not a lawyer, but I believe zones like this are technically considered the high seas, so if you cut a pizza into a spiral there you could be charged with pieracy under marinaritime law.
 
 -----------------------------------
