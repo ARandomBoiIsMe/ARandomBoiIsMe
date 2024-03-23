@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Software Updates](https://xkcd.com/2224)
+Title - [Gyroscopes](https://xkcd.com/332)
 
-![Software Updates](./random_comic.png)
+![Gyroscopes](./random_comic.png)
 
-Description - Everything is a cloud application; the ping times just vary a lot.
+Description - We didn't actually land on the moon -- it just looked like we did because of precession.  Also, gyroscopes caused 9/11.
 
 -----------------------------------
