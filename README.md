@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Types](https://xkcd.com/1537)
+Title - [AI Research](https://xkcd.com/1696)
 
-![Types](./random_comic.png)
+![AI Research](./random_comic.png)
 
-Description - colors.rgb("blue") yields "#0000FF". colors.rgb("yellowish blue") yields NaN. colors.sort() yields "rainbow"
+Description - Lambda calculus? More like SHAMbda calculus, amirite?
 
 -----------------------------------
