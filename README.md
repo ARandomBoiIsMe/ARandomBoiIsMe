@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [AI Research](https://xkcd.com/1696)
+Title - [Nighttime Stories](https://xkcd.com/304)
 
-![AI Research](./random_comic.png)
+![Nighttime Stories](./random_comic.png)
 
-Description - Lambda calculus? More like SHAMbda calculus, amirite?
+Description - Cue angry letters from all seven fans of Xenocide.
 
 -----------------------------------
