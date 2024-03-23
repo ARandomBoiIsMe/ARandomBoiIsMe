@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Nighttime Stories](https://xkcd.com/304)
+Title - [Software Updates](https://xkcd.com/2224)
 
-![Nighttime Stories](./random_comic.png)
+![Software Updates](./random_comic.png)
 
-Description - Cue angry letters from all seven fans of Xenocide.
+Description - Everything is a cloud application; the ping times just vary a lot.
 
 -----------------------------------
