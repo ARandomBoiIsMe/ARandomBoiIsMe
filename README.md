@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Gyroscopes](https://xkcd.com/332)
+Title - [Gold](https://xkcd.com/2826)
 
-![Gyroscopes](./random_comic.png)
+![Gold](./random_comic.png)
 
-Description - We didn't actually land on the moon -- it just looked like we did because of precession.  Also, gyroscopes caused 9/11.
+Description - It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.
 
 -----------------------------------
