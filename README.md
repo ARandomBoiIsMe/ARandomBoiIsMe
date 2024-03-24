@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Umwelt](https://xkcd.com/1037)
+Title - [Sharks](https://xkcd.com/1326)
 
-![Umwelt](./random_comic.png)
+![Sharks](./random_comic.png)
 
-Description - Umwelt is the idea that because their senses pick up on different things, different animals in the same ecosystem actually live in very different worlds. Everything about you shapes the world you inhabit--from your ideology to your glasses prescription to your web browser.
+Description - 'Now, minions, I'm off to inspect our shark cages.' 'Do you really need to inspect them this often?' 'PRISONERS MUST NEVER ESCAPE.'
 
 -----------------------------------
