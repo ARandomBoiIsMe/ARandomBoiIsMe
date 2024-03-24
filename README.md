@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Gold](https://xkcd.com/2826)
+Title - [Umwelt](https://xkcd.com/1037)
 
-![Gold](./random_comic.png)
+![Umwelt](./random_comic.png)
 
-Description - It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.
+Description - Umwelt is the idea that because their senses pick up on different things, different animals in the same ecosystem actually live in very different worlds. Everything about you shapes the world you inhabit--from your ideology to your glasses prescription to your web browser.
 
 -----------------------------------
