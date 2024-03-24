@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Sharks](https://xkcd.com/1326)
+Title - [Sky Spotters](https://xkcd.com/1910)
 
-![Sharks](./random_comic.png)
+![Sky Spotters](./random_comic.png)
 
-Description - 'Now, minions, I'm off to inspect our shark cages.' 'Do you really need to inspect them this often?' 'PRISONERS MUST NEVER ESCAPE.'
+Description - Where I live, one of the most common categories of sky object without a weird obsessive spotting community is "lost birthday party balloons," so that might be a good choice—although you risk angering the marine wildlife people, and they have sharks.
 
 -----------------------------------
