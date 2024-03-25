@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Chemistry](https://xkcd.com/1442)
+Title - [Best-Tasting Colors](https://xkcd.com/1811)
 
-![Chemistry](./random_comic.png)
+![Best-Tasting Colors](./random_comic.png)
 
-Description - These are all sans-serif compounds. Serif compounds are dramatically different and usually much more reactive.
+Description - I recognize that chocolate is its own thing on which reasonable people may differ. Everything else here is objective fact.
 
 -----------------------------------
