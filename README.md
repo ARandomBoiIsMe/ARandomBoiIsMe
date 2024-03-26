@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Super Bowl](https://xkcd.com/60)
+Title - [Networking Problems](https://xkcd.com/2259)
 
-![Super Bowl](./random_comic.png)
+![Networking Problems](./random_comic.png)
 
-Description - The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose.  The 'watch it for the ads' addition was a master stroke.
+Description - LOOK, THE LATENCY FALLS EVERY TIME YOU CLAP YOUR HANDS AND SAY YOU BELIEVE
 
 -----------------------------------
