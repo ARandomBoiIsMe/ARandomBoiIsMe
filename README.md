@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Landscape (sketch)](https://xkcd.com/4)
+Title - [Microsoft](https://xkcd.com/1118)
 
-![Landscape (sketch)](./random_comic.png)
+![Microsoft](./random_comic.png)
 
-Description - There's a river flowing through the ocean
+Description - Facebook, Apple, and Google all got away with their monopolist power grabs because they don't have any 'S's in their names for critics to snarkily replace with '$'s.
 
 -----------------------------------
