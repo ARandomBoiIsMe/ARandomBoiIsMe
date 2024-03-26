@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Networking Problems](https://xkcd.com/2259)
+Title - [Undoing](https://xkcd.com/1119)
 
-![Networking Problems](./random_comic.png)
+![Undoing](./random_comic.png)
 
-Description - LOOK, THE LATENCY FALLS EVERY TIME YOU CLAP YOUR HANDS AND SAY YOU BELIEVE
+Description - I've been sneaking out at night and installing lamps on the underside of every photovoltaic panel I can find. Sure, there are upwards of 80% losses, but I prefer to think of them as nearly 20% gains.
 
 -----------------------------------
