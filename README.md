@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Drama](https://xkcd.com/592)
+Title - [Abstraction](https://xkcd.com/676)
 
-![Drama](./random_comic.png)
+![Abstraction](./random_comic.png)
 
-Description - This happens in geek circles every so often. The 'Hey, this is just a system I can figure out easily!' is also a problem among engineers first diving into the stock market.
+Description - If I'm such a god, why isn't Maru *my* cat?
 
 -----------------------------------
