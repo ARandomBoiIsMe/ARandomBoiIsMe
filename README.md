@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Microsoft](https://xkcd.com/1118)
+Title - [Drama](https://xkcd.com/592)
 
-![Microsoft](./random_comic.png)
+![Drama](./random_comic.png)
 
-Description - Facebook, Apple, and Google all got away with their monopolist power grabs because they don't have any 'S's in their names for critics to snarkily replace with '$'s.
+Description - This happens in geek circles every so often. The 'Hey, this is just a system I can figure out easily!' is also a problem among engineers first diving into the stock market.
 
 -----------------------------------
