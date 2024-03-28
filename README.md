@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Post-Pandemic Hat](https://xkcd.com/2430)
+Title - [Board Game Argument: Legacy](https://xkcd.com/2488)
 
-![Post-Pandemic Hat](./random_comic.png)
+![Board Game Argument: Legacy](./random_comic.png)
 
-Description - Plus a shirt that says "it feels like you're making eye contact."
+Description - Listen, you need to get over your reluctance to permanently alter a game. Now roll 2d6 to determine how many ounces of soda to spill into the box.
 
 -----------------------------------
