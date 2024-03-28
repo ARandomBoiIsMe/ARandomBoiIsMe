@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Leap Smearing](https://xkcd.com/2266)
+Title - [Long Light](https://xkcd.com/277)
 
-![Leap Smearing](./random_comic.png)
+![Long Light](./random_comic.png)
 
-Description - Some people suspect that it started as a "No, I didn't forget Valentine's Day" excuse that got out of hand.
+Description - You can look at practically any part of anything manmade around you and think 'some engineer was frustrated while designing this.'  It's a little human connection.
 
 -----------------------------------
