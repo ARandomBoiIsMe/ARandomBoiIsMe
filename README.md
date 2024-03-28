@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Long Light](https://xkcd.com/277)
+Title - [Post-Pandemic Hat](https://xkcd.com/2430)
 
-![Long Light](./random_comic.png)
+![Post-Pandemic Hat](./random_comic.png)
 
-Description - You can look at practically any part of anything manmade around you and think 'some engineer was frustrated while designing this.'  It's a little human connection.
+Description - Plus a shirt that says "it feels like you're making eye contact."
 
 -----------------------------------
