@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Base System](https://xkcd.com/540)
+Title - [Debugging](https://xkcd.com/1722)
 
-![Base System](./random_comic.png)
+![Debugging](./random_comic.png)
 
-Description - I once got to second base with a basketball player.  She was so confused.
+Description - When you Google an error message and it gets no results, you can be pretty sure you've found a clue to the location of Martin's sword.
 
 -----------------------------------
