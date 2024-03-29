@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Debugging](https://xkcd.com/1722)
+Title - [Children's Fantasy](https://xkcd.com/693)
 
-![Debugging](./random_comic.png)
+![Children's Fantasy](./random_comic.png)
 
-Description - When you Google an error message and it gets no results, you can be pretty sure you've found a clue to the location of Martin's sword.
+Description - I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.
 
 -----------------------------------
