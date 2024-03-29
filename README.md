@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Baby](https://xkcd.com/1650)
+Title - [Flashlights](https://xkcd.com/1603)
 
-![Baby](./random_comic.png)
+![Flashlights](./random_comic.png)
 
-Description - Does it get taller first and then widen, or does it reach full width before getting taller, or alternate, or what?
+Description - Due to a typo, I initially found a forum for serious Fleshlight enthusiasts, and it turns out their highest-end models are ALSO capable of setting trees on fire. They're impossible to use without severe burns, but some of them swear it's worth it.
 
 -----------------------------------
