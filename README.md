@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Children's Fantasy](https://xkcd.com/693)
+Title - [Baby](https://xkcd.com/1650)
 
-![Children's Fantasy](./random_comic.png)
+![Baby](./random_comic.png)
 
-Description - I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.
+Description - Does it get taller first and then widen, or does it reach full width before getting taller, or alternate, or what?
 
 -----------------------------------
