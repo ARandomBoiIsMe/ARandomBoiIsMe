@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Graffiti](https://xkcd.com/229)
+Title - [Choices: Part 1](https://xkcd.com/264)
 
-![Graffiti](./random_comic.png)
+![Choices: Part 1](./random_comic.png)
 
-Description - FOR AN INTRIGUING TIME CALL
+Description - Wait, damn, I think I spotted a new email on the last refresh.
 
 -----------------------------------
