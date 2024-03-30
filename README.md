@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Choices: Part 1](https://xkcd.com/264)
+Title - [Positive and Negative Reviews](https://xkcd.com/1869)
 
-![Choices: Part 1](./random_comic.png)
+![Positive and Negative Reviews](./random_comic.png)
 
-Description - Wait, damn, I think I spotted a new email on the last refresh.
+Description - This restaurant is great! I was feeling really sick, but then I ate there and felt better!
 
 -----------------------------------
