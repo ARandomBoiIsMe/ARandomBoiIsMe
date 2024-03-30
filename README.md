@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Flashlights](https://xkcd.com/1603)
+Title - [Move Fast and Break Things](https://xkcd.com/1428)
 
-![Flashlights](./random_comic.png)
+![Move Fast and Break Things](./random_comic.png)
 
-Description - Due to a typo, I initially found a forum for serious Fleshlight enthusiasts, and it turns out their highest-end models are ALSO capable of setting trees on fire. They're impossible to use without severe burns, but some of them swear it's worth it.
+Description - I was almost fired from a job driving the hearse in funeral processions, but then the funeral home realized how much business I was creating for them.
 
 -----------------------------------
