@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Data Error](https://xkcd.com/2239)
+Title - [3x9](https://xkcd.com/759)
 
-![Data Error](./random_comic.png)
+![3x9](./random_comic.png)
 
-Description - Cyanobacteria wiped out nearly all life on Earth once before, and they can do it again!
+Description - Handy exam trick: when you know the answer but not the correct derivation, derive blindly forward from the givens and backward from the answer, and join the chains once the equations start looking similar. Sometimes the graders don't notice the seam.
 
 -----------------------------------
