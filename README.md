@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Thinking Ahead](https://xkcd.com/439)
+Title - [Geohydrotypography](https://xkcd.com/2803)
 
-![Thinking Ahead](./random_comic.png)
+![Geohydrotypography](./random_comic.png)
 
-Description - Did he just go crazy and jump out the window?
+Description - The Atlantic is expanding at about 10 ppm (points per month).
 
 -----------------------------------
