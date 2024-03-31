@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Geohydrotypography](https://xkcd.com/2803)
+Title - [Data Error](https://xkcd.com/2239)
 
-![Geohydrotypography](./random_comic.png)
+![Data Error](./random_comic.png)
 
-Description - The Atlantic is expanding at about 10 ppm (points per month).
+Description - Cyanobacteria wiped out nearly all life on Earth once before, and they can do it again!
 
 -----------------------------------
