@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Atoms](https://xkcd.com/1490)
+Title - [Emotion](https://xkcd.com/1048)
 
-![Atoms](./random_comic.png)
+![Emotion](./random_comic.png)
 
-Description - When I was little I had trouble telling my dad apart from the dog. I always recognized my mom because she had a bunch of extra plutoniums in her middle. I never did ask her why ...
+Description - Fortunately, the internet has a virtually inexhaustible supply of code that doesn't work and people who are wrong, which bodes well for a return to normalcy. [Note: Click to read context for the cancer comics. She's doing well.]
 
 -----------------------------------
