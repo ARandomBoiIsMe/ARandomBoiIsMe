@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Emotion](https://xkcd.com/1048)
+Title - [Vaccine Guidance](https://xkcd.com/2434)
 
-![Emotion](./random_comic.png)
+![Vaccine Guidance](./random_comic.png)
 
-Description - Fortunately, the internet has a virtually inexhaustible supply of code that doesn't work and people who are wrong, which bodes well for a return to normalcy. [Note: Click to read context for the cancer comics. She's doing well.]
+Description - I can't wait until I'm fully vaccinated and can safely send chat messages in all caps again.
 
 -----------------------------------
