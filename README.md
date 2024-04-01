@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Vaccine Guidance](https://xkcd.com/2434)
+Title - [Number of Computers](https://xkcd.com/1727)
 
-![Vaccine Guidance](./random_comic.png)
+![Number of Computers](./random_comic.png)
 
-Description - I can't wait until I'm fully vaccinated and can safely send chat messages in all caps again.
+Description - They try to pad their numbers in the annual reports by counting Galileo's redundant systems as multiple computers, but they're falling behind badly either way.
 
 -----------------------------------
