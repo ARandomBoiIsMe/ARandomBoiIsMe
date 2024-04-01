@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [3x9](https://xkcd.com/759)
+Title - [Atoms](https://xkcd.com/1490)
 
-![3x9](./random_comic.png)
+![Atoms](./random_comic.png)
 
-Description - Handy exam trick: when you know the answer but not the correct derivation, derive blindly forward from the givens and backward from the answer, and join the chains once the equations start looking similar. Sometimes the graders don't notice the seam.
+Description - When I was little I had trouble telling my dad apart from the dog. I always recognized my mom because she had a bunch of extra plutoniums in her middle. I never did ask her why ...
 
 -----------------------------------
