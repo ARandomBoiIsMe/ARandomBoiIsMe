@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Number of Computers](https://xkcd.com/1727)
+Title - [Dress Color](https://xkcd.com/1492)
 
-![Number of Computers](./random_comic.png)
+![Dress Color](./random_comic.png)
 
-Description - They try to pad their numbers in the annual reports by counting Galileo's redundant systems as multiple computers, but they're falling behind badly either way.
+Description - This white-balance illusion hit so hard because it felt like someone had been playing through the Monty Hall scenario and opened their chosen door, only to find there was unexpectedly disagreement over whether the thing they'd revealed was a goat or a car.
 
 -----------------------------------
