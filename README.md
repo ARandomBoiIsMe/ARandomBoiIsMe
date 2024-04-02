@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Girl sleeping (Sketch -- 11th grade Spanish class)](https://xkcd.com/7)
+Title - [Significant](https://xkcd.com/882)
 
-![Girl sleeping (Sketch -- 11th grade Spanish class)](./random_comic.png)
+![Significant](./random_comic.png)
 
-Description - I don't remember her name at all, but she fell asleep on the floor in front of me.
+Description - 'So, uh, we did the green study again and got no link. It was probably a--' 'RESEARCH CONFLICTED ON GREEN JELLY BEAN/ACNE LINK; MORE STUDY RECOMMENDED!'
 
 -----------------------------------
