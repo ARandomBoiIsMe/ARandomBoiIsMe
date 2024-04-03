@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Magnetic Pole](https://xkcd.com/2098)
+Title - [Doctor's Office](https://xkcd.com/2850)
 
-![Magnetic Pole](./random_comic.png)
+![Doctor's Office](./random_comic.png)
 
-Description - People keep trying to come up with reasons that we should worry about the magnetic field collapsing or reversing, but honestly I think it's fine. Whatever minor problems it causes will be made up for by the mid-latitude auroras.
+Description - "The police told me I can't be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to 'Police Headquarters' and then they have to do what I say."
 
 -----------------------------------
