@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Is it Christmas?](https://xkcd.com/2236)
+Title - [Magnetic Pole](https://xkcd.com/2098)
 
-![Is it Christmas?](./random_comic.png)
+![Magnetic Pole](./random_comic.png)
 
-Description - We've tested it on 30 different days and it hasn't gotten one wrong yet.
+Description - People keep trying to come up with reasons that we should worry about the magnetic field collapsing or reversing, but honestly I think it's fine. Whatever minor problems it causes will be made up for by the mid-latitude auroras.
 
 -----------------------------------
