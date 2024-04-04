@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hazard Symbol](https://xkcd.com/2038)
+Title - [Worst Ladder](https://xkcd.com/2375)
 
-![Hazard Symbol](./random_comic.png)
+![Worst Ladder](./random_comic.png)
 
-Description - The warning diamond on the Materials Safety Data Sheet for this stuff just has the "😰" emoji in all four fields.
+Description - [Six months later] "Well, our 'worst ladder' subscription series was a surprisingly lucrative success, but was completely canceled out by the losses from the disastrous Home Depot merchandising tie-in."
 
 -----------------------------------
