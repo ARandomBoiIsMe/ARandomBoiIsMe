@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Valentine - Karnaugh](https://xkcd.com/62)
+Title - [Secretary: Part 5](https://xkcd.com/498)
 
-![Valentine - Karnaugh](./random_comic.png)
+![Secretary: Part 5](./random_comic.png)
 
-Description - Love and circuit analysis, hand in hand at last.
+Description - And they choose Al Gore as Internet Secretary.
 
 -----------------------------------
