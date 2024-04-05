@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [British Map](https://xkcd.com/1759)
+Title - [Sourdough Starter](https://xkcd.com/2296)
 
-![British Map](./random_comic.png)
+![Sourdough Starter](./random_comic.png)
 
-Description - West Norsussex is east of East Norwessex, but they're both far north of Middlesex and West Norwex.
+Description - Once the lockdown is over, let's all get together and swap starters!
 
 -----------------------------------
