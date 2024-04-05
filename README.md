@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Pillar](https://xkcd.com/32)
+Title - [British Map](https://xkcd.com/1759)
 
-![Pillar](./random_comic.png)
+![British Map](./random_comic.png)
 
-Description - A comic by my brother Doug, redrawn and rewritten by me
+Description - West Norsussex is east of East Norwessex, but they're both far north of Middlesex and West Norwex.
 
 -----------------------------------
