@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Sourdough Starter](https://xkcd.com/2296)
+Title - [Optimization](https://xkcd.com/1691)
 
-![Sourdough Starter](./random_comic.png)
+![Optimization](./random_comic.png)
 
-Description - Once the lockdown is over, let's all get together and swap starters!
+Description - Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not.
 
 -----------------------------------
