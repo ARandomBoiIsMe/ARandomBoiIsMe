@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Secretary: Part 5](https://xkcd.com/498)
+Title - [Pillar](https://xkcd.com/32)
 
-![Secretary: Part 5](./random_comic.png)
+![Pillar](./random_comic.png)
 
-Description - And they choose Al Gore as Internet Secretary.
+Description - A comic by my brother Doug, redrawn and rewritten by me
 
 -----------------------------------
