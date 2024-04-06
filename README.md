@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Optimization](https://xkcd.com/1691)
+Title - [The Time Before and After Land](https://xkcd.com/2231)
 
-![Optimization](./random_comic.png)
+![The Time Before and After Land](./random_comic.png)
 
-Description - Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not.
+Description - According to Google, "the time for Beeland" is apparently whenever you're looking for delicious honey in Spillimacheen, British Columbia or a hexagonal chalet in the Savinja valley in Slovenia.
 
 -----------------------------------
