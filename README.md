@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Fermat's First Theorem](https://xkcd.com/2689)
+Title - [Hydrothermal Vents](https://xkcd.com/2872)
 
-![Fermat's First Theorem](./random_comic.png)
+![Hydrothermal Vents](./random_comic.png)
 
-Description - Mathematicians quickly determined that it spells ANT BNECN, an unusual theoretical dish which was not successfully cooked until Andrew Wiles made it for breakfast in the 1990s.
+Description - Benthic Santas weren't even discovered until the 1970s, but many scientists now believe Christmas may have originally developed around hydrothermal vents and only later migrated to the surface.
 
 -----------------------------------
