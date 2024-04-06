@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hydrothermal Vents](https://xkcd.com/2872)
+Title - [Future Archaeology](https://xkcd.com/1748)
 
-![Hydrothermal Vents](./random_comic.png)
+![Future Archaeology](./random_comic.png)
 
-Description - Benthic Santas weren't even discovered until the 1970s, but many scientists now believe Christmas may have originally developed around hydrothermal vents and only later migrated to the surface.
+Description - "The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."
 
 -----------------------------------
