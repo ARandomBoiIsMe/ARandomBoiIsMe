@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Is it Christmas?](https://xkcd.com/2236)
+Title - [New Robot](https://xkcd.com/2128)
 
-![Is it Christmas?](./random_comic.png)
+![New Robot](./random_comic.png)
 
-Description - We've tested it on 30 different days and it hasn't gotten one wrong yet.
+Description - "Some worry that we'll soon have a surplus of search and rescue robots, compared to the number of actual people in situations requiring search and rescue. That's where our other robot project comes in..."
 
 -----------------------------------
