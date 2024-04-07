@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [I Could Care Less](https://xkcd.com/1576)
+Title - [Couple](https://xkcd.com/355)
 
-![I Could Care Less](./random_comic.png)
+![Couple](./random_comic.png)
 
-Description - I literally could care less.
+Description - Facebook defines relationships.  'Yeah, we would have broken up last night, but the net connection was down.'
 
 -----------------------------------
