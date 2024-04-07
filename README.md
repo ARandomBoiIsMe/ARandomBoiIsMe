@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Future Archaeology](https://xkcd.com/1748)
+Title - [Is it Christmas?](https://xkcd.com/2236)
 
-![Future Archaeology](./random_comic.png)
+![Is it Christmas?](./random_comic.png)
 
-Description - "The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."
+Description - We've tested it on 30 different days and it hasn't gotten one wrong yet.
 
 -----------------------------------
