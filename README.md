@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Advanced Technology](https://xkcd.com/387)
+Title - [Wisdom Teeth](https://xkcd.com/861)
 
-![Advanced Technology](./random_comic.png)
+![Wisdom Teeth](./random_comic.png)
 
-Description - We are sexy, sexy Von Neumann machines.
+Description - I heard the general anesthesia drugs can cause amnesia, so when I woke up mid-extraction I started taking notes on my hand so I'd remember things later. I managed 'AWAKE BUT EVERYTHING OK' before the dental assistant managed to find and confiscate all my pens.
 
 -----------------------------------
