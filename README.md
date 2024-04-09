@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Loop](https://xkcd.com/1411)
+Title - [Language Development](https://xkcd.com/2567)
 
-![Loop](./random_comic.png)
+![Language Development](./random_comic.png)
 
-Description - Ugh, today's kids are forgetting the old-fashioned art of absentmindedly reading the same half-page of a book over and over and then letting your attention wander and picking up another book.
+Description - The worst is the Terrible Twos, when they're always throwing things and shrieking, "forsooth, to bed thou shalt not take me, cur!"
 
 -----------------------------------
