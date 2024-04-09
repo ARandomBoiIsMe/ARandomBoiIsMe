@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Krypton](https://xkcd.com/1384)
+Title - [Salary Negotiation](https://xkcd.com/2597)
 
-![Krypton](./random_comic.png)
+![Salary Negotiation](./random_comic.png)
 
-Description - Their Sun and gravity will make you, uh, something, I guess. Out of earshot from Earth, mostly.
+Description - "We can do 0.33 or 0.34, but our payroll software doesn't allow us to--" "NO DEAL."
 
 -----------------------------------
