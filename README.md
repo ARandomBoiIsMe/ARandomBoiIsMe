@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Salary Negotiation](https://xkcd.com/2597)
+Title - [Collatz Conjecture](https://xkcd.com/710)
 
-![Salary Negotiation](./random_comic.png)
+![Collatz Conjecture](./random_comic.png)
 
-Description - "We can do 0.33 or 0.34, but our payroll software doesn't allow us to--" "NO DEAL."
+Description - The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules.
 
 -----------------------------------
