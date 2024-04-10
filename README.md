@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Collatz Conjecture](https://xkcd.com/710)
+Title - [Trash Compactor Party](https://xkcd.com/2416)
 
-![Collatz Conjecture](./random_comic.png)
+![Trash Compactor Party](./random_comic.png)
 
-Description - The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules.
+Description - What an incredible smell you've discovered.
 
 -----------------------------------
