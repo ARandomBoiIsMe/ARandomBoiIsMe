@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Trash Compactor Party](https://xkcd.com/2416)
+Title - [Superintelligent AIs](https://xkcd.com/2635)
 
-![Trash Compactor Party](./random_comic.png)
+![Superintelligent AIs](./random_comic.png)
 
-Description - What an incredible smell you've discovered.
+Description - Your scientists were so preoccupied with whether or not they should, they didn't stop to think if they could.
 
 -----------------------------------
