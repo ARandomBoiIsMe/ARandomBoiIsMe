@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Superintelligent AIs](https://xkcd.com/2635)
+Title - [Exploits of a Mom](https://xkcd.com/327)
 
-![Superintelligent AIs](./random_comic.png)
+![Exploits of a Mom](./random_comic.png)
 
-Description - Your scientists were so preoccupied with whether or not they should, they didn't stop to think if they could.
+Description - Her daughter is named Help I'm trapped in a driver's license factory.
 
 -----------------------------------
