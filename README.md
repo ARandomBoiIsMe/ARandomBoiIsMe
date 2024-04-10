@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Exploits of a Mom](https://xkcd.com/327)
+Title - [Dwarf Fortress](https://xkcd.com/1223)
 
-![Exploits of a Mom](./random_comic.png)
+![Dwarf Fortress](./random_comic.png)
 
-Description - Her daughter is named Help I'm trapped in a driver's license factory.
+Description - I may be the kind of person who wastes a year implementing a Turing-complete computer in Dwarf Fortress, but that makes you the kind of person who wastes ten more getting that computer to run Minecraft.
 
 -----------------------------------
