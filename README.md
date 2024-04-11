@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Dwarf Fortress](https://xkcd.com/1223)
+Title - [Bad Map Projection: Time Zones](https://xkcd.com/1799)
 
-![Dwarf Fortress](./random_comic.png)
+![Bad Map Projection: Time Zones](./random_comic.png)
 
-Description - I may be the kind of person who wastes a year implementing a Turing-complete computer in Dwarf Fortress, but that makes you the kind of person who wastes ten more getting that computer to run Minecraft.
+Description - This is probably the first projection in cartographic history that can be criticized for its disproportionate focus on Finland, Mongolia, and the Democratic Republic of the Congo.
 
 -----------------------------------
