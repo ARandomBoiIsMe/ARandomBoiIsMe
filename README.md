@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Awful People](https://xkcd.com/2548)
+Title - [Chess Notation](https://xkcd.com/1800)
 
-![Awful People](./random_comic.png)
+![Chess Notation](./random_comic.png)
 
-Description - Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.
+Description - I've decided to score all my conversations using chess win-loss notation. (??)
 
 -----------------------------------
