@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Chess Notation](https://xkcd.com/1800)
+Title - [Emojidome](https://xkcd.com/2131)
 
-![Chess Notation](./random_comic.png)
+![Emojidome](./random_comic.png)
 
-Description - I've decided to score all my conversations using chess win-loss notation. (??)
+Description - Thank you to the xkcd April 1st volunteers/commentators, including @Chromakode, Kevin, @Aiiane, Patrick, Kat, Reuven, @cotrone, @bstaffin, @zigdon, schwal, Stereo, and everyone who voted!
 
 -----------------------------------
