@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Bad Map Projection: Time Zones](https://xkcd.com/1799)
+Title - [Awful People](https://xkcd.com/2548)
 
-![Bad Map Projection: Time Zones](./random_comic.png)
+![Awful People](./random_comic.png)
 
-Description - This is probably the first projection in cartographic history that can be criticized for its disproportionate focus on Finland, Mongolia, and the Democratic Republic of the Congo.
+Description - Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.
 
 -----------------------------------
