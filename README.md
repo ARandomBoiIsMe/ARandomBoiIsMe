@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Morning News](https://xkcd.com/1996)
+Title - [FIRST Design](https://xkcd.com/689)
 
-![Morning News](./random_comic.png)
+![FIRST Design](./random_comic.png)
 
-Description - Support your local paper, unless it's just been bought by some sinister hedge fund or something, which it probably has.
+Description - Pool on the roof must've sprung a leak.
 
 -----------------------------------
