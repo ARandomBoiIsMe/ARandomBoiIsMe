@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Emojidome](https://xkcd.com/2131)
+Title - [Encryptic](https://xkcd.com/1286)
 
-![Emojidome](./random_comic.png)
+![Encryptic](./random_comic.png)
 
-Description - Thank you to the xkcd April 1st volunteers/commentators, including @Chromakode, Kevin, @Aiiane, Patrick, Kat, Reuven, @cotrone, @bstaffin, @zigdon, schwal, Stereo, and everyone who voted!
+Description - It was bound to happen eventually. This data theft will enable almost limitless [xkcd.com/792]-style password reuse attacks in the coming weeks. There's only one group that comes out of this looking smart: Everyone who pirated Photoshop.
 
 -----------------------------------
