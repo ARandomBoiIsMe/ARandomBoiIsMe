@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [FIRST Design](https://xkcd.com/689)
+Title - [Cold Complaints](https://xkcd.com/2714)
 
-![FIRST Design](./random_comic.png)
+![Cold Complaints](./random_comic.png)
 
-Description - Pool on the roof must've sprung a leak.
+Description - Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was 'too annoying.'
 
 -----------------------------------
