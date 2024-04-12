@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Encryptic](https://xkcd.com/1286)
+Title - [Morning News](https://xkcd.com/1996)
 
-![Encryptic](./random_comic.png)
+![Morning News](./random_comic.png)
 
-Description - It was bound to happen eventually. This data theft will enable almost limitless [xkcd.com/792]-style password reuse attacks in the coming weeks. There's only one group that comes out of this looking smart: Everyone who pirated Photoshop.
+Description - Support your local paper, unless it's just been bought by some sinister hedge fund or something, which it probably has.
 
 -----------------------------------
