@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Highway Engineer Pranks](https://xkcd.com/253)
+Title - [Woosh](https://xkcd.com/1627)
 
-![Highway Engineer Pranks](./random_comic.png)
+![Woosh](./random_comic.png)
 
-Description - Prank #11: Boston
+Description - It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.
 
 -----------------------------------
