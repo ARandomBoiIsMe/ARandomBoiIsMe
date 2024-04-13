@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Turtles](https://xkcd.com/889)
+Title - [Highway Engineer Pranks](https://xkcd.com/253)
 
-![Turtles](./random_comic.png)
+![Highway Engineer Pranks](./random_comic.png)
 
-Description - You're a turtle!
+Description - Prank #11: Boston
 
 -----------------------------------
