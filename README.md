@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Woosh](https://xkcd.com/1627)
+Title - [Rogers St.](https://xkcd.com/884)
 
-![Woosh](./random_comic.png)
+![Rogers St.](./random_comic.png)
 
-Description - It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.
+Description - 'We can also use middle names in place of first pet's names, but yours is something incomprehensible about dropping tables.'
 
 -----------------------------------
