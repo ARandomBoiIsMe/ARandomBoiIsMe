@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Moving Boxes](https://xkcd.com/1762)
+Title - [Pulsar Analogy](https://xkcd.com/2413)
 
-![Moving Boxes](./random_comic.png)
+![Pulsar Analogy](./random_comic.png)
 
-Description - Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.
+Description - The #2 cause of astronomer hand injuries is trying to do vector math when the second axis points off to the right.
 
 -----------------------------------
