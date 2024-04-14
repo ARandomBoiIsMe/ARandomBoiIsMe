@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Finish Line](https://xkcd.com/423)
+Title - [Moving Boxes](https://xkcd.com/1762)
 
-![Finish Line](./random_comic.png)
+![Moving Boxes](./random_comic.png)
 
-Description - The question with Lucy and the football was always whether, on some level, she believed the things she said.
+Description - Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.
 
 -----------------------------------
