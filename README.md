@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Rogers St.](https://xkcd.com/884)
+Title - [Possible Undiscovered Planets](https://xkcd.com/1633)
 
-![Rogers St.](./random_comic.png)
+![Possible Undiscovered Planets](./random_comic.png)
 
-Description - 'We can also use middle names in place of first pet's names, but yours is something incomprehensible about dropping tables.'
+Description - Superman lies near the bird/plane boundary over a range of distances, which explains the confusion.
 
 -----------------------------------
