@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Possible Undiscovered Planets](https://xkcd.com/1633)
+Title - [Finish Line](https://xkcd.com/423)
 
-![Possible Undiscovered Planets](./random_comic.png)
+![Finish Line](./random_comic.png)
 
-Description - Superman lies near the bird/plane boundary over a range of distances, which explains the confusion.
+Description - The question with Lucy and the football was always whether, on some level, she believed the things she said.
 
 -----------------------------------
