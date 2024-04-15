@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Christmas Lights](https://xkcd.com/1308)
+Title - [World According to Americans](https://xkcd.com/850)
 
-![Christmas Lights](./random_comic.png)
+![World According to Americans](./random_comic.png)
 
-Description - Merry Christmas from xkcd!
+Description - It's not our fault we caught a group on their way home from a geography bee. And they taught us that Uzbekistan is one of the world's two doubly-landlocked countries!
 
 -----------------------------------
