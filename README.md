@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [World According to Americans](https://xkcd.com/850)
+Title - [Leap Smearing](https://xkcd.com/2266)
 
-![World According to Americans](./random_comic.png)
+![Leap Smearing](./random_comic.png)
 
-Description - It's not our fault we caught a group on their way home from a geography bee. And they taught us that Uzbekistan is one of the world's two doubly-landlocked countries!
+Description - Some people suspect that it started as a "No, I didn't forget Valentine's Day" excuse that got out of hand.
 
 -----------------------------------
