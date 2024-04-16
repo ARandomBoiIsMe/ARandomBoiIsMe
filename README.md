@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Seventies](https://xkcd.com/1072)
+Title - [Effect an Effect](https://xkcd.com/326)
 
-![Seventies](./random_comic.png)
+![Effect an Effect](./random_comic.png)
 
-Description - Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"
+Description - Time to paint another grammarian silhouette on the side of the desktop.
 
 -----------------------------------
