@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Physicists](https://xkcd.com/793)
+Title - [Seventies](https://xkcd.com/1072)
 
-![Physicists](./random_comic.png)
+![Seventies](./random_comic.png)
 
-Description - If you need some help with the math, let me know, but that should be enough to get you started! Huh? No, I don't need to read your thesis, I can imagine roughly what it says.
+Description - Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"
 
 -----------------------------------
