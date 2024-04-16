@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Large Number Formats](https://xkcd.com/2319)
+Title - [Physicists](https://xkcd.com/793)
 
-![Large Number Formats](./random_comic.png)
+![Physicists](./random_comic.png)
 
-Description - 10^13.4024: A person who has come back to numbers after a journey deep into some random theoretical field
+Description - If you need some help with the math, let me know, but that should be enough to get you started! Huh? No, I don't need to read your thesis, I can imagine roughly what it says.
 
 -----------------------------------
