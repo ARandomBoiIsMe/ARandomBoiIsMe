@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Effect an Effect](https://xkcd.com/326)
+Title - [Principle of Explosion](https://xkcd.com/704)
 
-![Effect an Effect](./random_comic.png)
+![Principle of Explosion](./random_comic.png)
 
-Description - Time to paint another grammarian silhouette on the side of the desktop.
+Description - You want me to pick up waffle cones? Oh, right, for the wine. One sec, let me just derive your son's credit card number and I'll be on my way.
 
 -----------------------------------
