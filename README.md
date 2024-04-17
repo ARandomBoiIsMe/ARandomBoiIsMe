@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Insanity](https://xkcd.com/1657)
+Title - [Halting Problem](https://xkcd.com/1266)
 
-![Insanity](./random_comic.png)
+![Halting Problem](./random_comic.png)
 
-Description - I looked up "insanity" in like 10 different dictionaries and none of them said anything like that. Neither did the DSM-4. But I'll keep looking. Maybe it's in the DSM-5!
+Description - I found a counterexample to the claim that all things must someday die, but I don't know how to show it to anyone.
 
 -----------------------------------
