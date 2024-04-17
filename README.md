@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Halting Problem](https://xkcd.com/1266)
+Title - [Social Media Announcement](https://xkcd.com/2045)
 
-![Halting Problem](./random_comic.png)
+![Social Media Announcement](./random_comic.png)
 
-Description - I found a counterexample to the claim that all things must someday die, but I don't know how to show it to anyone.
+Description - Why I'm Moving Most of My Social Activity to Slack, Then Creating a Second Slack to Avoid the People in the First One, Then Giving Up on Social Interaction Completely, Then Going Back to Texting
 
 -----------------------------------
