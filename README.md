@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Modified Bayes' Theorem](https://xkcd.com/2059)
+Title - [Alternate Histories](https://xkcd.com/2149)
 
-![Modified Bayes' Theorem](./random_comic.png)
+![Alternate Histories](./random_comic.png)
 
-Description - Don't forget to add another term for "probability that the Modified Bayes' Theorem is correct."
+Description - "So their universe wouldn't have the iconic photo of a screaming Truman being hoisted aloft by the newspaper-printing machinery..."
 
 -----------------------------------
