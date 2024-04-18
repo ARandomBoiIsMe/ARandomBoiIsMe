@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Social Media Announcement](https://xkcd.com/2045)
+Title - [Mercator Projection](https://xkcd.com/2082)
 
-![Social Media Announcement](./random_comic.png)
+![Mercator Projection](./random_comic.png)
 
-Description - Why I'm Moving Most of My Social Activity to Slack, Then Creating a Second Slack to Avoid the People in the First One, Then Giving Up on Social Interaction Completely, Then Going Back to Texting
+Description - The other great lakes are just water on the far side of Canada Island. If you drive north from the Pacific northwest you actually cross directly into Alaska, although a few officials--confused by the Mercator distortion--have put up border signs.
 
 -----------------------------------
