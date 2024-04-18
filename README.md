@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Alternate Histories](https://xkcd.com/2149)
+Title - [Two-Factor Security Key](https://xkcd.com/2522)
 
-![Alternate Histories](./random_comic.png)
+![Two-Factor Security Key](./random_comic.png)
 
-Description - "So their universe wouldn't have the iconic photo of a screaming Truman being hoisted aloft by the newspaper-printing machinery..."
+Description - The bruises on my fingertips are my proof of work.
 
 -----------------------------------
