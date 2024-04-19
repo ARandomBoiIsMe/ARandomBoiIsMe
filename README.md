@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Two Mirrors](https://xkcd.com/555)
+Title - [Memo Spike Connector](https://xkcd.com/2503)
 
-![Two Mirrors](./random_comic.png)
+![Memo Spike Connector](./random_comic.png)
 
-Description - If you actually do this, what really happens is Douglas Hofstadter appears and talks to you for eight hours about strange loops.
+Description - Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.
 
 -----------------------------------
