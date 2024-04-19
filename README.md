@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Memo Spike Connector](https://xkcd.com/2503)
+Title - [Planetary Scientist](https://xkcd.com/2773)
 
-![Memo Spike Connector](./random_comic.png)
+![Planetary Scientist](./random_comic.png)
 
-Description - Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.
+Description - This rumpled fabric at the corner looks like evidence of ongoing tectonic activity.
 
 -----------------------------------
