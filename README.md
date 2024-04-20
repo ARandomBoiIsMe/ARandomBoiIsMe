@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Popper](https://xkcd.com/2078)
+Title - [ISS Vaccine](https://xkcd.com/2449)
 
-![Popper](./random_comic.png)
+![ISS Vaccine](./random_comic.png)
 
-Description - At least, I don't think there's evidence. My claim that there's no evidence hasn't been falsified. At least, not that I know of.
+Description - Because they orbit the Earth every 90 minutes, some astronauts should try to argue that, due to CDC regulations and time zone technicalities, they should be able to get their second dose just 30 or 40 hours after their first.
 
 -----------------------------------
