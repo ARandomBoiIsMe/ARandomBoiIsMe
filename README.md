@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Vacuum](https://xkcd.com/1486)
+Title - [Paleontology](https://xkcd.com/460)
 
-![Vacuum](./random_comic.png)
+![Paleontology](./random_comic.png)
 
-Description - Do you think you could actually clean the living room at some point, though?
+Description - Dinosaurs totally jumped the ichthyosaur when they got rid of Brontosaurus.
 
 -----------------------------------
