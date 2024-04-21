@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Misusing Slang](https://xkcd.com/166)
+Title - [Vacuum](https://xkcd.com/1486)
 
-![Misusing Slang](./random_comic.png)
+![Vacuum](./random_comic.png)
 
-Description - It slowly dawns on us that our parents knew exactly what they were doing.
+Description - Do you think you could actually clean the living room at some point, though?
 
 -----------------------------------
