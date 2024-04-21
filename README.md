@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Paleontology](https://xkcd.com/460)
+Title - [Wall Art](https://xkcd.com/2018)
 
-![Paleontology](./random_comic.png)
+![Wall Art](./random_comic.png)
 
-Description - Dinosaurs totally jumped the ichthyosaur when they got rid of Brontosaurus.
+Description - At first, I moved from pokémon posters to regular oil paintings, but then these really grumpy and unreasonable detectives from the Louvre showed up and took them all. They wouldn't even give me back my thumbtacks!
 
 -----------------------------------
