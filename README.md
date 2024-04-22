@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Simpsons](https://xkcd.com/1959)
+Title - [Delta-P](https://xkcd.com/969)
 
-![The Simpsons](./random_comic.png)
+![Delta-P](./random_comic.png)
 
-Description - In-universe, Bart Simpson and Harry Potter were the same age in 1990. Bart is perpetually 10 years old because of a spell put on his town by someone trying to keep him from getting his Hogwarts letter.
+Description - If you fire a Portal gun through the door of the wardrobe, space and time knot together, which leads to a frustrated Aslan trying to impart Christian morality to the Space sphere.
 
 -----------------------------------
