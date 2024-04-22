@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Pronunciation](https://xkcd.com/2819)
+Title - [Interruption](https://xkcd.com/2670)
 
-![Pronunciation](./random_comic.png)
+![Interruption](./random_comic.png)
 
-Description - I pronounce the 'u' in 'pronunciation' like in 'putting' but the 'ou' in 'pronounce' like in 'wound'.
+Description - It's been extra bad ever since my GPS got stuck on Phoebe Judge mode.
 
 -----------------------------------
