@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Interruption](https://xkcd.com/2670)
+Title - [The Simpsons](https://xkcd.com/1959)
 
-![Interruption](./random_comic.png)
+![The Simpsons](./random_comic.png)
 
-Description - It's been extra bad ever since my GPS got stuck on Phoebe Judge mode.
+Description - In-universe, Bart Simpson and Harry Potter were the same age in 1990. Bart is perpetually 10 years old because of a spell put on his town by someone trying to keep him from getting his Hogwarts letter.
 
 -----------------------------------
