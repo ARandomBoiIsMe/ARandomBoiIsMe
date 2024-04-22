@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Internet Argument](https://xkcd.com/438)
+Title - [Pronunciation](https://xkcd.com/2819)
 
-![Internet Argument](./random_comic.png)
+![Pronunciation](./random_comic.png)
 
-Description - It's easier to be an asshole to words than to people.
+Description - I pronounce the 'u' in 'pronunciation' like in 'putting' but the 'ou' in 'pronounce' like in 'wound'.
 
 -----------------------------------
