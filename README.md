@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Namespace Land Rush](https://xkcd.com/1963)
+Title - [Squirrel Plan](https://xkcd.com/1503)
 
-![Namespace Land Rush](./random_comic.png)
+![Squirrel Plan](./random_comic.png)
 
-Description - You can also just mash the keyboard at random, but you might end up with a gibberish name no one can pronounce.
+Description - [Halfway to the Sun ...] Heyyyy ... what if this BALLOON is full of acorns?!
 
 -----------------------------------
