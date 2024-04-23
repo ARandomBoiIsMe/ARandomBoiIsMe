@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Exploits of a Mom](https://xkcd.com/327)
+Title - [Namespace Land Rush](https://xkcd.com/1963)
 
-![Exploits of a Mom](./random_comic.png)
+![Namespace Land Rush](./random_comic.png)
 
-Description - Her daughter is named Help I'm trapped in a driver's license factory.
+Description - You can also just mash the keyboard at random, but you might end up with a gibberish name no one can pronounce.
 
 -----------------------------------
