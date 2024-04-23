@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Delivery Notification](https://xkcd.com/921)
+Title - [Exploits of a Mom](https://xkcd.com/327)
 
-![Delivery Notification](./random_comic.png)
+![Exploits of a Mom](./random_comic.png)
 
-Description - You can arrange a pickup of your sword in Rivendell between the hours of noon and 7:00 PM.
+Description - Her daughter is named Help I'm trapped in a driver's license factory.
 
 -----------------------------------
