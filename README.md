@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Bad Opinions](https://xkcd.com/2051)
+Title - [Heatmap](https://xkcd.com/1138)
 
-![Bad Opinions](./random_comic.png)
+![Heatmap](./random_comic.png)
 
-Description - I thought of another bad opinion! I couldn't find anyone who expressed it specifically, but still, the fact that I can so easily imagine it is infuriating! I'm gonna tell everyone about it!
+Description - There are also a lot of global versions of this map showing traffic to English-language websites which are indistinguishable from maps of the location of internet users who are native English speakers.
 
 -----------------------------------
