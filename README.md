@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Heatmap](https://xkcd.com/1138)
+Title - [Flash Games](https://xkcd.com/484)
 
-![Heatmap](./random_comic.png)
+![Flash Games](./random_comic.png)
 
-Description - There are also a lot of global versions of this map showing traffic to English-language websites which are indistinguishable from maps of the location of internet users who are native English speakers.
+Description - Although ... who else can't wait for them to incorporate that Wiimote head-tracking stuff into games?  Man, the future's gonna be *awesome*.
 
 -----------------------------------
