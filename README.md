@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Clark Gable](https://xkcd.com/110)
+Title - [Bad Opinions](https://xkcd.com/2051)
 
-![Clark Gable](./random_comic.png)
+![Bad Opinions](./random_comic.png)
 
-Description - Frankly, my dear, I don't give a BITCH ASS SHIT FUCK DAMN
+Description - I thought of another bad opinion! I couldn't find anyone who expressed it specifically, but still, the fact that I can so easily imagine it is infuriating! I'm gonna tell everyone about it!
 
 -----------------------------------
