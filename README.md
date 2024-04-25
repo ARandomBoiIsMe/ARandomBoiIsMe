@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Flash Games](https://xkcd.com/484)
+Title - [Single Ladies](https://xkcd.com/712)
 
-![Flash Games](./random_comic.png)
+![Single Ladies](./random_comic.png)
 
-Description - Although ... who else can't wait for them to incorporate that Wiimote head-tracking stuff into games?  Man, the future's gonna be *awesome*.
+Description - Using a ring to bind someone you covet into your dark and twisted world? Wow, just got the subtext there. Also, the apparently eager Beyoncé would've made one badass Nazgȗl.
 
 -----------------------------------
