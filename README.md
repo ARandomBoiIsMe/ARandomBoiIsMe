@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Prometheus](https://xkcd.com/1228)
+Title - [Contiguous 41 States](https://xkcd.com/2394)
 
-![Prometheus](./random_comic.png)
+![Contiguous 41 States](./random_comic.png)
 
-Description - 'I'm here to return what Prometheus stole.' would be a good thing to say if you were a fighter pilot in a Michael Bay movie where for some reason the world's militaries had to team up to defeat every god from human mythology, and you'd just broken through the perimeter and gotten a missile lock on Mount Olympus.
+Description - Linguists, settling some inscrutable grudge, have been steadily sneaking more backdated synonyms for 'sharing borders' into the dictionary. They've added 'contiguous,' 'coterminous,' 'conterminous,' and next year they're adding 'conterguous.'
 
 -----------------------------------
