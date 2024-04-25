@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Y-Axis](https://xkcd.com/2023)
+Title - [Prometheus](https://xkcd.com/1228)
 
-![Y-Axis](./random_comic.png)
+![Prometheus](./random_comic.png)
 
-Description - We've also developed the semi-semi-log scale, where the Y-axis for the left half of the graph is a log scale but on the right half it isn't.
+Description - 'I'm here to return what Prometheus stole.' would be a good thing to say if you were a fighter pilot in a Michael Bay movie where for some reason the world's militaries had to team up to defeat every god from human mythology, and you'd just broken through the perimeter and gotten a missile lock on Mount Olympus.
 
 -----------------------------------
