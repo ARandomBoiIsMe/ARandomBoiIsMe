@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [News Story Reaction](https://xkcd.com/2505)
+Title - [Daylight Saving Choice](https://xkcd.com/2846)
 
-![News Story Reaction](./random_comic.png)
+![Daylight Saving Choice](./random_comic.png)
 
-Description - Unless the next line is, "After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph."
+Description - I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.
 
 -----------------------------------
