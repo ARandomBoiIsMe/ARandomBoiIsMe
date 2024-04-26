@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Contiguous 41 States](https://xkcd.com/2394)
+Title - [Wishlist](https://xkcd.com/2069)
 
-![Contiguous 41 States](./random_comic.png)
+![Wishlist](./random_comic.png)
 
-Description - Linguists, settling some inscrutable grudge, have been steadily sneaking more backdated synonyms for 'sharing borders' into the dictionary. They've added 'contiguous,' 'coterminous,' 'conterminous,' and next year they're adding 'conterguous.'
+Description - Disappointed that they caved to fan pressure and went with Ruth Bader Ginsburg over Elena Kagan.
 
 -----------------------------------
