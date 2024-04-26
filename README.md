@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Wishlist](https://xkcd.com/2069)
+Title - [All Your Base](https://xkcd.com/286)
 
-![Wishlist](./random_comic.png)
+![All Your Base](./random_comic.png)
 
-Description - Disappointed that they caved to fan pressure and went with Ruth Bader Ginsburg over Elena Kagan.
+Description - The AYB retro-return-date (Zero Wing Zero Hour) should be around AD 2021.
 
 -----------------------------------
