@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [All Your Base](https://xkcd.com/286)
+Title - [News Story Reaction](https://xkcd.com/2505)
 
-![All Your Base](./random_comic.png)
+![News Story Reaction](./random_comic.png)
 
-Description - The AYB retro-return-date (Zero Wing Zero Hour) should be around AD 2021.
+Description - Unless the next line is, "After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph."
 
 -----------------------------------
