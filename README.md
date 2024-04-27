@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Fundamental Forces](https://xkcd.com/1489)
+Title - [Date Line](https://xkcd.com/2854)
 
-![Fundamental Forces](./random_comic.png)
+![Date Line](./random_comic.png)
 
-Description - "Of these four forces, there's one we don't really understand." "Is it the weak force or the strong--" "It's gravity."
+Description - They estimate the rocket should be free by approximately ... uh ... well, in about two hours.
 
 -----------------------------------
