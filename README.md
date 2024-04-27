@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Date Line](https://xkcd.com/2854)
+Title - [Sword in the Stone](https://xkcd.com/1521)
 
-![Date Line](./random_comic.png)
+![Sword in the Stone](./random_comic.png)
 
-Description - They estimate the rocket should be free by approximately ... uh ... well, in about two hours.
+Description - That seems like an awful lot of hassle when all I wanted was a cool sword.
 
 -----------------------------------
