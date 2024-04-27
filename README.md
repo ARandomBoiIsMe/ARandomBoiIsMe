@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Daylight Saving Choice](https://xkcd.com/2846)
+Title - [Kite](https://xkcd.com/235)
 
-![Daylight Saving Choice](./random_comic.png)
+![Kite](./random_comic.png)
 
-Description - I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.
+Description - It's easy to regret your awkward conversations but hard to regret the ones you didn't have.
 
 -----------------------------------
