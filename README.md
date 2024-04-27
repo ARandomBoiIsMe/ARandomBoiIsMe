@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Kite](https://xkcd.com/235)
+Title - [Fundamental Forces](https://xkcd.com/1489)
 
-![Kite](./random_comic.png)
+![Fundamental Forces](./random_comic.png)
 
-Description - It's easy to regret your awkward conversations but hard to regret the ones you didn't have.
+Description - "Of these four forces, there's one we don't really understand." "Is it the weak force or the strong--" "It's gravity."
 
 -----------------------------------
