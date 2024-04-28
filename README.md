@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Air Handler](https://xkcd.com/2753)
+Title - [Airplane Message](https://xkcd.com/1355)
 
-![Air Handler](./random_comic.png)
+![Airplane Message](./random_comic.png)
 
-Description - It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate.
+Description - PHARAOH IRY-HOR, FROM THE 3100s BC, IS THE FIRST HUMAN WHOSE NAME WE KNOW.
 
 -----------------------------------
