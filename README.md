@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Undoing](https://xkcd.com/1119)
+Title - [Goldbach Conjectures](https://xkcd.com/1310)
 
-![Undoing](./random_comic.png)
+![Goldbach Conjectures](./random_comic.png)
 
-Description - I've been sneaking out at night and installing lamps on the underside of every photovoltaic panel I can find. Sure, there are upwards of 80% losses, but I prefer to think of them as nearly 20% gains.
+Description - The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true.
 
 -----------------------------------
