@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Sword in the Stone](https://xkcd.com/1521)
+Title - [Air Handler](https://xkcd.com/2753)
 
-![Sword in the Stone](./random_comic.png)
+![Air Handler](./random_comic.png)
 
-Description - That seems like an awful lot of hassle when all I wanted was a cool sword.
+Description - It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate.
 
 -----------------------------------
