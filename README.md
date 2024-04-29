@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [TED Talk](https://xkcd.com/541)
+Title - [Types of Approximation](https://xkcd.com/2205)
 
-![TED Talk](./random_comic.png)
+![Types of Approximation](./random_comic.png)
 
-Description - The IAU ban came after the 'redefinition of 'planet' to include the IAU president's mom' incident.
+Description - It's not my fault I haven't had a chance to measure the curvature of this particular universe.
 
 -----------------------------------
