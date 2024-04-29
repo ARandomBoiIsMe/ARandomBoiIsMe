@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Types of Approximation](https://xkcd.com/2205)
+Title - [Projection](https://xkcd.com/283)
 
-![Types of Approximation](./random_comic.png)
+![Projection](./random_comic.png)
 
-Description - It's not my fault I haven't had a chance to measure the curvature of this particular universe.
+Description - Out in a field, not another car for miles, silence but for the rain drumming on the sunroof, warm thick folds of the blanket hiding wordless fingertip games ...
 
 -----------------------------------
