@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Proxy Variable](https://xkcd.com/2652)
+Title - [TED Talk](https://xkcd.com/541)
 
-![Proxy Variable](./random_comic.png)
+![TED Talk](./random_comic.png)
 
-Description - Our work has produced great answers. Now someone just needs to figure out which questions they go with.
+Description - The IAU ban came after the 'redefinition of 'planet' to include the IAU president's mom' incident.
 
 -----------------------------------
