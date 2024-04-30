@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Projection](https://xkcd.com/283)
+Title - [E Scooters](https://xkcd.com/2188)
 
-![Projection](./random_comic.png)
+![E Scooters](./random_comic.png)
 
-Description - Out in a field, not another car for miles, silence but for the rain drumming on the sunroof, warm thick folds of the blanket hiding wordless fingertip games ...
+Description - Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.
 
 -----------------------------------
