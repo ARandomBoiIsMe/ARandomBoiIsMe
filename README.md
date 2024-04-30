@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Blind Trials](https://xkcd.com/1462)
+Title - [Rejection](https://xkcd.com/1325)
 
-![Blind Trials](./random_comic.png)
+![Rejection](./random_comic.png)
 
-Description - Plus, you have to control for the fact that some people are into being blindfolded.
+Description - Perhaps you need a crash course in taking hints. Here's your first lesson: We're not actually walking somewhere together; I'm trying to leave this conversation and you're following me.
 
 -----------------------------------
