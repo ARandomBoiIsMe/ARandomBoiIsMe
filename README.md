@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Schwa](https://xkcd.com/2907)
+Title - [Blind Trials](https://xkcd.com/1462)
 
-![Schwa](./random_comic.png)
+![Blind Trials](./random_comic.png)
 
-Description - Doug's cousin, the one from London, runs a Bumble love cult.
+Description - Plus, you have to control for the fact that some people are into being blindfolded.
 
 -----------------------------------
