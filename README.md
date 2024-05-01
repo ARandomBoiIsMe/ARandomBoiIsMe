@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Rejection](https://xkcd.com/1325)
+Title - [Choices: Part 2](https://xkcd.com/265)
 
-![Rejection](./random_comic.png)
+![Choices: Part 2](./random_comic.png)
 
-Description - Perhaps you need a crash course in taking hints. Here's your first lesson: We're not actually walking somewhere together; I'm trying to leave this conversation and you're following me.
+Description - Maybe someday I'll get to write the Wikipedia article about this place!  Wait, damn, original research.
 
 -----------------------------------
