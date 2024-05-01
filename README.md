@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [<span style="color: #0000ED">House</span> of Pancakes](https://xkcd.com/472)
+Title - [Wall Art](https://xkcd.com/2018)
 
-![<span style="color: #0000ED">House</span> of Pancakes](./random_comic.png)
+![Wall Art](./random_comic.png)
 
-Description - Fuck it.  I'm just going to Waffle House.
+Description - At first, I moved from pokémon posters to regular oil paintings, but then these really grumpy and unreasonable detectives from the Louvre showed up and took them all. They wouldn't even give me back my thumbtacks!
 
 -----------------------------------
