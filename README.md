@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Recent Searches](https://xkcd.com/1678)
+Title - [Porn For Women](https://xkcd.com/714)
 
-![Recent Searches](./random_comic.png)
+![Porn For Women](./random_comic.png)
 
-Description - autoexec code posted by verified twitter users
+Description - Yes, there are a lot of longing looks across the bridge of Galactica first, but that's beside the point!
 
 -----------------------------------
