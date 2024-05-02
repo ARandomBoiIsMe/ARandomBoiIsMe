@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Porn For Women](https://xkcd.com/714)
+Title - [Aeris Dies](https://xkcd.com/299)
 
-![Porn For Women](./random_comic.png)
+![Aeris Dies](./random_comic.png)
 
-Description - Yes, there are a lot of longing looks across the bridge of Galactica first, but that's beside the point!
+Description - It's bad enough that all the families in your Sims are just you and Maggie recreated over and over.
 
 -----------------------------------
