@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Days of the Week](https://xkcd.com/930)
+Title - [Marie Curie](https://xkcd.com/896)
 
-![Days of the Week](./random_comic.png)
+![Marie Curie](./random_comic.png)
 
-Description - Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.
+Description - Although not permanently.
 
 -----------------------------------
