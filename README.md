@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Worst Thing That Could Happen](https://xkcd.com/2261)
+Title - [Five-Day Forecast](https://xkcd.com/1606)
 
-![Worst Thing That Could Happen](./random_comic.png)
+![Five-Day Forecast](./random_comic.png)
 
-Description - Before I install any patch, I always open the patch notes and Ctrl-F for 'supervolcano', 'seagull', and 'garbage disposal', just to be safe.
+Description - You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.
 
 -----------------------------------
