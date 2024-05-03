@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Five-Day Forecast](https://xkcd.com/1606)
+Title - [Days of the Week](https://xkcd.com/930)
 
-![Five-Day Forecast](./random_comic.png)
+![Days of the Week](./random_comic.png)
 
-Description - You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.
+Description - Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.
 
 -----------------------------------
