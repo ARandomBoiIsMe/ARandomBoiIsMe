@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Shuttle Skeleton](https://xkcd.com/2630)
+Title - [Argument](https://xkcd.com/1166)
 
-![Shuttle Skeleton](./random_comic.png)
+![Argument](./random_comic.png)
 
-Description - It's believed to be related to the Stellar Sea Cow.
+Description - The misguided search for a perpetual motion machine has run substantially longer than any attempted perpetual motion machine.
 
 -----------------------------------
