@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [L6 Lagrange Point](https://xkcd.com/2717)
+Title - [Why Do You Love Me?](https://xkcd.com/58)
 
-![L6 Lagrange Point](./random_comic.png)
+![Why Do You Love Me?](./random_comic.png)
 
-Description - It's difficult to orbit L6 stably due to gravitational perturbation from Akron and Toledo.
+Description - Opening dialogue by Scott
 
 -----------------------------------
