@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Why Do You Love Me?](https://xkcd.com/58)
+Title - [Shuttle Skeleton](https://xkcd.com/2630)
 
-![Why Do You Love Me?](./random_comic.png)
+![Shuttle Skeleton](./random_comic.png)
 
-Description - Opening dialogue by Scott
+Description - It's believed to be related to the Stellar Sea Cow.
 
 -----------------------------------
