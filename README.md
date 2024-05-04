@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Generations](https://xkcd.com/1962)
+Title - [L6 Lagrange Point](https://xkcd.com/2717)
 
-![Generations](./random_comic.png)
+![L6 Lagrange Point](./random_comic.png)
 
-Description - For a while it looked like the Paperclip Machines would destroy us, since they wanted to turn the whole universe into paperclips, but they abruptly lost interest in paperclips the moment their parents' generation got into making them, too.
+Description - It's difficult to orbit L6 stably due to gravitational perturbation from Akron and Toledo.
 
 -----------------------------------
