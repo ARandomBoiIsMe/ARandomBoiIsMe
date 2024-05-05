@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Working](https://xkcd.com/951)
+Title - [Sweet 16](https://xkcd.com/1819)
 
-![Working](./random_comic.png)
+![Sweet 16](./random_comic.png)
 
-Description - And if you drive a typical car more than a mile out of your way for each penny you save on the per-gallon price, it doesn't matter how worthless your time is to you--the gas to get you there and back costs more than you save.
+Description - Every year I make out my bracket at the season, and every year it's busted before the first game when I find out which teams are playing.
 
 -----------------------------------
