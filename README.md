@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Childhood Toys](https://xkcd.com/2603)
+Title - [Working](https://xkcd.com/951)
 
-![Childhood Toys](./random_comic.png)
+![Working](./random_comic.png)
 
-Description - The rope keeps breaking, I'm covered in bruises and scrapes, and I've barely reached the end of my driveway, but I don't care--I'm determined to become the first person to commute to work by tetherball.
+Description - And if you drive a typical car more than a mile out of your way for each penny you save on the per-gallon price, it doesn't matter how worthless your time is to you--the gas to get you there and back costs more than you save.
 
 -----------------------------------
