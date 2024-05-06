@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Last Molecule](https://xkcd.com/2552)
+Title - [Cloud Swirls](https://xkcd.com/2664)
 
-![The Last Molecule](./random_comic.png)
+![Cloud Swirls](./random_comic.png)
 
-Description - Biology is really struggling; they're barely at 93% and they keep finding more ants.
+Description - 'Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'
 
 -----------------------------------
