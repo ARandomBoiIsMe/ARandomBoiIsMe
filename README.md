@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cloud Swirls](https://xkcd.com/2664)
+Title - [SkiFree](https://xkcd.com/667)
 
-![Cloud Swirls](./random_comic.png)
+![SkiFree](./random_comic.png)
 
-Description - 'Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'
+Description - And from that day on, I wore this little 'F' key pendant everywhere I went.
 
 -----------------------------------
