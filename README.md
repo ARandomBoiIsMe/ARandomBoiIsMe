@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [SkiFree](https://xkcd.com/667)
+Title - [Versus Bracket](https://xkcd.com/2230)
 
-![SkiFree](./random_comic.png)
+![Versus Bracket](./random_comic.png)
 
-Description - And from that day on, I wore this little 'F' key pendant everywhere I went.
+Description - Some works didn't make the cut; in "Ecks vs. Sever" vs. the passage of time, the latter seems to have won pretty decisively.
 
 -----------------------------------
