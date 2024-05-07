@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Oort Cloud](https://xkcd.com/1297)
+Title - [Carbonated Beverage Language Map](https://xkcd.com/2108)
 
-![Oort Cloud](./random_comic.png)
+![Carbonated Beverage Language Map](./random_comic.png)
 
-Description - ... I wanna try.  Hang on, be right back.
+Description - There's one person in Missouri who says "carbo bev" who the entire rest of the country HATES.
 
 -----------------------------------
