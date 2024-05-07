@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Carbonated Beverage Language Map](https://xkcd.com/2108)
+Title - [Fight Club](https://xkcd.com/922)
 
-![Carbonated Beverage Language Map](./random_comic.png)
+![Fight Club](./random_comic.png)
 
-Description - There's one person in Missouri who says "carbo bev" who the entire rest of the country HATES.
+Description - I'm not saying it's all bad, but that movie has not aged as well as my teenage self in 2000 was confident it would.
 
 -----------------------------------
