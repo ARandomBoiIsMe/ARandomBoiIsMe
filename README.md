@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Sports](https://xkcd.com/904)
+Title - [Porn](https://xkcd.com/598)
 
-![Sports](./random_comic.png)
+![Porn](./random_comic.png)
 
-Description - Also, all financial analysis. And, more directly, D&D.
+Description - I have a thing for corrupt women.
 
 -----------------------------------
