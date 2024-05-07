@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Porn](https://xkcd.com/598)
+Title - [Oort Cloud](https://xkcd.com/1297)
 
-![Porn](./random_comic.png)
+![Oort Cloud](./random_comic.png)
 
-Description - I have a thing for corrupt women.
+Description - ... I wanna try.  Hang on, be right back.
 
 -----------------------------------
