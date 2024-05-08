@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Fight Club](https://xkcd.com/922)
+Title - [Exoplanets](https://xkcd.com/786)
 
-![Fight Club](./random_comic.png)
+![Exoplanets](./random_comic.png)
 
-Description - I'm not saying it's all bad, but that movie has not aged as well as my teenage self in 2000 was confident it would.
+Description - I'm just worried that we'll all leave and you won't get to come along!
 
 -----------------------------------
