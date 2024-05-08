@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Update](https://xkcd.com/1328)
+Title - [1/1,000th Scale World](https://xkcd.com/2417)
 
-![Update](./random_comic.png)
+![1/1,000th Scale World](./random_comic.png)
 
-Description - I have a bunch of things open right now.
+Description - We're worried that a regular whale will get into a 30-foot-deep ocean trench section and filter-feed on all the tiny whales.
 
 -----------------------------------
