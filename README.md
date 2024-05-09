@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Inside Joke](https://xkcd.com/794)
+Title - [Period](https://xkcd.com/594)
 
-![Inside Joke](./random_comic.png)
+![Period](./random_comic.png)
 
-Description - I've looked through a few annotated versions of classic books, and it's shocking how much of what's in there is basically pop-culture references totally lost on us now.
+Description - 413 nanohertz, by the way.
 
 -----------------------------------
