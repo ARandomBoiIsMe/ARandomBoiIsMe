@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Data](https://xkcd.com/1429)
+Title - [Science Valentine](https://xkcd.com/701)
 
-![Data](./random_comic.png)
+![Science Valentine](./random_comic.png)
 
-Description - If you want to have more fun at the expense of language pedants, try developing an hypercorrection habit.
+Description - You don't use science to show that you're right, you use science to become right.
 
 -----------------------------------
