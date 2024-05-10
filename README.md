@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Negative Results](https://xkcd.com/2020)
+Title - [Versus Bracket](https://xkcd.com/2230)
 
-![Negative Results](./random_comic.png)
+![Versus Bracket](./random_comic.png)
 
-Description - P.S. We're going to the beach this weekend, so I'm attaching my preregistration forms for that trip now, before we find out whether it produces any interesting results.
+Description - Some works didn't make the cut; in "Ecks vs. Sever" vs. the passage of time, the latter seems to have won pretty decisively.
 
 -----------------------------------
