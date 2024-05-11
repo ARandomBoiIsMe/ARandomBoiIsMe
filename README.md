@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Science Valentine](https://xkcd.com/701)
+Title - [Incision](https://xkcd.com/738)
 
-![Science Valentine](./random_comic.png)
+![Incision](./random_comic.png)
 
-Description - You don't use science to show that you're right, you use science to become right.
+Description - At one point, by force of childhood habit, the doctor accidentally removed three or four organs.
 
 -----------------------------------
