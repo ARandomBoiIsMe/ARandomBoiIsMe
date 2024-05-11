@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Incision](https://xkcd.com/738)
+Title - [Video Content](https://xkcd.com/1804)
 
-![Incision](./random_comic.png)
+![Video Content](./random_comic.png)
 
-Description - At one point, by force of childhood habit, the doctor accidentally removed three or four organs.
+Description - "So, like, sexy news videos?" "No, people have tried that--it's still just video content. We need to actually inform people THROUGH making out. I would call it 'Mouth Content,' but I think that's already the title of a Neil Cicierega album."
 
 -----------------------------------
