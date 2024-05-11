@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Drone Problems](https://xkcd.com/1846)
+Title - [Katamari](https://xkcd.com/83)
 
-![Drone Problems](./random_comic.png)
+![Katamari](./random_comic.png)
 
-Description - On the other hand, as far as they know, my system is working perfectly.
+Description - As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'
 
 -----------------------------------
