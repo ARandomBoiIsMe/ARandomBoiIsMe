@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [NP-Complete](https://xkcd.com/287)
+Title - [Angular Size](https://xkcd.com/1276)
 
-![NP-Complete](./random_comic.png)
+![Angular Size](./random_comic.png)
 
-Description - General solutions get you a 50% tip.
+Description - If the celestial sphere were mapped to the Earth's surface, astronomy would get a LOT easier; you'd just need a magnifying glass.
 
 -----------------------------------
