@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Katamari](https://xkcd.com/83)
+Title - [NP-Complete](https://xkcd.com/287)
 
-![Katamari](./random_comic.png)
+![NP-Complete](./random_comic.png)
 
-Description - As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'
+Description - General solutions get you a 50% tip.
 
 -----------------------------------
