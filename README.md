@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Collections](https://xkcd.com/625)
+Title - [Online Package Tracking](https://xkcd.com/281)
 
-![Collections](./random_comic.png)
+![Online Package Tracking](./random_comic.png)
 
-Description - You know what really helps an existential crisis? Wondering how much shelf space to leave for a Terry Pratchett collection.
+Description - I don't even *want* this package!  Why did I join the stinging insect of the month club, anyway?
 
 -----------------------------------
