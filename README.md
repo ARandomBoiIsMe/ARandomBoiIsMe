@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Repairs](https://xkcd.com/1994)
+Title - [Collections](https://xkcd.com/625)
 
-![Repairs](./random_comic.png)
+![Collections](./random_comic.png)
 
-Description - I was just disassembling it over the course of five hours so it would fit in the trash more efficiently.
+Description - You know what really helps an existential crisis? Wondering how much shelf space to leave for a Terry Pratchett collection.
 
 -----------------------------------
