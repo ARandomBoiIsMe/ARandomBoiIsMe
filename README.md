@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [1337: Part 4](https://xkcd.com/344)
+Title - [Exercise](https://xkcd.com/189)
 
-![1337: Part 4](./random_comic.png)
+![Exercise](./random_comic.png)
 
-Description - Mrs. Roberts would have gotten up sooner, of course, but she was busy piping find ~ and find ~nomad into xargs shred, just in case.
+Description - I haven't had the patience for RPGs in a long time.
 
 -----------------------------------
