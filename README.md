@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Online Package Tracking](https://xkcd.com/281)
+Title - [1337: Part 4](https://xkcd.com/344)
 
-![Online Package Tracking](./random_comic.png)
+![1337: Part 4](./random_comic.png)
 
-Description - I don't even *want* this package!  Why did I join the stinging insect of the month club, anyway?
+Description - Mrs. Roberts would have gotten up sooner, of course, but she was busy piping find ~ and find ~nomad into xargs shred, just in case.
 
 -----------------------------------
