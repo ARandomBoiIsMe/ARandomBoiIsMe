@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Trebuchet](https://xkcd.com/382)
+Title - [Fresh Pears](https://xkcd.com/2209)
 
-![Trebuchet](./random_comic.png)
+![Fresh Pears](./random_comic.png)
 
-Description - It was also fun when those teenagers tried to egg our house and it insta-cooked the eggs in mid-air.
+Description - I want to sell apples but I'm still working on getting the machine to do the cutting and grafting.
 
 -----------------------------------
