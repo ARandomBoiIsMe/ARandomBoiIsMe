@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Exercise](https://xkcd.com/189)
+Title - [Trebuchet](https://xkcd.com/382)
 
-![Exercise](./random_comic.png)
+![Trebuchet](./random_comic.png)
 
-Description - I haven't had the patience for RPGs in a long time.
+Description - It was also fun when those teenagers tried to egg our house and it insta-cooked the eggs in mid-air.
 
 -----------------------------------
