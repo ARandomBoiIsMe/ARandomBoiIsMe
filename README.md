@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Fresh Pears](https://xkcd.com/2209)
+Title - [Superzoom](https://xkcd.com/1719)
 
-![Fresh Pears](./random_comic.png)
+![Superzoom](./random_comic.png)
 
-Description - I want to sell apples but I'm still working on getting the machine to do the cutting and grafting.
+Description - *click* Let him know he's got a stain on his shirt, though.
 
 -----------------------------------
