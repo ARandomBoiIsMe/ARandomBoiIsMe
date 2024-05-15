@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Kite](https://xkcd.com/235)
+Title - [Investing](https://xkcd.com/947)
 
-![Kite](./random_comic.png)
+![Investing](./random_comic.png)
 
-Description - It's easy to regret your awkward conversations but hard to regret the ones you didn't have.
+Description - But Einstein said it was the most powerful force in the universe, and I take all my investment advice from flippant remarks by theoretical physicists making small talk at parties.
 
 -----------------------------------
