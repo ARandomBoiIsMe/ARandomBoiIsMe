@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Investing](https://xkcd.com/947)
+Title - [xkcloud](https://xkcd.com/1506)
 
-![Investing](./random_comic.png)
+![xkcloud](./random_comic.png)
 
-Description - But Einstein said it was the most powerful force in the universe, and I take all my investment advice from flippant remarks by theoretical physicists making small talk at parties.
+Description - 
 
 -----------------------------------
