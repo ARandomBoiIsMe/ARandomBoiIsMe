@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Unpopular Opinions](https://xkcd.com/2184)
+Title - [Hamster Ball Heist](https://xkcd.com/211)
 
-![Unpopular Opinions](./random_comic.png)
+![Hamster Ball Heist](./random_comic.png)
 
-Description - I wasn't a big fan of 3 or Salvation, so I'm trying to resist getting my hopes up too much for Dark Fate, but it's hard. I'm just a sucker for humans and robots traveling through time to try to drive trucks into each other, apparently.
+Description - First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.
 
 -----------------------------------
