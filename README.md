@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Every Major's Terrible](https://xkcd.com/1052)
+Title - [Video Orientation](https://xkcd.com/2119)
 
-![Every Major's Terrible](./random_comic.png)
+![Video Orientation](./random_comic.png)
 
-Description - Someday I'll be the first to get a Ph. D in 'Undeclared'.
+Description - CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle.
 
 -----------------------------------
