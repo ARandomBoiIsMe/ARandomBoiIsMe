@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Zealous Autoconfig](https://xkcd.com/416)
+Title - [Asking Scientists Questions](https://xkcd.com/2655)
 
-![Zealous Autoconfig](./random_comic.png)
+![Asking Scientists Questions](./random_comic.png)
 
-Description - I hear this is an option in the latest Ubuntu release.
+Description - 'Does the substance feel weird to the touch?' is equally likely to get the answers 'Don't be ridiculous, you would never put your hand near a sample. We have safety protocols.' and 'Yeah, and it tastes AWFUL.'
 
 -----------------------------------
