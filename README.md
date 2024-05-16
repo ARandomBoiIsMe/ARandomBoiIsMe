@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Video Orientation](https://xkcd.com/2119)
+Title - [Zealous Autoconfig](https://xkcd.com/416)
 
-![Video Orientation](./random_comic.png)
+![Zealous Autoconfig](./random_comic.png)
 
-Description - CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle.
+Description - I hear this is an option in the latest Ubuntu release.
 
 -----------------------------------
