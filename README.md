@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Stargazing 3](https://xkcd.com/2274)
+Title - [Reverse Identity Theft](https://xkcd.com/1279)
 
-![Stargazing 3](./random_comic.png)
+![Reverse Identity Theft](./random_comic.png)
 
-Description - If we can destroy enough of the lights in our region, we may see more comets, but that's a risk we'll have to take.
+Description - I asked a few friends whether they'd had this happen, then looked up the popularity of their initials/names over time.  Based on those numbers, it looks like there must be at least 750,000 people in the US alone who think 'Sure, that's probably my email address' on a regular basis.
 
 -----------------------------------
