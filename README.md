@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Error Code](https://xkcd.com/1024)
+Title - [Stargazing 3](https://xkcd.com/2274)
 
-![Error Code](./random_comic.png)
+![Stargazing 3](./random_comic.png)
 
-Description - It has a section on motherboard beep codes that lists, for each beep pattern, a song that syncs up well with it.
+Description - If we can destroy enough of the lights in our region, we may see more comets, but that's a risk we'll have to take.
 
 -----------------------------------
