@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Pluto](https://xkcd.com/1551)
+Title - [Error Code](https://xkcd.com/1024)
 
-![Pluto](./random_comic.png)
+![Error Code](./random_comic.png)
 
-Description - After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."
+Description - It has a section on motherboard beep codes that lists, for each beep pattern, a song that syncs up well with it.
 
 -----------------------------------
