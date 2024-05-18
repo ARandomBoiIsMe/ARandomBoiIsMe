@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Random Number](https://xkcd.com/221)
+Title - [Debunking](https://xkcd.com/2551)
 
-![Random Number](./random_comic.png)
+![Debunking](./random_comic.png)
 
-Description - RFC 1149.5 specifies 4 as the standard IEEE-vetted random number.
+Description - Mark Zuckerberg has only neutral feelings toward Peppa Pig, who he understands is a fictional character, and he blames the coronavirus pandemic on other factors.
 
 -----------------------------------
