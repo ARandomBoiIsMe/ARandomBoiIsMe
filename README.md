@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Beer](https://xkcd.com/1534)
+Title - [Random Number](https://xkcd.com/221)
 
-![Beer](./random_comic.png)
+![Random Number](./random_comic.png)
 
-Description - Mmmm, this is such a positive experience! I feel no social pressure to enjoy it at all!
+Description - RFC 1149.5 specifies 4 as the standard IEEE-vetted random number.
 
 -----------------------------------
