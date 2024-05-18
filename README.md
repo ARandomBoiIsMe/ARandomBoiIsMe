@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Debunking](https://xkcd.com/2551)
+Title - [Voice](https://xkcd.com/1541)
 
-![Debunking](./random_comic.png)
+![Voice](./random_comic.png)
 
-Description - Mark Zuckerberg has only neutral feelings toward Peppa Pig, who he understands is a fictional character, and he blames the coronavirus pandemic on other factors.
+Description - Anyway, we should totally go watch a video story or put some food in our normal mouths!
 
 -----------------------------------
