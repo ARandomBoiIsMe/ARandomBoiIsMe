@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Delicious](https://xkcd.com/140)
+Title - [Polar/Cartesian](https://xkcd.com/1230)
 
-![Delicious](./random_comic.png)
+![Polar/Cartesian](./random_comic.png)
 
-Description - I'm currently in the I Have Cheese phase of this cycle.
+Description - Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.
 
 -----------------------------------
