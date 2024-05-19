@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [arXiv](https://xkcd.com/2085)
+Title - [Delicious](https://xkcd.com/140)
 
-![arXiv](./random_comic.png)
+![Delicious](./random_comic.png)
 
-Description - Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
+Description - I'm currently in the I Have Cheese phase of this cycle.
 
 -----------------------------------
