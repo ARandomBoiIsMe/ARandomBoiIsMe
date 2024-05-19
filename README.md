@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [TTSLTSWBD](https://xkcd.com/2540)
+Title - [arXiv](https://xkcd.com/2085)
 
-![TTSLTSWBD](./random_comic.png)
+![arXiv](./random_comic.png)
 
-Description - Tomorrow's sessions will be entirely devoted to sewing machine rotary hooks.
+Description - Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
 
 -----------------------------------
