@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Voice](https://xkcd.com/1541)
+Title - [TTSLTSWBD](https://xkcd.com/2540)
 
-![Voice](./random_comic.png)
+![TTSLTSWBD](./random_comic.png)
 
-Description - Anyway, we should totally go watch a video story or put some food in our normal mouths!
+Description - Tomorrow's sessions will be entirely devoted to sewing machine rotary hooks.
 
 -----------------------------------
