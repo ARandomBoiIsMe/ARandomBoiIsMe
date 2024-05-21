@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Omnitaur](https://xkcd.com/2653)
+Title - [Field Topology](https://xkcd.com/2625)
 
-![Omnitaur](./random_comic.png)
+![Field Topology](./random_comic.png)
 
-Description - "My parents were both omnitaurs, which is how I got interested in recombination," said the normal human.
+Description - The combination croquet set/10-lane pool can also be used for some varieties of foosball and Skee-Ball.
 
 -----------------------------------
