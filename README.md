@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Field Topology](https://xkcd.com/2625)
+Title - [Metaball](https://xkcd.com/1507)
 
-![Field Topology](./random_comic.png)
+![Metaball](./random_comic.png)
 
-Description - The combination croquet set/10-lane pool can also be used for some varieties of foosball and Skee-Ball.
+Description - Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!
 
 -----------------------------------
