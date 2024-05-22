@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Metaball](https://xkcd.com/1507)
+Title - [Methodology Trial](https://xkcd.com/2726)
 
-![Metaball](./random_comic.png)
+![Methodology Trial](./random_comic.png)
 
-Description - Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!
+Description - If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.
 
 -----------------------------------
