@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Map of the Internet](https://xkcd.com/195)
+Title - [Beauty](https://xkcd.com/877)
 
-![Map of the Internet](./random_comic.png)
+![Beauty](./random_comic.png)
 
-Description - For the IPv6 map just imagine the XP default desktop picture.
+Description - The best hugs are probably from hagfish, which can extrude microscopic filaments that convert a huge volume of water around them to slime in seconds. Instant cozy blanket!
 
 -----------------------------------
