@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Methodology Trial](https://xkcd.com/2726)
+Title - [Map of the Internet](https://xkcd.com/195)
 
-![Methodology Trial](./random_comic.png)
+![Map of the Internet](./random_comic.png)
 
-Description - If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.
+Description - For the IPv6 map just imagine the XP default desktop picture.
 
 -----------------------------------
