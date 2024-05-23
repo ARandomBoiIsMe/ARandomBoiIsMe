@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Zeppelin](https://xkcd.com/73)
+Title - [So It Has Come To This](https://xkcd.com/1022)
 
-![Zeppelin](./random_comic.png)
+![So It Has Come To This](./random_comic.png)
 
-Description - A tribute to Buttercup Festival
+Description - 'Come to what?' 'You. Me. This moment.'
 
 -----------------------------------
