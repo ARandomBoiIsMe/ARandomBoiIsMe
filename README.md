@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Beauty](https://xkcd.com/877)
+Title - [2018](https://xkcd.com/1935)
 
-![Beauty](./random_comic.png)
+![2018](./random_comic.png)
 
-Description - The best hugs are probably from hagfish, which can extrude microscopic filaments that convert a huge volume of water around them to slime in seconds. Instant cozy blanket!
+Description - We should really start calculating it earlier, but until the end of December we're always too busy trying to figure out which day Christmas will fall on.
 
 -----------------------------------
