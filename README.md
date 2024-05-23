@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [2018](https://xkcd.com/1935)
+Title - [AI-Box Experiment](https://xkcd.com/1450)
 
-![2018](./random_comic.png)
+![AI-Box Experiment](./random_comic.png)
 
-Description - We should really start calculating it earlier, but until the end of December we're always too busy trying to figure out which day Christmas will fall on.
+Description - I'm working to bring about a superintelligent AI that will eternally torment everyone who failed to make fun of the Roko's Basilisk people.
 
 -----------------------------------
