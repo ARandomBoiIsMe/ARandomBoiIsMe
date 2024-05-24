@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Voyager 1](https://xkcd.com/1189)
+Title - [Cirith Ungol](https://xkcd.com/1087)
 
-![Voyager 1](./random_comic.png)
+![Cirith Ungol](./random_comic.png)
 
-Description - So far Voyager 1 has 'left the Solar System' by passing through the termination shock three times, the heliopause twice, and once each through the heliosheath, heliosphere, heliodrome, auroral discontinuity, Heaviside layer, trans-Neptunian panic zone, magnetogap, US Census Bureau Solar System statistical boundary, Kuiper gauntlet, Oort void, and crystal sphere holding the fixed stars.
+Description - My all-time favorite example of syntactic ambiguity comes from Wikipedia: 'Charlotte's Web is a children's novel by American author E. B. White, about a pig named Wilbur who is saved from being slaughtered by an intelligent spider named Charlotte.'
 
 -----------------------------------
