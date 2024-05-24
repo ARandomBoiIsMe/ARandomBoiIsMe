@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cirith Ungol](https://xkcd.com/1087)
+Title - [So It Has Come To This](https://xkcd.com/1022)
 
-![Cirith Ungol](./random_comic.png)
+![So It Has Come To This](./random_comic.png)
 
-Description - My all-time favorite example of syntactic ambiguity comes from Wikipedia: 'Charlotte's Web is a children's novel by American author E. B. White, about a pig named Wilbur who is saved from being slaughtered by an intelligent spider named Charlotte.'
+Description - 'Come to what?' 'You. Me. This moment.'
 
 -----------------------------------
