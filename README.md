@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [So It Has Come To This](https://xkcd.com/1022)
+Title - [Voynich Manuscript](https://xkcd.com/593)
 
-![So It Has Come To This](./random_comic.png)
+![Voynich Manuscript](./random_comic.png)
 
-Description - 'Come to what?' 'You. Me. This moment.'
+Description - Wait, is that the ORIGINAL voynich manuscript?  Where did you GET that?  Wanna try playing a round of Druids and Dicotyledons?
 
 -----------------------------------
