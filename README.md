@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Chin-Up Bar](https://xkcd.com/954)
+Title - [Questions for God](https://xkcd.com/1315)
 
-![Chin-Up Bar](./random_comic.png)
+![Questions for God](./random_comic.png)
 
-Description - Those few who escaped found the emergency cutoff box disabled. The stampede lasted two hours and reached the bottom three times.
+Description - What sins could possibly darken the heart of a STEAMBOAT? I asked The Shadow, but he says he only covers men.
 
 -----------------------------------
