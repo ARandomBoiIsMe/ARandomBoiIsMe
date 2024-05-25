@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Pickup Artists](https://xkcd.com/1178)
+Title - [Color Models](https://xkcd.com/1882)
 
-![Pickup Artists](./random_comic.png)
+![Color Models](./random_comic.png)
 
-Description - It sounds like a great way to make friends! Is it near that Friend Zone you keep talking about? I wanna go!
+Description - What if what *I* see as blue, *you* see as a slightly different blue because you're using Chrome instead of Firefox and despite a decade of messing with profiles we STILL can't get this right somehow.
 
 -----------------------------------
