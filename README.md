@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Color Models](https://xkcd.com/1882)
+Title - [Chin-Up Bar](https://xkcd.com/954)
 
-![Color Models](./random_comic.png)
+![Chin-Up Bar](./random_comic.png)
 
-Description - What if what *I* see as blue, *you* see as a slightly different blue because you're using Chrome instead of Firefox and despite a decade of messing with profiles we STILL can't get this right somehow.
+Description - Those few who escaped found the emergency cutoff box disabled. The stampede lasted two hours and reached the bottom three times.
 
 -----------------------------------
