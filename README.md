@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [So It Has Come To This](https://xkcd.com/1022)
+Title - [Pickup Artists](https://xkcd.com/1178)
 
-![So It Has Come To This](./random_comic.png)
+![Pickup Artists](./random_comic.png)
 
-Description - 'Come to what?' 'You. Me. This moment.'
+Description - It sounds like a great way to make friends! Is it near that Friend Zone you keep talking about? I wanna go!
 
 -----------------------------------
