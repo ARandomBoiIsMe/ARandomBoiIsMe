@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [ISS Solar Transit 2](https://xkcd.com/1830)
+Title - [Palindrome](https://xkcd.com/1632)
 
-![ISS Solar Transit 2](./random_comic.png)
+![Palindrome](./random_comic.png)
 
-Description - Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.
+Description - I hope that somewhere in the world, "Panamax" is the last option on a "size" drop-down menu on a sex toy site.
 
 -----------------------------------
