@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Muller's Ratchet](https://xkcd.com/2464)
+Title - [Email](https://xkcd.com/1467)
 
-![Muller's Ratchet](./random_comic.png)
+![Email](./random_comic.png)
 
-Description - Who knew you could learn so much about sexual reproduction from looking at pictures on the internet!
+Description - My New Year's resolution for 2014-54-12/30/14 Dec:12:1420001642 is to learn these stupid time formatting strings.
 
 -----------------------------------
