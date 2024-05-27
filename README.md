@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Biff Tannen](https://xkcd.com/2104)
+Title - [fMRI](https://xkcd.com/1453)
 
-![Biff Tannen](./random_comic.png)
+![fMRI](./random_comic.png)
 
-Description - I can't help myself; now I want to read a bunch of thinkpieces from newspapers in Biff's 1985 arguing over whether the growth of the region into a corporate dystopia was inevitable.
+Description - They also showed activation in the parts of the brain associated with exposure to dubious study methodology, concern about unremoved piercings, and exasperation with fMRI techs who won't stop talking about Warped Tour.
 
 -----------------------------------
