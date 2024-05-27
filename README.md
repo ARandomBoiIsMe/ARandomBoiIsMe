@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Palindrome](https://xkcd.com/1632)
+Title - [Bell's Theorem](https://xkcd.com/1591)
 
-![Palindrome](./random_comic.png)
+![Bell's Theorem](./random_comic.png)
 
-Description - I hope that somewhere in the world, "Panamax" is the last option on a "size" drop-down menu on a sex toy site.
+Description - The no-communication theorem states that no communication about the no-communication theorem can clear up the misunderstanding quickly enough to allow faster-than-light signaling.
 
 -----------------------------------
