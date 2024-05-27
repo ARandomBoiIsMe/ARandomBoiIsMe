@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [fMRI](https://xkcd.com/1453)
+Title - [Temper](https://xkcd.com/767)
 
-![fMRI](./random_comic.png)
+![Temper](./random_comic.png)
 
-Description - They also showed activation in the parts of the brain associated with exposure to dubious study methodology, concern about unremoved piercings, and exasperation with fMRI techs who won't stop talking about Warped Tour.
+Description - Mr. Rogers projected an air of genuine, unwavering, almost saintly pure-hearted decency. But when you look deeper, at the person behind the image ... that's exactly what you find there, too. He's exactly what he appears to be.
 
 -----------------------------------
