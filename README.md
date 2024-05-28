@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Russell's Teapot](https://xkcd.com/1866)
+Title - [Geeks and Nerds](https://xkcd.com/747)
 
-![Russell's Teapot](./random_comic.png)
+![Geeks and Nerds](./random_comic.png)
 
-Description - Unfortunately, NASA regulations state that Bertrand Russell-related payloads can only be launched within launch vehicles which do not launch themselves.
+Description - The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.
 
 -----------------------------------
