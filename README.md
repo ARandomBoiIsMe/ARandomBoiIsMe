@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Arbitrage](https://xkcd.com/1499)
+Title - [Backups](https://xkcd.com/1718)
 
-![Arbitrage](./random_comic.png)
+![Backups](./random_comic.png)
 
-Description - The invisible hand of the market never texts me back.
+Description - Maybe you should keep FEWER backups; it sounds like throwing away everything you've done and starting from scratch might not be the worst idea.
 
 -----------------------------------
