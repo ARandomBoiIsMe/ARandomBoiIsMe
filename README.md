@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Backups](https://xkcd.com/1718)
+Title - [Open Mic Night](https://xkcd.com/785)
 
-![Backups](./random_comic.png)
+![Open Mic Night](./random_comic.png)
 
-Description - Maybe you should keep FEWER backups; it sounds like throwing away everything you've done and starting from scratch might not be the worst idea.
+Description - Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?
 
 -----------------------------------
