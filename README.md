@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Open Mic Night](https://xkcd.com/785)
+Title - [Magic School Bus](https://xkcd.com/911)
 
-![Open Mic Night](./random_comic.png)
+![Magic School Bus](./random_comic.png)
 
-Description - Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?
+Description - At my OLD school, we used Microsoft Encarta 2005.
 
 -----------------------------------
