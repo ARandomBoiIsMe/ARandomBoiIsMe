@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Photoshops](https://xkcd.com/331)
+Title - [Possible Undiscovered Planets](https://xkcd.com/1633)
 
-![Photoshops](./random_comic.png)
+![Possible Undiscovered Planets](./random_comic.png)
 
-Description - When I look into your eyes, I see JPEG artifacts.  I can tell by the pixels that we're wrong for each other.
+Description - Superman lies near the bird/plane boundary over a range of distances, which explains the confusion.
 
 -----------------------------------
