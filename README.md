@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Possible Undiscovered Planets](https://xkcd.com/1633)
+Title - [Paper Title](https://xkcd.com/2703)
 
-![Possible Undiscovered Planets](./random_comic.png)
+![Paper Title](./random_comic.png)
 
-Description - Superman lies near the bird/plane boundary over a range of distances, which explains the confusion.
+Description - CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science.
 
 -----------------------------------
