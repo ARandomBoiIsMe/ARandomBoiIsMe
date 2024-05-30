@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Control Group](https://xkcd.com/2576)
+Title - [Photoshops](https://xkcd.com/331)
 
-![Control Group](./random_comic.png)
+![Photoshops](./random_comic.png)
 
-Description - Placeble 228 x/6n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜
+Description - When I look into your eyes, I see JPEG artifacts.  I can tell by the pixels that we're wrong for each other.
 
 -----------------------------------
