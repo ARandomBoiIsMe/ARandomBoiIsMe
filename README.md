@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Paper Title](https://xkcd.com/2703)
+Title - [Estimation](https://xkcd.com/612)
 
-![Paper Title](./random_comic.png)
+![Estimation](./random_comic.png)
 
-Description - CONFLICT OF INTEREST STATEMENT: The authors hope these results are correct because we all want to be cool people who are good at science.
+Description - They could say "the connection is probably lost," but it's more fun to do naive time-averaging to give you hope that if you wait around for 1,163 hours, it will finally finish.
 
 -----------------------------------
