@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Snake Facts](https://xkcd.com/1398)
+Title - [Answers](https://xkcd.com/1345)
 
-![Snake Facts](./random_comic.png)
+![Answers](./random_comic.png)
 
-Description - Biologically speaking, what we call a 'snake' is actually a human digestive tract which has escaped from its host.
+Description - Stanford sleep researcher William Dement said that after 50 years of studying sleep, the only really solid explanation he knows for why we do it is 'because we get sleepy'.
 
 -----------------------------------
