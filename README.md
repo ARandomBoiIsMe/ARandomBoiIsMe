@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [2038](https://xkcd.com/607)
+Title - [Reminders](https://xkcd.com/2093)
 
-![2038](./random_comic.png)
+![Reminders](./random_comic.png)
 
-Description - If only we'd chosen 1944-12-02 08:45:52 as the Unix epoch, we could've combined two doomsday scenarios into one and added a really boring scene to that Roland Emmerich movie.
+Description - The good news is that if the number of work and friend relationships you have exceeds your willingness to do the bare minimum to keep up with everyone's life events and stuff, one way or another that problem eventually solves itself.
 
 -----------------------------------
