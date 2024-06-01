@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Answers](https://xkcd.com/1345)
+Title - [Net Rotations](https://xkcd.com/2882)
 
-![Answers](./random_comic.png)
+![Net Rotations](./random_comic.png)
 
-Description - Stanford sleep researcher William Dement said that after 50 years of studying sleep, the only really solid explanation he knows for why we do it is 'because we get sleepy'.
+Description - For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight.
 
 -----------------------------------
