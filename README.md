@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Net Rotations](https://xkcd.com/2882)
+Title - [Powers of One](https://xkcd.com/271)
 
-![Net Rotations](./random_comic.png)
+![Powers of One](./random_comic.png)
 
-Description - For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight.
+Description - It's kinda Zen when you think about it, if you don't think too hard.
 
 -----------------------------------
