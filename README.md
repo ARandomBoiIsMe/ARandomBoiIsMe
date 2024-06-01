@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Powers of One](https://xkcd.com/271)
+Title - [2038](https://xkcd.com/607)
 
-![Powers of One](./random_comic.png)
+![2038](./random_comic.png)
 
-Description - It's kinda Zen when you think about it, if you don't think too hard.
+Description - If only we'd chosen 1944-12-02 08:45:52 as the Unix epoch, we could've combined two doomsday scenarios into one and added a really boring scene to that Roland Emmerich movie.
 
 -----------------------------------
