@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Conspiracy Theories](https://xkcd.com/258)
+Title - [Missed Connections](https://xkcd.com/935)
 
-![Conspiracy Theories](./random_comic.png)
+![Missed Connections](./random_comic.png)
 
-Description - There are a lot of graduate-educated young-earth creationists.
+Description - The Street View van isn't going to find out anything Google won't already know from reading my email.
 
 -----------------------------------
