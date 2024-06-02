@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Reminders](https://xkcd.com/2093)
+Title - [Conspiracy Theories](https://xkcd.com/258)
 
-![Reminders](./random_comic.png)
+![Conspiracy Theories](./random_comic.png)
 
-Description - The good news is that if the number of work and friend relationships you have exceeds your willingness to do the bare minimum to keep up with everyone's life events and stuff, one way or another that problem eventually solves itself.
+Description - There are a lot of graduate-educated young-earth creationists.
 
 -----------------------------------
