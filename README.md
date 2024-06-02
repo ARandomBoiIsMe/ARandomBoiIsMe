@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Missed Connections](https://xkcd.com/935)
+Title - [Cheap GPS](https://xkcd.com/407)
 
-![Missed Connections](./random_comic.png)
+![Cheap GPS](./random_comic.png)
 
-Description - The Street View van isn't going to find out anything Google won't already know from reading my email.
+Description - In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.
 
 -----------------------------------
