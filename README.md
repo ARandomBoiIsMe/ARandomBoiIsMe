@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Parody Week: Achewood](https://xkcd.com/141)
+Title - [Circuit Diagram](https://xkcd.com/730)
 
-![Parody Week: Achewood](./random_comic.png)
+![Circuit Diagram](./random_comic.png)
 
-Description - I always wanted to impress them with how well I could hear, didn't you?  Also, this sets the record for number of awkward-pause panels in one strip (previously held by Achewood)
+Description - I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.
 
 -----------------------------------
