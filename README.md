@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Circuit Diagram](https://xkcd.com/730)
+Title - [Five-Day Forecast](https://xkcd.com/1606)
 
-![Circuit Diagram](./random_comic.png)
+![Five-Day Forecast](./random_comic.png)
 
-Description - I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.
+Description - You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.
 
 -----------------------------------
