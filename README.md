@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Solar System Changes](https://xkcd.com/2258)
+Title - [Words for Small Sets](https://xkcd.com/1070)
 
-![Solar System Changes](./random_comic.png)
+![Words for Small Sets](./random_comic.png)
 
-Description - "Actually, Jupiter already has a very impressive ring system!" --someone who knows Jupiter is within earshot
+Description - If things are too quiet, try asking a couple of friends whether "a couple" should always mean "two". As with the question of how many spaces should go after a period, it can turn acrimonious surprisingly fast unless all three of them agree.
 
 -----------------------------------
