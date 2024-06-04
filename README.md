@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Bad Map Projection: Madagascator](https://xkcd.com/2613)
+Title - [Geologist](https://xkcd.com/1198)
 
-![Bad Map Projection: Madagascator](./random_comic.png)
+![Geologist](./random_comic.png)
 
-Description - The projection's north pole is in a small lake on the island of Mahé in the Seychelles, which is off the top of the map and larger than the rest of the Earth's land area combined.
+Description - 'It seems like it's still alive, Professor.' 'Yeah, a big one like this can keep running around for a few billion years after you remove the head."
 
 -----------------------------------
