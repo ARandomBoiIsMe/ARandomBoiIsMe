@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hydrothermal Vents](https://xkcd.com/2872)
+Title - [Who Sends the First Text?](https://xkcd.com/2065)
 
-![Hydrothermal Vents](./random_comic.png)
+![Who Sends the First Text?](./random_comic.png)
 
-Description - Benthic Santas weren't even discovered until the 1970s, but many scientists now believe Christmas may have originally developed around hydrothermal vents and only later migrated to the surface.
+Description - I sort of wish my texting app showed the percentage next to each person, but also sort of don't want to know.
 
 -----------------------------------
