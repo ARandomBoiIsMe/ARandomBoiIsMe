@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Five-Day Forecast](https://xkcd.com/1606)
+Title - [Bad Map Projection: Madagascator](https://xkcd.com/2613)
 
-![Five-Day Forecast](./random_comic.png)
+![Bad Map Projection: Madagascator](./random_comic.png)
 
-Description - You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.
+Description - The projection's north pole is in a small lake on the island of Mahé in the Seychelles, which is off the top of the map and larger than the rest of the Earth's land area combined.
 
 -----------------------------------
