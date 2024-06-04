@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Geologist](https://xkcd.com/1198)
+Title - [Hydrothermal Vents](https://xkcd.com/2872)
 
-![Geologist](./random_comic.png)
+![Hydrothermal Vents](./random_comic.png)
 
-Description - 'It seems like it's still alive, Professor.' 'Yeah, a big one like this can keep running around for a few billion years after you remove the head."
+Description - Benthic Santas weren't even discovered until the 1970s, but many scientists now believe Christmas may have originally developed around hydrothermal vents and only later migrated to the surface.
 
 -----------------------------------
