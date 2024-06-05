@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Lorenz](https://xkcd.com/1350)
+Title - [Party](https://xkcd.com/524)
 
-![Lorenz](./random_comic.png)
+![Party](./random_comic.png)
 
-Description - Every choice, no matter how small, begins a new story.
+Description - I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008.  I Accidentally <noun>?  Yo dawg?  Place your bets now!
 
 -----------------------------------
