@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Swimsuit Issue](https://xkcd.com/751)
+Title - [Lorenz](https://xkcd.com/1350)
 
-![Swimsuit Issue](./random_comic.png)
+![Lorenz](./random_comic.png)
 
-Description - Parents: talk to your kids about popup blockers. Also, at some point, sex. But crucial fundamentals first!
+Description - Every choice, no matter how small, begins a new story.
 
 -----------------------------------
