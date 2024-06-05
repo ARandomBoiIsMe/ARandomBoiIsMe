@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Party](https://xkcd.com/524)
+Title - [Idiocracy](https://xkcd.com/603)
 
-![Party](./random_comic.png)
+![Idiocracy](./random_comic.png)
 
-Description - I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008.  I Accidentally <noun>?  Yo dawg?  Place your bets now!
+Description - People aren't going to change, for better or for worse. Technology's going to be so cool. All in all, the future will be okay! Except climate; we fucked that one up.
 
 -----------------------------------
