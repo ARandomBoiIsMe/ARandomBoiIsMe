@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Idiocracy](https://xkcd.com/603)
+Title - [TV Problems](https://xkcd.com/1760)
 
-![Idiocracy](./random_comic.png)
+![TV Problems](./random_comic.png)
 
-Description - People aren't going to change, for better or for worse. Technology's going to be so cool. All in all, the future will be okay! Except climate; we fucked that one up.
+Description - Certified skydiving instructors know way more about safely falling from planes than I do, and are way more likely to die that way.
 
 -----------------------------------
