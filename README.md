@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [TV Problems](https://xkcd.com/1760)
+Title - [False Dichotomy](https://xkcd.com/2592)
 
-![TV Problems](./random_comic.png)
+![False Dichotomy](./random_comic.png)
 
-Description - Certified skydiving instructors know way more about safely falling from planes than I do, and are way more likely to die that way.
+Description - There are two types of dichotomy: False dichotomies, true dichotomies, and surprise trichotomies.
 
 -----------------------------------
