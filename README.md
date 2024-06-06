@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [False Dichotomy](https://xkcd.com/2592)
+Title - [Allow Captcha](https://xkcd.com/2415)
 
-![False Dichotomy](./random_comic.png)
+![Allow Captcha](./random_comic.png)
 
-Description - There are two types of dichotomy: False dichotomies, true dichotomies, and surprise trichotomies.
+Description - To prove you're human, please click all the number pairs that appear together in your Social Security number.
 
 -----------------------------------
