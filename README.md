@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Allow Captcha](https://xkcd.com/2415)
+Title - [Marble Run](https://xkcd.com/2785)
 
-![Allow Captcha](./random_comic.png)
+![Marble Run](./random_comic.png)
 
-Description - To prove you're human, please click all the number pairs that appear together in your Social Security number.
+Description - I have so many plans. It would incorporate a Galton board, a Ranque-Hilsch marble vortex tube, and a compartment lined with pinball bouncers with a camera-and-servo Maxwell's Demon that separated the balls into fast and slow sides.
 
 -----------------------------------
