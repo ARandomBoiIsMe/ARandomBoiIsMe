@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Best Camera](https://xkcd.com/2645)
+Title - [Boat Puzzle](https://xkcd.com/2348)
 
-![The Best Camera](./random_comic.png)
+![Boat Puzzle](./random_comic.png)
 
-Description - The best camera is the one at L2.
+Description - 'No, my cabbage moths have already started laying eggs in them! Send the trolley into the river!' 'No, the sailing wolf will steal the boat to rescue them!'
 
 -----------------------------------
