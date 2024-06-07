@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Electron Color](https://xkcd.com/2734)
+Title - [The Best Camera](https://xkcd.com/2645)
 
-![Electron Color](./random_comic.png)
+![The Best Camera](./random_comic.png)
 
-Description - There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.
+Description - The best camera is the one at L2.
 
 -----------------------------------
