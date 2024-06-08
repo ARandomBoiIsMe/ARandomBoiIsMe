@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Boat Puzzle](https://xkcd.com/2348)
+Title - [1000 Comics](https://xkcd.com/1000)
 
-![Boat Puzzle](./random_comic.png)
+![1000 Comics](./random_comic.png)
 
-Description - 'No, my cabbage moths have already started laying eggs in them! Send the trolley into the river!' 'No, the sailing wolf will steal the boat to rescue them!'
+Description - Thank you for making me feel less alone.
 
 -----------------------------------
