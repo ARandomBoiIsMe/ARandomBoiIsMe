@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [1000 Comics](https://xkcd.com/1000)
+Title - [Diploma Legal Notes](https://xkcd.com/2157)
 
-![1000 Comics](./random_comic.png)
+![Diploma Legal Notes](./random_comic.png)
 
-Description - Thank you for making me feel less alone.
+Description - If you're planning to challenge the royal family, you should probably wait 6-8 weeks, since a number of the younger ones have diplomas and Kate was actually on the varsity lightsaber team at St Andrews.
 
 -----------------------------------
