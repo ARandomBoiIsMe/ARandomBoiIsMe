@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Diploma Legal Notes](https://xkcd.com/2157)
+Title - [Broomstick](https://xkcd.com/1149)
 
-![Diploma Legal Notes](./random_comic.png)
+![Broomstick](./random_comic.png)
 
-Description - If you're planning to challenge the royal family, you should probably wait 6-8 weeks, since a number of the younger ones have diplomas and Kate was actually on the varsity lightsaber team at St Andrews.
+Description - 'Broom first, then slippers.' 'How do I know you'll return the broom once you've secured your ticket?' 'I'll leave my little dog as collateral.' 'Great. Pleasure doing business!'
 
 -----------------------------------
