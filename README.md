@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Laser Pointer](https://xkcd.com/729)
+Title - [Proteins](https://xkcd.com/1430)
 
-![Laser Pointer](./random_comic.png)
+![Proteins](./random_comic.png)
 
-Description - It's a lasing cat-vity!
+Description - Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!
 
 -----------------------------------
