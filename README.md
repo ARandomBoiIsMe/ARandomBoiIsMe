@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Proteins](https://xkcd.com/1430)
+Title - [1 to 10](https://xkcd.com/953)
 
-![Proteins](./random_comic.png)
+![1 to 10](./random_comic.png)
 
-Description - Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!
+Description - If you get an 11/100 on a CS test, but you claim it should be counted as a 'C', they'll probably decide you deserve the upgrade.
 
 -----------------------------------
