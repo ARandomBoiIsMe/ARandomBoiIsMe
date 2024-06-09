@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Geico](https://xkcd.com/42)
+Title - [Laser Pointer](https://xkcd.com/729)
 
-![Geico](./random_comic.png)
+![Laser Pointer](./random_comic.png)
 
-Description - David did this
+Description - It's a lasing cat-vity!
 
 -----------------------------------
