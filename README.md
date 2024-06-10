@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Dirty Harry](https://xkcd.com/692)
+Title - [Geothmetic Meandian](https://xkcd.com/2435)
 
-![Dirty Harry](./random_comic.png)
+![Geothmetic Meandian](./random_comic.png)
 
-Description - Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.
+Description - Pythagorean means are nice and all, but throwing the median in the pot is really what turns this into random forest statistics: applying every function you can think of, and then gradually dropping the ones that make the result worse.
 
 -----------------------------------
