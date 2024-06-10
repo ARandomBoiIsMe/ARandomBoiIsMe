@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Photos](https://xkcd.com/1314)
+Title - [Dirty Harry](https://xkcd.com/692)
 
-![Photos](./random_comic.png)
+![Dirty Harry](./random_comic.png)
 
-Description - I hate when people take photos of their meal instead of eating it, because there's nothing I love more than the sound of other people chewing.
+Description - Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.
 
 -----------------------------------
