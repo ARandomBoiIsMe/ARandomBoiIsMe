@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Efficiency](https://xkcd.com/1445)
+Title - [2](https://xkcd.com/2614)
 
-![Efficiency](./random_comic.png)
+![2](./random_comic.png)
 
-Description - I need an extension for my research project because I spent all month trying to figure out whether learning Dvorak would help me type it faster.
+Description - It's like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.
 
 -----------------------------------
