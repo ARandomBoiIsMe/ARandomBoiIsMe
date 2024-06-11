@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Quotative Like](https://xkcd.com/1483)
+Title - [Pickup Lines](https://xkcd.com/279)
 
-![Quotative Like](./random_comic.png)
+![Pickup Lines](./random_comic.png)
 
-Description - God was like, "Let there be light," and there was light.
+Description - That shirt looks good on you, but it would look even better stuffed into the neck of a vodka bottle and flung burning through our office building's window.  Let's fucking do it and never look back.
 
 -----------------------------------
