@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Pickup Lines](https://xkcd.com/279)
+Title - [Lightning Distance](https://xkcd.com/2027)
 
-![Pickup Lines](./random_comic.png)
+![Lightning Distance](./random_comic.png)
 
-Description - That shirt looks good on you, but it would look even better stuffed into the neck of a vodka bottle and flung burning through our office building's window.  Let's fucking do it and never look back.
+Description - The index of radio refraction does have a lot of variation, which might throw off your calculations, so you can also look at the difference in brightness between the visible flash and more-attenuated UV and x-rays.
 
 -----------------------------------
