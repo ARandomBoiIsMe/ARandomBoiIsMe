@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Lightning Distance](https://xkcd.com/2027)
+Title - [Inheritance](https://xkcd.com/2468)
 
-![Lightning Distance](./random_comic.png)
+![Inheritance](./random_comic.png)
 
-Description - The index of radio refraction does have a lot of variation, which might throw off your calculations, so you can also look at the difference in brightness between the visible flash and more-attenuated UV and x-rays.
+Description - People ask me whether I feel any moral qualms about the source of the points, but if he hadn't introduced factory farming to Agricola, someone else would have.
 
 -----------------------------------
