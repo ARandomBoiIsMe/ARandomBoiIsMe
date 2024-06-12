@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Inheritance](https://xkcd.com/2468)
+Title - [Substitutions](https://xkcd.com/1288)
 
-![Inheritance](./random_comic.png)
+![Substitutions](./random_comic.png)
 
-Description - People ask me whether I feel any moral qualms about the source of the points, but if he hadn't introduced factory farming to Agricola, someone else would have.
+Description - INSIDE ELON MUSK'S NEW ATOMIC CAT
 
 -----------------------------------
