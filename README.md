@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Election Map](https://xkcd.com/1852)
+Title - [Myspace](https://xkcd.com/134)
 
-![Election Map](./random_comic.png)
+![Myspace](./random_comic.png)
 
-Description - Luckily for my interpretation, no precincts were won by the Green Party.
+Description - It's like they got together and said 'what do we miss most from the internet in 1998?  that's right, embedded MIDI!'
 
 -----------------------------------
