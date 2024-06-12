@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Substitutions](https://xkcd.com/1288)
+Title - [Election Map](https://xkcd.com/1852)
 
-![Substitutions](./random_comic.png)
+![Election Map](./random_comic.png)
 
-Description - INSIDE ELON MUSK'S NEW ATOMIC CAT
+Description - Luckily for my interpretation, no precincts were won by the Green Party.
 
 -----------------------------------
