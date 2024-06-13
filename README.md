@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Internet Argument](https://xkcd.com/438)
+Title - [Manual for Civilization](https://xkcd.com/1380)
 
-![Internet Argument](./random_comic.png)
+![Manual for Civilization](./random_comic.png)
 
-Description - It's easier to be an asshole to words than to people.
+Description - We will have an entire wing of the library devoted to copies of book #26, because ohmygod it's the one where Jake and Cassie finally KISS!!!
 
 -----------------------------------
