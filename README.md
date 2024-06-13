@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [The Wrong Stuff](https://xkcd.com/2865)
+Title - [Internet Argument](https://xkcd.com/438)
 
-![The Wrong Stuff](./random_comic.png)
+![Internet Argument](./random_comic.png)
 
-Description - The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.
+Description - It's easier to be an asshole to words than to people.
 
 -----------------------------------
