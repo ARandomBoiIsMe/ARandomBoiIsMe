@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Manual for Civilization](https://xkcd.com/1380)
+Title - [Fixion](https://xkcd.com/1621)
 
-![Manual for Civilization](./random_comic.png)
+![Fixion](./random_comic.png)
 
-Description - We will have an entire wing of the library devoted to copies of book #26, because ohmygod it's the one where Jake and Cassie finally KISS!!!
+Description - My theory predicts that, at high enough energies, FRBs and perytons become indistinguishable because the detector burns out.
 
 -----------------------------------
