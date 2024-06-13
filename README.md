@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Myspace](https://xkcd.com/134)
+Title - [The Wrong Stuff](https://xkcd.com/2865)
 
-![Myspace](./random_comic.png)
+![The Wrong Stuff](./random_comic.png)
 
-Description - It's like they got together and said 'what do we miss most from the internet in 1998?  that's right, embedded MIDI!'
+Description - The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.
 
 -----------------------------------
