@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [RuBisCO](https://xkcd.com/1039)
+Title - [Lyrics](https://xkcd.com/1538)
 
-![RuBisCO](./random_comic.png)
+![Lyrics](./random_comic.png)
 
-Description - Bruce Schneier believes safewords are fundamentally insecure and recommends that you ask your partner to stop via public key signature.
+Description - To me, trying to understand song lyrics feels like when I see text in a dream but it𝔰 hอᵣd t₀ ᵣeₐd aกd 𝒾 canٖt fཱྀcu༧༦࿐༄
 
 -----------------------------------
