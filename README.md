@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Lyrics](https://xkcd.com/1538)
+Title - [Speed and Danger](https://xkcd.com/1701)
 
-![Lyrics](./random_comic.png)
+![Speed and Danger](./random_comic.png)
 
-Description - To me, trying to understand song lyrics feels like when I see text in a dream but it𝔰 hอᵣd t₀ ᵣeₐd aกd 𝒾 canٖt fཱྀcu༧༦࿐༄
+Description - NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."
 
 -----------------------------------
