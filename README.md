@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Cosmologist Genres](https://xkcd.com/2340)
+Title - [RuBisCO](https://xkcd.com/1039)
 
-![Cosmologist Genres](./random_comic.png)
+![RuBisCO](./random_comic.png)
 
-Description - Inflationary cosmologists call all music from after the first 10^-30 seconds "post-"
+Description - Bruce Schneier believes safewords are fundamentally insecure and recommends that you ask your partner to stop via public key signature.
 
 -----------------------------------
