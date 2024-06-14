@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Fixion](https://xkcd.com/1621)
+Title - [Cosmologist Genres](https://xkcd.com/2340)
 
-![Fixion](./random_comic.png)
+![Cosmologist Genres](./random_comic.png)
 
-Description - My theory predicts that, at high enough energies, FRBs and perytons become indistinguishable because the detector burns out.
+Description - Inflationary cosmologists call all music from after the first 10^-30 seconds "post-"
 
 -----------------------------------
