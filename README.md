@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Aspect Ratio](https://xkcd.com/1187)
+Title - [Hair Growth Rate](https://xkcd.com/2316)
 
-![Aspect Ratio](./random_comic.png)
+![Hair Growth Rate](./random_comic.png)
 
-Description - I'm always disappointed when 'Anamorphic Widescreen' doesn't refer to a widescreen Animorphs movie.
+Description - Hourly haircuts would be annoying, but they'd be easier to do yourself, since you'd have adjacent hairs as a guide. Growing it out would be a huge pain, though.
 
 -----------------------------------
