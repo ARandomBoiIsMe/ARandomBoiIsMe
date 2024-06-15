@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Unfulfilling Toys](https://xkcd.com/2049)
+Title - [Learning to Cook](https://xkcd.com/854)
 
-![Unfulfilling Toys](./random_comic.png)
+![Learning to Cook](./random_comic.png)
 
-Description - We were going to do a falling-apart Rubik's cube that was just 27 independent blocks stuck together with magnets, but then we realized it was actually really cool and even kind of worked, so we cut that one.
+Description - And yet I never stop thinking, 'sure, these ingredients cost more than a restaurant meal, but think how many meals I'll get out of them! Especially since each one will have leftovers!'
 
 -----------------------------------
