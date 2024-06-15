@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Hair Growth Rate](https://xkcd.com/2316)
+Title - [Unfulfilling Toys](https://xkcd.com/2049)
 
-![Hair Growth Rate](./random_comic.png)
+![Unfulfilling Toys](./random_comic.png)
 
-Description - Hourly haircuts would be annoying, but they'd be easier to do yourself, since you'd have adjacent hairs as a guide. Growing it out would be a huge pain, though.
+Description - We were going to do a falling-apart Rubik's cube that was just 27 independent blocks stuck together with magnets, but then we realized it was actually really cool and even kind of worked, so we cut that one.
 
 -----------------------------------
