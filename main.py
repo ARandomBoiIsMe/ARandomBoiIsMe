@@ -43,9 +43,9 @@ def post_random_comic():
     # Updates markdown file with new random comic.
     markdown = "## Hello 👀\n\nSomehow, you found yourself here.\n\nHere, have a random XKCD comic for your troubles:\n\n"
     markdown += "-----------------------------------\n\n"
-    markdown += f"Title - [{random_comic.title}]({BASE_URL}{random_comic_num})\n\n"
+    markdown += f"[{random_comic.title}]({BASE_URL}{random_comic_num})\n\n"
     markdown += f"![{random_comic.title}](./random_comic.png)\n\n"
-    markdown += f"Description - {random_comic.alt}\n\n"
+    markdown += f"{random_comic.alt}\n\n"
     markdown += "-----------------------------------"
 
     # Save Markdown to file.
