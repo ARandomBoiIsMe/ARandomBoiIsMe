@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Speed and Danger](https://xkcd.com/1701)
+Title - [Aspect Ratio](https://xkcd.com/1187)
 
-![Speed and Danger](./random_comic.png)
+![Aspect Ratio](./random_comic.png)
 
-Description - NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."
+Description - I'm always disappointed when 'Anamorphic Widescreen' doesn't refer to a widescreen Animorphs movie.
 
 -----------------------------------
