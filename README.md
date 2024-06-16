@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Conversations](https://xkcd.com/646)
+[Serena Versus the Drones](https://xkcd.com/2190)
 
-![Conversations](./random_comic.png)
+![Serena Versus the Drones](./random_comic.png)
 
-If the dysentery graph looks historically inaccurate it's because I got all my data from Oregon Trail.
+After the test, she said that if she had a choice, she wouldn’t defend herself against drones using a tennis ball and racket, though she would absolutely pick them over other sports equipment. But, she added, "Drones don't bother me."
 
 -----------------------------------
