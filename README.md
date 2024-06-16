@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Emoji Movie Reviews](https://xkcd.com/1870)
+[Book Podcasts](https://xkcd.com/2834)
 
-![Emoji Movie Reviews](./random_comic.png)
+![Book Podcasts](./random_comic.png)
 
-There's this idea that emoji are bad for communication because they replace ambiguity and nuance with a limited set of preselected emotions, but it doesn't really survive a collision with real-world usage of the thinking face or upside-down smiley.
+I've been working my way through this 1950s podcast by someone named John Tolkien called 'Lord of the Rings'--it's a deep dive into this fictional world he created. Good stuff, really bingeable!
 
 -----------------------------------
