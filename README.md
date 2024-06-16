@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Serena Versus the Drones](https://xkcd.com/2190)
+[Emoji Movie Reviews](https://xkcd.com/1870)
 
-![Serena Versus the Drones](./random_comic.png)
+![Emoji Movie Reviews](./random_comic.png)
 
-After the test, she said that if she had a choice, she wouldn’t defend herself against drones using a tennis ball and racket, though she would absolutely pick them over other sports equipment. But, she added, "Drones don't bother me."
+There's this idea that emoji are bad for communication because they replace ambiguity and nuance with a limited set of preselected emotions, but it doesn't really survive a collision with real-world usage of the thinking face or upside-down smiley.
 
 -----------------------------------
