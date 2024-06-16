@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-Title - [Learning to Cook](https://xkcd.com/854)
+[Conversations](https://xkcd.com/646)
 
-![Learning to Cook](./random_comic.png)
+![Conversations](./random_comic.png)
 
-Description - And yet I never stop thinking, 'sure, these ingredients cost more than a restaurant meal, but think how many meals I'll get out of them! Especially since each one will have leftovers!'
+If the dysentery graph looks historically inaccurate it's because I got all my data from Oregon Trail.
 
 -----------------------------------
