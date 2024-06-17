@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Book Podcasts](https://xkcd.com/2834)
+[Nolan Chart](https://xkcd.com/868)
 
-![Book Podcasts](./random_comic.png)
+![Nolan Chart](./random_comic.png)
 
-I've been working my way through this 1950s podcast by someone named John Tolkien called 'Lord of the Rings'--it's a deep dive into this fictional world he created. Good stuff, really bingeable!
+Also in the right quadrant are NFPA-compliant chemical manufacturers and Sir Charles Wheatstone. Sharing the top with the internet libertarians are Nate Silver and several politically-active kite designers.
 
 -----------------------------------
