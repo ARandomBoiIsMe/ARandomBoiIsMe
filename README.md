@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Nolan Chart](https://xkcd.com/868)
+[Exercise Progression](https://xkcd.com/2631)
 
-![Nolan Chart](./random_comic.png)
+![Exercise Progression](./random_comic.png)
 
-Also in the right quadrant are NFPA-compliant chemical manufacturers and Sir Charles Wheatstone. Sharing the top with the internet libertarians are Nate Silver and several politically-active kite designers.
+They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!
 
 -----------------------------------
