@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Solar System Changes](https://xkcd.com/2258)
+[Pixels](https://xkcd.com/1416)
 
-![Solar System Changes](./random_comic.png)
+![Pixels](./random_comic.png)
 
-"Actually, Jupiter already has a very impressive ring system!" --someone who knows Jupiter is within earshot
+It's turtles all the way down.
 
 -----------------------------------
