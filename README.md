@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Pixels](https://xkcd.com/1416)
+[Astronomy](https://xkcd.com/1522)
 
-![Pixels](./random_comic.png)
+![Astronomy](./random_comic.png)
 
-It's turtles all the way down.
+Astrobiology is held back by the fact that we're all too nervous to try to balance on the ladder while holding an expensive microscope.
 
 -----------------------------------
