@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Encryption](https://xkcd.com/2691)
+[Solar System Changes](https://xkcd.com/2258)
 
-![Encryption](./random_comic.png)
+![Solar System Changes](./random_comic.png)
 
-WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!
+"Actually, Jupiter already has a very impressive ring system!" --someone who knows Jupiter is within earshot
 
 -----------------------------------
