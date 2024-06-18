@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Astronomy](https://xkcd.com/1522)
+[First Thing](https://xkcd.com/2404)
 
-![Astronomy](./random_comic.png)
+![First Thing](./random_comic.png)
 
-Astrobiology is held back by the fact that we're all too nervous to try to balance on the ladder while holding an expensive microscope.
+Then I'm going to go on a weeks-long somatic hypermutation bender, producing ever-more targeted antibodies, while I continue to remain distanced and follow guidance from public health authorities.
 
 -----------------------------------
