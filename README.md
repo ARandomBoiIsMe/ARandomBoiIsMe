@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Frogger](https://xkcd.com/772)
+[Overstimulated](https://xkcd.com/602)
 
-![Frogger](./random_comic.png)
+![Overstimulated](./random_comic.png)
 
-I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.
+My favorite thing to do at parties is to talk judgmentally about people who aren't there.
 
 -----------------------------------
