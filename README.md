@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[First Thing](https://xkcd.com/2404)
+[Frogger](https://xkcd.com/772)
 
-![First Thing](./random_comic.png)
+![Frogger](./random_comic.png)
 
-Then I'm going to go on a weeks-long somatic hypermutation bender, producing ever-more targeted antibodies, while I continue to remain distanced and follow guidance from public health authorities.
+I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.
 
 -----------------------------------
