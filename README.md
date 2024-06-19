@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Decay Modes](https://xkcd.com/2860)
+[Worst-Case Scenario](https://xkcd.com/748)
 
-![Decay Modes](./random_comic.png)
+![Worst-Case Scenario](./random_comic.png)
 
-Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy.
+To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead.
 
 -----------------------------------
