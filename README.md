@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Overstimulated](https://xkcd.com/602)
+[Decay Modes](https://xkcd.com/2860)
 
-![Overstimulated](./random_comic.png)
+![Decay Modes](./random_comic.png)
 
-My favorite thing to do at parties is to talk judgmentally about people who aren't there.
+Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy.
 
 -----------------------------------
