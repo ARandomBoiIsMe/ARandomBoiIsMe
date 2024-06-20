@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Rulebook](https://xkcd.com/1552)
+[Emojidome](https://xkcd.com/2131)
 
-![Rulebook](./random_comic.png)
+![Emojidome](./random_comic.png)
 
-It's definitely an intentional foul, but we've decided it's worth it.
+Thank you to the xkcd April 1st volunteers/commentators, including @Chromakode, Kevin, @Aiiane, Patrick, Kat, Reuven, @cotrone, @bstaffin, @zigdon, schwal, Stereo, and everyone who voted!
 
 -----------------------------------
