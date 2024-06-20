@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Worst-Case Scenario](https://xkcd.com/748)
+[Factorial Numbers](https://xkcd.com/2835)
 
-![Worst-Case Scenario](./random_comic.png)
+![Factorial Numbers](./random_comic.png)
 
-To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead.
+So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal.
 
 -----------------------------------
