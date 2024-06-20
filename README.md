@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Factorial Numbers](https://xkcd.com/2835)
+[Rulebook](https://xkcd.com/1552)
 
-![Factorial Numbers](./random_comic.png)
+![Rulebook](./random_comic.png)
 
-So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal.
+It's definitely an intentional foul, but we've decided it's worth it.
 
 -----------------------------------
