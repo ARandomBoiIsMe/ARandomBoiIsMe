@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Emojidome](https://xkcd.com/2131)
+[Rubber Sheet](https://xkcd.com/1158)
 
-![Emojidome](./random_comic.png)
+![Rubber Sheet](./random_comic.png)
 
-Thank you to the xkcd April 1st volunteers/commentators, including @Chromakode, Kevin, @Aiiane, Patrick, Kat, Reuven, @cotrone, @bstaffin, @zigdon, schwal, Stereo, and everyone who voted!
+It IS about physics. It ALL is.
 
 -----------------------------------
