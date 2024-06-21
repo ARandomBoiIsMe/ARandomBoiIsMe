@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Optimization](https://xkcd.com/1691)
+[Sea Chase](https://xkcd.com/2577)
 
-![Optimization](./random_comic.png)
+![Sea Chase](./random_comic.png)
 
-Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not.
+There are two rules on this ship: Never gaze back into the projection abyss, and never touch the red button labeled DYMAXION.
 
 -----------------------------------
