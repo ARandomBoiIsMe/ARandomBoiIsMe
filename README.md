@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Cast Iron Pan](https://xkcd.com/1905)
+[Optimization](https://xkcd.com/1691)
 
-![Cast Iron Pan](./random_comic.png)
+![Optimization](./random_comic.png)
 
-If you want to evenly space them, it's easiest to alternate between the Arctic and Antarctic. Some people just go to the Arctic twice, near the equinoxes so the visits are almost 6 months apart, but it's not the same.
+Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not.
 
 -----------------------------------
