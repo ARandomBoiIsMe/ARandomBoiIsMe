@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Sea Chase](https://xkcd.com/2577)
+[Forget](https://xkcd.com/1093)
 
-![Sea Chase](./random_comic.png)
+![Forget](./random_comic.png)
 
-There are two rules on this ship: Never gaze back into the projection abyss, and never touch the red button labeled DYMAXION.
+'Baby Got Back' turned 20 this year. My favorite nostalgia show is VH1's 'I Love The Inexorable March of Time Toward the Grave That Awaits Us All.'
 
 -----------------------------------
