@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Rubber Sheet](https://xkcd.com/1158)
+[Cast Iron Pan](https://xkcd.com/1905)
 
-![Rubber Sheet](./random_comic.png)
+![Cast Iron Pan](./random_comic.png)
 
-It IS about physics. It ALL is.
+If you want to evenly space them, it's easiest to alternate between the Arctic and Antarctic. Some people just go to the Arctic twice, near the equinoxes so the visits are almost 6 months apart, but it's not the same.
 
 -----------------------------------
