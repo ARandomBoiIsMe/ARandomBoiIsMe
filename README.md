@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Coffee](https://xkcd.com/1743)
+[Terminator: Dark Fate](https://xkcd.com/2222)
 
-![Coffee](./random_comic.png)
+![Terminator: Dark Fate](./random_comic.png)
 
-Remind me to order another pack of coffee filters from Dyson. Man, these things are EXPENSIVE.
+I was sent here to stop the robot that was sent here to protect the human who was sent here to protect the human who was sent here to destroy the robot that was sent here to vacuum the floor.
 
 -----------------------------------
