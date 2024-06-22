@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Michael Phelps](https://xkcd.com/1092)
+[Frankenstein](https://xkcd.com/1589)
 
-![Michael Phelps](./random_comic.png)
+![Frankenstein](./random_comic.png)
 
-[shortly] ... he ate ALL of it!?
+"Wait, so in this version is Frankenstein also the doctor's name?" "No, he's just 'The Doctor'."
 
 -----------------------------------
