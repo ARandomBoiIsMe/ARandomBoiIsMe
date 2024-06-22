@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Forget](https://xkcd.com/1093)
+[Coffee](https://xkcd.com/1743)
 
-![Forget](./random_comic.png)
+![Coffee](./random_comic.png)
 
-'Baby Got Back' turned 20 this year. My favorite nostalgia show is VH1's 'I Love The Inexorable March of Time Toward the Grave That Awaits Us All.'
+Remind me to order another pack of coffee filters from Dyson. Man, these things are EXPENSIVE.
 
 -----------------------------------
