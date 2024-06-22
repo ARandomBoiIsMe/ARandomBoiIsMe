@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Terminator: Dark Fate](https://xkcd.com/2222)
+[Michael Phelps](https://xkcd.com/1092)
 
-![Terminator: Dark Fate](./random_comic.png)
+![Michael Phelps](./random_comic.png)
 
-I was sent here to stop the robot that was sent here to protect the human who was sent here to protect the human who was sent here to destroy the robot that was sent here to vacuum the floor.
+[shortly] ... he ate ALL of it!?
 
 -----------------------------------
