@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Frankenstein](https://xkcd.com/1589)
+[What to Do](https://xkcd.com/2813)
 
-![Frankenstein](./random_comic.png)
+![What to Do](./random_comic.png)
 
-"Wait, so in this version is Frankenstein also the doctor's name?" "No, he's just 'The Doctor'."
+FYI: The 'drop, cover, and hold on' advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs.
 
 -----------------------------------
