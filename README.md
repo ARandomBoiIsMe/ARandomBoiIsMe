@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Cicadas](https://xkcd.com/2263)
+[Frontiers](https://xkcd.com/2041)
 
-![Cicadas](./random_comic.png)
+![Frontiers](./random_comic.png)
 
-After a while you adjust to the new cicadian rhythm.
+Star Trek V is a small part of the space frontier, but it's been a while since that movie came out so I assume we've finished exploring it by now.
 
 -----------------------------------
