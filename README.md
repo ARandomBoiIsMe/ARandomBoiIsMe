@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Revolutionary](https://xkcd.com/675)
+[Cicadas](https://xkcd.com/2263)
 
-![Revolutionary](./random_comic.png)
+![Cicadas](./random_comic.png)
 
-I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.
+After a while you adjust to the new cicadian rhythm.
 
 -----------------------------------
