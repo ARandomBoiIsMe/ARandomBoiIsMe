@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[What to Do](https://xkcd.com/2813)
+[Revolutionary](https://xkcd.com/675)
 
-![What to Do](./random_comic.png)
+![Revolutionary](./random_comic.png)
 
-FYI: The 'drop, cover, and hold on' advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs.
+I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.
 
 -----------------------------------
