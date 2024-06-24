@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Frontiers](https://xkcd.com/2041)
+[Battle Room](https://xkcd.com/241)
 
-![Frontiers](./random_comic.png)
+![Battle Room](./random_comic.png)
 
-Star Trek V is a small part of the space frontier, but it's been a while since that movie came out so I assume we've finished exploring it by now.
+Bean actually sabotaged it just to give Dink the excuse to make that joke.
 
 -----------------------------------
