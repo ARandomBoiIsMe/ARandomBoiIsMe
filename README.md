@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Battle Room](https://xkcd.com/241)
+[Bug](https://xkcd.com/376)
 
-![Battle Room](./random_comic.png)
+![Bug](./random_comic.png)
 
-Bean actually sabotaged it just to give Dink the excuse to make that joke.
+The universe started in 1970.  Anyone claiming to be over 38 is lying about their age.
 
 -----------------------------------
