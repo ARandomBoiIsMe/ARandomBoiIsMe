@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Secrets](https://xkcd.com/46)
+[AAAAAA](https://xkcd.com/1001)
 
-![Secrets](./random_comic.png)
+![AAAAAA](./random_comic.png)
 
-I'm a big fan of Kurt Halsey
+'ARE YOU TURNED ON YET?' 'I DON'T THINK SO--ARE YOU?' 'MAYBE A LITTLE!' 'OK, FIVE MORE MINUTES.'
 
 -----------------------------------
