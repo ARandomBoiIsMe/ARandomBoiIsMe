@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Bug](https://xkcd.com/376)
+[Secrets](https://xkcd.com/46)
 
-![Bug](./random_comic.png)
+![Secrets](./random_comic.png)
 
-The universe started in 1970.  Anyone claiming to be over 38 is lying about their age.
+I'm a big fan of Kurt Halsey
 
 -----------------------------------
