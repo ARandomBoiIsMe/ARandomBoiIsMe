@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[OEIS Submissions](https://xkcd.com/2016)
+[Ingenuity](https://xkcd.com/2444)
 
-![OEIS Submissions](./random_comic.png)
+![Ingenuity](./random_comic.png)
 
-SUB[59]: The submission numbers for my accepted OEIS submissions in chronological order
+Plot twist: Thanks to [mumble mumble] second-order [mumble] Rayleigh-Taylor [mumble] turbulent [mumble] shear, it turns out powered flight is way EASIER on Mars!
 
 -----------------------------------
