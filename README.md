@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Ingenuity](https://xkcd.com/2444)
+[Airplane Message](https://xkcd.com/1355)
 
-![Ingenuity](./random_comic.png)
+![Airplane Message](./random_comic.png)
 
-Plot twist: Thanks to [mumble mumble] second-order [mumble] Rayleigh-Taylor [mumble] turbulent [mumble] shear, it turns out powered flight is way EASIER on Mars!
+PHARAOH IRY-HOR, FROM THE 3100s BC, IS THE FIRST HUMAN WHOSE NAME WE KNOW.
 
 -----------------------------------
