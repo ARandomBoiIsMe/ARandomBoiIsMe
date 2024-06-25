@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[AAAAAA](https://xkcd.com/1001)
+[OEIS Submissions](https://xkcd.com/2016)
 
-![AAAAAA](./random_comic.png)
+![OEIS Submissions](./random_comic.png)
 
-'ARE YOU TURNED ON YET?' 'I DON'T THINK SO--ARE YOU?' 'MAYBE A LITTLE!' 'OK, FIVE MORE MINUTES.'
+SUB[59]: The submission numbers for my accepted OEIS submissions in chronological order
 
 -----------------------------------
