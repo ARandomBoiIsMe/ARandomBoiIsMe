@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Airplane Message](https://xkcd.com/1355)
+[Manhattan Project](https://xkcd.com/1736)
 
-![Airplane Message](./random_comic.png)
+![Manhattan Project](./random_comic.png)
 
-PHARAOH IRY-HOR, FROM THE 3100s BC, IS THE FIRST HUMAN WHOSE NAME WE KNOW.
+On the plus side, we definitely killed that cancer over there, even if we caused a bunch more everywhere else.
 
 -----------------------------------
