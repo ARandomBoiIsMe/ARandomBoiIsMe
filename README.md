@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Inflection](https://xkcd.com/1709)
+[New Pet](https://xkcd.com/413)
 
-![Inflection](./random_comic.png)
+![New Pet](./random_comic.png)
 
-"Or maybe, because we're suddenly having so many conversations through written text, we'll start relying MORE on altered spelling to indicate meaning!" "Wat."
+ONE LAPTOP PER HAMSTER!
 
 -----------------------------------
