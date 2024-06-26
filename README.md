@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Reduce Your Payments](https://xkcd.com/1426)
+[Metaball](https://xkcd.com/1507)
 
-![Reduce Your Payments](./random_comic.png)
+![Metaball](./random_comic.png)
 
-I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.
+Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!
 
 -----------------------------------
