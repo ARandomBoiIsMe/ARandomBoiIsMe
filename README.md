@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Manhattan Project](https://xkcd.com/1736)
+[Reduce Your Payments](https://xkcd.com/1426)
 
-![Manhattan Project](./random_comic.png)
+![Reduce Your Payments](./random_comic.png)
 
-On the plus side, we definitely killed that cancer over there, even if we caused a bunch more everywhere else.
+I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.
 
 -----------------------------------
