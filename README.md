@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Metaball](https://xkcd.com/1507)
+[Inflection](https://xkcd.com/1709)
 
-![Metaball](./random_comic.png)
+![Inflection](./random_comic.png)
 
-Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!
+"Or maybe, because we're suddenly having so many conversations through written text, we'll start relying MORE on altered spelling to indicate meaning!" "Wat."
 
 -----------------------------------
