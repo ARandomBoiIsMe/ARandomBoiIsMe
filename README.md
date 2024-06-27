@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Water Delivery](https://xkcd.com/1599)
+[Salt Dome](https://xkcd.com/2752)
 
-![Water Delivery](./random_comic.png)
+![Salt Dome](./random_comic.png)
 
-When I was a kid, I asked my parents why our houses didn't have toothpaste pipes in addition to water ones. I'm strangely pleased to see Amazon thinking the same way.
+The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.
 
 -----------------------------------
