@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[New Pet](https://xkcd.com/413)
+[Maps](https://xkcd.com/2617)
 
-![New Pet](./random_comic.png)
+![Maps](./random_comic.png)
 
-ONE LAPTOP PER HAMSTER!
+OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!
 
 -----------------------------------
