@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Euler Diagrams](https://xkcd.com/2721)
+[Water Delivery](https://xkcd.com/1599)
 
-![Euler Diagrams](./random_comic.png)
+![Water Delivery](./random_comic.png)
 
-Things Leonhard Euler created ( most of math ( overlapping circle diagrams ) a cricket bowling machine ) Things John Venn created
+When I was a kid, I asked my parents why our houses didn't have toothpaste pipes in addition to water ones. I'm strangely pleased to see Amazon thinking the same way.
 
 -----------------------------------
