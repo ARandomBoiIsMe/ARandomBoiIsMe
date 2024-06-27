@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Maps](https://xkcd.com/2617)
+[Euler Diagrams](https://xkcd.com/2721)
 
-![Maps](./random_comic.png)
+![Euler Diagrams](./random_comic.png)
 
-OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!
+Things Leonhard Euler created ( most of math ( overlapping circle diagrams ) a cricket bowling machine ) Things John Venn created
 
 -----------------------------------
