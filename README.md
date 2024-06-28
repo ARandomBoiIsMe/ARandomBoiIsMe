@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Pickup Artist](https://xkcd.com/1027)
+[UI Change](https://xkcd.com/1770)
 
-![Pickup Artist](./random_comic.png)
+![UI Change](./random_comic.png)
 
-Son, don't try to play 'make you feel bad' with the Michael Jordan of making you feel bad.
+I know they said this change is permanent, but surely when they hear how much we're complaining someone will find a way to change things back.
 
 -----------------------------------
