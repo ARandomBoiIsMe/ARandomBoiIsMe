@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[UI Change](https://xkcd.com/1770)
+[Super Bowl Watch Party](https://xkcd.com/1951)
 
-![UI Change](./random_comic.png)
+![Super Bowl Watch Party](./random_comic.png)
 
-I know they said this change is permanent, but surely when they hear how much we're complaining someone will find a way to change things back.
+It's going to be weird near the end of May when the screen goes blank for over 18 hours.
 
 -----------------------------------
