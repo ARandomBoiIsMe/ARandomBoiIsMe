@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Salt Dome](https://xkcd.com/2752)
+[Pickup Artist](https://xkcd.com/1027)
 
-![Salt Dome](./random_comic.png)
+![Pickup Artist](./random_comic.png)
 
-The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.
+Son, don't try to play 'make you feel bad' with the Michael Jordan of making you feel bad.
 
 -----------------------------------
