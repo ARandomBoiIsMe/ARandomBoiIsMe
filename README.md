@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Grownups](https://xkcd.com/150)
+[Thesis Defense](https://xkcd.com/1403)
 
-![Grownups](./random_comic.png)
+![Thesis Defense](./random_comic.png)
 
-I've looked into this, and I can't figure out a way to do it cheaply.  And I guess it wouldn't be sanitary.
+MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART
 
 -----------------------------------
