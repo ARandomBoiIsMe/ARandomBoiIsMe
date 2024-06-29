@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Thesis Defense](https://xkcd.com/1403)
+[Fermirotica](https://xkcd.com/563)
 
-![Thesis Defense](./random_comic.png)
+![Fermirotica](./random_comic.png)
 
-MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART
+I love how Google handles dimensional analysis.  Stats are ballpark and vary wildly by time of day and whether your mom is in town.
 
 -----------------------------------
