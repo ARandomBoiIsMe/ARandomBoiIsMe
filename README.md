@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Brain Hemispheres](https://xkcd.com/2120)
+[Grownups](https://xkcd.com/150)
 
-![Brain Hemispheres](./random_comic.png)
+![Grownups](./random_comic.png)
 
-Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.
+I've looked into this, and I can't figure out a way to do it cheaply.  And I guess it wouldn't be sanitary.
 
 -----------------------------------
