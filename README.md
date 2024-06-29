@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Geico](https://xkcd.com/42)
+[Brain Hemispheres](https://xkcd.com/2120)
 
-![Geico](./random_comic.png)
+![Brain Hemispheres](./random_comic.png)
 
-David did this
+Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.
 
 -----------------------------------
