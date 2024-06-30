@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Defensive Profile](https://xkcd.com/1911)
+[Decline](https://xkcd.com/523)
 
-![Defensive Profile](./random_comic.png)
+![Decline](./random_comic.png)
 
-NO DRAMA ZONE -> If I've made you sad, you'd better not tell me, because I am TERRIFIED of that situation and have NO IDEA how to handle it.
+'There's also a spike on the Fourier transform at the one-month mark where --' 'You want to stop talking right now.'
 
 -----------------------------------
