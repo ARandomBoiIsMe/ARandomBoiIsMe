@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Keeping Time](https://xkcd.com/389)
+[Defensive Profile](https://xkcd.com/1911)
 
-![Keeping Time](./random_comic.png)
+![Defensive Profile](./random_comic.png)
 
-You can identify them ahead-of-time -- they lead with their left foot when the music starts.
+NO DRAMA ZONE -> If I've made you sad, you'd better not tell me, because I am TERRIFIED of that situation and have NO IDEA how to handle it.
 
 -----------------------------------
