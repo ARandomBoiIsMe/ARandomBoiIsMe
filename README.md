@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Code Talkers](https://xkcd.com/257)
+[Keeping Time](https://xkcd.com/389)
 
-![Code Talkers](./random_comic.png)
+![Keeping Time](./random_comic.png)
 
-As far as I can tell, Navajo doesn't have a common word for 'zero'.  do-neh-lini means 'neutral'.
+You can identify them ahead-of-time -- they lead with their left foot when the music starts.
 
 -----------------------------------
