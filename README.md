@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Brand Identity](https://xkcd.com/993)
+[Mess](https://xkcd.com/1267)
 
-![Brand Identity](./random_comic.png)
+![Mess](./random_comic.png)
 
-Legally-mandated information would be printed on the back or discreetly along the bottom. In small letters under the nutrition information it would say 'Like our products? Visit our website!' There would be no URL.
+'Sorry, I left out my glass of water from last night.' OH GOD I APPARENTLY LIVE IN A GARBAGE PIT.
 
 -----------------------------------
