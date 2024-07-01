@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Decline](https://xkcd.com/523)
+[Next Slide Please](https://xkcd.com/2470)
 
-![Decline](./random_comic.png)
+![Next Slide Please](./random_comic.png)
 
-'There's also a spike on the Fourier transform at the one-month mark where --' 'You want to stop talking right now.'
+"I have nothing to offer but blood--next slide, please--toil--next slide, please--tears, and--next slide, please--sweat."
 
 -----------------------------------
