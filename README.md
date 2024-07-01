@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Next Slide Please](https://xkcd.com/2470)
+[Brand Identity](https://xkcd.com/993)
 
-![Next Slide Please](./random_comic.png)
+![Brand Identity](./random_comic.png)
 
-"I have nothing to offer but blood--next slide, please--toil--next slide, please--tears, and--next slide, please--sweat."
+Legally-mandated information would be printed on the back or discreetly along the bottom. In small letters under the nutrition information it would say 'Like our products? Visit our website!' There would be no URL.
 
 -----------------------------------
