@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Sigh](https://xkcd.com/1009)
+[Exoplanet Names](https://xkcd.com/1253)
 
-![Sigh](./random_comic.png)
+![Exoplanet Names](./random_comic.png)
 
-If you're annoying enough, you can get them to respond with an involuntary second sigh and get a rhythm going.
+If you have any ideas, I hear you can send them to iaupublic@iap.fr.
 
 -----------------------------------
