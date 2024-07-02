@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Exoplanet Names](https://xkcd.com/1253)
+[Geology](https://xkcd.com/1082)
 
-![Exoplanet Names](./random_comic.png)
+![Geology](./random_comic.png)
 
-If you have any ideas, I hear you can send them to iaupublic@iap.fr.
+That's a gneiss butte.
 
 -----------------------------------
