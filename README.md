@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Geology](https://xkcd.com/1082)
+[Crime Scene](https://xkcd.com/587)
 
-![Geology](./random_comic.png)
+![Crime Scene](./random_comic.png)
 
-That's a gneiss butte.
+I think I see a Mandelbrot set! No, that's just blood splatters. Golly.
 
 -----------------------------------
