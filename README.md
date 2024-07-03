@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Cold Medicine](https://xkcd.com/1618)
+[JPEG2000](https://xkcd.com/2254)
 
-![Cold Medicine](./random_comic.png)
+![JPEG2000](./random_comic.png)
 
-Seriously considering buying some illegal drugs to try to turn them back into cold medicine.
+I was actually a little relieved when I learned that JPEG2000 was used in the DCI digital cinema standard. I was feeling so bad for it!
 
 -----------------------------------
