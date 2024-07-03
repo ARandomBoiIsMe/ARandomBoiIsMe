@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[JPEG2000](https://xkcd.com/2254)
+[Size Comparisons](https://xkcd.com/2733)
 
-![JPEG2000](./random_comic.png)
+![Size Comparisons](./random_comic.png)
 
-I was actually a little relieved when I learned that JPEG2000 was used in the DCI digital cinema standard. I was feeling so bad for it!
+If you shrank the Solar System to the size of Texas, the Houston metro area would be smaller than a grasshopper in Dallas.
 
 -----------------------------------
