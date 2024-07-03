@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Crime Scene](https://xkcd.com/587)
+[Cold Medicine](https://xkcd.com/1618)
 
-![Crime Scene](./random_comic.png)
+![Cold Medicine](./random_comic.png)
 
-I think I see a Mandelbrot set! No, that's just blood splatters. Golly.
+Seriously considering buying some illegal drugs to try to turn them back into cold medicine.
 
 -----------------------------------
