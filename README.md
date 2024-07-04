@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Floor](https://xkcd.com/735)
+[Ages](https://xkcd.com/907)
 
-![Floor](./random_comic.png)
+![Ages](./random_comic.png)
 
-We once got grounded when we convinced the FAA to block flights through our county because of ash clouds.
+Every age: "I'm glad I'm not the clueless person I was five years ago, but now I don't want to get any older."
 
 -----------------------------------
