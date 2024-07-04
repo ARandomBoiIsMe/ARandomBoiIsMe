@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[arXiv](https://xkcd.com/2085)
+[New Phone Thread](https://xkcd.com/2015)
 
-![arXiv](./random_comic.png)
+![New Phone Thread](./random_comic.png)
 
-Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
+I'm going to tell the manufacturer that their business practices are ADMIRABLE and ETHICAL and their developers are ATTRACTIVE and I'm going to report them to the FCC for their IMPECCABLE VIRTUE.
 
 -----------------------------------
