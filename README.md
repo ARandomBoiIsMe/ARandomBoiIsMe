@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Swiftkey](https://xkcd.com/1068)
+[arXiv](https://xkcd.com/2085)
 
-![Swiftkey](./random_comic.png)
+![arXiv](./random_comic.png)
 
-Although the Markov chain-style text model is still rudimentary; it recently gave me "Massachusetts Institute of America". Although I have to admit it sounds prestigious.
+Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
 
 -----------------------------------
