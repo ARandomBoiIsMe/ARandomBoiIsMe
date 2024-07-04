@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[New Phone Thread](https://xkcd.com/2015)
+[Floor](https://xkcd.com/735)
 
-![New Phone Thread](./random_comic.png)
+![Floor](./random_comic.png)
 
-I'm going to tell the manufacturer that their business practices are ADMIRABLE and ETHICAL and their developers are ATTRACTIVE and I'm going to report them to the FCC for their IMPECCABLE VIRTUE.
+We once got grounded when we convinced the FAA to block flights through our county because of ash clouds.
 
 -----------------------------------
