@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Number Line](https://xkcd.com/899)
+[Barrel - Part 1](https://xkcd.com/1)
 
-![Number Line](./random_comic.png)
+![Barrel - Part 1](./random_comic.png)
 
-The Wikipedia page "List of Numbers" opens with "This list is incomplete; you can help by expanding it."
+Don't we all.
 
 -----------------------------------
