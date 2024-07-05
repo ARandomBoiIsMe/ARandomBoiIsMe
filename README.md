@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Barrel - Part 1](https://xkcd.com/1)
+[Regular Expressions](https://xkcd.com/208)
 
-![Barrel - Part 1](./random_comic.png)
+![Regular Expressions](./random_comic.png)
 
-Don't we all.
+Wait, forgot to escape a space.  Wheeeeee[taptaptap]eeeeee.
 
 -----------------------------------
