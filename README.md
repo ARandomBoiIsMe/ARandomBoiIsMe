@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Ages](https://xkcd.com/907)
+[Customer Rewards](https://xkcd.com/2006)
 
-![Ages](./random_comic.png)
+![Customer Rewards](./random_comic.png)
 
-Every age: "I'm glad I'm not the clueless person I was five years ago, but now I don't want to get any older."
+We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards.
 
 -----------------------------------
