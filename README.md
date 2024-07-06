@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Regular Expressions](https://xkcd.com/208)
+[Electromagnetic Spectrum](https://xkcd.com/273)
 
-![Regular Expressions](./random_comic.png)
+![Electromagnetic Spectrum](./random_comic.png)
 
-Wait, forgot to escape a space.  Wheeeeee[taptaptap]eeeeee.
+Sometimes I try to picture what everything would look like if the whole spectrum were compressed into the visible spectrum.  Also sometimes I try to picture your sister naked.
 
 -----------------------------------
