@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Electromagnetic Spectrum](https://xkcd.com/273)
+[Stardew Valley](https://xkcd.com/1797)
 
-![Electromagnetic Spectrum](./random_comic.png)
+![Stardew Valley](./random_comic.png)
 
-Sometimes I try to picture what everything would look like if the whole spectrum were compressed into the visible spectrum.  Also sometimes I try to picture your sister naked.
+I have accidentally watered virtually every person and object in Pelican Town.
 
 -----------------------------------
