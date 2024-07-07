@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Colds](https://xkcd.com/1612)
+[arXiv](https://xkcd.com/2085)
 
-![Colds](./random_comic.png)
+![arXiv](./random_comic.png)
 
-The contagious period ends right around when you start to sound sick over the phone, which is probably evidence of cold viruses evolving to spread optimally in the workplace.
+Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
 
 -----------------------------------
