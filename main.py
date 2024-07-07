@@ -42,11 +42,9 @@ def post_random_comic():
 
     # Updates markdown file with new random comic.
     markdown = ""
-    markdown += "-----------------------------------\n\n"
     markdown += f"[{random_comic.title}]({BASE_URL}{random_comic_num})\n\n"
     markdown += f"![{random_comic.title}](./random_comic.png)\n\n"
     markdown += f"{random_comic.alt}\n\n"
-    markdown += "-----------------------------------"
 
     # Save Markdown to file.
     with open("./README.md", "w", encoding="utf-8") as open_markdown:
