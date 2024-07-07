@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[Cryptography](https://xkcd.com/153)
+[Colds](https://xkcd.com/1612)
 
-![Cryptography](./random_comic.png)
+![Colds](./random_comic.png)
 
-If you got a big keyspace, let me search it.
+The contagious period ends right around when you start to sound sick over the phone, which is probably evidence of cold viruses evolving to spread optimally in the workplace.
 
 -----------------------------------
