@@ -6,10 +6,10 @@ Here, have a random XKCD comic for your troubles:
 
 -----------------------------------
 
-[arXiv](https://xkcd.com/2085)
+[Network Configuration](https://xkcd.com/2949)
 
-![arXiv](./random_comic.png)
+![Network Configuration](./random_comic.png)
 
-Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
+If you repeatedly rerun the development of technological civilization, it turns out that for some reason the only constant is that there is always a networking utility called 'netcat', though it does a different thing in each one.
 
 -----------------------------------
