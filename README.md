@@ -1,6 +1,6 @@
-[Night Shift](https://xkcd.com/2112)
+[Settled](https://xkcd.com/1235)
 
-![Night Shift](./random_comic.png)
+![Settled](./random_comic.png)
 
-Help, I set my white balance wrong and suddenly everyone is screaming at each other about whether they've been to Colorado.
+Well, we've really only settled the question of ghosts that emit or reflect visible light. Or move objects around. Or make any kind of sound. But that covers all the ones that appear in Ghostbusters, so I think we're good.
 
