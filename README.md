@@ -1,15 +1,6 @@
-## Hello 👀
+[Methodology Trial](https://xkcd.com/2726)
 
-Somehow, you found yourself here.
+![Methodology Trial](./random_comic.png)
 
-Here, have a random XKCD comic for your troubles:
+If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.
 
------------------------------------
-
-[Network Configuration](https://xkcd.com/2949)
-
-![Network Configuration](./random_comic.png)
-
-If you repeatedly rerun the development of technological civilization, it turns out that for some reason the only constant is that there is always a networking utility called 'netcat', though it does a different thing in each one.
-
------------------------------------
