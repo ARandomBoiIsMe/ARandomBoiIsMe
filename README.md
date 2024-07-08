@@ -1,6 +1,6 @@
-[Methodology Trial](https://xkcd.com/2726)
+[Night Shift](https://xkcd.com/2112)
 
-![Methodology Trial](./random_comic.png)
+![Night Shift](./random_comic.png)
 
-If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.
+Help, I set my white balance wrong and suddenly everyone is screaming at each other about whether they've been to Colorado.
 
