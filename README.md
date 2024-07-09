@@ -1,6 +1,6 @@
-[Account Problems](https://xkcd.com/2700)
+[Worst-Case Scenario](https://xkcd.com/748)
 
-![Account Problems](./random_comic.png)
+![Worst-Case Scenario](./random_comic.png)
 
-My password is just every Unicode codepoint concatenated into a single UTF-8 string.
+To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead.
 
