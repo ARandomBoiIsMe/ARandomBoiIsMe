@@ -1,6 +1,6 @@
-[Traffic Lights](https://xkcd.com/1116)
+[It Might Be Cool](https://xkcd.com/535)
 
-![Traffic Lights](./random_comic.png)
+![It Might Be Cool](./random_comic.png)
 
-There's an intersection I drive through sometimes that has a forward green arrow, a red light, and a 'no turns' sign all on one pole. I honestly have no idea what it's telling me to do.
+'And ovaries.  Man, ovaries, huh?'  [awkward pause]  '... faithfully.'
 
