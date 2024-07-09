@@ -1,6 +1,6 @@
-[Pandora](https://xkcd.com/668)
+[Traffic Lights](https://xkcd.com/1116)
 
-![Pandora](./random_comic.png)
+![Traffic Lights](./random_comic.png)
 
-What?  Oh, no, the 'Enchanted' soundtrack was just playing because Pandora's algorithms are terrible.  [silence] ... (quietly) That's how you knooooooow ...
+There's an intersection I drive through sometimes that has a forward green arrow, a red light, and a 'no turns' sign all on one pole. I honestly have no idea what it's telling me to do.
 
