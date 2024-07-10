@@ -1,6 +1,6 @@
-[It Might Be Cool](https://xkcd.com/535)
+[Online Communities 2](https://xkcd.com/802)
 
-![It Might Be Cool](./random_comic.png)
+![Online Communities 2](./random_comic.png)
 
-'And ovaries.  Man, ovaries, huh?'  [awkward pause]  '... faithfully.'
+Best trivia I learned while working on this: 'Man, Farmville is so huge! Do you realize it's the second-biggest browser-based social-networking-centered farming game in the WORLD?' Then you wait for the listener to do a double-take.
 
