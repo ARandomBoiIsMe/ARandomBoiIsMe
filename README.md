@@ -1,6 +1,6 @@
-[Online Communities 2](https://xkcd.com/802)
+[Brick Archway](https://xkcd.com/347)
 
-![Online Communities 2](./random_comic.png)
+![Brick Archway](./random_comic.png)
 
-Best trivia I learned while working on this: 'Man, Farmville is so huge! Do you realize it's the second-biggest browser-based social-networking-centered farming game in the WORLD?' Then you wait for the listener to do a double-take.
+The TI-86 was bad enough.  I don't know how I'd have gotten through high school if I'd had a laptop+wifi.
 
