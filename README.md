@@ -1,6 +1,6 @@
-[Numbers](https://xkcd.com/715)
+[Bendy](https://xkcd.com/2706)
 
-![Numbers](./random_comic.png)
+![Bendy](./random_comic.png)
 
-The typical internet user (who wants to share) has an IQ of 147 and a 9-inch penis. Well, better than the reverse, I guess.
+Squaring the circle is really easy with some good clamps.
 
