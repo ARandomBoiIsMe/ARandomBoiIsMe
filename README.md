@@ -1,6 +1,6 @@
-[Bendy](https://xkcd.com/2706)
+[CD Tray Fight](https://xkcd.com/251)
 
-![Bendy](./random_comic.png)
+![CD Tray Fight](./random_comic.png)
 
-Squaring the circle is really easy with some good clamps.
+This is silly, of course.  The enemy will be born in the network.
 
