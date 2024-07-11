@@ -1,6 +1,6 @@
-[Familiar](https://xkcd.com/76)
+[Frame](https://xkcd.com/82)
 
-![Familiar](./random_comic.png)
+![Frame](./random_comic.png)
 
-:(
+...
 
