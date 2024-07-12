@@ -1,6 +1,6 @@
-[Wisdom of the Ancients](https://xkcd.com/979)
+[March of the Penguins](https://xkcd.com/1408)
 
-![Wisdom of the Ancients](./random_comic.png)
+![March of the Penguins](./random_comic.png)
 
-All long help threads should have a sticky globally-editable post at the top saying 'DEAR PEOPLE FROM THE FUTURE: Here's what we've figured out so far ...'
+You ARE getting older, though.
 
