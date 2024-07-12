@@ -1,6 +1,6 @@
-[Frame](https://xkcd.com/82)
+[Wisdom of the Ancients](https://xkcd.com/979)
 
-![Frame](./random_comic.png)
+![Wisdom of the Ancients](./random_comic.png)
 
-...
+All long help threads should have a sticky globally-editable post at the top saying 'DEAR PEOPLE FROM THE FUTURE: Here's what we've figured out so far ...'
 
