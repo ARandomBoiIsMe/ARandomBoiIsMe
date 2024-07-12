@@ -1,6 +1,6 @@
-[Latency](https://xkcd.com/2565)
+[Harpoons](https://xkcd.com/1402)
 
-![Latency](./random_comic.png)
+![Harpoons](./random_comic.png)
 
-Each SCAPDFATIAT point increases the chance that the process will involve the phrase 'by the next business day.'
+To motivate it to fire its harpoons hard enough, Rosetta's Philae lander has been programmed to believe it is trying to kill the comet.
 
