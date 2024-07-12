@@ -1,6 +1,6 @@
-[March of the Penguins](https://xkcd.com/1408)
+[Latency](https://xkcd.com/2565)
 
-![March of the Penguins](./random_comic.png)
+![Latency](./random_comic.png)
 
-You ARE getting older, though.
+Each SCAPDFATIAT point increases the chance that the process will involve the phrase 'by the next business day.'
 
