@@ -1,6 +1,6 @@
-[Regex Golf](https://xkcd.com/1313)
+[Birdsong](https://xkcd.com/1635)
 
-![Regex Golf](./random_comic.png)
+![Birdsong](./random_comic.png)
 
-/bu|[rn]t|[coy]e|[mtg]a|j|iso|n[hl]|[ae]d|lev|sh|[lnd]i|[po]o|ls/ matches the last names of elected US presidents but not their opponents.
+Maybe if I put it in a box for a while with a speaker playing some pleasant pastoral music, I can reprogram it.
 
