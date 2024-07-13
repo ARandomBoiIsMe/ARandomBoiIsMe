@@ -1,6 +1,6 @@
-[Harpoons](https://xkcd.com/1402)
+[Regex Golf](https://xkcd.com/1313)
 
-![Harpoons](./random_comic.png)
+![Regex Golf](./random_comic.png)
 
-To motivate it to fire its harpoons hard enough, Rosetta's Philae lander has been programmed to believe it is trying to kill the comet.
+/bu|[rn]t|[coy]e|[mtg]a|j|iso|n[hl]|[ae]d|lev|sh|[lnd]i|[po]o|ls/ matches the last names of elected US presidents but not their opponents.
 
