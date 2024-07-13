@@ -1,6 +1,6 @@
-[Stacey's Dad](https://xkcd.com/61)
+[Tapping](https://xkcd.com/324)
 
-![Stacey's Dad](./random_comic.png)
+![Tapping](./random_comic.png)
 
-I bet she gets you to mow the lawn, doesn't she?
+Sometimes the best fun looks like boredom.
 
