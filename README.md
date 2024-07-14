@@ -1,6 +1,6 @@
-[Smartwatches](https://xkcd.com/1372)
+[Emoji Movie Reviews](https://xkcd.com/1870)
 
-![Smartwatches](./random_comic.png)
+![Emoji Movie Reviews](./random_comic.png)
 
-This is even better than my previous smartphone casemod: an old Western Electric Model 2500 desk phone handset complete with a frayed, torn-off cord dangling from it.
+There's this idea that emoji are bad for communication because they replace ambiguity and nuance with a limited set of preselected emotions, but it doesn't really survive a collision with real-world usage of the thinking face or upside-down smiley.
 
