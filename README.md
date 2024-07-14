@@ -1,6 +1,6 @@
-[Solar System Model](https://xkcd.com/2709)
+[Snapple](https://xkcd.com/18)
 
-![Solar System Model](./random_comic.png)
+![Snapple](./random_comic.png)
 
-The Earth is, on average, located in the habitable zone, but at any given time it has a certain probability of being outside it, which is why life exists on Earth but is mortal.
+Sn = tin
 
