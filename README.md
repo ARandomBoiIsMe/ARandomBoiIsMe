@@ -1,6 +1,6 @@
-[Tapping](https://xkcd.com/324)
+[Smartwatches](https://xkcd.com/1372)
 
-![Tapping](./random_comic.png)
+![Smartwatches](./random_comic.png)
 
-Sometimes the best fun looks like boredom.
+This is even better than my previous smartphone casemod: an old Western Electric Model 2500 desk phone handset complete with a frayed, torn-off cord dangling from it.
 
