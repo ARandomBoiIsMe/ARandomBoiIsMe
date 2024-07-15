@@ -1,6 +1,6 @@
-[Snapple](https://xkcd.com/18)
+[October 2017](https://xkcd.com/1898)
 
-![Snapple](./random_comic.png)
+![October 2017](./random_comic.png)
 
-Sn = tin
+And yet I have no trouble believing that the start of the 2016 election was several decades ago.
 
