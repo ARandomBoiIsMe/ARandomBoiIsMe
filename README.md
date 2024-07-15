@@ -1,6 +1,6 @@
-[Decay Modes](https://xkcd.com/2860)
+[Trum-](https://xkcd.com/2046)
 
-![Decay Modes](./random_comic.png)
+![Trum-](./random_comic.png)
 
-Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy.
+Excited to vote for future presidents Bill Eisenhamper, Amy Forb, Ethan Obample, and Abigail Washingtoast.
 
