@@ -1,6 +1,6 @@
-[Trum-](https://xkcd.com/2046)
+[Efficiency](https://xkcd.com/1445)
 
-![Trum-](./random_comic.png)
+![Efficiency](./random_comic.png)
 
-Excited to vote for future presidents Bill Eisenhamper, Amy Forb, Ethan Obample, and Abigail Washingtoast.
+I need an extension for my research project because I spent all month trying to figure out whether learning Dvorak would help me type it faster.
 
