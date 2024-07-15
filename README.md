@@ -1,6 +1,6 @@
-[October 2017](https://xkcd.com/1898)
+[Decay Modes](https://xkcd.com/2860)
 
-![October 2017](./random_comic.png)
+![Decay Modes](./random_comic.png)
 
-And yet I have no trouble believing that the start of the 2016 election was several decades ago.
+Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy.
 
