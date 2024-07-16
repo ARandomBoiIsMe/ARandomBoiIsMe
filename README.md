@@ -1,6 +1,6 @@
-[Efficiency](https://xkcd.com/1445)
+[Ingenuity](https://xkcd.com/2444)
 
-![Efficiency](./random_comic.png)
+![Ingenuity](./random_comic.png)
 
-I need an extension for my research project because I spent all month trying to figure out whether learning Dvorak would help me type it faster.
+Plot twist: Thanks to [mumble mumble] second-order [mumble] Rayleigh-Taylor [mumble] turbulent [mumble] shear, it turns out powered flight is way EASIER on Mars!
 
