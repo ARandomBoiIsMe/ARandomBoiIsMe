@@ -1,6 +1,6 @@
-[Hydrogen Isotopes](https://xkcd.com/2719)
+[Metamaterials](https://xkcd.com/1351)
 
-![Hydrogen Isotopes](./random_comic.png)
+![Metamaterials](./random_comic.png)
 
-Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.
+If I developed a hue-shifting metamaterial, I would photobomb people's Instagram pics with a sheet of material that precisely undid the filter they were using.
 
