@@ -1,6 +1,6 @@
-[Laundry](https://xkcd.com/1066)
+[Hydrogen Isotopes](https://xkcd.com/2719)
 
-![Laundry](./random_comic.png)
+![Hydrogen Isotopes](./random_comic.png)
 
-During the second semester, the path is briefly routed through the dishwasher.
+Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.
 
