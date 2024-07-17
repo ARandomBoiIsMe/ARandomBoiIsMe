@@ -1,6 +1,6 @@
-[ISS Solar Transit 2](https://xkcd.com/1830)
+[Game Show](https://xkcd.com/2197)
 
-![ISS Solar Transit 2](./random_comic.png)
+![Game Show](./random_comic.png)
 
-Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.
+Eventually they agreed to "an auto-retracting dog leash with one end clipped to your house, so you can press the button on the handle and water-ski home."
 
