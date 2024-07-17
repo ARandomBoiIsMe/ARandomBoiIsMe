@@ -1,6 +1,6 @@
-[Metamaterials](https://xkcd.com/1351)
+[ISS Solar Transit 2](https://xkcd.com/1830)
 
-![Metamaterials](./random_comic.png)
+![ISS Solar Transit 2](./random_comic.png)
 
-If I developed a hue-shifting metamaterial, I would photobomb people's Instagram pics with a sheet of material that precisely undid the filter they were using.
+Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.
 
