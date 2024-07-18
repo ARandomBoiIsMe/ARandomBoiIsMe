@@ -1,6 +1,6 @@
-[Account Problems](https://xkcd.com/2700)
+[Theft](https://xkcd.com/1317)
 
-![Account Problems](./random_comic.png)
+![Theft](./random_comic.png)
 
-My password is just every Unicode codepoint concatenated into a single UTF-8 string.
+Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?
 
