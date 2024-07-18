@@ -1,6 +1,6 @@
-[Shouldn't Be Hard](https://xkcd.com/1349)
+[Names](https://xkcd.com/302)
 
-![Shouldn't Be Hard](./random_comic.png)
+![Names](./random_comic.png)
 
-(six hours later) ARGH. How are these stupid microchips so durable?! All I want is to undo a massive industrial process with household tools!
+I'm always so happy that I successfully navigated the introduction that I completely forget to pay attention to the name the other person told me.
 
