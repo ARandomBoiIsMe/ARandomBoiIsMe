@@ -1,6 +1,6 @@
-[Theft](https://xkcd.com/1317)
+[Shouldn't Be Hard](https://xkcd.com/1349)
 
-![Theft](./random_comic.png)
+![Shouldn't Be Hard](./random_comic.png)
 
-Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?
+(six hours later) ARGH. How are these stupid microchips so durable?! All I want is to undo a massive industrial process with household tools!
 
