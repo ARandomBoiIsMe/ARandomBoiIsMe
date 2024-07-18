@@ -1,6 +1,6 @@
-[Names](https://xkcd.com/302)
+[What If](https://xkcd.com/17)
 
-![Names](./random_comic.png)
+![What If](./random_comic.png)
 
-I'm always so happy that I successfully navigated the introduction that I completely forget to pay attention to the name the other person told me.
+I once made an anniversary card for my then-girlfriend with this layout.
 
