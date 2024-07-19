@@ -1,6 +1,6 @@
-[What If](https://xkcd.com/17)
+[ADD](https://xkcd.com/1106)
 
-![What If](./random_comic.png)
+![ADD](./random_comic.png)
 
-I once made an anniversary card for my then-girlfriend with this layout.
+20 balloons float away while I'm busy permanently tying one to a tree to deal with it for good. Unfortunately, that one balloon was 'land a rocket on the moon in Kerbal Space Program.'
 
