@@ -1,6 +1,6 @@
-[Ultimate Game](https://xkcd.com/393)
+[What to Do](https://xkcd.com/2813)
 
-![Ultimate Game](./random_comic.png)
+![What to Do](./random_comic.png)
 
-RIP, Gary.
+FYI: The 'drop, cover, and hold on' advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs.
 
