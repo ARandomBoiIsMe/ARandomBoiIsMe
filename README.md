@@ -1,6 +1,6 @@
-[ADD](https://xkcd.com/1106)
+[Ultimate Game](https://xkcd.com/393)
 
-![ADD](./random_comic.png)
+![Ultimate Game](./random_comic.png)
 
-20 balloons float away while I'm busy permanently tying one to a tree to deal with it for good. Unfortunately, that one balloon was 'land a rocket on the moon in Kerbal Space Program.'
+RIP, Gary.
 
