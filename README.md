@@ -1,6 +1,6 @@
-[What to Do](https://xkcd.com/2813)
+[Artemis Quote](https://xkcd.com/2668)
 
-![What to Do](./random_comic.png)
+![Artemis Quote](./random_comic.png)
 
-FYI: The 'drop, cover, and hold on' advice only applies to earthquakes. If you encounter a mountain lion, you should absolutely not drop to the ground, crawl under it, and hold on to one of its legs.
+Another option: "It is an honor to be the first human to set foot on the moon."
 
