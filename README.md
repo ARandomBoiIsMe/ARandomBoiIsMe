@@ -1,6 +1,6 @@
-[Artemis Quote](https://xkcd.com/2668)
+[Email](https://xkcd.com/1467)
 
-![Artemis Quote](./random_comic.png)
+![Email](./random_comic.png)
 
-Another option: "It is an honor to be the first human to set foot on the moon."
+My New Year's resolution for 2014-54-12/30/14 Dec:12:1420001642 is to learn these stupid time formatting strings.
 
