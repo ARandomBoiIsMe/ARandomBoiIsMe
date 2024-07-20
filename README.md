@@ -1,6 +1,6 @@
-[IATA Airport Abbreviations](https://xkcd.com/1937)
+[Secretary: Part 2](https://xkcd.com/495)
 
-![IATA Airport Abbreviations](./random_comic.png)
+![Secretary: Part 2](./random_comic.png)
 
-IATA stands for International AirporT Abbreviation.
+That helmet won't save him.
 
