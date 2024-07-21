@@ -1,6 +1,6 @@
-[Jurassic World](https://xkcd.com/1452)
+[Infinite Scrolling](https://xkcd.com/1309)
 
-![Jurassic World](./random_comic.png)
+![Infinite Scrolling](./random_comic.png)
 
-Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.
+Maybe we should give up on the whole idea of a 'back' button. 'Show me that thing I was looking at a moment ago' might just be too complicated an idea for the modern web.
 
