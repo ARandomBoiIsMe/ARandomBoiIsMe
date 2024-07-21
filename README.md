@@ -1,6 +1,6 @@
-[Secretary: Part 2](https://xkcd.com/495)
+[Jurassic World](https://xkcd.com/1452)
 
-![Secretary: Part 2](./random_comic.png)
+![Jurassic World](./random_comic.png)
 
-That helmet won't save him.
+Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.
 
