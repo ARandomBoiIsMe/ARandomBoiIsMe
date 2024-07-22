@@ -1,6 +1,6 @@
-[Empiricism](https://xkcd.com/2855)
+[Tasks](https://xkcd.com/1425)
 
-![Empiricism](./random_comic.png)
+![Tasks](./random_comic.png)
 
-The problems started with my resolution next year to reject temporal causality.
+In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it.
 
