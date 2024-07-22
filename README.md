@@ -1,6 +1,6 @@
-[Tasks](https://xkcd.com/1425)
+[Coronavirus Charts](https://xkcd.com/2294)
 
-![Tasks](./random_comic.png)
+![Coronavirus Charts](./random_comic.png)
 
-In the 60s, Marvin Minsky assigned a couple of undergrads to spend the summer programming a computer to use a camera to identify objects in a scene. He figured they'd have the problem solved by the end of the summer. Half a century later, we're still working on it.
+Adding data for South Korea but with their cases scaled to match the population of Japan and the land area of Australia, and vice versa.
 
