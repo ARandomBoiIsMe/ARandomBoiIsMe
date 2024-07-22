@@ -1,6 +1,6 @@
-[Message Boards](https://xkcd.com/2363)
+[Empiricism](https://xkcd.com/2855)
 
-![Message Boards](./random_comic.png)
+![Empiricism](./random_comic.png)
 
-(c) You can have a scooter when you pay for it yourself, and (d) if you can't learn to start a new thread rather than responding to an old one, you'll be banned. [thread locked by moderator]
+The problems started with my resolution next year to reject temporal causality.
 
