@@ -1,6 +1,6 @@
-[Outbreak](https://xkcd.com/734)
+[Elefino](https://xkcd.com/28)
 
-![Outbreak](./random_comic.png)
+![Elefino](./random_comic.png)
 
-Let's get dinner after we promptly destroy all the X-7 we've manufactured.
+Hell if I know
 
