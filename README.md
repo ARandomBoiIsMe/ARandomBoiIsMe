@@ -1,6 +1,6 @@
-[Malaria](https://xkcd.com/51)
+[The Universal Label](https://xkcd.com/1123)
 
-![Malaria](./random_comic.png)
+![The Universal Label](./random_comic.png)
 
-The malaria party was David's idea
+Works for any grocery or non-grocery. Even thyme is just H and time.
 
