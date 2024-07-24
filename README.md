@@ -1,6 +1,6 @@
-[Rose Petals](https://xkcd.com/1183)
+[Presents for Biologists](https://xkcd.com/2747)
 
-![Rose Petals](./random_comic.png)
+![Presents for Biologists](./random_comic.png)
 
-Joke's on you--the Roomba and I had a LOVELY evening.
+A lot of these are actually non-venomous, but I can see which species you mistook them for. If you pause the crane for a sec I can give you some ID pointers for next time!
 
