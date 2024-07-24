@@ -1,6 +1,6 @@
-[The Universal Label](https://xkcd.com/1123)
+[1921 Fact Checker](https://xkcd.com/2129)
 
-![The Universal Label](./random_comic.png)
+![1921 Fact Checker](./random_comic.png)
 
-Works for any grocery or non-grocery. Even thyme is just H and time.
+POLITIFACT SAYS: MOSTLY WHATEVER
 
