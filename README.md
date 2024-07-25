@@ -1,6 +1,6 @@
-[Rubber Sheet](https://xkcd.com/1158)
+[Time Machine](https://xkcd.com/716)
 
-![Rubber Sheet](./random_comic.png)
+![Time Machine](./random_comic.png)
 
-It IS about physics. It ALL is.
+We never see any time travelers because they all discover it's a huge mistake. This is also why your friend at the lab suddenly looked about a year older recently.
 
