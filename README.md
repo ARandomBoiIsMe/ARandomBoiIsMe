@@ -1,6 +1,6 @@
-[Estimating Time](https://xkcd.com/1658)
+[Expedition](https://xkcd.com/1169)
 
-![Estimating Time](./random_comic.png)
+![Expedition](./random_comic.png)
 
-Corollary to Hofstadter's Law: Every minute you spend thinking about Hofstadter's Law is a minute you're NOT WORKING AND WILL NEVER FINISH! PAAAAAANIIIIIIC!
+I'm pretty sure I've logged more hours in Google Maps over the past decade than in any game.
 
