@@ -1,6 +1,6 @@
-[Expedition](https://xkcd.com/1169)
+[Rubber Sheet](https://xkcd.com/1158)
 
-![Expedition](./random_comic.png)
+![Rubber Sheet](./random_comic.png)
 
-I'm pretty sure I've logged more hours in Google Maps over the past decade than in any game.
+It IS about physics. It ALL is.
 
