@@ -1,6 +1,6 @@
-[Relativity](https://xkcd.com/1233)
+[Repair or Replace](https://xkcd.com/2033)
 
-![Relativity](./random_comic.png)
+![Repair or Replace](./random_comic.png)
 
-It's commonly believed that Lorentz contraction makes objects appear flatter along the direction of travel. However, this ignores light travel times. In fact, a fast-moving butt would appear rotated toward the observer but not substantially distorted. Shakira was right.
+Just make sure all your friends and family are out of the car, or that you've made backup friends and family at home.
 
