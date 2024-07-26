@@ -1,6 +1,6 @@
-[Time Machine](https://xkcd.com/716)
+[Orbiter](https://xkcd.com/787)
 
-![Time Machine](./random_comic.png)
+![Orbiter](./random_comic.png)
 
-We never see any time travelers because they all discover it's a huge mistake. This is also why your friend at the lab suddenly looked about a year older recently.
+Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.
 
