@@ -1,6 +1,6 @@
-[Orbiter](https://xkcd.com/787)
+[Relativity](https://xkcd.com/1233)
 
-![Orbiter](./random_comic.png)
+![Relativity](./random_comic.png)
 
-Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.
+It's commonly believed that Lorentz contraction makes objects appear flatter along the direction of travel. However, this ignores light travel times. In fact, a fast-moving butt would appear rotated toward the observer but not substantially distorted. Shakira was right.
 
