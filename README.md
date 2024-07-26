@@ -1,6 +1,6 @@
-[Repair or Replace](https://xkcd.com/2033)
+[Overlapping Circles](https://xkcd.com/2769)
 
-![Repair or Replace](./random_comic.png)
+![Overlapping Circles](./random_comic.png)
 
-Just make sure all your friends and family are out of the car, or that you've made backup friends and family at home.
+"The Venn diagram of the sun and the moon is a circle." --someone being snarky at totality
 
