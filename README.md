@@ -1,6 +1,6 @@
-[Win by Induction](https://xkcd.com/1516)
+[Moral Relativity](https://xkcd.com/103)
 
-![Win by Induction](./random_comic.png)
+![Moral Relativity](./random_comic.png)
 
-This would be bad enough, but every 30th or 40th pokéball has TWO of them inside.
+It's science!
 
