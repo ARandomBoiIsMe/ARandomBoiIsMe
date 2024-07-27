@@ -1,6 +1,6 @@
-[Königsberg](https://xkcd.com/2694)
+[FIRST Design](https://xkcd.com/689)
 
-![Königsberg](./random_comic.png)
+![FIRST Design](./random_comic.png)
 
-At first I thought I would need some gold or something to pay him, but then I realized that it was the 18th century and I could just bring a roll of aluminum foil.
+Pool on the roof must've sprung a leak.
 
