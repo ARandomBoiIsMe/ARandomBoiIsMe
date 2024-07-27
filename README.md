@@ -1,6 +1,6 @@
-[Overlapping Circles](https://xkcd.com/2769)
+[Königsberg](https://xkcd.com/2694)
 
-![Overlapping Circles](./random_comic.png)
+![Königsberg](./random_comic.png)
 
-"The Venn diagram of the sun and the moon is a circle." --someone being snarky at totality
+At first I thought I would need some gold or something to pay him, but then I realized that it was the 18th century and I could just bring a roll of aluminum foil.
 
