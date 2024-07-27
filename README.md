@@ -1,6 +1,6 @@
-[FIRST Design](https://xkcd.com/689)
+[Win by Induction](https://xkcd.com/1516)
 
-![FIRST Design](./random_comic.png)
+![Win by Induction](./random_comic.png)
 
-Pool on the roof must've sprung a leak.
+This would be bad enough, but every 30th or 40th pokéball has TWO of them inside.
 
