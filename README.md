@@ -1,6 +1,6 @@
-[Moral Relativity](https://xkcd.com/103)
+[Arsenic-Based Life](https://xkcd.com/829)
 
-![Moral Relativity](./random_comic.png)
+![Arsenic-Based Life](./random_comic.png)
 
-It's science!
+According to a new paper published in the journal Science, reporters are unable to thrive in an arsenic-rich environment.
 
