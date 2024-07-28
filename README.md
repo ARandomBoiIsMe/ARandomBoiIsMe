@@ -1,6 +1,6 @@
-[Static](https://xkcd.com/649)
+[Spinthariscope](https://xkcd.com/2568)
 
-![Static](./random_comic.png)
+![Spinthariscope](./random_comic.png)
 
-I firmly believe that nothing can go wrong on a project if you're wearing one of those wrist things.
+Other high scorers are melt-in-your-hand aluminum-destroying gallium and tritium-powered glowsticks. Lawn darts are toward the other end.
 
