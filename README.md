@@ -1,6 +1,6 @@
-[Rejection](https://xkcd.com/1325)
+[Static](https://xkcd.com/649)
 
-![Rejection](./random_comic.png)
+![Static](./random_comic.png)
 
-Perhaps you need a crash course in taking hints. Here's your first lesson: We're not actually walking somewhere together; I'm trying to leave this conversation and you're following me.
+I firmly believe that nothing can go wrong on a project if you're wearing one of those wrist things.
 
