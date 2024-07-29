@@ -1,6 +1,6 @@
-[Spinthariscope](https://xkcd.com/2568)
+[Lane Change Highway](https://xkcd.com/2728)
 
-![Spinthariscope](./random_comic.png)
+![Lane Change Highway](./random_comic.png)
 
-Other high scorers are melt-in-your-hand aluminum-destroying gallium and tritium-powered glowsticks. Lawn darts are toward the other end.
+I just think lane markers should follow the local magnetic declination.
 
