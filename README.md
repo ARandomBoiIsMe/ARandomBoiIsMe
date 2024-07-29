@@ -1,6 +1,6 @@
-[Lane Change Highway](https://xkcd.com/2728)
+[Universal Dreams](https://xkcd.com/1943)
 
-![Lane Change Highway](./random_comic.png)
+![Universal Dreams](./random_comic.png)
 
-I just think lane markers should follow the local magnetic declination.
+"That's ... unsettling." "Yeah, those definitely don't sound like the normal drea– ＬＡＴＩＴＵＤＥ ＴＨＲＥＥ ＦＩＶＥ ＰＯＩＮＴ..." 
 
