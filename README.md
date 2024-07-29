@@ -1,6 +1,6 @@
-[Pilot Priority List](https://xkcd.com/2675)
+[First Date](https://xkcd.com/1333)
 
-![Pilot Priority List](./random_comic.png)
+![First Date](./random_comic.png)
 
-CELEBRATE: Serve passengers tiered cakes shaped like the airspace class diagram
+I sympathize with the TPP protagonist because I, too, have progressed through a surprising number of stages of life despite spending entire days stuck against simple obstacles.
 
