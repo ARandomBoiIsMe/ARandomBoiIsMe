@@ -1,6 +1,6 @@
-[Self Driving](https://xkcd.com/1897)
+[Wirecutter Recommendation](https://xkcd.com/2693)
 
-![Self Driving](./random_comic.png)
+![Wirecutter Recommendation](./random_comic.png)
 
-"Crowdsourced steering" doesn't sound quite as appealing as "self driving."
+Their 'best philosophy of epistemology' picks are great, but you can tell they're struggling a little in the 'why you should trust us' section.
 
