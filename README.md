@@ -1,6 +1,6 @@
-[Repair or Replace](https://xkcd.com/2033)
+[Self Driving](https://xkcd.com/1897)
 
-![Repair or Replace](./random_comic.png)
+![Self Driving](./random_comic.png)
 
-Just make sure all your friends and family are out of the car, or that you've made backup friends and family at home.
+"Crowdsourced steering" doesn't sound quite as appealing as "self driving."
 
