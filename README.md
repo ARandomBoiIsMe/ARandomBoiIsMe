@@ -1,6 +1,6 @@
-[Wirecutter Recommendation](https://xkcd.com/2693)
+[Small Moon](https://xkcd.com/1458)
 
-![Wirecutter Recommendation](./random_comic.png)
+![Small Moon](./random_comic.png)
 
-Their 'best philosophy of epistemology' picks are great, but you can tell they're struggling a little in the 'why you should trust us' section.
+GENERAL JAN DODONNA: An analysis of the plans provided by Princess Leia has reinvigorated the arguments of the 'artificial moonlet' and 'rogue planet-station' camps. I fear this question is fracturing the Rebellion.
 
