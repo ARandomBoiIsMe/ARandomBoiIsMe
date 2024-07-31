@@ -1,6 +1,6 @@
-[Ground vs Air](https://xkcd.com/2242)
+[Google Announcement](https://xkcd.com/1361)
 
-![Ground vs Air](./random_comic.png)
+![Google Announcement](./random_comic.png)
 
-Water is thinner than both, and fire is *definitely* thicker.
+The less popular 8.8.4.4 is slated for discontinuation.
 
