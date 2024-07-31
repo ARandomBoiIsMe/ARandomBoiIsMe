@@ -1,6 +1,6 @@
-[Google Announcement](https://xkcd.com/1361)
+[Spinthariscope](https://xkcd.com/2568)
 
-![Google Announcement](./random_comic.png)
+![Spinthariscope](./random_comic.png)
 
-The less popular 8.8.4.4 is slated for discontinuation.
+Other high scorers are melt-in-your-hand aluminum-destroying gallium and tritium-powered glowsticks. Lawn darts are toward the other end.
 
