@@ -1,6 +1,6 @@
-[Small Moon](https://xkcd.com/1458)
+[Ground vs Air](https://xkcd.com/2242)
 
-![Small Moon](./random_comic.png)
+![Ground vs Air](./random_comic.png)
 
-GENERAL JAN DODONNA: An analysis of the plans provided by Princess Leia has reinvigorated the arguments of the 'artificial moonlet' and 'rogue planet-station' camps. I fear this question is fracturing the Rebellion.
+Water is thinner than both, and fire is *definitely* thicker.
 
