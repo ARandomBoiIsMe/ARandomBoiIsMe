@@ -1,6 +1,6 @@
-[Bug Thread](https://xkcd.com/2881)
+[Gift Exchange](https://xkcd.com/2554)
 
-![Bug Thread](./random_comic.png)
+![Gift Exchange](./random_comic.png)
 
-After some account issues, we've added 6 new people from the beach house rental website support forum.
+In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.
 
