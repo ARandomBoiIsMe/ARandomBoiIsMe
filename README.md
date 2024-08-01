@@ -1,6 +1,6 @@
-[Spinthariscope](https://xkcd.com/2568)
+[Mercator Projection](https://xkcd.com/2082)
 
-![Spinthariscope](./random_comic.png)
+![Mercator Projection](./random_comic.png)
 
-Other high scorers are melt-in-your-hand aluminum-destroying gallium and tritium-powered glowsticks. Lawn darts are toward the other end.
+The other great lakes are just water on the far side of Canada Island. If you drive north from the Pacific northwest you actually cross directly into Alaska, although a few officials--confused by the Mercator distortion--have put up border signs.
 
