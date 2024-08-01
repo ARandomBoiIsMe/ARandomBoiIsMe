@@ -1,6 +1,6 @@
-[Gift Exchange](https://xkcd.com/2554)
+[Light Leap Years](https://xkcd.com/2897)
 
-![Gift Exchange](./random_comic.png)
+![Light Leap Years](./random_comic.png)
 
-In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.
+When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships.
 
