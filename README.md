@@ -1,6 +1,6 @@
-[MBMBaM](https://xkcd.com/2312)
+[Cyberintelligence](https://xkcd.com/1573)
 
-![MBMBaM](./random_comic.png)
+![Cyberintelligence](./random_comic.png)
 
-Hello and welcome to Millibar Millibarn Attometer, an advice show for the Planck era.
+We had gathered that raw information, but had yet to put it all together.
 
