@@ -1,6 +1,6 @@
-[Time Robot](https://xkcd.com/1177)
+[Data Trap](https://xkcd.com/2582)
 
-![Time Robot](./random_comic.png)
+![Data Trap](./random_comic.png)
 
-NO FATE BUT THE NARRATIVES WE IMPOSE ON LIFE'S RANDOM CHAOS TO DISTRACT OURSELVES FROM OUR EXISTENTIAL PLIGHT
+It's important to make sure your analysis destroys as much information as it produces.
 
