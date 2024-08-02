@@ -1,6 +1,6 @@
-[Light Leap Years](https://xkcd.com/2897)
+[Time Robot](https://xkcd.com/1177)
 
-![Light Leap Years](./random_comic.png)
+![Time Robot](./random_comic.png)
 
-When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships.
+NO FATE BUT THE NARRATIVES WE IMPOSE ON LIFE'S RANDOM CHAOS TO DISTRACT OURSELVES FROM OUR EXISTENTIAL PLIGHT
 
