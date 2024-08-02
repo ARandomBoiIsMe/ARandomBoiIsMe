@@ -1,6 +1,6 @@
-[Data Trap](https://xkcd.com/2582)
+[MBMBaM](https://xkcd.com/2312)
 
-![Data Trap](./random_comic.png)
+![MBMBaM](./random_comic.png)
 
-It's important to make sure your analysis destroys as much information as it produces.
+Hello and welcome to Millibar Millibarn Attometer, an advice show for the Planck era.
 
