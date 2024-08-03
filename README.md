@@ -1,6 +1,6 @@
-[Classhole](https://xkcd.com/72)
+[Timeline of the Universe](https://xkcd.com/2240)
 
-![Classhole](./random_comic.png)
+![Timeline of the Universe](./random_comic.png)
 
-A term coined by my friend Beth
+Not actual size, except technically at one spot near the left.
 
