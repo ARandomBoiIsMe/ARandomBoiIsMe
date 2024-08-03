@@ -1,6 +1,6 @@
-[Stanislav Petrov Day](https://xkcd.com/2052)
+[Vaccine Guidance](https://xkcd.com/2434)
 
-![Stanislav Petrov Day](./random_comic.png)
+![Vaccine Guidance](./random_comic.png)
 
-I was going to get you an alarm clock that occasionally goes off randomly in the middle of the night, but you can ignore it and go back to sleep and it's fine.
+I can't wait until I'm fully vaccinated and can safely send chat messages in all caps again.
 
