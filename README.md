@@ -1,6 +1,6 @@
-[Vaccine Guidance](https://xkcd.com/2434)
+[Classhole](https://xkcd.com/72)
 
-![Vaccine Guidance](./random_comic.png)
+![Classhole](./random_comic.png)
 
-I can't wait until I'm fully vaccinated and can safely send chat messages in all caps again.
+A term coined by my friend Beth
 
