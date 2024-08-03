@@ -1,6 +1,6 @@
-[Cyberintelligence](https://xkcd.com/1573)
+[Stanislav Petrov Day](https://xkcd.com/2052)
 
-![Cyberintelligence](./random_comic.png)
+![Stanislav Petrov Day](./random_comic.png)
 
-We had gathered that raw information, but had yet to put it all together.
+I was going to get you an alarm clock that occasionally goes off randomly in the middle of the night, but you can ignore it and go back to sleep and it's fine.
 
