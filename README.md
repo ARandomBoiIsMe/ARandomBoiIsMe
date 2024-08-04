@@ -1,6 +1,6 @@
-[Timeline of the Universe](https://xkcd.com/2240)
+[Nightmare Code](https://xkcd.com/2485)
 
-![Timeline of the Universe](./random_comic.png)
+![Nightmare Code](./random_comic.png)
 
-Not actual size, except technically at one spot near the left.
+Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.
 
