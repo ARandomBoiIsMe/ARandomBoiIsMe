@@ -1,6 +1,6 @@
-[Nightmare Code](https://xkcd.com/2485)
+[Phylogenetic Tree](https://xkcd.com/2269)
 
-![Nightmare Code](./random_comic.png)
+![Phylogenetic Tree](./random_comic.png)
 
-Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.
+And I was kicked out of my March Madness pool because I wouldn't shut up about the evidence for NBA/ABA endosymbiosis.
 
