@@ -1,6 +1,6 @@
-[Wait Wait](https://xkcd.com/997)
+[API](https://xkcd.com/1481)
 
-![Wait Wait](./random_comic.png)
+![API](./random_comic.png)
 
-You can't stab Carl Kasell. He sounds all slow and stentorian, but he moves like a snake.
+ACCESS LIMITS: Clients may maintain connections to the server for no more than 86,400 seconds per day. If you need additional time, you may contact IERS to file a request for up to one additional second.
 
