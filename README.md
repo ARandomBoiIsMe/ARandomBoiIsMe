@@ -1,6 +1,6 @@
-[Air Travel Packing List](https://xkcd.com/2525)
+[Modes of Transportation](https://xkcd.com/2940)
 
-![Air Travel Packing List](./random_comic.png)
+![Modes of Transportation](./random_comic.png)
 
-I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.
+My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me.
 
