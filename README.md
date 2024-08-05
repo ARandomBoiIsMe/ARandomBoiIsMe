@@ -1,6 +1,6 @@
-[API](https://xkcd.com/1481)
+[Surface Area](https://xkcd.com/1389)
 
-![API](./random_comic.png)
+![Surface Area](./random_comic.png)
 
-ACCESS LIMITS: Clients may maintain connections to the server for no more than 86,400 seconds per day. If you need additional time, you may contact IERS to file a request for up to one additional second.
+This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle.
 
