@@ -1,6 +1,6 @@
-[In Popular Culture](https://xkcd.com/446)
+[Air Travel Packing List](https://xkcd.com/2525)
 
-![In Popular Culture](./random_comic.png)
+![Air Travel Packing List](./random_comic.png)
 
-Someday the 'in popular culture' section will have its own article with an 'in popular culture' section.  It will reference this title-text referencing it, and the blogosphere will implode.
+I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.
 
