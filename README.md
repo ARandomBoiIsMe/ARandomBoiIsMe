@@ -1,6 +1,6 @@
-[Rest and Fluids](https://xkcd.com/2580)
+[Two Down, One to Go](https://xkcd.com/1887)
 
-![Rest and Fluids](./random_comic.png)
+![Two Down, One to Go](./random_comic.png)
 
-Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.
+The third row will probably have to wait until 2034, and maybe longer. If I see a daytime supernova, I'll replace the meteor storm with that and consider it 3/3.
 
