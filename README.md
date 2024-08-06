@@ -1,6 +1,6 @@
-[IATA Airport Abbreviations](https://xkcd.com/1937)
+[Rest and Fluids](https://xkcd.com/2580)
 
-![IATA Airport Abbreviations](./random_comic.png)
+![Rest and Fluids](./random_comic.png)
 
-IATA stands for International AirporT Abbreviation.
+Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.
 
