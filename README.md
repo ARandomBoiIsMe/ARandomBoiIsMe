@@ -1,6 +1,6 @@
-[Modes of Transportation](https://xkcd.com/2940)
+[IATA Airport Abbreviations](https://xkcd.com/1937)
 
-![Modes of Transportation](./random_comic.png)
+![IATA Airport Abbreviations](./random_comic.png)
 
-My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me.
+IATA stands for International AirporT Abbreviation.
 
