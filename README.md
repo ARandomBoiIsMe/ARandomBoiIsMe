@@ -1,6 +1,6 @@
-[RBA](https://xkcd.com/464)
+[Troubleshooting](https://xkcd.com/1479)
 
-![RBA](./random_comic.png)
+![Troubleshooting](./random_comic.png)
 
-This is a story all about how I started drinking.
+"Oh, you're using their Chrome APP, not their Chrome EXTENSION. They're very similar but one handles window creation differently." is a thing I hope I can stop saying soon.
 
