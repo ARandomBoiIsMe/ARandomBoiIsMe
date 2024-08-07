@@ -1,6 +1,6 @@
-[Troubleshooting](https://xkcd.com/1479)
+[The Race: Part 1](https://xkcd.com/577)
 
-![Troubleshooting](./random_comic.png)
+![The Race: Part 1](./random_comic.png)
 
-"Oh, you're using their Chrome APP, not their Chrome EXTENSION. They're very similar but one handles window creation differently." is a thing I hope I can stop saying soon.
+Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.
 
