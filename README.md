@@ -1,6 +1,6 @@
-[Earthquake Early Warnings](https://xkcd.com/2219)
+[RBA](https://xkcd.com/464)
 
-![Earthquake Early Warnings](./random_comic.png)
+![RBA](./random_comic.png)
 
-I was fired by the National Weather Service five minutes after they hired me for going into their code base and renaming all the tornado warnings to "tornado spoiler alerts."
+This is a story all about how I started drinking.
 
