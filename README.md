@@ -1,6 +1,6 @@
-[Clickbait-Corrected p-Value](https://xkcd.com/2001)
+[The BDLPSWDKS Effect](https://xkcd.com/1531)
 
-![Clickbait-Corrected p-Value](./random_comic.png)
+![The BDLPSWDKS Effect](./random_comic.png)
 
-When comparing hypotheses with Bayesian methods, the similar 'clickbayes factor' can account for some harder-to-quantify priors.
+This well-known effect has of course been replicated in countless experiments.
 
