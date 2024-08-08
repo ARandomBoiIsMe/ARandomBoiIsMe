@@ -1,6 +1,6 @@
-[Wake Up Sheeple](https://xkcd.com/1013)
+[Clickbait-Corrected p-Value](https://xkcd.com/2001)
 
-![Wake Up Sheeple](./random_comic.png)
+![Clickbait-Corrected p-Value](./random_comic.png)
 
-You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.
+When comparing hypotheses with Bayesian methods, the similar 'clickbayes factor' can account for some harder-to-quantify priors.
 
