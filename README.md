@@ -1,6 +1,6 @@
-[Masks](https://xkcd.com/2367)
+[Humans](https://xkcd.com/1527)
 
-![Masks](./random_comic.png)
+![Humans](./random_comic.png)
 
-Haunted Halloween masks from a mysterious costume shop that turn you evil and grow into your skin score a surprisingly high 80% filtration efficiency in R. L. Stine-sponsored NIOSH tests.
+At this point, if we're going to keep insisting on portraying dinosaurs as featherless because it's "cooler", it's time to apply that same logic to art involving bald eagles.
 
