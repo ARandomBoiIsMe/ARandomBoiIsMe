@@ -1,6 +1,6 @@
-[Zeppelin](https://xkcd.com/73)
+[Dreams](https://xkcd.com/137)
 
-![Zeppelin](./random_comic.png)
+![Dreams](./random_comic.png)
 
-A tribute to Buttercup Festival
+In Connor's second thesis it is stated 'There is no fate but what we make for ourselves.'  Does the routine destroy our creativity or do we lose creativity and fall into the routine?  Anyway, who's up for a road trip!
 
