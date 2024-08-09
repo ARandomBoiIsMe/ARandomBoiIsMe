@@ -1,6 +1,6 @@
-[Dreams](https://xkcd.com/137)
+[Masks](https://xkcd.com/2367)
 
-![Dreams](./random_comic.png)
+![Masks](./random_comic.png)
 
-In Connor's second thesis it is stated 'There is no fate but what we make for ourselves.'  Does the routine destroy our creativity or do we lose creativity and fall into the routine?  Anyway, who's up for a road trip!
+Haunted Halloween masks from a mysterious costume shop that turn you evil and grow into your skin score a surprisingly high 80% filtration efficiency in R. L. Stine-sponsored NIOSH tests.
 
