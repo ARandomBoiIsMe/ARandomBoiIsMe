@@ -1,6 +1,6 @@
-[Old Drawing](https://xkcd.com/41)
+[Zeppelin](https://xkcd.com/73)
 
-![Old Drawing](./random_comic.png)
+![Zeppelin](./random_comic.png)
 
-I don't want to talk about it
+A tribute to Buttercup Festival
 
