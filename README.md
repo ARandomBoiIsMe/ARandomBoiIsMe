@@ -1,6 +1,6 @@
-[Sustainable](https://xkcd.com/1007)
+[Sunrise](https://xkcd.com/92)
 
-![Sustainable](./random_comic.png)
+![Sunrise](./random_comic.png)
 
-Though 100 years is longer than a lot of our resources.
+Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.
 
