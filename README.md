@@ -1,6 +1,6 @@
-[Humans](https://xkcd.com/1527)
+[I am Not a Ninja](https://xkcd.com/486)
 
-![Humans](./random_comic.png)
+![I am Not a Ninja](./random_comic.png)
 
-At this point, if we're going to keep insisting on portraying dinosaurs as featherless because it's "cooler", it's time to apply that same logic to art involving bald eagles.
+'The sad thing is that I just wanted to talk about your poor smoke-bomb techniques.'
 
