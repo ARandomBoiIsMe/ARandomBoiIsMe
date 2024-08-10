@@ -1,6 +1,6 @@
-[Sunrise](https://xkcd.com/92)
+[debian-main](https://xkcd.com/797)
 
-![Sunrise](./random_comic.png)
+![debian-main](./random_comic.png)
 
-Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.
+dpkg: error processing package (--purge): subprocess pre-removal script returned error exit 163: OH_GOD_THEYRE_INSIDE_MY_CLOTHES
 
