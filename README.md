@@ -1,6 +1,6 @@
-[debian-main](https://xkcd.com/797)
+[Invisible Formatting](https://xkcd.com/2109)
 
-![debian-main](./random_comic.png)
+![Invisible Formatting](./random_comic.png)
 
-dpkg: error processing package (--purge): subprocess pre-removal script returned error exit 163: OH_GOD_THEYRE_INSIDE_MY_CLOTHES
+To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.
 
