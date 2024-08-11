@@ -1,6 +1,6 @@
-[Invisible Formatting](https://xkcd.com/2109)
+[Snopes](https://xkcd.com/250)
 
-![Invisible Formatting](./random_comic.png)
+![Snopes](./random_comic.png)
 
-To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.
+The MythBusters are even more sinister.
 
