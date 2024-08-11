@@ -1,6 +1,6 @@
-[Snopes](https://xkcd.com/250)
+[EHT Black Hole Picture](https://xkcd.com/2133)
 
-![Snopes](./random_comic.png)
+![EHT Black Hole Picture](./random_comic.png)
 
-The MythBusters are even more sinister.
+[five years later] Ok, it seems we were accidentally zoomed in slightly too far. But imagine there's a cool-looking twisted accretion disc just outside this black square!
 
