@@ -1,6 +1,6 @@
-[EHT Black Hole Picture](https://xkcd.com/2133)
+[Elevator Inspection](https://xkcd.com/897)
 
-![EHT Black Hole Picture](./random_comic.png)
+![Elevator Inspection](./random_comic.png)
 
-[five years later] Ok, it seems we were accidentally zoomed in slightly too far. But imagine there's a cool-looking twisted accretion disc just outside this black square!
+Even governmental elevator inspectors get bored halfway through asking where the building office is.
 
