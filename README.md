@@ -1,6 +1,6 @@
-[Elevator Inspection](https://xkcd.com/897)
+[Static](https://xkcd.com/649)
 
-![Elevator Inspection](./random_comic.png)
+![Static](./random_comic.png)
 
-Even governmental elevator inspectors get bored halfway through asking where the building office is.
+I firmly believe that nothing can go wrong on a project if you're wearing one of those wrist things.
 
