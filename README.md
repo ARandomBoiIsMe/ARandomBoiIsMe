@@ -1,6 +1,6 @@
-[SMFW](https://xkcd.com/1460)
+[Throat and Nasal Passages](https://xkcd.com/2563)
 
-![SMFW](./random_comic.png)
+![Throat and Nasal Passages](./random_comic.png)
 
-wtfw it's like smho tbfh, imdb.
+I always felt like what the 'you are now aware of your tongue' thing needed in order to be truly enjoyable was an element of mortal peril.
 
