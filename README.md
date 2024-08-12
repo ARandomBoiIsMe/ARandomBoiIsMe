@@ -1,6 +1,6 @@
-[Static](https://xkcd.com/649)
+[Hurricane Hunters](https://xkcd.com/2353)
 
-![Static](./random_comic.png)
+![Hurricane Hunters](./random_comic.png)
 
-I firmly believe that nothing can go wrong on a project if you're wearing one of those wrist things.
+Our flight gathered valuable data on whether a commercial airliner in the eye of a hurricane can do a loop.
 
