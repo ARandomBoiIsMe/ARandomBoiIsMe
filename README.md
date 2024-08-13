@@ -1,6 +1,6 @@
-[The Race: Part 1](https://xkcd.com/577)
+[Perl Problems](https://xkcd.com/1171)
 
-![The Race: Part 1](./random_comic.png)
+![Perl Problems](./random_comic.png)
 
-Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.
+To generate #1 albums, 'jay --help' recommends the -z flag.
 
