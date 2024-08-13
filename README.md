@@ -1,6 +1,6 @@
-[Throat and Nasal Passages](https://xkcd.com/2563)
+[The Race: Part 1](https://xkcd.com/577)
 
-![Throat and Nasal Passages](./random_comic.png)
+![The Race: Part 1](./random_comic.png)
 
-I always felt like what the 'you are now aware of your tongue' thing needed in order to be truly enjoyable was an element of mortal peril.
+Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.
 
