@@ -1,6 +1,6 @@
-[RBA](https://xkcd.com/464)
+[Felidae](https://xkcd.com/1056)
 
-![RBA](./random_comic.png)
+![Felidae](./random_comic.png)
 
-This is a story all about how I started drinking.
+'Smilodon fatalis' narrowly edged out 'Tyrannosaurus rex' to win this year's Most Badass Latin Names competition, after edging out 'Dracorex hogwartsia' and 'Stygimoloch spinifer' (meaning 'horned dragon from the river of death') in the semifinals.
 
