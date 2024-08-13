@@ -1,6 +1,6 @@
-[Perl Problems](https://xkcd.com/1171)
+[RBA](https://xkcd.com/464)
 
-![Perl Problems](./random_comic.png)
+![RBA](./random_comic.png)
 
-To generate #1 albums, 'jay --help' recommends the -z flag.
+This is a story all about how I started drinking.
 
