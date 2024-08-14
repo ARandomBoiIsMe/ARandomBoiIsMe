@@ -1,6 +1,6 @@
-[Parallel Universe](https://xkcd.com/105)
+[Snow](https://xkcd.com/2866)
 
-![Parallel Universe](./random_comic.png)
+![Snow](./random_comic.png)
 
-It's possible.  Better to be on the safe side.
+For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.
 
