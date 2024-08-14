@@ -1,6 +1,6 @@
-[Worrying](https://xkcd.com/1468)
+[Hygrometer](https://xkcd.com/2060)
 
-![Worrying](./random_comic.png)
+![Hygrometer](./random_comic.png)
 
-If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.
+I'm working on assembling a combination declinometer, sclerometer, viscometer, aleurometer, stalagmometer, and hypsometer. I'm making good progress according to my ometerometer, a device which shows the rate at which I'm acquiring measurement devices.
 
