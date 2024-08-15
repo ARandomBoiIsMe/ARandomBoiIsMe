@@ -1,6 +1,6 @@
-[Snow](https://xkcd.com/2866)
+[Dependency](https://xkcd.com/2347)
 
-![Snow](./random_comic.png)
+![Dependency](./random_comic.png)
 
-For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.
+Someday ImageMagick will finally break for good and we'll have a long period of scrambling as we try to reassemble civilization from the rubble.
 
