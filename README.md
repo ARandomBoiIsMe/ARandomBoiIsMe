@@ -1,6 +1,6 @@
-[Pet Peeve #114](https://xkcd.com/238)
+[ISS Solar Transit 2](https://xkcd.com/1830)
 
-![Pet Peeve #114](./random_comic.png)
+![ISS Solar Transit 2](./random_comic.png)
 
-I'm reading a goddamn book, thank you very much.
+Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.
 
