@@ -1,6 +1,6 @@
-[Dependency](https://xkcd.com/2347)
+[Wish on a Shooting Star](https://xkcd.com/2345)
 
-![Dependency](./random_comic.png)
+![Wish on a Shooting Star](./random_comic.png)
 
-Someday ImageMagick will finally break for good and we'll have a long period of scrambling as we try to reassemble civilization from the rubble.
+Congratulations to whoever wished for revenge on a forest near the Tunguska River, a 1980 Chevy Malibu in Peekskill NY, Alabama resident Ann Hodges, every building in Chelyabinsk with glass windows, and the non-avian dinosaurs.
 
