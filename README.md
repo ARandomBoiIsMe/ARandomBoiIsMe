@@ -1,6 +1,6 @@
-[Eclipse Clouds](https://xkcd.com/2915)
+[It Begins](https://xkcd.com/1656)
 
-![Eclipse Clouds](./random_comic.png)
+![It Begins](./random_comic.png)
 
-The rare compound solar-lunar-nephelogical eclipse
+You can also try 'Yikes.'
 
