@@ -1,6 +1,6 @@
-[Single Ladies](https://xkcd.com/712)
+[Clark Gable](https://xkcd.com/110)
 
-![Single Ladies](./random_comic.png)
+![Clark Gable](./random_comic.png)
 
-Using a ring to bind someone you covet into your dark and twisted world? Wow, just got the subtext there. Also, the apparently eager Beyoncé would've made one badass Nazgȗl.
+Frankly, my dear, I don't give a BITCH ASS SHIT FUCK DAMN
 
