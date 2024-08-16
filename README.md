@@ -1,6 +1,6 @@
-[ISS Solar Transit 2](https://xkcd.com/1830)
+[Eclipse Clouds](https://xkcd.com/2915)
 
-![ISS Solar Transit 2](./random_comic.png)
+![Eclipse Clouds](./random_comic.png)
 
-Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.
+The rare compound solar-lunar-nephelogical eclipse
 
