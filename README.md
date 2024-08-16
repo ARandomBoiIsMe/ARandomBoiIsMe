@@ -1,6 +1,6 @@
-[It Begins](https://xkcd.com/1656)
+[Single Ladies](https://xkcd.com/712)
 
-![It Begins](./random_comic.png)
+![Single Ladies](./random_comic.png)
 
-You can also try 'Yikes.'
+Using a ring to bind someone you covet into your dark and twisted world? Wow, just got the subtext there. Also, the apparently eager Beyoncé would've made one badass Nazgȗl.
 
