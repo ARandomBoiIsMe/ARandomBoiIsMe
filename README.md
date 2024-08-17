@@ -1,6 +1,6 @@
-[Etymology](https://xkcd.com/890)
+[Math](https://xkcd.com/1131)
 
-![Etymology](./random_comic.png)
+![Math](./random_comic.png)
 
-For some reason, my childhood suspension of disbelief had no problem with the fact that this ancient galaxy is full of humans, but was derailed by language. There's no Asia OR Europe there, so where'd they get all the Indo-European roots?
+As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.
 
