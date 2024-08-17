@@ -1,6 +1,6 @@
-[Clark Gable](https://xkcd.com/110)
+[Etymology](https://xkcd.com/890)
 
-![Clark Gable](./random_comic.png)
+![Etymology](./random_comic.png)
 
-Frankly, my dear, I don't give a BITCH ASS SHIT FUCK DAMN
+For some reason, my childhood suspension of disbelief had no problem with the fact that this ancient galaxy is full of humans, but was derailed by language. There's no Asia OR Europe there, so where'd they get all the Indo-European roots?
 
