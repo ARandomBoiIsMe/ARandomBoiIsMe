@@ -1,6 +1,6 @@
-[Math](https://xkcd.com/1131)
+[50 Ways](https://xkcd.com/118)
 
-![Math](./random_comic.png)
+![50 Ways](./random_comic.png)
 
-As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.
+I woke up to find that I had scrawled the last line of this sleepily on a sheet of paper on my desk.  I shouldn't have listened to the 70's hit marathon on the way home from work the night before.
 
