@@ -1,6 +1,6 @@
-[Sky Color](https://xkcd.com/1145)
+[Post Office Showdown](https://xkcd.com/337)
 
-![Sky Color](./random_comic.png)
+![Post Office Showdown](./random_comic.png)
 
-Feynman recounted another good one upperclassmen would use on freshmen physics students: When you look at words in a mirror, how come they're reversed left to right but not top to bottom? What's special about the horizontal axis?
+That track ('Battle Without Honor or Humanity') -- like 'Ride of the Valkyries' -- improves *any* activity.
 
