@@ -1,6 +1,6 @@
-[Snow](https://xkcd.com/2866)
+[Chernobyl](https://xkcd.com/2163)
 
-![Snow](./random_comic.png)
+![Chernobyl](./random_comic.png)
 
-For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.
+You know when you can't hear your speakers, and you keep turning various volume controls up higher and higher in confusion, and then someone hits the mute button and there's a deafening blast of sound? That's basically what happened at Chernobyl.
 
