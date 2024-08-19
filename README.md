@@ -1,6 +1,6 @@
-[Orbiter](https://xkcd.com/787)
+[Car Model Names](https://xkcd.com/1571)
 
-![Orbiter](./random_comic.png)
+![Car Model Names](./random_comic.png)
 
-Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.
+CLIMAX is good, but SEXCLIMAX is even better.
 
