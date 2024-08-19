@@ -1,6 +1,6 @@
-[Post Office Showdown](https://xkcd.com/337)
+[Orbiter](https://xkcd.com/787)
 
-![Post Office Showdown](./random_comic.png)
+![Orbiter](./random_comic.png)
 
-That track ('Battle Without Honor or Humanity') -- like 'Ride of the Valkyries' -- improves *any* activity.
+Normally, the Shuttle can't quite safely reach the orbital inclination required to pass over both those points from a Canaveral launch, but this is an alternate history in which either it launches from Vandenberg or everyone hates the Outer Banks.
 
