@@ -1,6 +1,6 @@
-[Car Model Names](https://xkcd.com/1571)
+[Cloud Swirls](https://xkcd.com/2664)
 
-![Car Model Names](./random_comic.png)
+![Cloud Swirls](./random_comic.png)
 
-CLIMAX is good, but SEXCLIMAX is even better.
+'Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'
 
