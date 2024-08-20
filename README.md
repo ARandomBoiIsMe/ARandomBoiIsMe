@@ -1,6 +1,6 @@
-[Salt Mine](https://xkcd.com/1637)
+[What If? 2 Countdown](https://xkcd.com/2636)
 
-![Salt Mine](./random_comic.png)
+![What If? 2 Countdown](./random_comic.png)
 
-This one is a little bland. Pass the saltshaker?
+If you don't end the 99 Bottles of Beer recursion at N=0 it just becomes The Other Song That Never Ends.
 
