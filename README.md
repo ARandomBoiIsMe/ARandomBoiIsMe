@@ -1,6 +1,6 @@
-[Jealousy](https://xkcd.com/420)
+[Poisson](https://xkcd.com/12)
 
-![Jealousy](./random_comic.png)
+![Poisson](./random_comic.png)
 
-Oh, huh, so you didn't know that story?
+Poisson distributions have no value over negative numbers
 
