@@ -1,6 +1,6 @@
-[Poisson](https://xkcd.com/12)
+[11th Grade](https://xkcd.com/519)
 
-![Poisson](./random_comic.png)
+![11th Grade](./random_comic.png)
 
-Poisson distributions have no value over negative numbers
+And the ten minutes striking up a conversation with that strange kid in homeroom sometimes matters more than every other part of high school combined.
 
