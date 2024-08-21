@@ -1,6 +1,6 @@
-[dPain over dt](https://xkcd.com/128)
+[Natural Parenting](https://xkcd.com/674)
 
-![dPain over dt](./random_comic.png)
+![Natural Parenting](./random_comic.png)
 
-You laugh to keep from crying, you do math to keep from crying . . .
+On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that's the mother of all sampling biases.
 
