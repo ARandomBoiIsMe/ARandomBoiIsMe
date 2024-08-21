@@ -1,6 +1,6 @@
-[11th Grade](https://xkcd.com/519)
+[dPain over dt](https://xkcd.com/128)
 
-![11th Grade](./random_comic.png)
+![dPain over dt](./random_comic.png)
 
-And the ten minutes striking up a conversation with that strange kid in homeroom sometimes matters more than every other part of high school combined.
+You laugh to keep from crying, you do math to keep from crying . . .
 
