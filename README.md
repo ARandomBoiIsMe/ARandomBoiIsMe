@@ -1,6 +1,6 @@
-[Sword in the Stone](https://xkcd.com/1521)
+[Hotels](https://xkcd.com/958)
 
-![Sword in the Stone](./random_comic.png)
+![Hotels](./random_comic.png)
 
-That seems like an awful lot of hassle when all I wanted was a cool sword.
+'Rating: 1/5. Room filled to brim with semen, and when front desk clerk opened mouth to talk, bedbugs poured out.'
 
