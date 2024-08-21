@@ -1,6 +1,6 @@
-[Natural Parenting](https://xkcd.com/674)
+[Sword in the Stone](https://xkcd.com/1521)
 
-![Natural Parenting](./random_comic.png)
+![Sword in the Stone](./random_comic.png)
 
-On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that's the mother of all sampling biases.
+That seems like an awful lot of hassle when all I wanted was a cool sword.
 
