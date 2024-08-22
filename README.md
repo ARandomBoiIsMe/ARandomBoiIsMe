@@ -1,6 +1,6 @@
-[Hotels](https://xkcd.com/958)
+[Hand Sanitizer](https://xkcd.com/1161)
 
-![Hotels](./random_comic.png)
+![Hand Sanitizer](./random_comic.png)
 
-'Rating: 1/5. Room filled to brim with semen, and when front desk clerk opened mouth to talk, bedbugs poured out.'
+Hipster CDC Reports Flu Epidemic Peaked Years Ago
 
