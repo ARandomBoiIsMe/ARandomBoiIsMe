@@ -1,6 +1,6 @@
-[Hand Sanitizer](https://xkcd.com/1161)
+[Viral Vector Immunity](https://xkcd.com/2406)
 
-![Hand Sanitizer](./random_comic.png)
+![Viral Vector Immunity](./random_comic.png)
 
-Hipster CDC Reports Flu Epidemic Peaked Years Ago
+We've secretly replaced this customer's instant coffee with our patented substitute. Let's see what she ... uh oh, I think she spotted us through the window. Now she's getting something from the closet ... oh jeez, she has a sword! Run!!
 
