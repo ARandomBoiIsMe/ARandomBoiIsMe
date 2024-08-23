@@ -1,6 +1,6 @@
-[The General Problem](https://xkcd.com/974)
+[The End is Not for a While](https://xkcd.com/470)
 
-![The General Problem](./random_comic.png)
+![The End is Not for a While](./random_comic.png)
 
-I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.
+I THINK EVERYONE INVOLVED HERE IS CUTE.
 
