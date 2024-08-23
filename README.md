@@ -1,6 +1,6 @@
-[Sleet](https://xkcd.com/511)
+[Startled](https://xkcd.com/412)
 
-![Sleet](./random_comic.png)
+![Startled](./random_comic.png)
 
-I mean, I can barely hear myself complaining about Battlestar Galactica.
+...
 
