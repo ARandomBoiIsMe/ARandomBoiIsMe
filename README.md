@@ -1,6 +1,6 @@
-[The End is Not for a While](https://xkcd.com/470)
+[Sleet](https://xkcd.com/511)
 
-![The End is Not for a While](./random_comic.png)
+![Sleet](./random_comic.png)
 
-I THINK EVERYONE INVOLVED HERE IS CUTE.
+I mean, I can barely hear myself complaining about Battlestar Galactica.
 
