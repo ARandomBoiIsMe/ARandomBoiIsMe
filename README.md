@@ -1,6 +1,6 @@
-[Join Myspace](https://xkcd.com/146)
+[The General Problem](https://xkcd.com/974)
 
-![Join Myspace](./random_comic.png)
+![The General Problem](./random_comic.png)
 
-I really shouldn't abuse that power so heavily.
+I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.
 
