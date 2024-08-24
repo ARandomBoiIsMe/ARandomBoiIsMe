@@ -1,6 +1,6 @@
-[Optimization](https://xkcd.com/1691)
+[Na](https://xkcd.com/851)
 
-![Optimization](./random_comic.png)
+![Na](./random_comic.png)
 
-Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not.
+I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.
 
