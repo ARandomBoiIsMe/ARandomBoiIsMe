@@ -1,6 +1,6 @@
-[Startled](https://xkcd.com/412)
+[Christmas Presents](https://xkcd.com/2246)
 
-![Startled](./random_comic.png)
+![Christmas Presents](./random_comic.png)
 
-...
+"The parasitism might be mediated by a fungus!" exclaimed the biologist who was trying to ruin Christmas again.
 
