@@ -1,6 +1,6 @@
-[Na](https://xkcd.com/851)
+[Stove Ownership](https://xkcd.com/418)
 
-![Na](./random_comic.png)
+![Stove Ownership](./random_comic.png)
 
-I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.
+Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.
 
