@@ -1,6 +1,6 @@
-[Stove Ownership](https://xkcd.com/418)
+[Calendar of Meaningful Dates](https://xkcd.com/1140)
 
-![Stove Ownership](./random_comic.png)
+![Calendar of Meaningful Dates](./random_comic.png)
 
-Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.
+In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.
 
