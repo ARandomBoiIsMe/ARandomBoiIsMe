@@ -1,6 +1,6 @@
-[Venus](https://xkcd.com/1519)
+[Self-Description](https://xkcd.com/688)
 
-![Venus](./random_comic.png)
+![Self-Description](./random_comic.png)
 
-The sudden introduction of Venusian flowers led to an explosive growth of unusual Earth pollinators, which became known as the "butterfly effect."
+The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.
 
