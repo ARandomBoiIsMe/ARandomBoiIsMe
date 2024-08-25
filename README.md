@@ -1,6 +1,6 @@
-[Seven](https://xkcd.com/1417)
+[Venus](https://xkcd.com/1519)
 
-![Seven](./random_comic.png)
+![Venus](./random_comic.png)
 
-The days of the week are Monday, Arctic, Wellesley, Green, Electra, Synergize, and the Seventh Seal.
+The sudden introduction of Venusian flowers led to an explosive growth of unusual Earth pollinators, which became known as the "butterfly effect."
 
