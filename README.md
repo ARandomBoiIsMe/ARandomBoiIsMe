@@ -1,6 +1,6 @@
-[Calendar of Meaningful Dates](https://xkcd.com/1140)
+[Seven](https://xkcd.com/1417)
 
-![Calendar of Meaningful Dates](./random_comic.png)
+![Seven](./random_comic.png)
 
-In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.
+The days of the week are Monday, Arctic, Wellesley, Green, Electra, Synergize, and the Seventh Seal.
 
