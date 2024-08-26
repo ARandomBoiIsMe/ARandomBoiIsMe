@@ -1,6 +1,6 @@
-[Avoidance](https://xkcd.com/615)
+[Anti-Mindvirus](https://xkcd.com/391)
 
-![Avoidance](./random_comic.png)
+![Anti-Mindvirus](./random_comic.png)
 
-Hobby: seeing how many menu selections you can get someone to go through before they realize you're not an automated system and/or hang up.
+I'm as surprised as you!  I didn't think it was possible.
 
