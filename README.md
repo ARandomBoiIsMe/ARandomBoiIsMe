@@ -1,6 +1,6 @@
-[Self-Description](https://xkcd.com/688)
+[Autoresponder](https://xkcd.com/2574)
 
-![Self-Description](./random_comic.png)
+![Autoresponder](./random_comic.png)
 
-The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.
+I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!
 
