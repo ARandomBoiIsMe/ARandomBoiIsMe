@@ -1,6 +1,6 @@
-[Autoresponder](https://xkcd.com/2574)
+[Escalators](https://xkcd.com/252)
 
-![Autoresponder](./random_comic.png)
+![Escalators](./random_comic.png)
 
-I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!
+The one time I tried, I got hit by a slinky going down at double speed.
 
