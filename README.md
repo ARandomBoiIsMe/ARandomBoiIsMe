@@ -1,6 +1,6 @@
-[Escalators](https://xkcd.com/252)
+[Avoidance](https://xkcd.com/615)
 
-![Escalators](./random_comic.png)
+![Avoidance](./random_comic.png)
 
-The one time I tried, I got hit by a slinky going down at double speed.
+Hobby: seeing how many menu selections you can get someone to go through before they realize you're not an automated system and/or hang up.
 
