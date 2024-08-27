@@ -1,6 +1,6 @@
-[Language Nerd](https://xkcd.com/1443)
+[Oort Cloud](https://xkcd.com/1297)
 
-![Language Nerd](./random_comic.png)
+![Oort Cloud](./random_comic.png)
 
-Not to go all sentence fragment on you.
+... I wanna try.  Hang on, be right back.
 
