@@ -1,6 +1,6 @@
-[Solar System Model](https://xkcd.com/2709)
+[Book Burning](https://xkcd.com/750)
 
-![Solar System Model](./random_comic.png)
+![Book Burning](./random_comic.png)
 
-The Earth is, on average, located in the habitable zone, but at any given time it has a certain probability of being outside it, which is why life exists on Earth but is mortal.
+Of course, since their cautionary tale was reported in a print newspaper, no one read it.
 
