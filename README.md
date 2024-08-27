@@ -1,6 +1,6 @@
-[Anti-Mindvirus](https://xkcd.com/391)
+[Language Nerd](https://xkcd.com/1443)
 
-![Anti-Mindvirus](./random_comic.png)
+![Language Nerd](./random_comic.png)
 
-I'm as surprised as you!  I didn't think it was possible.
+Not to go all sentence fragment on you.
 
