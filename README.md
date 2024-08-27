@@ -1,6 +1,6 @@
-[Oort Cloud](https://xkcd.com/1297)
+[Solar System Model](https://xkcd.com/2709)
 
-![Oort Cloud](./random_comic.png)
+![Solar System Model](./random_comic.png)
 
-... I wanna try.  Hang on, be right back.
+The Earth is, on average, located in the habitable zone, but at any given time it has a certain probability of being outside it, which is why life exists on Earth but is mortal.
 
