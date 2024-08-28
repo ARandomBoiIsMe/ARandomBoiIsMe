@@ -1,6 +1,6 @@
-[The Cloud](https://xkcd.com/908)
+[The bacon](https://xkcd.com/1054)
 
-![The Cloud](./random_comic.png)
+![The bacon](./random_comic.png)
 
-There's planned downtime every night when we turn on the Roomba and it runs over the cord.
+Normally pronounced 'THEH-buh-kon', I assume.
 
