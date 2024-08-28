@@ -1,6 +1,6 @@
-[Curbside](https://xkcd.com/2376)
+[Ontological Argument](https://xkcd.com/1505)
 
-![Curbside](./random_comic.png)
+![Ontological Argument](./random_comic.png)
 
-The state has had so many contact tracers disappear into that shop that they've had to start a contact tracer tracing program.
+A God who holds the world record for eating the most skateboards is greater than a God who does not hold that record.
 
