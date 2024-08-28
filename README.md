@@ -1,6 +1,6 @@
-[The bacon](https://xkcd.com/1054)
+[Curbside](https://xkcd.com/2376)
 
-![The bacon](./random_comic.png)
+![Curbside](./random_comic.png)
 
-Normally pronounced 'THEH-buh-kon', I assume.
+The state has had so many contact tracers disappear into that shop that they've had to start a contact tracer tracing program.
 
