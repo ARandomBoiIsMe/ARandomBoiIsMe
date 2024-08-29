@@ -1,6 +1,6 @@
-[Ontological Argument](https://xkcd.com/1505)
+[Malamanteau](https://xkcd.com/739)
 
-![Ontological Argument](./random_comic.png)
+![Malamanteau](./random_comic.png)
 
-A God who holds the world record for eating the most skateboards is greater than a God who does not hold that record.
+The article has twenty-three citations, one of which is an obscure manuscript from the 1490's and the other twenty-two are arguments on LanguageLog.
 
