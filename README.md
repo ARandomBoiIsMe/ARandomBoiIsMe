@@ -1,6 +1,6 @@
-[Malamanteau](https://xkcd.com/739)
+[Star Wars Spoiler Generator](https://xkcd.com/2243)
 
-![Malamanteau](./random_comic.png)
+![Star Wars Spoiler Generator](./random_comic.png)
 
-The article has twenty-three citations, one of which is an obscure manuscript from the 1490's and the other twenty-two are arguments on LanguageLog.
+The heroes seem to be gaining the upper hand until Darth Juul manages to flip the switch on the car wash control panel from 'REGULAR' to 'PREMIUM.'
 
