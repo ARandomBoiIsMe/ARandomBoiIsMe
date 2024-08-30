@@ -1,6 +1,6 @@
-[Super Bowl Watch Party](https://xkcd.com/1951)
+[Battery Life](https://xkcd.com/2680)
 
-![Super Bowl Watch Party](./random_comic.png)
+![Battery Life](./random_comic.png)
 
-It's going to be weird near the end of May when the screen goes blank for over 18 hours.
+It's okay, I'm at 10%, so I'm good for another month or two.
 
