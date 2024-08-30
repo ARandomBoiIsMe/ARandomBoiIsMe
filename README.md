@@ -1,6 +1,6 @@
-[Curiosity](https://xkcd.com/1091)
+[Defensive Profile](https://xkcd.com/1911)
 
-![Curiosity](./random_comic.png)
+![Defensive Profile](./random_comic.png)
 
-As of this writing the NASA/JPL websites are still overloaded. Trying CURIOSITY-REAR-CAM_[256px_x_256px].torrent.SwEsUb.DVDRip.XviD-aXXo.jpg instead.
+NO DRAMA ZONE -> If I've made you sad, you'd better not tell me, because I am TERRIFIED of that situation and have NO IDEA how to handle it.
 
