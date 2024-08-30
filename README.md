@@ -1,6 +1,6 @@
-[Defensive Profile](https://xkcd.com/1911)
+[Super Bowl Watch Party](https://xkcd.com/1951)
 
-![Defensive Profile](./random_comic.png)
+![Super Bowl Watch Party](./random_comic.png)
 
-NO DRAMA ZONE -> If I've made you sad, you'd better not tell me, because I am TERRIFIED of that situation and have NO IDEA how to handle it.
+It's going to be weird near the end of May when the screen goes blank for over 18 hours.
 
