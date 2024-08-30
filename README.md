@@ -1,6 +1,6 @@
-[I'm With Her](https://xkcd.com/1756)
+[Curiosity](https://xkcd.com/1091)
 
-![I'm With Her](./random_comic.png)
+![Curiosity](./random_comic.png)
 
-We can do this.
+As of this writing the NASA/JPL websites are still overloaded. Trying CURIOSITY-REAR-CAM_[256px_x_256px].torrent.SwEsUb.DVDRip.XviD-aXXo.jpg instead.
 
