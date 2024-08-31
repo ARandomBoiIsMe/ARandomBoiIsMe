@@ -1,6 +1,6 @@
-[Weather Station](https://xkcd.com/2737)
+[Isolation](https://xkcd.com/1601)
 
-![Weather Station](./random_comic.png)
+![Isolation](./random_comic.png)
 
-'Pour one out for precipitation data integrity,' I say, solemnly upending the glass into the rain gauge.
+2060: The gregarious superintelligent AI, happily talking its way out of a box, is fast becoming a relic of the past. Today's quantum hyper-beings are too busy with their internal multiverse sims to even notice that they're in boxes at all!
 
