@@ -1,6 +1,6 @@
-[Battery Life](https://xkcd.com/2680)
+[Weather Station](https://xkcd.com/2737)
 
-![Battery Life](./random_comic.png)
+![Weather Station](./random_comic.png)
 
-It's okay, I'm at 10%, so I'm good for another month or two.
+'Pour one out for precipitation data integrity,' I say, solemnly upending the glass into the rain gauge.
 
