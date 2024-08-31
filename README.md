@@ -1,6 +1,6 @@
-[PGP](https://xkcd.com/1181)
+[Techno](https://xkcd.com/411)
 
-![PGP](./random_comic.png)
+![Techno](./random_comic.png)
 
-If you want to be extra safe, check that there's a big block of jumbled characters at the bottom.
+I don't know what's worse -- that there exists broken-hard-drive-sound techno, or that it's not half bad.
 
