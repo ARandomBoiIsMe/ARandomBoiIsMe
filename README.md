@@ -1,6 +1,6 @@
-[Violin Plots](https://xkcd.com/1967)
+[Blame](https://xkcd.com/1761)
 
-![Violin Plots](./random_comic.png)
+![Blame](./random_comic.png)
 
-Strictly speaking, 'violin' refers to the internal structure of the data. The external portion visible in the plot is called the 'viola.'
+I bet if I yell at my scared friends I will feel better.
 
