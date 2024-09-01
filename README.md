@@ -1,6 +1,6 @@
-[The Race: Part 2](https://xkcd.com/578)
+[Violin Plots](https://xkcd.com/1967)
 
-![The Race: Part 2](./random_comic.png)
+![Violin Plots](./random_comic.png)
 
-The Hammer + Captain Tightpants == Captain Hammerpants?
+Strictly speaking, 'violin' refers to the internal structure of the data. The external portion visible in the plot is called the 'viola.'
 
