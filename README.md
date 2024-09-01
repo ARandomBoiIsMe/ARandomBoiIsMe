@@ -1,6 +1,6 @@
-[Techno](https://xkcd.com/411)
+[Yogurt](https://xkcd.com/737)
 
-![Techno](./random_comic.png)
+![Yogurt](./random_comic.png)
 
-I don't know what's worse -- that there exists broken-hard-drive-sound techno, or that it's not half bad.
+I am firmly of the opinion that if something doesn't have a year on it, every time the expiration date rolls around it is good again for the two weeks preceding that date.
 
