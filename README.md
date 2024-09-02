@@ -1,6 +1,6 @@
-[Outlet Denier](https://xkcd.com/2589)
+[Feedback](https://xkcd.com/1457)
 
-![Outlet Denier](./random_comic.png)
+![Feedback](./random_comic.png)
 
-There are regularly placed bumps on the underside just the right size to press the rocker switch on the power strip.
+A new study finds that if you give rats a cell phone and a lever they can push to improve the signal, the rats will chew on the cell phone until it breaks and your research supervisors will start to ask some questions about your grant money.
 
