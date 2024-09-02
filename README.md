@@ -1,6 +1,6 @@
-[Blame](https://xkcd.com/1761)
+[Family Reunion](https://xkcd.com/2608)
 
-![Blame](./random_comic.png)
+![Family Reunion](./random_comic.png)
 
-I bet if I yell at my scared friends I will feel better.
+Grandma says that because of differences in primate and feline lifespans, the cat is actually my 17,000,000th cousin 14,000,000 times removed.
 
