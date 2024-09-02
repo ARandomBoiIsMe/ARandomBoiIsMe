@@ -1,6 +1,6 @@
-[Family Reunion](https://xkcd.com/2608)
+[Archimedes Principle](https://xkcd.com/2681)
 
-![Family Reunion](./random_comic.png)
+![Archimedes Principle](./random_comic.png)
 
-Grandma says that because of differences in primate and feline lifespans, the cat is actually my 17,000,000th cousin 14,000,000 times removed.
+"I've always wanted to run naked through town, but I don't want to get in trouble with the king or be remembered by history as a weirdo. I wonder how I could ... EUREKA!"
 
