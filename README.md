@@ -1,6 +1,6 @@
-[Differentiation and Integration](https://xkcd.com/2117)
+[Video Content](https://xkcd.com/1804)
 
-![Differentiation and Integration](./random_comic.png)
+![Video Content](./random_comic.png)
 
-"Symbolic integration" is when you theatrically go through the motions of finding integrals, but the actual result you get doesn't matter because it's purely symbolic.
+"So, like, sexy news videos?" "No, people have tried that--it's still just video content. We need to actually inform people THROUGH making out. I would call it 'Mouth Content,' but I think that's already the title of a Neil Cicierega album."
 
