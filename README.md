@@ -1,6 +1,6 @@
-[Diode](https://xkcd.com/814)
+[Differentiation and Integration](https://xkcd.com/2117)
 
-![Diode](./random_comic.png)
+![Differentiation and Integration](./random_comic.png)
 
-And the worst part is you won't apologize.
+"Symbolic integration" is when you theatrically go through the motions of finding integrals, but the actual result you get doesn't matter because it's purely symbolic.
 
