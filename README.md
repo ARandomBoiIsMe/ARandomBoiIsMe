@@ -1,6 +1,6 @@
-[Video Content](https://xkcd.com/1804)
+[2045](https://xkcd.com/2685)
 
-![Video Content](./random_comic.png)
+![2045](./random_comic.png)
 
-"So, like, sexy news videos?" "No, people have tried that--it's still just video content. We need to actually inform people THROUGH making out. I would call it 'Mouth Content,' but I think that's already the title of a Neil Cicierega album."
+"Sorry, doctor, I'm going to have to come in on a different day--I have another appointment that would be really hard to move, in terms of the kinetic energy requirements."
 
