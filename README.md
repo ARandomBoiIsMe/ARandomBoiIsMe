@@ -1,6 +1,6 @@
-[2045](https://xkcd.com/2685)
+[Loud Party](https://xkcd.com/358)
 
-![2045](./random_comic.png)
+![Loud Party](./random_comic.png)
 
-"Sorry, doctor, I'm going to have to come in on a different day--I have another appointment that would be really hard to move, in terms of the kinetic energy requirements."
+I'm glad this is so much fun because I'm not sure how we're getting down.
 
