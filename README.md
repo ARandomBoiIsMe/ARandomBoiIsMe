@@ -1,6 +1,6 @@
-[Trochee Fixation](https://xkcd.com/856)
+[Genetic Analysis](https://xkcd.com/830)
 
-![Trochee Fixation](./random_comic.png)
+![Genetic Analysis](./random_comic.png)
 
-If you Huffman-coded all the 'random' things everyone on the internet has said over the years, you'd wind up with, like, 30 or 40 bytes *tops*.
+There's still a chance you were conceived via IVF. But we've checked your mom's college yearbook photos, and whether or not she and your father had sex, it's clear that ... listen, I know this is hard for you.
 
