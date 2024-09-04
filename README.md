@@ -1,6 +1,6 @@
-[Loud Party](https://xkcd.com/358)
+[Trochee Fixation](https://xkcd.com/856)
 
-![Loud Party](./random_comic.png)
+![Trochee Fixation](./random_comic.png)
 
-I'm glad this is so much fun because I'm not sure how we're getting down.
+If you Huffman-coded all the 'random' things everyone on the internet has said over the years, you'd wind up with, like, 30 or 40 bytes *tops*.
 
