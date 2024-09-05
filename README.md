@@ -1,6 +1,6 @@
-[Religions](https://xkcd.com/900)
+[Common Star Types](https://xkcd.com/2360)
 
-![Religions](./random_comic.png)
+![Common Star Types](./random_comic.png)
 
-But to us there is but one God, plus or minus one. --1 Corinthians 8:6±2.
+This article is about Eta Carinae, a luminous blue hypergiant with anomalous Fe[ii] emission spectra. For the 1998 Brad Bird film, see The Iron Giant (film).
 
