@@ -1,6 +1,6 @@
-[Common Star Types](https://xkcd.com/2360)
+[Teenage Mutant Ninja Turtles](https://xkcd.com/1412)
 
-![Common Star Types](./random_comic.png)
+![Teenage Mutant Ninja Turtles](./random_comic.png)
 
-This article is about Eta Carinae, a luminous blue hypergiant with anomalous Fe[ii] emission spectra. For the 1998 Brad Bird film, see The Iron Giant (film).
+My upcoming album, 'Linked List', has covers of 'The Purple People Eater', the Ninja Turtles theme, 'Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini', and the Power Rangers theme, with every song played to the tune of the next.
 
