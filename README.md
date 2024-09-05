@@ -1,6 +1,6 @@
-[Teenage Mutant Ninja Turtles](https://xkcd.com/1412)
+[Universal Converter Box](https://xkcd.com/1406)
 
-![Teenage Mutant Ninja Turtles](./random_comic.png)
+![Universal Converter Box](./random_comic.png)
 
-My upcoming album, 'Linked List', has covers of 'The Purple People Eater', the Ninja Turtles theme, 'Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini', and the Power Rangers theme, with every song played to the tune of the next.
+Comes with a 50-lb sack of gender changers, and also an add-on device with a voltage selector and a zillion circular center pin DC adapter tips so you can power any of those devices from the 90s.
 
