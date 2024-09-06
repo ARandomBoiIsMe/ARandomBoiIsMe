@@ -1,6 +1,6 @@
-[Phone Numbers](https://xkcd.com/1789)
+[Debugging](https://xkcd.com/1722)
 
-![Phone Numbers](./random_comic.png)
+![Debugging](./random_comic.png)
 
-Texting should work. Unless the message is too long, in which case it gets converted to voicemails, and I think I'm locked out of my voicemail.
+When you Google an error message and it gets no results, you can be pretty sure you've found a clue to the location of Martin's sword.
 
