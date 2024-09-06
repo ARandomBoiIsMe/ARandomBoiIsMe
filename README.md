@@ -1,6 +1,6 @@
-[Color Codes](https://xkcd.com/227)
+[Phone Numbers](https://xkcd.com/1789)
 
-![Color Codes](./random_comic.png)
+![Phone Numbers](./random_comic.png)
 
-(It's the TMBG Dial-a-Song line, to save you some time.)
+Texting should work. Unless the message is too long, in which case it gets converted to voicemails, and I think I'm locked out of my voicemail.
 
