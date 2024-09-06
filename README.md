@@ -1,6 +1,6 @@
-[Donald Knuth](https://xkcd.com/163)
+[Good Cop, Dadaist Cop](https://xkcd.com/1018)
 
-![Donald Knuth](./random_comic.png)
+![Good Cop, Dadaist Cop](./random_comic.png)
 
-His books were kinda intimidating; rappelling down through his skylight seemed like the best option.
+NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.
 
