@@ -1,6 +1,6 @@
-[Debugging](https://xkcd.com/1722)
+[Donald Knuth](https://xkcd.com/163)
 
-![Debugging](./random_comic.png)
+![Donald Knuth](./random_comic.png)
 
-When you Google an error message and it gets no results, you can be pretty sure you've found a clue to the location of Martin's sword.
+His books were kinda intimidating; rappelling down through his skylight seemed like the best option.
 
