@@ -1,6 +1,6 @@
-[Good Cop, Dadaist Cop](https://xkcd.com/1018)
+[Satellite](https://xkcd.com/2264)
 
-![Good Cop, Dadaist Cop](./random_comic.png)
+![Satellite](./random_comic.png)
 
-NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.
+If you're going to let it burn up, make sure it happens over the deep end of the bathtub and not any populated parts of the house!
 
