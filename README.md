@@ -1,6 +1,6 @@
-[Frogger](https://xkcd.com/772)
+[Couple](https://xkcd.com/355)
 
-![Frogger](./random_comic.png)
+![Couple](./random_comic.png)
 
-I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.
+Facebook defines relationships.  'Yeah, we would have broken up last night, but the net connection was down.'
 
