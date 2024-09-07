@@ -1,6 +1,6 @@
-[Satellite](https://xkcd.com/2264)
+[Frogger](https://xkcd.com/772)
 
-![Satellite](./random_comic.png)
+![Frogger](./random_comic.png)
 
-If you're going to let it burn up, make sure it happens over the deep end of the bathtub and not any populated parts of the house!
+I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.
 
