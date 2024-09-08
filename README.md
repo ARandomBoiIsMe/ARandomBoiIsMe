@@ -1,6 +1,6 @@
-[Rogers St.](https://xkcd.com/884)
+[1 to 10](https://xkcd.com/953)
 
-![Rogers St.](./random_comic.png)
+![1 to 10](./random_comic.png)
 
-'We can also use middle names in place of first pet's names, but yours is something incomprehensible about dropping tables.'
+If you get an 11/100 on a CS test, but you claim it should be counted as a 'C', they'll probably decide you deserve the upgrade.
 
