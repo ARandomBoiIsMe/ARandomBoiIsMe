@@ -1,6 +1,6 @@
-[Weather Radar](https://xkcd.com/831)
+[Mysteries](https://xkcd.com/1501)
 
-![Weather Radar](./random_comic.png)
+![Mysteries](./random_comic.png)
 
-Ever notice how there aren't as many thunderstorms now as there were when you were a kid?  Much like 'the shuffle on my MP3 player has a bias', this is occasionally true but universally believed. Brains are so interesting!
+At the bottom left: The mystery of why, when I know I needed to be asleep an hour ago, I decide it's a good time to read through every Wikipedia article in the categories 'Out-of-place artifacts', 'Earth mysteries', 'Anomalous weather', and 'List of people who disappeared mysteriously'.
 
