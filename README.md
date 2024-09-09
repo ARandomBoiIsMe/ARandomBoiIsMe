@@ -1,6 +1,6 @@
-[Log Scale](https://xkcd.com/1162)
+[Launch Risk](https://xkcd.com/2107)
 
-![Log Scale](./random_comic.png)
+![Launch Risk](./random_comic.png)
 
-Knuth Paper-Stack Notation: Write down the number on pages. Stack them. If the stack is too tall to fit in the room, write down the number of pages it would take to write down the number. THAT number won't fit in the room? Repeat. When a stack fits, write the number of iterations on a card. Pin it to the stack.
+Don't worry--you're less likely to die from a space launch than from a shark attack. The survival rate is pretty high for both!
 
