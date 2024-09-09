@@ -1,6 +1,6 @@
-[Money](https://xkcd.com/980)
+[Inflection](https://xkcd.com/1709)
 
-![Money](./random_comic.png)
+![Inflection](./random_comic.png)
 
-There, I showed you it.
+"Or maybe, because we're suddenly having so many conversations through written text, we'll start relying MORE on altered spelling to indicate meaning!" "Wat."
 
