@@ -1,6 +1,6 @@
-[Symptoms](https://xkcd.com/2279)
+[Forest Walk](https://xkcd.com/2498)
 
-![Symptoms](./random_comic.png)
+![Forest Walk](./random_comic.png)
 
-This medicine says it may cause lightheadedness, dry mouth, and blurred vision, but my head feels incredibly heavy, water is pouring from my mouth, and I can see individual hummingbird wingbeats, so I think I'm fine.
+The only other person to walk by was a linguist back in the 80s, but she just spent a while dissecting the phrase 'help me down' before getting distracted by a squirrel and wandering off.
 
