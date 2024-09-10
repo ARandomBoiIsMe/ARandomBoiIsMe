@@ -1,6 +1,6 @@
-[Launch Risk](https://xkcd.com/2107)
+[Chemicals](https://xkcd.com/2648)
 
-![Launch Risk](./random_comic.png)
+![Chemicals](./random_comic.png)
 
-Don't worry--you're less likely to die from a space launch than from a shark attack. The survival rate is pretty high for both!
+It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.
 
