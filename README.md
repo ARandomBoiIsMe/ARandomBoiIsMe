@@ -1,6 +1,6 @@
-[Chemicals](https://xkcd.com/2648)
+[Brightness](https://xkcd.com/1371)
 
-![Chemicals](./random_comic.png)
+![Brightness](./random_comic.png)
 
-It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.
+Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day.
 
