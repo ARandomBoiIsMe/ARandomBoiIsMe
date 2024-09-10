@@ -1,6 +1,6 @@
-[Brightness](https://xkcd.com/1371)
+[Symptoms](https://xkcd.com/2279)
 
-![Brightness](./random_comic.png)
+![Symptoms](./random_comic.png)
 
-Recently, some exoplanet astronomers have managed to use careful analysis of reflected light to discover Earth during the day.
+This medicine says it may cause lightheadedness, dry mouth, and blurred vision, but my head feels incredibly heavy, water is pouring from my mouth, and I can see individual hummingbird wingbeats, so I think I'm fine.
 
