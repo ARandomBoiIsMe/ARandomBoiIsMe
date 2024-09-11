@@ -1,6 +1,6 @@
-[Banter](https://xkcd.com/65)
+[Coupon Code](https://xkcd.com/837)
 
-![Banter](./random_comic.png)
+![Coupon Code](./random_comic.png)
 
-This was an actual mock conversation between me and a friend at TGiF.  The waitress walked up around panel 5 and was somewhat put off.
+This also guarantees he won't be one of the ones to get a bobcat.
 
