@@ -1,6 +1,6 @@
-[2038](https://xkcd.com/607)
+[Banter](https://xkcd.com/65)
 
-![2038](./random_comic.png)
+![Banter](./random_comic.png)
 
-If only we'd chosen 1944-12-02 08:45:52 as the Unix epoch, we could've combined two doomsday scenarios into one and added a really boring scene to that Roland Emmerich movie.
+This was an actual mock conversation between me and a friend at TGiF.  The waitress walked up around panel 5 and was somewhat put off.
 
