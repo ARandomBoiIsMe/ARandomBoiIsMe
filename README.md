@@ -1,6 +1,6 @@
-[Old-Timers](https://xkcd.com/1058)
+[Magic Words](https://xkcd.com/1383)
 
-![Old-Timers](./random_comic.png)
+![Magic Words](./random_comic.png)
 
-You were on the internet before I was born? Well, so was I.
+'And then whisper 'anapest' in my ear as you hold me?'
 
