@@ -1,6 +1,6 @@
-[Fairy Tales](https://xkcd.com/872)
+[Old-Timers](https://xkcd.com/1058)
 
-![Fairy Tales](./random_comic.png)
+![Old-Timers](./random_comic.png)
 
-Goldilocks' discovery of Newton's method for approximation required surprisingly few changes.
+You were on the internet before I was born? Well, so was I.
 
