@@ -1,6 +1,6 @@
-[Magic Words](https://xkcd.com/1383)
+[Misconceptions](https://xkcd.com/843)
 
-![Magic Words](./random_comic.png)
+![Misconceptions](./random_comic.png)
 
-'And then whisper 'anapest' in my ear as you hold me?'
+'Grandpa, what was it like in the Before time?' 'It was hell. People went around saying glass was a slow-flowing liquid. You folks these days don't know how good you have it.'
 
