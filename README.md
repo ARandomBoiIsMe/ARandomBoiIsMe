@@ -1,6 +1,6 @@
-[Misconceptions](https://xkcd.com/843)
+[To Taste](https://xkcd.com/1639)
 
-![Misconceptions](./random_comic.png)
+![To Taste](./random_comic.png)
 
-'Grandpa, what was it like in the Before time?' 'It was hell. People went around saying glass was a slow-flowing liquid. You folks these days don't know how good you have it.'
+Look, recipe, if I knew how much was gonna taste good, I wouldn't need you.
 
