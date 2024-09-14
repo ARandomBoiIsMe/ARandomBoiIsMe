@@ -1,6 +1,6 @@
-[To Taste](https://xkcd.com/1639)
+[Parker Solar Probe](https://xkcd.com/2262)
 
-![To Taste](./random_comic.png)
+![Parker Solar Probe](./random_comic.png)
 
-Look, recipe, if I knew how much was gonna taste good, I wouldn't need you.
+It will get within 9 or 10 Sun-diameters of the "bottom" (the Sun's surface) which seems pretty far when you put it that way, but from up here on Earth it's practically all the way down.
 
