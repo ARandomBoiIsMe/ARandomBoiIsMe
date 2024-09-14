@@ -1,6 +1,6 @@
-[Substitutions](https://xkcd.com/1288)
+[Classical Periodic Table](https://xkcd.com/2975)
 
-![Substitutions](./random_comic.png)
+![Classical Periodic Table](./random_comic.png)
 
-INSIDE ELON MUSK'S NEW ATOMIC CAT
+Personally I think mercury is more of a 'wet earth' hybrid element.
 
