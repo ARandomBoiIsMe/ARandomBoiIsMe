@@ -1,6 +1,6 @@
-[An Apple for a Dollar](https://xkcd.com/2019)
+[Teenage Mutant Ninja Turtles](https://xkcd.com/1412)
 
-![An Apple for a Dollar](./random_comic.png)
+![Teenage Mutant Ninja Turtles](./random_comic.png)
 
-I'd like 0.4608 apples, please.
+My upcoming album, 'Linked List', has covers of 'The Purple People Eater', the Ninja Turtles theme, 'Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini', and the Power Rangers theme, with every song played to the tune of the next.
 
