@@ -1,6 +1,6 @@
-[Aviation Firsts](https://xkcd.com/2452)
+[Magnetic Pole](https://xkcd.com/2098)
 
-![Aviation Firsts](./random_comic.png)
+![Magnetic Pole](./random_comic.png)
 
-Mile High Club membership [✓] [ ] Discovery of parts of Amelia Earhart's skeleton [ ] [ ] Mid-flight incident that results in safe landing on the Hudson River [✓] [ ]
+People keep trying to come up with reasons that we should worry about the magnetic field collapsing or reversing, but honestly I think it's fine. Whatever minor problems it causes will be made up for by the mid-latitude auroras.
 
