@@ -1,6 +1,6 @@
-[Classical Periodic Table](https://xkcd.com/2975)
+[Aviation Firsts](https://xkcd.com/2452)
 
-![Classical Periodic Table](./random_comic.png)
+![Aviation Firsts](./random_comic.png)
 
-Personally I think mercury is more of a 'wet earth' hybrid element.
+Mile High Club membership [✓] [ ] Discovery of parts of Amelia Earhart's skeleton [ ] [ ] Mid-flight incident that results in safe landing on the Hudson River [✓] [ ]
 
