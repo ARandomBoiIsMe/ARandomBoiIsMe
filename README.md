@@ -1,6 +1,6 @@
-[Constructive](https://xkcd.com/810)
+[Alternate Universe](https://xkcd.com/1268)
 
-![Constructive](./random_comic.png)
+![Alternate Universe](./random_comic.png)
 
-And what about all the people who won't be able to join the community because they're terrible at making helpful and constructive co-- ... oh.
+As best as I can tell, I was transported here from Earth Prime sometime in the late 1990s. Your universe is identical in every way, except for the lobster thing and the thing where some of you occasionally change your clocks for some reason.
 
