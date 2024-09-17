@@ -1,6 +1,6 @@
-[Optimization](https://xkcd.com/1691)
+[My Phone is Dying](https://xkcd.com/1422)
 
-![Optimization](./random_comic.png)
+![My Phone is Dying](./random_comic.png)
 
-Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not.
+When it explodes, it will cast off its outer layers, leaving behind nothing but a slowly fading PalmPilot, calculator, or two-way pager.
 
