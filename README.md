@@ -1,6 +1,6 @@
-[Storage Tanks](https://xkcd.com/2974)
+[PermaCal](https://xkcd.com/1514)
 
-![Storage Tanks](./random_comic.png)
+![PermaCal](./random_comic.png)
 
-We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them.
+The flood of PermaCalNTP leap-second notifications was bad enough, but when people started asking for millisecond resolution, the resulting DDOS brought down the internet.
 
