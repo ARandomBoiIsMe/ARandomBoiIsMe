@@ -1,6 +1,6 @@
-[PermaCal](https://xkcd.com/1514)
+[Optimization](https://xkcd.com/1691)
 
-![PermaCal](./random_comic.png)
+![Optimization](./random_comic.png)
 
-The flood of PermaCalNTP leap-second notifications was bad enough, but when people started asking for millisecond resolution, the resulting DDOS brought down the internet.
+Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not.
 
