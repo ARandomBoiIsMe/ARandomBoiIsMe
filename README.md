@@ -1,6 +1,6 @@
-[Turn-On](https://xkcd.com/474)
+[Deviled Eggs](https://xkcd.com/2593)
 
-![Turn-On](./random_comic.png)
+![Deviled Eggs](./random_comic.png)
 
-Supercollider?  I 'ardly know 'er!
+The foil on the toothpick represents the blue flash.
 
