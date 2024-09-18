@@ -1,6 +1,6 @@
-[Deviled Eggs](https://xkcd.com/2593)
+[Lunch Order](https://xkcd.com/1834)
 
-![Deviled Eggs](./random_comic.png)
+![Lunch Order](./random_comic.png)
 
-The foil on the toothpick represents the blue flash.
+GO FOR LUNCH, REPEAT, GO FOR LUNCH.
 
