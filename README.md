@@ -1,6 +1,6 @@
-[Networking](https://xkcd.com/1032)
+[Sketchiness](https://xkcd.com/1101)
 
-![Networking](./random_comic.png)
+![Sketchiness](./random_comic.png)
 
-Our company is agile and lean with a focus on the long tail. Ok, our company is actually a polecat I found in my backyard.
+factory --- spire --- onslaught --- extractor --- judge
 
