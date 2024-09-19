@@ -1,6 +1,6 @@
-[Lunch Order](https://xkcd.com/1834)
+[Pillar](https://xkcd.com/32)
 
-![Lunch Order](./random_comic.png)
+![Pillar](./random_comic.png)
 
-GO FOR LUNCH, REPEAT, GO FOR LUNCH.
+A comic by my brother Doug, redrawn and rewritten by me
 
