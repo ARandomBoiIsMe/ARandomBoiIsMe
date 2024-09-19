@@ -1,6 +1,6 @@
-[Pillar](https://xkcd.com/32)
+[Networking](https://xkcd.com/1032)
 
-![Pillar](./random_comic.png)
+![Networking](./random_comic.png)
 
-A comic by my brother Doug, redrawn and rewritten by me
+Our company is agile and lean with a focus on the long tail. Ok, our company is actually a polecat I found in my backyard.
 
