@@ -1,6 +1,6 @@
-[Sketchiness](https://xkcd.com/1101)
+[Blogofractal](https://xkcd.com/124)
 
-![Sketchiness](./random_comic.png)
+![Blogofractal](./random_comic.png)
 
-factory --- spire --- onslaught --- extractor --- judge
+Edward Tufte's 'The Visual Display of Quantitative Information' is a fantastic book, and should be required reading for anyone in either the sciences or graphic design.
 
