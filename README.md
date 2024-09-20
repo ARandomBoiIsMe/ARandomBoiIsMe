@@ -1,6 +1,6 @@
-[Panama Canal](https://xkcd.com/2127)
+[ADD](https://xkcd.com/1106)
 
-![Panama Canal](./random_comic.png)
+![ADD](./random_comic.png)
 
-Once they selected the other proposal, we could have kept shopping ours around, but we would had to modify it include an aqueduct over their canal, which would be totally unreasonable.
+20 balloons float away while I'm busy permanently tying one to a tree to deal with it for good. Unfortunately, that one balloon was 'land a rocket on the moon in Kerbal Space Program.'
 
