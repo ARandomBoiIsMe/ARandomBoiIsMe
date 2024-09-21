@@ -1,6 +1,6 @@
-[Malamanteau](https://xkcd.com/739)
+[Compiling](https://xkcd.com/303)
 
-![Malamanteau](./random_comic.png)
+![Compiling](./random_comic.png)
 
-The article has twenty-three citations, one of which is an obscure manuscript from the 1490's and the other twenty-two are arguments on LanguageLog.
+'Are you stealing those LCDs?' 'Yeah, but I'm doing it while my code compiles.'
 
