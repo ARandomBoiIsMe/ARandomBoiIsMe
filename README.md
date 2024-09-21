@@ -1,6 +1,6 @@
-[ADD](https://xkcd.com/1106)
+[Malamanteau](https://xkcd.com/739)
 
-![ADD](./random_comic.png)
+![Malamanteau](./random_comic.png)
 
-20 balloons float away while I'm busy permanently tying one to a tree to deal with it for good. Unfortunately, that one balloon was 'land a rocket on the moon in Kerbal Space Program.'
+The article has twenty-three citations, one of which is an obscure manuscript from the 1490's and the other twenty-two are arguments on LanguageLog.
 
