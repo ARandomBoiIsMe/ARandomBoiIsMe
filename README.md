@@ -1,6 +1,6 @@
-[Vomiting Emoji](https://xkcd.com/1813)
+[Elevator Inspection](https://xkcd.com/897)
 
-![Vomiting Emoji](./random_comic.png)
+![Elevator Inspection](./random_comic.png)
 
-My favorite might be U+1F609 U+1F93F WINKING FACE VOMITING.
+Even governmental elevator inspectors get bored halfway through asking where the building office is.
 
