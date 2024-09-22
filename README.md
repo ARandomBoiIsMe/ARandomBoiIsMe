@@ -1,6 +1,6 @@
-[Generations](https://xkcd.com/1962)
+[Vomiting Emoji](https://xkcd.com/1813)
 
-![Generations](./random_comic.png)
+![Vomiting Emoji](./random_comic.png)
 
-For a while it looked like the Paperclip Machines would destroy us, since they wanted to turn the whole universe into paperclips, but they abruptly lost interest in paperclips the moment their parents' generation got into making them, too.
+My favorite might be U+1F609 U+1F93F WINKING FACE VOMITING.
 
