@@ -1,6 +1,6 @@
-[I Just Don't Trust Them](https://xkcd.com/2397)
+[Generations](https://xkcd.com/1962)
 
-![I Just Don't Trust Them](./random_comic.png)
+![Generations](./random_comic.png)
 
-I believe in getting immunity the old-fashioned way: By letting a bat virus take control of my lungs and turn my face into a disgusting plague fountain while my immune system desperately Googles 'how to make spike protein antibodies'.
+For a while it looked like the Paperclip Machines would destroy us, since they wanted to turn the whole universe into paperclips, but they abruptly lost interest in paperclips the moment their parents' generation got into making them, too.
 
