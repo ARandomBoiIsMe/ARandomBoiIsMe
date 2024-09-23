@@ -1,6 +1,6 @@
-[Lincoln-Douglas](https://xkcd.com/639)
+[SafetySat](https://xkcd.com/1992)
 
-![Lincoln-Douglas](./random_comic.png)
+![SafetySat](./random_comic.png)
 
-Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.
+During launch, in the event of an unexpected sensor reading, SafetySat will extend prongs in all directions to secure itself and any other cubesats safely in the launch vehicle until the source of the problem can be determined.
 
