@@ -1,6 +1,6 @@
-[Elevator Inspection](https://xkcd.com/897)
+[Lincoln-Douglas](https://xkcd.com/639)
 
-![Elevator Inspection](./random_comic.png)
+![Lincoln-Douglas](./random_comic.png)
 
-Even governmental elevator inspectors get bored halfway through asking where the building office is.
+Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.
 
