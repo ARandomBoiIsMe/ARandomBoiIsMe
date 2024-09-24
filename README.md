@@ -1,6 +1,6 @@
-[Software Development](https://xkcd.com/2021)
+[Superlative](https://xkcd.com/621)
 
-![Software Development](./random_comic.png)
+![Superlative](./random_comic.png)
 
-Update: It turns out the cannon has a motorized base, and can make holes just fine using the barrel itself as a battering ram. But due to design constraints it won't work without a projectile loaded in, so we still need those drills.
+Stay while I recount the crazy TF2 kill I managed yesterday, my friends.
 
