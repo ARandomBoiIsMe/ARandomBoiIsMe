@@ -1,6 +1,6 @@
-[Superlative](https://xkcd.com/621)
+[Riemann-Zeta](https://xkcd.com/113)
 
-![Superlative](./random_comic.png)
+![Riemann-Zeta](./random_comic.png)
 
-Stay while I recount the crazy TF2 kill I managed yesterday, my friends.
+The graph is of the magnitude of the function with the real value between 0 and 2 and the imaginary between about 35 and 40.  I've misplaced the exact parameters I used.
 
