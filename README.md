@@ -1,6 +1,6 @@
-[Mysteries](https://xkcd.com/1501)
+[Customer Rewards](https://xkcd.com/2006)
 
-![Mysteries](./random_comic.png)
+![Customer Rewards](./random_comic.png)
 
-At the bottom left: The mystery of why, when I know I needed to be asleep an hour ago, I decide it's a good time to read through every Wikipedia article in the categories 'Out-of-place artifacts', 'Earth mysteries', 'Anomalous weather', and 'List of people who disappeared mysteriously'.
+We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards.
 
