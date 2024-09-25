@@ -1,6 +1,6 @@
-[Parity Conservation](https://xkcd.com/2364)
+[Well](https://xkcd.com/561)
 
-![Parity Conservation](./random_comic.png)
+![Well](./random_comic.png)
 
-Bloody Mary is made of antimatter. It explains so much.
+I'll concede ergonomics anecdotally, but none of the studies of Dvorak were at all rigorous (the most-cited Navy study was overseen by Dvorak himself).  And the 'slow typists down' thing is a myth.  Also EMACS RULES VI DROOLS WOOOOOOO!
 
