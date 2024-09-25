@@ -1,6 +1,6 @@
-[Well](https://xkcd.com/561)
+[Emoji Sports](https://xkcd.com/1920)
 
-![Well](./random_comic.png)
+![Emoji Sports](./random_comic.png)
 
-I'll concede ergonomics anecdotally, but none of the studies of Dvorak were at all rigorous (the most-cited Navy study was overseen by Dvorak himself).  And the 'slow typists down' thing is a myth.  Also EMACS RULES VI DROOLS WOOOOOOO!
+No horse has yet managed the elusive Quadruple Crown—winning the Kentucky Derby, the Preakness, the Belmont Stakes, and the Missouri Horse Hole.
 
