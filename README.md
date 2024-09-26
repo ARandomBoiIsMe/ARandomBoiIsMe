@@ -1,6 +1,6 @@
-[Trapped](https://xkcd.com/876)
+[Swimming](https://xkcd.com/2155)
 
-![Trapped](./random_comic.png)
+![Swimming](./random_comic.png)
 
-Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.
+"You don't know how high above you the sky goes, but you're not freaking out about that." "Well, NOW I am!"
 
