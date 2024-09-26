@@ -1,6 +1,6 @@
-[Emoji Sports](https://xkcd.com/1920)
+[Trapped](https://xkcd.com/876)
 
-![Emoji Sports](./random_comic.png)
+![Trapped](./random_comic.png)
 
-No horse has yet managed the elusive Quadruple Crown—winning the Kentucky Derby, the Preakness, the Belmont Stakes, and the Missouri Horse Hole.
+Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.
 
