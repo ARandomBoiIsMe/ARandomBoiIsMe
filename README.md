@@ -1,6 +1,6 @@
-[Swimming](https://xkcd.com/2155)
+[Normal Conversation](https://xkcd.com/2424)
 
-![Swimming](./random_comic.png)
+![Normal Conversation](./random_comic.png)
 
-"You don't know how high above you the sky goes, but you're not freaking out about that." "Well, NOW I am!"
+"I think I'll pass. These days I have a hard time feeling comfortable in crowded bars with loud music and lots of shouting." --me, after the pandemic, but now for a second reason
 
