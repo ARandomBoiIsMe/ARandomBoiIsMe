@@ -1,6 +1,6 @@
-[Science Fair](https://xkcd.com/136)
+[Mount St. Helens](https://xkcd.com/2308)
 
-![Science Fair](./random_comic.png)
+![Mount St. Helens](./random_comic.png)
 
-This project actually inspired a two-hour powerpoint presentation that Al Gore gave around the country.
+It's a good mountain but it really peaked in the 80s.
 
