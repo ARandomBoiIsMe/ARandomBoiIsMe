@@ -1,6 +1,6 @@
-[Rewiring](https://xkcd.com/454)
+[Pain Rating](https://xkcd.com/883)
 
-![Rewiring](./random_comic.png)
+![Pain Rating](./random_comic.png)
 
-My friend Finn tried to mail one end of the cable to me and thread the mail system.
+If it were a two or above I wouldn't be able to answer because it would mean a pause in the screaming.
 
