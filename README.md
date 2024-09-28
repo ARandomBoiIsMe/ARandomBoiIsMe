@@ -1,6 +1,6 @@
-[Paths](https://xkcd.com/85)
+[Time Machine](https://xkcd.com/716)
 
-![Paths](./random_comic.png)
+![Time Machine](./random_comic.png)
 
-It's true, I think about this all the time.
+We never see any time travelers because they all discover it's a huge mistake. This is also why your friend at the lab suddenly looked about a year older recently.
 
