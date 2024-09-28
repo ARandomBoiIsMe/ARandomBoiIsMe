@@ -1,6 +1,6 @@
-[Cursed mRNA Cocktail](https://xkcd.com/2673)
+[Paths](https://xkcd.com/85)
 
-![Cursed mRNA Cocktail](./random_comic.png)
+![Paths](./random_comic.png)
 
-Serve one each to guests whose last cursed cocktail was more than 2 months ago.
+It's true, I think about this all the time.
 
