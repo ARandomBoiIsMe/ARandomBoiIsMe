@@ -1,6 +1,6 @@
-[Mount St. Helens](https://xkcd.com/2308)
+[Cursed mRNA Cocktail](https://xkcd.com/2673)
 
-![Mount St. Helens](./random_comic.png)
+![Cursed mRNA Cocktail](./random_comic.png)
 
-It's a good mountain but it really peaked in the 80s.
+Serve one each to guests whose last cursed cocktail was more than 2 months ago.
 
