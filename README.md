@@ -1,6 +1,6 @@
-[Null Hypothesis](https://xkcd.com/892)
+[Comments](https://xkcd.com/2159)
 
-![Null Hypothesis](./random_comic.png)
+![Comments](./random_comic.png)
 
-Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that.
+NPR encourages you to add comments to their stories using the page inspector in your browser's developer tools. Note: Your comments are visible only to you, and will be lost when you refresh the page.
 
