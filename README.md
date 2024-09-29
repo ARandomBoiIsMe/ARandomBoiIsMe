@@ -1,6 +1,6 @@
-[Hair Growth Rate](https://xkcd.com/2316)
+[Null Hypothesis](https://xkcd.com/892)
 
-![Hair Growth Rate](./random_comic.png)
+![Null Hypothesis](./random_comic.png)
 
-Hourly haircuts would be annoying, but they'd be easier to do yourself, since you'd have adjacent hairs as a guide. Growing it out would be a huge pain, though.
+Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that.
 
