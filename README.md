@@ -1,6 +1,6 @@
-[The Mother of All Suspicious Files](https://xkcd.com/1247)
+[Sphere Tastiness](https://xkcd.com/2893)
 
-![The Mother of All Suspicious Files](./random_comic.png)
+![Sphere Tastiness](./random_comic.png)
 
-Better change the URL to 'https' before downloading.
+Baseballs do present a challenge to this theory, but I'm convinced we just haven't found the right seasoning.
 
