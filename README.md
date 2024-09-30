@@ -1,6 +1,6 @@
-[Sphere Tastiness](https://xkcd.com/2893)
+[Video Orientation](https://xkcd.com/2119)
 
-![Sphere Tastiness](./random_comic.png)
+![Video Orientation](./random_comic.png)
 
-Baseballs do present a challenge to this theory, but I'm convinced we just haven't found the right seasoning.
+CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle.
 
