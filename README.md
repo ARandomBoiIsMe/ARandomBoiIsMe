@@ -1,6 +1,6 @@
-[Comments](https://xkcd.com/2159)
+[Typewriter](https://xkcd.com/477)
 
-![Comments](./random_comic.png)
+![Typewriter](./random_comic.png)
 
-NPR encourages you to add comments to their stories using the page inspector in your browser's developer tools. Note: Your comments are visible only to you, and will be lost when you refresh the page.
+Somewhere in the world, my actual grandmothers are reading this and angrily exclaiming that I never write even malformed thank-you notes.  DEAR GRANDMOMS: I AM SORRY! YOU ARE WONDERFUL PEOPLE AND THANK YOU FOR EVERYTHING.  LOVE reddit.com RANDALL.
 
