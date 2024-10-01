@@ -1,6 +1,6 @@
-[Ruling Out](https://xkcd.com/2783)
+[Five-Minute Comics: Part 3](https://xkcd.com/821)
 
-![Ruling Out](./random_comic.png)
+![Five-Minute Comics: Part 3](./random_comic.png)
 
-We were able to replicate and confirm prior authors' detection of a moon orbiting the Earth with high confidence.
+Resulting in The Little Rock 9x + C.
 
