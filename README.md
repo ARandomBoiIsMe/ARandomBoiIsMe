@@ -1,6 +1,6 @@
-[Video Orientation](https://xkcd.com/2119)
+[Ruling Out](https://xkcd.com/2783)
 
-![Video Orientation](./random_comic.png)
+![Ruling Out](./random_comic.png)
 
-CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle.
+We were able to replicate and confirm prior authors' detection of a moon orbiting the Earth with high confidence.
 
