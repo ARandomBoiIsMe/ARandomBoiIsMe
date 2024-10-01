@@ -1,6 +1,6 @@
-[Five-Minute Comics: Part 3](https://xkcd.com/821)
+[Form](https://xkcd.com/608)
 
-![Five-Minute Comics: Part 3](./random_comic.png)
+![Form](./random_comic.png)
 
-Resulting in The Little Rock 9x + C.
+'This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.
 
