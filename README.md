@@ -1,6 +1,6 @@
-[Form](https://xkcd.com/608)
+[Garden Path Sentence](https://xkcd.com/2793)
 
-![Form](./random_comic.png)
+![Garden Path Sentence](./random_comic.png)
 
-'This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.
+Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing
 
