@@ -1,6 +1,6 @@
-[TCMP](https://xkcd.com/269)
+[Summer Solstice](https://xkcd.com/2792)
 
-![TCMP](./random_comic.png)
+![Summer Solstice](./random_comic.png)
 
-A big obstacle in experimenting with the mind's dream-simulation-engine is holding onto the details as you wake up.  With TCMP you can bring back any information you want.
+Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)
 
