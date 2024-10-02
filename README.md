@@ -1,6 +1,6 @@
-[Pods vs Bubbles](https://xkcd.com/2339)
+[TCMP](https://xkcd.com/269)
 
-![Pods vs Bubbles](./random_comic.png)
+![TCMP](./random_comic.png)
 
-Canada's travel restrictions on the US are 99% about keeping out COVID and 1% about keeping out people who say 'pod.'
+A big obstacle in experimenting with the mind's dream-simulation-engine is holding onto the details as you wake up.  With TCMP you can bring back any information you want.
 
