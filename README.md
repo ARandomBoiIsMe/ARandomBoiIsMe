@@ -1,6 +1,6 @@
-[Garden Path Sentence](https://xkcd.com/2793)
+[Pods vs Bubbles](https://xkcd.com/2339)
 
-![Garden Path Sentence](./random_comic.png)
+![Pods vs Bubbles](./random_comic.png)
 
-Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing
+Canada's travel restrictions on the US are 99% about keeping out COVID and 1% about keeping out people who say 'pod.'
 
