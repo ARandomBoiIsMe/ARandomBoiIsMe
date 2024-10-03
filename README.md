@@ -1,6 +1,6 @@
-[Mars Rovers](https://xkcd.com/2433)
+[Five Years](https://xkcd.com/1088)
 
-![Mars Rovers](./random_comic.png)
+![Five Years](./random_comic.png)
 
-I just Googled 'roomba sojourner mod' and was sorely disappointed. Be the change, I guess!
+'Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'
 
