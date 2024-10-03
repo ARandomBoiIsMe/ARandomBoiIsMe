@@ -1,6 +1,6 @@
-[Five Years](https://xkcd.com/1088)
+[Versus Bracket](https://xkcd.com/2230)
 
-![Five Years](./random_comic.png)
+![Versus Bracket](./random_comic.png)
 
-'Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'
+Some works didn't make the cut; in "Ecks vs. Sever" vs. the passage of time, the latter seems to have won pretty decisively.
 
