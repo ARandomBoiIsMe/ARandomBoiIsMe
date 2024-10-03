@@ -1,6 +1,6 @@
-[Versus Bracket](https://xkcd.com/2230)
+[America Songs](https://xkcd.com/2665)
 
-![Versus Bracket](./random_comic.png)
+![America Songs](./random_comic.png)
 
-Some works didn't make the cut; in "Ecks vs. Sever" vs. the passage of time, the latter seems to have won pretty decisively.
+Juraaaassic Park, Juraaaassic Park, God shed his grace on theeeee
 
