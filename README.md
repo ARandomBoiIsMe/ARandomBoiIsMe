@@ -1,6 +1,6 @@
-[Artemis Quote](https://xkcd.com/2668)
+[Mars Rovers](https://xkcd.com/2433)
 
-![Artemis Quote](./random_comic.png)
+![Mars Rovers](./random_comic.png)
 
-Another option: "It is an honor to be the first human to set foot on the moon."
+I just Googled 'roomba sojourner mod' and was sorely disappointed. Be the change, I guess!
 
