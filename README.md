@@ -1,6 +1,6 @@
-[Is it Christmas?](https://xkcd.com/2236)
+[Five-Minute Comics: Part 1](https://xkcd.com/819)
 
-![Is it Christmas?](./random_comic.png)
+![Five-Minute Comics: Part 1](./random_comic.png)
 
-We've tested it on 30 different days and it hasn't gotten one wrong yet.
+The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.
 
