@@ -1,6 +1,6 @@
-[Five-Minute Comics: Part 1](https://xkcd.com/819)
+[Moving Boxes](https://xkcd.com/1762)
 
-![Five-Minute Comics: Part 1](./random_comic.png)
+![Moving Boxes](./random_comic.png)
 
-The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.
+Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.
 
