@@ -1,6 +1,6 @@
-[Captain Picard Tea Order](https://xkcd.com/2570)
+[Is it Christmas?](https://xkcd.com/2236)
 
-![Captain Picard Tea Order](./random_comic.png)
+![Is it Christmas?](./random_comic.png)
 
-We can ask the Earl for his order once he's fully extruded from the dispenser.
+We've tested it on 30 different days and it hasn't gotten one wrong yet.
 
