@@ -1,6 +1,6 @@
-[America Songs](https://xkcd.com/2665)
+[Captain Picard Tea Order](https://xkcd.com/2570)
 
-![America Songs](./random_comic.png)
+![Captain Picard Tea Order](./random_comic.png)
 
-Juraaaassic Park, Juraaaassic Park, God shed his grace on theeeee
+We can ask the Earl for his order once he's fully extruded from the dispenser.
 
