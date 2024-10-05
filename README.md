@@ -1,6 +1,6 @@
-[Moving Boxes](https://xkcd.com/1762)
+[Large Number Formats](https://xkcd.com/2319)
 
-![Moving Boxes](./random_comic.png)
+![Large Number Formats](./random_comic.png)
 
-Later, when I remember that I'm calling movers, I frantically scribble over the labels and write 'NORMAL HOUSE STUFF' on all of them, which actually makes things worse.
+10^13.4024: A person who has come back to numbers after a journey deep into some random theoretical field
 
