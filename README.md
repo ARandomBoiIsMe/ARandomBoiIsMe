@@ -1,6 +1,6 @@
-[Cold Complaints](https://xkcd.com/2714)
+[Westley's a Dick](https://xkcd.com/549)
 
-![Cold Complaints](./random_comic.png)
+![Westley's a Dick](./random_comic.png)
 
-Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was 'too annoying.'
+Inigo/Buttercup 4eva <3
 
