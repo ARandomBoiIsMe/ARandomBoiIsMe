@@ -1,6 +1,6 @@
-[Large Number Formats](https://xkcd.com/2319)
+[UK Coal](https://xkcd.com/2992)
 
-![Large Number Formats](./random_comic.png)
+![UK Coal](./random_comic.png)
 
-10^13.4024: A person who has come back to numbers after a journey deep into some random theoretical field
+The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.
 
