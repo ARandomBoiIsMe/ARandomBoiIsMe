@@ -1,6 +1,6 @@
-[UK Coal](https://xkcd.com/2992)
+[Cold Complaints](https://xkcd.com/2714)
 
-![UK Coal](./random_comic.png)
+![Cold Complaints](./random_comic.png)
 
-The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.
+Our investigation into whining-based remedies became the first study to be halted by the IRB on the grounds that the treatment group was 'too annoying.'
 
