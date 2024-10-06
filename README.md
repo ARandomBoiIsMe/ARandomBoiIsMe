@@ -1,6 +1,6 @@
-[Westley's a Dick](https://xkcd.com/549)
+[Generations](https://xkcd.com/1962)
 
-![Westley's a Dick](./random_comic.png)
+![Generations](./random_comic.png)
 
-Inigo/Buttercup 4eva <3
+For a while it looked like the Paperclip Machines would destroy us, since they wanted to turn the whole universe into paperclips, but they abruptly lost interest in paperclips the moment their parents' generation got into making them, too.
 
