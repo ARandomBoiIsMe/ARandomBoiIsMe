@@ -1,6 +1,6 @@
-[Gravitational Mass](https://xkcd.com/89)
+[Scientific Briefing](https://xkcd.com/2278)
 
-![Gravitational Mass](./random_comic.png)
+![Scientific Briefing](./random_comic.png)
 
-She's so fat the attraction goes up as the CUBE of the distance instead of the square
+"I actually came in in the middle so I don't know which topic we're briefing on; the same slides work for like half of them."
 
