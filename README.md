@@ -1,6 +1,6 @@
-[Scientific Briefing](https://xkcd.com/2278)
+[Fastest-Growing](https://xkcd.com/1102)
 
-![Scientific Briefing](./random_comic.png)
+![Fastest-Growing](./random_comic.png)
 
-"I actually came in in the middle so I don't know which topic we're briefing on; the same slides work for like half of them."
+I lead a small but extraordinarily persuasive religion whose only members are door-to-door proselytizers from other faiths.
 
