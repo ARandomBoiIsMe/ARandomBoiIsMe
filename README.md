@@ -1,6 +1,6 @@
-[Fastest-Growing](https://xkcd.com/1102)
+[Cosmological Nostalgia Content](https://xkcd.com/2764)
 
-![Fastest-Growing](./random_comic.png)
+![Cosmological Nostalgia Content](./random_comic.png)
 
-I lead a small but extraordinarily persuasive religion whose only members are door-to-door proselytizers from other faiths.
+Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career.
 
