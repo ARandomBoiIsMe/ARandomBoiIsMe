@@ -1,6 +1,6 @@
-[Cosmological Nostalgia Content](https://xkcd.com/2764)
+[UFO Evidence](https://xkcd.com/2786)
 
-![Cosmological Nostalgia Content](./random_comic.png)
+![UFO Evidence](./random_comic.png)
 
-Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career.
+[Decades in the future] "Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019)."
 
