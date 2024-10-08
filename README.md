@@ -1,6 +1,6 @@
-[Comet Visitor](https://xkcd.com/2524)
+[1000 Times](https://xkcd.com/558)
 
-![Comet Visitor](./random_comic.png)
+![1000 Times](./random_comic.png)
 
-It's a myth that the Great Wall of China is the only human-made structure visible from space--there are LOTS of structures for us to feel self-conscious about!
+And 0.002 dollars will NEVER equal 0.002 cents.
 
