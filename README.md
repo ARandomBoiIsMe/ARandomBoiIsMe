@@ -1,6 +1,6 @@
-[December 25th Launch](https://xkcd.com/2559)
+[3D Printer](https://xkcd.com/924)
 
-![December 25th Launch](./random_comic.png)
+![3D Printer](./random_comic.png)
 
-Update: Santa has been destroyed by the range safety officer.
+I just can't wait for the Better Homes and Gardens list of helpful tips for household reuse of sixteen-inch acrylonitrile-butadiene-styrene phalluses.
 
