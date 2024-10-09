@@ -1,6 +1,6 @@
-[I'm a Car](https://xkcd.com/2064)
+[Walkthrough](https://xkcd.com/744)
 
-![I'm a Car](./random_comic.png)
+![Walkthrough](./random_comic.png)
 
-I'm the proud parent of an honor student, and the person driving me is proud, too!
+There's nothing hotter than porn dubbed over with a poorly-mic'd teenager's voice explaining each step in a droning monotone. 'okay, we're almost at the spawn point ... separate the labia, but watch out, there are more inside them ..."
 
