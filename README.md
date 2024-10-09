@@ -1,6 +1,6 @@
-[Piano](https://xkcd.com/532)
+[COVID Risk Chart](https://xkcd.com/2333)
 
-![Piano](./random_comic.png)
+![COVID Risk Chart](./random_comic.png)
 
-Good thing he didn't make it smaller, or it'd need someone three inches tall to play it.
+First prize is a free ticket to the kissing booth.
 
