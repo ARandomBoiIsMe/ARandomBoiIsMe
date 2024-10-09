@@ -1,6 +1,6 @@
-[Heat Pump](https://xkcd.com/2790)
+[I'm a Car](https://xkcd.com/2064)
 
-![Heat Pump](./random_comic.png)
+![I'm a Car](./random_comic.png)
 
-If I'm not going to upgrade to a powered one, I should at LEAST stop leaving the door open so often.
+I'm the proud parent of an honor student, and the person driving me is proud, too!
 
