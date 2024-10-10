@@ -1,6 +1,6 @@
-[COVID Risk Chart](https://xkcd.com/2333)
+[Definitely](https://xkcd.com/2871)
 
-![COVID Risk Chart](./random_comic.png)
+![Definitely](./random_comic.png)
 
-First prize is a free ticket to the kissing booth.
+A really mean prank you can play on someone who's picky about words is to add a 'definitely->definitively' autocorrect rule to their keyboard.
 
