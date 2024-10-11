@@ -1,6 +1,6 @@
-[Shake That](https://xkcd.com/1261)
+[Every Data Table](https://xkcd.com/2502)
 
-![Shake That](./random_comic.png)
+![Every Data Table](./random_comic.png)
 
-How do I work it? IT'S ALREADY WORKING!
+I'm hoping 2022 is relatively normal because I don't know what symbol comes after the asterisk and the dagger.
 
