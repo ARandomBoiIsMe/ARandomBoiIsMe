@@ -1,6 +1,6 @@
-[Venus](https://xkcd.com/1519)
+[Kerning](https://xkcd.com/1015)
 
-![Venus](./random_comic.png)
+![Kerning](./random_comic.png)
 
-The sudden introduction of Venusian flowers led to an explosive growth of unusual Earth pollinators, which became known as the "butterfly effect."
+I have never been as self-conscious about my handwriting as when I was inking in the caption for this comic.
 
