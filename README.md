@@ -1,6 +1,6 @@
-[Color Pattern](https://xkcd.com/1814)
+[Common Star Types](https://xkcd.com/2360)
 
-![Color Pattern](./random_comic.png)
+![Common Star Types](./random_comic.png)
 
-♫ When the spacing is tight / And the difference is slight / That's a moiré ♫
+This article is about Eta Carinae, a luminous blue hypergiant with anomalous Fe[ii] emission spectra. For the 1998 Brad Bird film, see The Iron Giant (film).
 
