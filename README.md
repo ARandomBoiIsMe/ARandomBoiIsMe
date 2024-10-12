@@ -1,6 +1,6 @@
-[Kerning](https://xkcd.com/1015)
+[Password Reuse](https://xkcd.com/792)
 
-![Kerning](./random_comic.png)
+![Password Reuse](./random_comic.png)
 
-I have never been as self-conscious about my handwriting as when I was inking in the caption for this comic.
+It'll be hilarious the first few times this happens.
 
