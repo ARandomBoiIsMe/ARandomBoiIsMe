@@ -1,6 +1,6 @@
-[Password Reuse](https://xkcd.com/792)
+[Color Pattern](https://xkcd.com/1814)
 
-![Password Reuse](./random_comic.png)
+![Color Pattern](./random_comic.png)
 
-It'll be hilarious the first few times this happens.
+♫ When the spacing is tight / And the difference is slight / That's a moiré ♫
 
