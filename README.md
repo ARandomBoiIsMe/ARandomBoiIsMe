@@ -1,6 +1,6 @@
-[Common Star Types](https://xkcd.com/2360)
+[Dehydration](https://xkcd.com/1708)
 
-![Common Star Types](./random_comic.png)
+![Dehydration](./random_comic.png)
 
-This article is about Eta Carinae, a luminous blue hypergiant with anomalous Fe[ii] emission spectra. For the 1998 Brad Bird film, see The Iron Giant (film).
+I don't care what the research says. Everybody knows you should drink 3,000 glasses of water a day and change your oil every 8 miles.
 
