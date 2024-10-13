@@ -1,6 +1,6 @@
-[Self-Description](https://xkcd.com/688)
+[Screenshot](https://xkcd.com/1373)
 
-![Self-Description](./random_comic.png)
+![Screenshot](./random_comic.png)
 
-The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.
+I'M PLUGGING IN MY PHONE BUT THE BATTERY ON THE SCREEN ISN'T CHARGING
 
