@@ -1,6 +1,6 @@
-[Still No Sleep](https://xkcd.com/776)
+[Self-Description](https://xkcd.com/688)
 
-![Still No Sleep](./random_comic.png)
+![Self-Description](./random_comic.png)
 
-I'm not listening to you.  I mean, what does a SQUIRREL know about mental health?
+The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.
 
