@@ -1,6 +1,6 @@
-[Screenshot](https://xkcd.com/1373)
+[Industry Nicknames](https://xkcd.com/2130)
 
-![Screenshot](./random_comic.png)
+![Industry Nicknames](./random_comic.png)
 
-I'M PLUGGING IN MY PHONE BUT THE BATTERY ON THE SCREEN ISN'T CHARGING
+As far as "being in the pocket of Big Egg" goes, I think the real threat is Chansey.
 
