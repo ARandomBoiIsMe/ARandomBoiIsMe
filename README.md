@@ -1,6 +1,6 @@
-[Dehydration](https://xkcd.com/1708)
+[Still No Sleep](https://xkcd.com/776)
 
-![Dehydration](./random_comic.png)
+![Still No Sleep](./random_comic.png)
 
-I don't care what the research says. Everybody knows you should drink 3,000 glasses of water a day and change your oil every 8 miles.
+I'm not listening to you.  I mean, what does a SQUIRREL know about mental health?
 
