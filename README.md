@@ -1,6 +1,6 @@
-[Phone Security](https://xkcd.com/1934)
+[Celestial Event](https://xkcd.com/2971)
 
-![Phone Security](./random_comic.png)
+![Celestial Event](./random_comic.png)
 
-...wait until they type in payment information, then use it to order yourself a replacement phone.
+If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.
 
