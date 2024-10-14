@@ -1,6 +1,6 @@
-[Industry Nicknames](https://xkcd.com/2130)
+[The True Name of the Bear](https://xkcd.com/2381)
 
-![Industry Nicknames](./random_comic.png)
+![The True Name of the Bear](./random_comic.png)
 
-As far as "being in the pocket of Big Egg" goes, I think the real threat is Chansey.
+Thank you to Gretchen McCulloch for fielding this question, and sorry that as a result the world's foremost internet linguist has been devoured by the brown one. She will be missed.
 
