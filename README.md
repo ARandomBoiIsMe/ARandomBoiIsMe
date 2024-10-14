@@ -1,6 +1,6 @@
-[The True Name of the Bear](https://xkcd.com/2381)
+[Phone Security](https://xkcd.com/1934)
 
-![The True Name of the Bear](./random_comic.png)
+![Phone Security](./random_comic.png)
 
-Thank you to Gretchen McCulloch for fielding this question, and sorry that as a result the world's foremost internet linguist has been devoured by the brown one. She will be missed.
+...wait until they type in payment information, then use it to order yourself a replacement phone.
 
