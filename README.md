@@ -1,6 +1,6 @@
-[Your Mom](https://xkcd.com/366)
+[Cold](https://xkcd.com/1321)
 
-![Your Mom](./random_comic.png)
+![Cold](./random_comic.png)
 
-'It's either 'your mom' jokes or me' 'Then I, like so many men before me, must reluctantly choose your mom.'
+'You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'
 
