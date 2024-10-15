@@ -1,6 +1,6 @@
-[Cold](https://xkcd.com/1321)
+[Fire Ants](https://xkcd.com/1610)
 
-![Cold](./random_comic.png)
+![Fire Ants](./random_comic.png)
 
-'You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'
+Here in the entomology department, we have a simple two-step formula for answering any question: (1) ants are cool, and (2) we forgot the question because we were thinking about ants.
 
