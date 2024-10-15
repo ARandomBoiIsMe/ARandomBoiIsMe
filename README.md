@@ -1,6 +1,6 @@
-[Fire Ants](https://xkcd.com/1610)
+[Pumpkin Carving](https://xkcd.com/804)
 
-![Fire Ants](./random_comic.png)
+![Pumpkin Carving](./random_comic.png)
 
-Here in the entomology department, we have a simple two-step formula for answering any question: (1) ants are cool, and (2) we forgot the question because we were thinking about ants.
+The Banach-Tarski theorem was actually first developed by King Solomon, but his gruesome attempts to apply it set back set theory for centuries.
 
