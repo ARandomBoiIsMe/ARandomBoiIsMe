@@ -1,6 +1,6 @@
-[Pumpkin Carving](https://xkcd.com/804)
+[Snow](https://xkcd.com/2866)
 
-![Pumpkin Carving](./random_comic.png)
+![Snow](./random_comic.png)
 
-The Banach-Tarski theorem was actually first developed by King Solomon, but his gruesome attempts to apply it set back set theory for centuries.
+For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.
 
