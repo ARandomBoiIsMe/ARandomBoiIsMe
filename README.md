@@ -1,6 +1,6 @@
-[Cells](https://xkcd.com/1217)
+[Accident](https://xkcd.com/161)
 
-![Cells](./random_comic.png)
+![Accident](./random_comic.png)
 
-Now, if it selectively kills cancer cells in a petri dish, you can be sure it's at least a great breakthrough for everyone suffering from petri dish cancer.
+As far as treachery-as-driving-music goes, Katamari music is matched only by Guitar Hero music.
 
