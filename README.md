@@ -1,6 +1,6 @@
-[Snow](https://xkcd.com/2866)
+[Cells](https://xkcd.com/1217)
 
-![Snow](./random_comic.png)
+![Cells](./random_comic.png)
 
-For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.
+Now, if it selectively kills cancer cells in a petri dish, you can be sure it's at least a great breakthrough for everyone suffering from petri dish cancer.
 
