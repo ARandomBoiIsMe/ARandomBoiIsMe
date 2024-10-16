@@ -1,6 +1,6 @@
-[Accident](https://xkcd.com/161)
+[Iceland](https://xkcd.com/2874)
 
-![Accident](./random_comic.png)
+![Iceland](./random_comic.png)
 
-As far as treachery-as-driving-music goes, Katamari music is matched only by Guitar Hero music.
+The HVAC bill for installing the Gulf Stream was enormous.
 
