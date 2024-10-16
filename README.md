@@ -1,6 +1,6 @@
-[Iceland](https://xkcd.com/2874)
+[The Ring](https://xkcd.com/396)
 
-![Iceland](./random_comic.png)
+![The Ring](./random_comic.png)
 
-The HVAC bill for installing the Gulf Stream was enormous.
+On the other hand, poor Samara -- transcoded to FLV.  No one deserves that.
 
