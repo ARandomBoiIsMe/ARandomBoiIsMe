@@ -1,6 +1,6 @@
-[Analogies](https://xkcd.com/762)
+[Data Error](https://xkcd.com/2239)
 
-![Analogies](./random_comic.png)
+![Data Error](./random_comic.png)
 
-I just call all of them 'synecdoche'.
+Cyanobacteria wiped out nearly all life on Earth once before, and they can do it again!
 
