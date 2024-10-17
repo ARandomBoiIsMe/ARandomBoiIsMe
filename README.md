@@ -1,6 +1,6 @@
-[The Ring](https://xkcd.com/396)
+[Plutonium](https://xkcd.com/2115)
 
-![The Ring](./random_comic.png)
+![Plutonium](./random_comic.png)
 
-On the other hand, poor Samara -- transcoded to FLV.  No one deserves that.
+It's like someone briefly joined the team running the universe, introduced their idea for a cool mechanic, then left, and now everyone is stuck pretending that this wildly unbalanced dynamic makes sense.
 
