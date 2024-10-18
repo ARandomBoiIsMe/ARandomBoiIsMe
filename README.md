@@ -1,6 +1,6 @@
-[Trapped](https://xkcd.com/876)
+[Finish Line](https://xkcd.com/423)
 
-![Trapped](./random_comic.png)
+![Finish Line](./random_comic.png)
 
-Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.
+The question with Lucy and the football was always whether, on some level, she believed the things she said.
 
