@@ -1,6 +1,6 @@
-[Finish Line](https://xkcd.com/423)
+[Earth Formation Site](https://xkcd.com/2925)
 
-![Finish Line](./random_comic.png)
+![Earth Formation Site](./random_comic.png)
 
-The question with Lucy and the football was always whether, on some level, she believed the things she said.
+It's not far from the sign marking the exact latitude and longitude of the Earth's core.
 
