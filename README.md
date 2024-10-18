@@ -1,6 +1,6 @@
-[USV-C](https://xkcd.com/2507)
+[Listen to Yourself](https://xkcd.com/481)
 
-![USV-C](./random_comic.png)
+![Listen to Yourself](./random_comic.png)
 
-Ultra-Serial Violet C light is unpolarized, so you don't have to flip the polarizing filter over when you get the orientation wrong the first time.
+Man, I just wanted to know how babby was formed.
 
