@@ -1,6 +1,6 @@
-[Listen to Yourself](https://xkcd.com/481)
+[Trapped](https://xkcd.com/876)
 
-![Listen to Yourself](./random_comic.png)
+![Trapped](./random_comic.png)
 
-Man, I just wanted to know how babby was formed.
+Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.
 
