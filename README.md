@@ -1,6 +1,6 @@
-[Tattoo Ideas](https://xkcd.com/2255)
+[Meta Collecting](https://xkcd.com/2123)
 
-![Tattoo Ideas](./random_comic.png)
+![Meta Collecting](./random_comic.png)
 
-The text ALL YOUR BASE ARE BELONG TO US with a lengthy footnote explaining that I got this tattoo in 2020 and not, as you may assume, 2001, but offering no further clarification.
+I'm trying to get the page locked because some jerk keeps adding "Yachts".
 
