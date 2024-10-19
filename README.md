@@ -1,6 +1,6 @@
-[Meta Collecting](https://xkcd.com/2123)
+[Qualifications](https://xkcd.com/2756)
 
-![Meta Collecting](./random_comic.png)
+![Qualifications](./random_comic.png)
 
-I'm trying to get the page locked because some jerk keeps adding "Yachts".
+'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'
 
