@@ -1,6 +1,6 @@
-[Earth Formation Site](https://xkcd.com/2925)
+[Tattoo Ideas](https://xkcd.com/2255)
 
-![Earth Formation Site](./random_comic.png)
+![Tattoo Ideas](./random_comic.png)
 
-It's not far from the sign marking the exact latitude and longitude of the Earth's core.
+The text ALL YOUR BASE ARE BELONG TO US with a lengthy footnote explaining that I got this tattoo in 2020 and not, as you may assume, 2001, but offering no further clarification.
 
