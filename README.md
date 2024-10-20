@@ -1,6 +1,6 @@
-[Effects of High Altitude](https://xkcd.com/2153)
+[Phone Alarm](https://xkcd.com/1359)
 
-![Effects of High Altitude](./random_comic.png)
+![Phone Alarm](./random_comic.png)
 
-If she'd lived in Flagstaff (elevation 6,903 feet), Cruella de Vil would only have needed 89 dalmatians for her coat.
+Who's calling me?? WHY IS THE WORST PERSON IN THE WORLD CALLING ME!?
 
