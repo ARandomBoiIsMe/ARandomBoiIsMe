@@ -1,6 +1,6 @@
-[Meteorite Identification](https://xkcd.com/1723)
+[Effects of High Altitude](https://xkcd.com/2153)
 
-![Meteorite Identification](./random_comic.png)
+![Effects of High Altitude](./random_comic.png)
 
-Click for an actual flowchart for identifying a meteorite. My favorite part is how 'Did someone see it fall? -> Yes' points to 'NOT A METEORITE.' This is not a mistake.
+If she'd lived in Flagstaff (elevation 6,903 feet), Cruella de Vil would only have needed 89 dalmatians for her coat.
 
