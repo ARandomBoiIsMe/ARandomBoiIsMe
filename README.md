@@ -1,6 +1,6 @@
-[Find You](https://xkcd.com/104)
+[Meteorite Identification](https://xkcd.com/1723)
 
-![Find You](./random_comic.png)
+![Meteorite Identification](./random_comic.png)
 
-I'm like the Terminator, except with love!
+Click for an actual flowchart for identifying a meteorite. My favorite part is how 'Did someone see it fall? -> Yes' points to 'NOT A METEORITE.' This is not a mistake.
 
