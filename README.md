@@ -1,6 +1,6 @@
-[Encoding](https://xkcd.com/1209)
+[Find You](https://xkcd.com/104)
 
-![Encoding](./random_comic.png)
+![Find You](./random_comic.png)
 
-I don't see how; the C0 block is right there at the beginning.
+I'm like the Terminator, except with love!
 
