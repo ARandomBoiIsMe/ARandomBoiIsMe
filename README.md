@@ -1,6 +1,6 @@
-[Parameterball](https://xkcd.com/2852)
+[Evidence of Alien Life](https://xkcd.com/2359)
 
-![Parameterball](./random_comic.png)
+![Evidence of Alien Life](./random_comic.png)
 
-The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.
+Both too cautious AND not cautious enough: "I'm skeptical that those are aliens, so I'm going to try pulling off their masks."
 
