@@ -1,6 +1,6 @@
-[Mispronunciation](https://xkcd.com/1816)
+[Homeownership](https://xkcd.com/905)
 
-![Mispronunciation](./random_comic.png)
+![Homeownership](./random_comic.png)
 
-I pronounce epitome "EPPY-tome", but EpiPen "uh-PIE-pen".
+New research shows over 60% of the financial collapse's toxic assets were created by power drills.
 
