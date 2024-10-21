@@ -1,6 +1,6 @@
-[Phone Alarm](https://xkcd.com/1359)
+[Parameterball](https://xkcd.com/2852)
 
-![Phone Alarm](./random_comic.png)
+![Parameterball](./random_comic.png)
 
-Who's calling me?? WHY IS THE WORST PERSON IN THE WORLD CALLING ME!?
+The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.
 
