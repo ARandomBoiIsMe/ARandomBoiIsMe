@@ -1,6 +1,6 @@
-[Powers of One](https://xkcd.com/271)
+[Thumbtacks And String](https://xkcd.com/2244)
 
-![Powers of One](./random_comic.png)
+![Thumbtacks And String](./random_comic.png)
 
-It's kinda Zen when you think about it, if you don't think too hard.
+A tattoo of a tattoo parlor receipt
 
