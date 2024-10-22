@@ -1,6 +1,6 @@
-[Homeownership](https://xkcd.com/905)
+[Powers of One](https://xkcd.com/271)
 
-![Homeownership](./random_comic.png)
+![Powers of One](./random_comic.png)
 
-New research shows over 60% of the financial collapse's toxic assets were created by power drills.
+It's kinda Zen when you think about it, if you don't think too hard.
 
