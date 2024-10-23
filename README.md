@@ -1,6 +1,6 @@
-[Privacy](https://xkcd.com/983)
+[Seashell](https://xkcd.com/1236)
 
-![Privacy](./random_comic.png)
+![Seashell](./random_comic.png)
 
-Eventual headline: 'University Researchers Create Life in Lab! Darkness, Faulty Condoms Blamed.'
+This is roughly equivalent to 'number of times I've picked up a seashell at the ocean' / 'number of times I've picked up a seashell', which in my case is pretty close to 1, and gets much closer if we're considering only times I didn't put it to my ear.
 
