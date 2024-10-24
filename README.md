@@ -1,6 +1,6 @@
-[Warning](https://xkcd.com/1075)
+[Rule 34](https://xkcd.com/305)
 
-![Warning](./random_comic.png)
+![Rule 34](./random_comic.png)
 
-Also possibly several miles beyond that.
+Okay, Lance.  For entry into the college bowl, spell 'Throbbing'
 
