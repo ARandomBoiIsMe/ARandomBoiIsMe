@@ -1,6 +1,6 @@
-[Settled](https://xkcd.com/1235)
+[Code Golf](https://xkcd.com/1960)
 
-![Settled](./random_comic.png)
+![Code Golf](./random_comic.png)
 
-Well, we've really only settled the question of ghosts that emit or reflect visible light. Or move objects around. Or make any kind of sound. But that covers all the ones that appear in Ghostbusters, so I think we're good.
+I also enjoy Reverse Regular Golf. I've been playing for years all across the country and I'm still on the first hole.
 
