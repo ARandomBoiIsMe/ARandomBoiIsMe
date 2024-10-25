@@ -1,6 +1,6 @@
-[Surface Area](https://xkcd.com/1389)
+[Exoplanet Names](https://xkcd.com/1253)
 
-![Surface Area](./random_comic.png)
+![Exoplanet Names](./random_comic.png)
 
-This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle.
+If you have any ideas, I hear you can send them to iaupublic@iap.fr.
 
