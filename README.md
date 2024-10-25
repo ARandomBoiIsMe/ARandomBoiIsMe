@@ -1,6 +1,6 @@
-[Cubesat Launch](https://xkcd.com/2148)
+[Air Gap](https://xkcd.com/2651)
 
-![Cubesat Launch](./random_comic.png)
+![Air Gap](./random_comic.png)
 
-Luckily, the damages were partly offset by the prize money we got from accidentally winning the nearby water skiing championship tournament.
+You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay.
 
