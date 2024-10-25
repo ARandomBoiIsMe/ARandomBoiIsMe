@@ -1,6 +1,6 @@
-[Code Golf](https://xkcd.com/1960)
+[Surface Area](https://xkcd.com/1389)
 
-![Code Golf](./random_comic.png)
+![Surface Area](./random_comic.png)
 
-I also enjoy Reverse Regular Golf. I've been playing for years all across the country and I'm still on the first hole.
+This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle.
 
