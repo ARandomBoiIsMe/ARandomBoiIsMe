@@ -1,6 +1,6 @@
-[Exoplanet Names](https://xkcd.com/1253)
+[Cubesat Launch](https://xkcd.com/2148)
 
-![Exoplanet Names](./random_comic.png)
+![Cubesat Launch](./random_comic.png)
 
-If you have any ideas, I hear you can send them to iaupublic@iap.fr.
+Luckily, the damages were partly offset by the prize money we got from accidentally winning the nearby water skiing championship tournament.
 
