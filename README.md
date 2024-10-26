@@ -1,6 +1,6 @@
-[Air Gap](https://xkcd.com/2651)
+[Westerns](https://xkcd.com/2152)
 
-![Air Gap](./random_comic.png)
+![Westerns](./random_comic.png)
 
-You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay.
+Sitting here idly trying to figure out how the population of the Old West in the late 1800s compares to the number of Red Dead Redemption 2 players.
 
