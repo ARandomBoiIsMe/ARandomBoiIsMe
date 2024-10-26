@@ -1,6 +1,6 @@
-[Statistics](https://xkcd.com/2400)
+[Presents for Biologists](https://xkcd.com/2747)
 
-![Statistics](./random_comic.png)
+![Presents for Biologists](./random_comic.png)
 
-We reject the null hypothesis based on the 'hot damn, check out this chart' test.
+A lot of these are actually non-venomous, but I can see which species you mistook them for. If you pause the crane for a sec I can give you some ID pointers for next time!
 
