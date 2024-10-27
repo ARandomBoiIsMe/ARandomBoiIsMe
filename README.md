@@ -1,6 +1,6 @@
-[Gravitational Waves](https://xkcd.com/1642)
+[Square Packing](https://xkcd.com/2740)
 
-![Gravitational Waves](./random_comic.png)
+![Square Packing](./random_comic.png)
 
-"That last LinkedIn request set a new record for the most energetic physical event ever observed. Maybe we should respond." "Nah."
+I also managed to improve the solution for n=1 to s<0.97, and with some upgrades I think I can hit 0.96.
 
