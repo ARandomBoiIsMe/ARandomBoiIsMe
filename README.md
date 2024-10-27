@@ -1,6 +1,6 @@
-[Getting Out of Hand](https://xkcd.com/333)
+[Batman](https://xkcd.com/1004)
 
-![Getting Out of Hand](./random_comic.png)
+![Batman](./random_comic.png)
 
-Wikipedia's role as brain-extension, while a little troubling, is also really cool.
+I'm really worried Christopher Nolan will kill a man dressed like a bat in his next movie. (The man will be dressed like a bat, I mean. Christopher Nolan won't be, probably.)
 
