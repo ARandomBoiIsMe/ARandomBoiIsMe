@@ -1,6 +1,6 @@
-[Square Packing](https://xkcd.com/2740)
+[Getting Out of Hand](https://xkcd.com/333)
 
-![Square Packing](./random_comic.png)
+![Getting Out of Hand](./random_comic.png)
 
-I also managed to improve the solution for n=1 to s<0.97, and with some upgrades I think I can hit 0.96.
+Wikipedia's role as brain-extension, while a little troubling, is also really cool.
 
