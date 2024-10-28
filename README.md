@@ -1,6 +1,6 @@
-[Found](https://xkcd.com/48)
+[Supervillain Plan](https://xkcd.com/1883)
 
-![Found](./random_comic.png)
+![Supervillain Plan](./random_comic.png)
 
-No more, no less
+Someday, some big historical event will happen during the DST changeover, and all the tick-tock articles chronicling how it unfolded will have to include a really annoying explanation next to their timelines.
 
