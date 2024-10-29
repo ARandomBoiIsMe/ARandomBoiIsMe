@@ -1,6 +1,6 @@
-[Time-Tracking Software](https://xkcd.com/1690)
+[Tectonics Game](https://xkcd.com/2061)
 
-![Time-Tracking Software](./random_comic.png)
+![Tectonics Game](./random_comic.png)
 
-'List of helicopter prison escapes' and 'List of sexually active popes' are both entertainingly long, but sadly there's no 'List of helicopter prison escapes involving sexually active popes.'
+They're limiting the playtesters to type A3 V stars, so the games will all end before the Sun consumes the Earth.
 
