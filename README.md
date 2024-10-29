@@ -1,6 +1,6 @@
-[Overstimulated](https://xkcd.com/602)
+[Migrating Geese](https://xkcd.com/1729)
 
-![Overstimulated](./random_comic.png)
+![Migrating Geese](./random_comic.png)
 
-My favorite thing to do at parties is to talk judgmentally about people who aren't there.
+"Hey guys! I have a great idea for a migration!" "Dammit, Kevin."
 
