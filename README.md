@@ -1,6 +1,6 @@
-[Supervillain Plan](https://xkcd.com/1883)
+[Overstimulated](https://xkcd.com/602)
 
-![Supervillain Plan](./random_comic.png)
+![Overstimulated](./random_comic.png)
 
-Someday, some big historical event will happen during the DST changeover, and all the tick-tock articles chronicling how it unfolded will have to include a really annoying explanation next to their timelines.
+My favorite thing to do at parties is to talk judgmentally about people who aren't there.
 
