@@ -1,6 +1,6 @@
-[Migrating Geese](https://xkcd.com/1729)
+[Time-Tracking Software](https://xkcd.com/1690)
 
-![Migrating Geese](./random_comic.png)
+![Time-Tracking Software](./random_comic.png)
 
-"Hey guys! I have a great idea for a migration!" "Dammit, Kevin."
+'List of helicopter prison escapes' and 'List of sexually active popes' are both entertainingly long, but sadly there's no 'List of helicopter prison escapes involving sexually active popes.'
 
