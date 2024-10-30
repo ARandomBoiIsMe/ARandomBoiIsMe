@@ -1,6 +1,6 @@
-[Time](https://xkcd.com/1190)
+[Balloon Internet](https://xkcd.com/1226)
 
-![Time](./random_comic.png)
+![Balloon Internet](./random_comic.png)
 
-The end.
+I run a business selling rural internet access. My infrastructure consists of a bunch of Verizon wifi hotspots that I sign up for and then cancel at the end of the 14-day return period.
 
