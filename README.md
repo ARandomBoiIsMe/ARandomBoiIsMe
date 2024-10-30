@@ -1,6 +1,6 @@
-[The Wreck of the Edmund Fitzgerald](https://xkcd.com/2910)
+[Oversight](https://xkcd.com/940)
 
-![The Wreck of the Edmund Fitzgerald](./random_comic.png)
+![Oversight](./random_comic.png)
 
-You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!
+I felt so clever when I found a way to game the Fitocracy system by incorporating a set of easy but high-scoring activities into my regular schedule. Took me a bit to realize I'd been tricked into setting up a daily exercise routine.
 
