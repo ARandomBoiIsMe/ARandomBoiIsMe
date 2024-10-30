@@ -1,6 +1,6 @@
-[Balloon Internet](https://xkcd.com/1226)
+[The Wreck of the Edmund Fitzgerald](https://xkcd.com/2910)
 
-![Balloon Internet](./random_comic.png)
+![The Wreck of the Edmund Fitzgerald](./random_comic.png)
 
-I run a business selling rural internet access. My infrastructure consists of a bunch of Verizon wifi hotspots that I sign up for and then cancel at the end of the 14-day return period.
+You know that asteroid that almost destroyed Earth in the 90s? Turns out the whole thing was secretly created by Michael Bay, who then PAID Bruce Willis and Ben Affleck to look heroic while blowing it up!
 
