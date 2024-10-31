@@ -1,6 +1,6 @@
-[Oversight](https://xkcd.com/940)
+[Sunrise](https://xkcd.com/92)
 
-![Oversight](./random_comic.png)
+![Sunrise](./random_comic.png)
 
-I felt so clever when I found a way to game the Fitocracy system by incorporating a set of easy but high-scoring activities into my regular schedule. Took me a bit to realize I'd been tricked into setting up a daily exercise routine.
+Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.
 
