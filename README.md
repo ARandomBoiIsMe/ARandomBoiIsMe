@@ -1,6 +1,6 @@
-[Epsilon and Zeta](https://xkcd.com/1126)
+[Mattresses](https://xkcd.com/2096)
 
-![Epsilon and Zeta](./random_comic.png)
+![Mattresses](./random_comic.png)
 
-The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.
+After reading that "The War To Sell You A Mattress Is An Internet Nightmare" article, I've decided it's safer and less complicated to just sleep on the floor. DISCLOSURE: THE AUTHOR OF THIS MOUSEOVER TEXT RECEIVED FINANCIAL COMPENSATION FROM THE FLOOR INDUSTRY FOR THIS MESSAGE.
 
