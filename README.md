@@ -1,6 +1,6 @@
-[Sunrise](https://xkcd.com/92)
+[Epsilon and Zeta](https://xkcd.com/1126)
 
-![Sunrise](./random_comic.png)
+![Epsilon and Zeta](./random_comic.png)
 
-Sometimes, I sit on top of parking decks and watch the sun rise.  I feel like I should have a guitar or something.
+The average error in the NHC forecasted position of a hurricane three days in the future has shrunk to a third of what it was in 1990--a staggering accomplishment. However, as you may have gathered, forecasts of future storm *strength* have proved more difficult to improve.
 
