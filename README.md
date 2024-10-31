@@ -1,6 +1,6 @@
-[Mattresses](https://xkcd.com/2096)
+[Walking Into Things](https://xkcd.com/1710)
 
-![Mattresses](./random_comic.png)
+![Walking Into Things](./random_comic.png)
 
-After reading that "The War To Sell You A Mattress Is An Internet Nightmare" article, I've decided it's safer and less complicated to just sleep on the floor. DISCLOSURE: THE AUTHOR OF THIS MOUSEOVER TEXT RECEIVED FINANCIAL COMPENSATION FROM THE FLOOR INDUSTRY FOR THIS MESSAGE.
+A childhood spent walking while reading books has prepared me unexpectedly well for today's world.
 
