@@ -1,6 +1,6 @@
-[Maps](https://xkcd.com/2617)
+[I'm An Idiot](https://xkcd.com/530)
 
-![Maps](./random_comic.png)
+![I'm An Idiot](./random_comic.png)
 
-OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!
+Sadly, this is a true story.  At least I learned about the OS X 'say' command.
 
