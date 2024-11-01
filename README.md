@@ -1,6 +1,6 @@
-[I'm An Idiot](https://xkcd.com/530)
+[Rental Car](https://xkcd.com/1837)
 
-![I'm An Idiot](./random_comic.png)
+![Rental Car](./random_comic.png)
 
-Sadly, this is a true story.  At least I learned about the OS X 'say' command.
+Technically, both cars are haunted, but the murder ghosts can't stand listening to the broken GPS for more than a few minutes.
 
