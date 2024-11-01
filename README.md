@@ -1,6 +1,6 @@
-[Walking Into Things](https://xkcd.com/1710)
+[Maps](https://xkcd.com/2617)
 
-![Walking Into Things](./random_comic.png)
+![Maps](./random_comic.png)
 
-A childhood spent walking while reading books has prepared me unexpectedly well for today's world.
+OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!
 
