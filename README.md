@@ -1,6 +1,6 @@
-[Rental Car](https://xkcd.com/1837)
+[Outdated Periodic Table](https://xkcd.com/2723)
 
-![Rental Car](./random_comic.png)
+![Outdated Periodic Table](./random_comic.png)
 
-Technically, both cars are haunted, but the murder ghosts can't stand listening to the broken GPS for more than a few minutes.
+Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.
 
