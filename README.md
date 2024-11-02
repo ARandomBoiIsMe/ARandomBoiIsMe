@@ -1,6 +1,6 @@
-[Cryogenics](https://xkcd.com/989)
+[Arcane Bullshit](https://xkcd.com/1671)
 
-![Cryogenics](./random_comic.png)
+![Arcane Bullshit](./random_comic.png)
 
-'Welcome to the future! Nothing's changed.' was the slogan of my astonishingly short-lived tech startup.
+Learning arcane bullshit from the 80s can break your computer, but if you're willing to wade through arcane bullshit from programmers in the 90s and 2000s, you can break everyone else's computers, too.
 
