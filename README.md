@@ -1,6 +1,6 @@
-[Arcane Bullshit](https://xkcd.com/1671)
+[Fanservice](https://xkcd.com/2744)
 
-![Arcane Bullshit](./random_comic.png)
+![Fanservice](./random_comic.png)
 
-Learning arcane bullshit from the 80s can break your computer, but if you're willing to wade through arcane bullshit from programmers in the 90s and 2000s, you can break everyone else's computers, too.
+I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as "the fandom."
 
