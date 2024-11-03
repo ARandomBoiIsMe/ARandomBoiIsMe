@@ -1,6 +1,6 @@
-[Typical Morning Routine](https://xkcd.com/1518)
+[President Venn Diagram](https://xkcd.com/2962)
 
-![Typical Morning Routine](./random_comic.png)
+![President Venn Diagram](./random_comic.png)
 
-Hang on, I've heard this problem. We need to pour water into the duct until the phone floats up and ... wait, phones sink in water. Mercury. We need a vat of mercury to pour down the vent. That will definitely make this situation better and not worse.
+Hard to imagine political rhetoric more microtargeted at me than 'I love Venn diagrams. I really do, I love Venn diagrams. It's just something about those three circles.'
 
