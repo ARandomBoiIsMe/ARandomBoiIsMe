@@ -1,6 +1,6 @@
-[Fanservice](https://xkcd.com/2744)
+[Physics Lab Thermostat](https://xkcd.com/2989)
 
-![Fanservice](./random_comic.png)
+![Physics Lab Thermostat](./random_comic.png)
 
-I was eventually kicked out of my architectural engineering program because I wouldn't stop referring to HVAC as "the fandom."
+Hopefully the HVAC people set it to only affect the AIR in the room.
 
