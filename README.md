@@ -1,6 +1,6 @@
-[Brontosaurus](https://xkcd.com/636)
+[Drama](https://xkcd.com/592)
 
-![Brontosaurus](./random_comic.png)
+![Drama](./random_comic.png)
 
-Well, sex is like a velociraptor: despite your movie-fueled lifelong neurotic obsession, unlikely to be found in your house.
+This happens in geek circles every so often. The 'Hey, this is just a system I can figure out easily!' is also a problem among engineers first diving into the stock market.
 
