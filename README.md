@@ -1,6 +1,6 @@
-[Drama](https://xkcd.com/592)
+[Wake Up Sheeple](https://xkcd.com/1013)
 
-![Drama](./random_comic.png)
+![Wake Up Sheeple](./random_comic.png)
 
-This happens in geek circles every so often. The 'Hey, this is just a system I can figure out easily!' is also a problem among engineers first diving into the stock market.
+You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.
 
