@@ -1,6 +1,6 @@
-[President Venn Diagram](https://xkcd.com/2962)
+[Rolle's Theorem](https://xkcd.com/2042)
 
-![President Venn Diagram](./random_comic.png)
+![Rolle's Theorem](./random_comic.png)
 
-Hard to imagine political rhetoric more microtargeted at me than 'I love Venn diagrams. I really do, I love Venn diagrams. It's just something about those three circles.'
+I mean, if it's that easy to get a theorem named for you ... "a straight line that passes through the center of a coplanar circle always divides the circle into two equal halves." Can I have that one? Wait, can I auction off the naming rights? It can be the Red Bull Theorem or the Quicken Loans Theorem, depending who wants it more.
 
