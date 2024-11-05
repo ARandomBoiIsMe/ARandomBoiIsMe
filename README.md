@@ -1,6 +1,6 @@
-[Train](https://xkcd.com/1366)
+[Bad Date](https://xkcd.com/2698)
 
-![Train](./random_comic.png)
+![Bad Date](./random_comic.png)
 
-Trains rotate the Earth around various axes while elevators shift its position in space.
+"Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with."
 
