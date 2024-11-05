@@ -1,6 +1,6 @@
-[Wake Up Sheeple](https://xkcd.com/1013)
+[Tetherball Configurations](https://xkcd.com/2663)
 
-![Wake Up Sheeple](./random_comic.png)
+![Tetherball Configurations](./random_comic.png)
 
-You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.
+Ground-pole-ball-pole can be fun if you shake the first pole to get the second one whipping around dangerously, but the ball at the joint gets torn apart pretty fast.
 
