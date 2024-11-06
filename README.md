@@ -1,6 +1,6 @@
-[Synonym Date](https://xkcd.com/2352)
+[America Songs](https://xkcd.com/2665)
 
-![Synonym Date](./random_comic.png)
+![America Songs](./random_comic.png)
 
-We need some grub to munch--I'll go slouch over to the kitchen.
+Juraaaassic Park, Juraaaassic Park, God shed his grace on theeeee
 
