@@ -1,6 +1,6 @@
-[America Songs](https://xkcd.com/2665)
+[Lane Change Highway](https://xkcd.com/2728)
 
-![America Songs](./random_comic.png)
+![Lane Change Highway](./random_comic.png)
 
-Juraaaassic Park, Juraaaassic Park, God shed his grace on theeeee
+I just think lane markers should follow the local magnetic declination.
 
