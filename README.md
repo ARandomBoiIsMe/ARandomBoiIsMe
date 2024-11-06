@@ -1,6 +1,6 @@
-[Bad Date](https://xkcd.com/2698)
+[Dendrochronology](https://xkcd.com/2847)
 
-![Bad Date](./random_comic.png)
+![Dendrochronology](./random_comic.png)
 
-"Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with."
+These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree.
 
