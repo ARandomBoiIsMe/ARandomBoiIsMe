@@ -1,6 +1,6 @@
-[Dendrochronology](https://xkcd.com/2847)
+[Synonym Date](https://xkcd.com/2352)
 
-![Dendrochronology](./random_comic.png)
+![Synonym Date](./random_comic.png)
 
-These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree.
+We need some grub to munch--I'll go slouch over to the kitchen.
 
