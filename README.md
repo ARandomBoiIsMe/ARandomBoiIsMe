@@ -1,6 +1,6 @@
-[Lane Change Highway](https://xkcd.com/2728)
+[Team Chat](https://xkcd.com/1782)
 
-![Lane Change Highway](./random_comic.png)
+![Team Chat](./random_comic.png)
 
-I just think lane markers should follow the local magnetic declination.
+2078: He announces that he's finally making the jump from screen+irssi to tmux+weechat.
 
