@@ -1,6 +1,6 @@
-[Team Chat](https://xkcd.com/1782)
+[Drone Problems](https://xkcd.com/1846)
 
-![Team Chat](./random_comic.png)
+![Drone Problems](./random_comic.png)
 
-2078: He announces that he's finally making the jump from screen+irssi to tmux+weechat.
+On the other hand, as far as they know, my system is working perfectly.
 
