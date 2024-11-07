@@ -1,6 +1,6 @@
-[Habitable Zone](https://xkcd.com/1231)
+[Complexion](https://xkcd.com/700)
 
-![Habitable Zone](./random_comic.png)
+![Complexion](./random_comic.png)
 
-They have a telescope pointed RIGHT AT US!
+Why do all my attempts at science end with me being punched by Batman?  (P.S. benzoyl peroxide soap works great.)
 
