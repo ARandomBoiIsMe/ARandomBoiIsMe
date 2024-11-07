@@ -1,6 +1,6 @@
-[Drone Problems](https://xkcd.com/1846)
+[Habitable Zone](https://xkcd.com/1231)
 
-![Drone Problems](./random_comic.png)
+![Habitable Zone](./random_comic.png)
 
-On the other hand, as far as they know, my system is working perfectly.
+They have a telescope pointed RIGHT AT US!
 
