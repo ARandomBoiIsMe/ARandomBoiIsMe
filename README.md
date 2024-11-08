@@ -1,6 +1,6 @@
-[Super Bowl](https://xkcd.com/60)
+[goto](https://xkcd.com/292)
 
-![Super Bowl](./random_comic.png)
+![goto](./random_comic.png)
 
-The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose.  The 'watch it for the ads' addition was a master stroke.
+Neal Stephenson thinks it's cute to name his labels 'dengo'
 
