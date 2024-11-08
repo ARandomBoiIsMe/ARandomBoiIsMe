@@ -1,6 +1,6 @@
-[Complexion](https://xkcd.com/700)
+[Super Bowl](https://xkcd.com/60)
 
-![Complexion](./random_comic.png)
+![Super Bowl](./random_comic.png)
 
-Why do all my attempts at science end with me being punched by Batman?  (P.S. benzoyl peroxide soap works great.)
+The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose.  The 'watch it for the ads' addition was a master stroke.
 
