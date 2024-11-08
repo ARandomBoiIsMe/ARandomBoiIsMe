@@ -1,6 +1,6 @@
-[December 25th](https://xkcd.com/680)
+[Music DRM](https://xkcd.com/546)
 
-![December 25th](./random_comic.png)
+![Music DRM](./random_comic.png)
 
-If you're turning 27 and were born in the Northeast, maybe you were conceived in the April blizzard of 1982. Imagine: snowed in, candles, massage oil, your mom sporting nothing but her early 80's haircut and a smile ... aren't you glad you read the title-text?
+Just yesterday I bought my first non-DRM'd songs (The Last Vegas, in keeping with my 'I only listen to things from Guitar Hero' theme).
 
