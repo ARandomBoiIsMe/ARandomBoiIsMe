@@ -1,6 +1,6 @@
-[Language Acquisition](https://xkcd.com/2839)
+[ISO 8601](https://xkcd.com/1179)
 
-![Language Acquisition](./random_comic.png)
+![ISO 8601](./random_comic.png)
 
-My first words were 'These were my first words; what were yours?'
+ISO 8601 was published on 06/05/88 and most recently amended on 12/01/04.
 
