@@ -1,6 +1,6 @@
-[ISO 8601](https://xkcd.com/1179)
+[Paperwork](https://xkcd.com/1977)
 
-![ISO 8601](./random_comic.png)
+![Paperwork](./random_comic.png)
 
-ISO 8601 was published on 06/05/88 and most recently amended on 12/01/04.
+Plus, the photo was geotagged, my unlocked password manager was visible on the laptop, AND you could see my naked reflection in the dark part of the screen.
 
