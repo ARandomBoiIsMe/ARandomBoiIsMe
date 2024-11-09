@@ -1,6 +1,6 @@
-[Music DRM](https://xkcd.com/546)
+[Exam Numbers](https://xkcd.com/2966)
 
-![Music DRM](./random_comic.png)
+![Exam Numbers](./random_comic.png)
 
-Just yesterday I bought my first non-DRM'd songs (The Last Vegas, in keeping with my 'I only listen to things from Guitar Hero' theme).
+Calligraphy exam: Write down the number 37, spelled out, nicely.
 
