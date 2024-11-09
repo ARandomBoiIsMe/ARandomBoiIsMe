@@ -1,6 +1,6 @@
-[Exam Numbers](https://xkcd.com/2966)
+[Language Acquisition](https://xkcd.com/2839)
 
-![Exam Numbers](./random_comic.png)
+![Language Acquisition](./random_comic.png)
 
-Calligraphy exam: Write down the number 37, spelled out, nicely.
+My first words were 'These were my first words; what were yours?'
 
