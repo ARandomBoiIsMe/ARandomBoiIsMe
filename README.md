@@ -1,6 +1,6 @@
-[Subways](https://xkcd.com/1196)
+[Fatal Crash Rate](https://xkcd.com/1993)
 
-![Subways](./random_comic.png)
+![Fatal Crash Rate](./random_comic.png)
 
-About one in three North American subway stops are in NYC.
+Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect.
 
