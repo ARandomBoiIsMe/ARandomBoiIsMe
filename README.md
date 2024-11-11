@@ -1,6 +1,6 @@
-[Hemingway](https://xkcd.com/1540)
+[Luke](https://xkcd.com/1397)
 
-![Hemingway](./random_comic.png)
+![Luke](./random_comic.png)
 
-Instead of bobcat, package contained chair.
+Don't turn it on.
 
