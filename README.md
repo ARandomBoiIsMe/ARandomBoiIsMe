@@ -1,6 +1,6 @@
-[Oily House Index](https://xkcd.com/2327)
+[Inspiraling Roundabout](https://xkcd.com/2842)
 
-![Oily House Index](./random_comic.png)
+![Inspiraling Roundabout](./random_comic.png)
 
-We're underwater on our mortgage thanks to the low price of water.
+Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity.
 
