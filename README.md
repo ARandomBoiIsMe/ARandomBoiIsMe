@@ -1,6 +1,6 @@
-[Inspiraling Roundabout](https://xkcd.com/2842)
+[Hemingway](https://xkcd.com/1540)
 
-![Inspiraling Roundabout](./random_comic.png)
+![Hemingway](./random_comic.png)
 
-Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity.
+Instead of bobcat, package contained chair.
 
