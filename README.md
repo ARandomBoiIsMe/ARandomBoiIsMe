@@ -1,6 +1,6 @@
-[Luke](https://xkcd.com/1397)
+[Hydrogen Isotopes](https://xkcd.com/2719)
 
-![Luke](./random_comic.png)
+![Hydrogen Isotopes](./random_comic.png)
 
-Don't turn it on.
+Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.
 
