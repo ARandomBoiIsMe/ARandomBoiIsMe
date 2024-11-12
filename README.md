@@ -1,6 +1,6 @@
-[Russell's Teapot](https://xkcd.com/1866)
+[Infrastructures](https://xkcd.com/743)
 
-![Russell's Teapot](./random_comic.png)
+![Infrastructures](./random_comic.png)
 
-Unfortunately, NASA regulations state that Bertrand Russell-related payloads can only be launched within launch vehicles which do not launch themselves.
+The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.
 
