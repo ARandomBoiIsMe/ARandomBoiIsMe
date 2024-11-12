@@ -1,6 +1,6 @@
-[Hydrogen Isotopes](https://xkcd.com/2719)
+[Russell's Teapot](https://xkcd.com/1866)
 
-![Hydrogen Isotopes](./random_comic.png)
+![Russell's Teapot](./random_comic.png)
 
-Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.
+Unfortunately, NASA regulations state that Bertrand Russell-related payloads can only be launched within launch vehicles which do not launch themselves.
 
