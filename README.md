@@ -1,6 +1,6 @@
-[Infrastructures](https://xkcd.com/743)
+[Night Shift](https://xkcd.com/2112)
 
-![Infrastructures](./random_comic.png)
+![Night Shift](./random_comic.png)
 
-The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.
+Help, I set my white balance wrong and suddenly everyone is screaming at each other about whether they've been to Colorado.
 
