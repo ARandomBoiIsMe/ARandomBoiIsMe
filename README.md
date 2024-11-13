@@ -1,6 +1,6 @@
-[Turn Signals](https://xkcd.com/165)
+[Stud Finder](https://xkcd.com/952)
 
-![Turn Signals](./random_comic.png)
+![Stud Finder](./random_comic.png)
 
-I'm not very good at meeting people.
+According to every stud finder I've tried to use, my walls contain a rapidly shifting network of hundreds and hundreds of studs.
 
