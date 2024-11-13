@@ -1,6 +1,6 @@
-[Stud Finder](https://xkcd.com/952)
+[Good and Bad Ideas](https://xkcd.com/2929)
 
-![Stud Finder](./random_comic.png)
+![Good and Bad Ideas](./random_comic.png)
 
-According to every stud finder I've tried to use, my walls contain a rapidly shifting network of hundreds and hundreds of studs.
+While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.
 
