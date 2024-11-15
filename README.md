@@ -1,6 +1,6 @@
-[Genetic Algorithms](https://xkcd.com/534)
+[Flowcharts](https://xkcd.com/1488)
 
-![Genetic Algorithms](./random_comic.png)
+![Flowcharts](./random_comic.png)
 
-Just make sure you don't have it maximize instead of minimize.
+Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!
 
