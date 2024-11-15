@@ -1,6 +1,6 @@
-[Family Circus](https://xkcd.com/100)
+[Crime Scene](https://xkcd.com/587)
 
-![Family Circus](./random_comic.png)
+![Crime Scene](./random_comic.png)
 
-This was my friend David's idea
+I think I see a Mandelbrot set! No, that's just blood splatters. Golly.
 
