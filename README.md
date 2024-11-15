@@ -1,6 +1,6 @@
-[Crime Scene](https://xkcd.com/587)
+[Higgs Boson](https://xkcd.com/1437)
 
-![Crime Scene](./random_comic.png)
+![Higgs Boson](./random_comic.png)
 
-I think I see a Mandelbrot set! No, that's just blood splatters. Golly.
+'Can't you just use the LHC you already built to find it again?' 'We MAY have disassembled it to build a death ray.' 'Just one, though.' 'Nothing you should worry about.' 'The death isn't even very serious.'
 
