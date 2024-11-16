@@ -1,6 +1,6 @@
-[2008 Christmas Special](https://xkcd.com/521)
+[Launch Window](https://xkcd.com/2746)
 
-![2008 Christmas Special](./random_comic.png)
+![Launch Window](./random_comic.png)
 
-'How could you possibly think typing 'import skynet' was a good idea?'
+"Confirmed, we have to scrub." "Ugh, okay. I'll get the bucket and sponge."
 
