@@ -1,6 +1,6 @@
-[*@gmail.com](https://xkcd.com/2822)
+[Bubble Wrap](https://xkcd.com/2458)
 
-![*@gmail.com](./random_comic.png)
+![Bubble Wrap](./random_comic.png)
 
-Hi all, just replying to loop in *@outlook.com and *@yahoo.com.
+I think of myself as the David Attenborough of factory mailing equipment.
 
