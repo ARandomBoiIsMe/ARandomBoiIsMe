@@ -1,6 +1,6 @@
-[Bubble Wrap](https://xkcd.com/2458)
+[2008 Christmas Special](https://xkcd.com/521)
 
-![Bubble Wrap](./random_comic.png)
+![2008 Christmas Special](./random_comic.png)
 
-I think of myself as the David Attenborough of factory mailing equipment.
+'How could you possibly think typing 'import skynet' was a good idea?'
 
