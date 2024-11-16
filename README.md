@@ -1,6 +1,6 @@
-[Flowcharts](https://xkcd.com/1488)
+[*@gmail.com](https://xkcd.com/2822)
 
-![Flowcharts](./random_comic.png)
+![*@gmail.com](./random_comic.png)
 
-Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!
+Hi all, just replying to loop in *@outlook.com and *@yahoo.com.
 
