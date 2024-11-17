@@ -1,6 +1,6 @@
-[Colds](https://xkcd.com/1612)
+[Typical Seating Chart](https://xkcd.com/2862)
 
-![Colds](./random_comic.png)
+![Typical Seating Chart](./random_comic.png)
 
-The contagious period ends right around when you start to sound sick over the phone, which is probably evidence of cold viruses evolving to spread optimally in the workplace.
+Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole.
 
