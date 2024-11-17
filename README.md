@@ -1,6 +1,6 @@
-[Typical Seating Chart](https://xkcd.com/2862)
+[Apollo Speeches](https://xkcd.com/1484)
 
-![Typical Seating Chart](./random_comic.png)
+![Apollo Speeches](./random_comic.png)
 
-Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole.
+While our commitment to recycling initiatives has been unwavering, this is not a cost any of us should be expected to pay.
 
