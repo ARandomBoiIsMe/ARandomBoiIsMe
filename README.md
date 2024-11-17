@@ -1,6 +1,6 @@
-[Launch Window](https://xkcd.com/2746)
+[Colds](https://xkcd.com/1612)
 
-![Launch Window](./random_comic.png)
+![Colds](./random_comic.png)
 
-"Confirmed, we have to scrub." "Ugh, okay. I'll get the bucket and sponge."
+The contagious period ends right around when you start to sound sick over the phone, which is probably evidence of cold viruses evolving to spread optimally in the workplace.
 
