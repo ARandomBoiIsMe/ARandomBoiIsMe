@@ -1,6 +1,6 @@
-[Apollo Speeches](https://xkcd.com/1484)
+[Expiration Date High Score](https://xkcd.com/2178)
 
-![Apollo Speeches](./random_comic.png)
+![Expiration Date High Score](./random_comic.png)
 
-While our commitment to recycling initiatives has been unwavering, this is not a cost any of us should be expected to pay.
+"Wait, we've MOVED since 2010. How on Earth did--" "Look, some of us were just born to be champions."
 
