@@ -1,6 +1,6 @@
-[Expiration Date High Score](https://xkcd.com/2178)
+[In Your Classroom](https://xkcd.com/2466)
 
-![Expiration Date High Score](./random_comic.png)
+![In Your Classroom](./random_comic.png)
 
-"Wait, we've MOVED since 2010. How on Earth did--" "Look, some of us were just born to be champions."
+Ontology is way off to the left and geography is way off to the right.
 
