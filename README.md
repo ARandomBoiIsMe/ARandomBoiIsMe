@@ -1,6 +1,6 @@
-[In Your Classroom](https://xkcd.com/2466)
+[Bad Opinions](https://xkcd.com/2051)
 
-![In Your Classroom](./random_comic.png)
+![Bad Opinions](./random_comic.png)
 
-Ontology is way off to the left and geography is way off to the right.
+I thought of another bad opinion! I couldn't find anyone who expressed it specifically, but still, the fact that I can so easily imagine it is infuriating! I'm gonna tell everyone about it!
 
