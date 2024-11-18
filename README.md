@@ -1,6 +1,6 @@
-[Hazard Symbol](https://xkcd.com/2038)
+[Hubble Tension](https://xkcd.com/2516)
 
-![Hazard Symbol](./random_comic.png)
+![Hubble Tension](./random_comic.png)
 
-The warning diamond on the Materials Safety Data Sheet for this stuff just has the "😰" emoji in all four fields.
+Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!
 
