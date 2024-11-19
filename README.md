@@ -1,6 +1,6 @@
-[Hubble Tension](https://xkcd.com/2516)
+[Linear Regression](https://xkcd.com/1725)
 
-![Hubble Tension](./random_comic.png)
+![Linear Regression](./random_comic.png)
 
-Oh, wait, I might've had it set to kph instead of mph. But that would make the discrepancy even wider!
+The 95% confidence interval suggests Rexthor's dog could also be a cat, or possibly a teapot.
 
