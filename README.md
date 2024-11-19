@@ -1,6 +1,6 @@
-[Blind Trials](https://xkcd.com/1462)
+[The Martian](https://xkcd.com/1536)
 
-![Blind Trials](./random_comic.png)
+![The Martian](./random_comic.png)
 
-Plus, you have to control for the fact that some people are into being blindfolded.
+I have never seen a work of fiction so perfectly capture the out-of-nowhere shock of discovering that you've just bricked something important because you didn't pay enough attention to a loose wire.
 
