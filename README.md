@@ -1,6 +1,6 @@
-[Linear Regression](https://xkcd.com/1725)
+[Blind Trials](https://xkcd.com/1462)
 
-![Linear Regression](./random_comic.png)
+![Blind Trials](./random_comic.png)
 
-The 95% confidence interval suggests Rexthor's dog could also be a cat, or possibly a teapot.
+Plus, you have to control for the fact that some people are into being blindfolded.
 
