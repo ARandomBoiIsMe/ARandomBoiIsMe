@@ -1,6 +1,6 @@
-[Blockchain](https://xkcd.com/2267)
+[Routine Maintenance](https://xkcd.com/2952)
 
-![Blockchain](./random_comic.png)
+![Routine Maintenance](./random_comic.png)
 
-Blockchains are like grappling hooks, in that it's extremely cool when you encounter a problem for which they're the right solution, but it happens way too rarely in real life.
+The worst was the time they accidentally held the can upside down and froze all the Earth's magma chambers solid.
 
