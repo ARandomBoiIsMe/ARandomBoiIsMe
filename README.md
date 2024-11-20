@@ -1,6 +1,6 @@
-[2009 Called](https://xkcd.com/875)
+[Blockchain](https://xkcd.com/2267)
 
-![2009 Called](./random_comic.png)
+![Blockchain](./random_comic.png)
 
-2017 called, but I couldn't understand what they were saying over all the screams.
+Blockchains are like grappling hooks, in that it's extremely cool when you encounter a problem for which they're the right solution, but it happens way too rarely in real life.
 
