@@ -1,6 +1,6 @@
-[Routine Maintenance](https://xkcd.com/2952)
+[The Source](https://xkcd.com/1590)
 
-![Routine Maintenance](./random_comic.png)
+![The Source](./random_comic.png)
 
-The worst was the time they accidentally held the can upside down and froze all the Earth's magma chambers solid.
+Why did we even have that thing?
 
