@@ -1,6 +1,6 @@
-[Birdsong](https://xkcd.com/1635)
+[2009 Called](https://xkcd.com/875)
 
-![Birdsong](./random_comic.png)
+![2009 Called](./random_comic.png)
 
-Maybe if I put it in a box for a while with a speaker playing some pleasant pastoral music, I can reprogram it.
+2017 called, but I couldn't understand what they were saying over all the screams.
 
