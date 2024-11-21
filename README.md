@@ -1,6 +1,6 @@
-[Flowcharts](https://xkcd.com/1488)
+[How to Coil a Cable](https://xkcd.com/2810)
 
-![Flowcharts](./random_comic.png)
+![How to Coil a Cable](./random_comic.png)
 
-Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!
+The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist.
 
