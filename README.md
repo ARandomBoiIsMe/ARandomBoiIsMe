@@ -1,6 +1,6 @@
-[How to Coil a Cable](https://xkcd.com/2810)
+[Cutting Edge](https://xkcd.com/606)
 
-![How to Coil a Cable](./random_comic.png)
+![Cutting Edge](./random_comic.png)
 
-The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist.
+I remember trying to log in to the original Command and Conquer servers a year or two back and feeling like I was knocking on the boarded-up gates of a ghost town. 
 
