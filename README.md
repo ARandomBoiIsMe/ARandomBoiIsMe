@@ -1,6 +1,6 @@
-[Cutting Edge](https://xkcd.com/606)
+[Urgent Mission](https://xkcd.com/567)
 
-![Cutting Edge](./random_comic.png)
+![Urgent Mission](./random_comic.png)
 
-I remember trying to log in to the original Command and Conquer servers a year or two back and feeling like I was knocking on the boarded-up gates of a ghost town. 
+Sure, we could stop dictators and pandemics, but we could also make the signs on every damn diagram make sense.
 
