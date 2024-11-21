@@ -1,6 +1,6 @@
-[The Source](https://xkcd.com/1590)
+[Flowcharts](https://xkcd.com/1488)
 
-![The Source](./random_comic.png)
+![Flowcharts](./random_comic.png)
 
-Why did we even have that thing?
+Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!
 
