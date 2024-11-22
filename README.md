@@ -1,6 +1,6 @@
-[Update Notes](https://xkcd.com/2010)
+[Shouldn't Be Hard](https://xkcd.com/1349)
 
-![Update Notes](./random_comic.png)
+![Shouldn't Be Hard](./random_comic.png)
 
-v3.0.2: Hey, if anyone still using this app is headed to the beach, can you stop at 4th and River St and grab the sunscreen from my car? Trunk should be unlocked. Thanks!
+(six hours later) ARGH. How are these stupid microchips so durable?! All I want is to undo a massive industrial process with household tools!
 
