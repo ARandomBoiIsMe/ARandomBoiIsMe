@@ -1,6 +1,6 @@
-[Urgent Mission](https://xkcd.com/567)
+[Update Notes](https://xkcd.com/2010)
 
-![Urgent Mission](./random_comic.png)
+![Update Notes](./random_comic.png)
 
-Sure, we could stop dictators and pandemics, but we could also make the signs on every damn diagram make sense.
+v3.0.2: Hey, if anyone still using this app is headed to the beach, can you stop at 4th and River St and grab the sunscreen from my car? Trunk should be unlocked. Thanks!
 
