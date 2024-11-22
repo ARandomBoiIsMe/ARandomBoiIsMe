@@ -1,6 +1,6 @@
-[Into My Veins](https://xkcd.com/2402)
+[Daylight Saving Choice](https://xkcd.com/2846)
 
-![Into My Veins](./random_comic.png)
+![Daylight Saving Choice](./random_comic.png)
 
-"Okay, for the last time, the shot is free, so we can't--" "Shut up and take my money!"
+I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.
 
