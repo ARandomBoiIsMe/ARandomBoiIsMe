@@ -1,6 +1,6 @@
-[New Car](https://xkcd.com/570)
+[Types of Scientific Paper](https://xkcd.com/2456)
 
-![New Car](./random_comic.png)
+![Types of Scientific Paper](./random_comic.png)
 
-Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.
+Others include "We've incrementally improved the estimate of this coefficient," "Maybe all these categories are wrong," and "We found a way to make student volunteers worse at tasks."
 
