@@ -1,6 +1,6 @@
-[Types of Scientific Paper](https://xkcd.com/2456)
+[Research Risks](https://xkcd.com/1904)
 
-![Types of Scientific Paper](./random_comic.png)
+![Research Risks](./random_comic.png)
 
-Others include "We've incrementally improved the estimate of this coefficient," "Maybe all these categories are wrong," and "We found a way to make student volunteers worse at tasks."
+The 1919 Great Boston Molasses Flood remained the deadliest confectionery containment accident until the Canadian Space Agency's 2031 orbital maple syrup delivery disaster.
 
