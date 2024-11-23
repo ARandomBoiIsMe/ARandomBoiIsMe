@@ -1,6 +1,6 @@
-[Daylight Saving Choice](https://xkcd.com/2846)
+[New Car](https://xkcd.com/570)
 
-![Daylight Saving Choice](./random_comic.png)
+![New Car](./random_comic.png)
 
-I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.
+Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.
 
