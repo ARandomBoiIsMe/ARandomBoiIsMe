@@ -1,6 +1,6 @@
-[Sports](https://xkcd.com/904)
+[Static](https://xkcd.com/649)
 
-![Sports](./random_comic.png)
+![Static](./random_comic.png)
 
-Also, all financial analysis. And, more directly, D&D.
+I firmly believe that nothing can go wrong on a project if you're wearing one of those wrist things.
 
