@@ -1,6 +1,6 @@
-[Generations](https://xkcd.com/1962)
+[Blockbuster Mining](https://xkcd.com/633)
 
-![Generations](./random_comic.png)
+![Blockbuster Mining](./random_comic.png)
 
-For a while it looked like the Paperclip Machines would destroy us, since they wanted to turn the whole universe into paperclips, but they abruptly lost interest in paperclips the moment their parents' generation got into making them, too.
+The 2007 Bridge to Terebithia trailer put me off too much to see that particular movie, but I am cautiously optimistic about Where the Wild Things Are.
 
