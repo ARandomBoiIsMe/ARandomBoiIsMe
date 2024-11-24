@@ -1,6 +1,6 @@
-[Static](https://xkcd.com/649)
+[Generations](https://xkcd.com/1962)
 
-![Static](./random_comic.png)
+![Generations](./random_comic.png)
 
-I firmly believe that nothing can go wrong on a project if you're wearing one of those wrist things.
+For a while it looked like the Paperclip Machines would destroy us, since they wanted to turn the whole universe into paperclips, but they abruptly lost interest in paperclips the moment their parents' generation got into making them, too.
 
