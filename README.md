@@ -1,6 +1,6 @@
-[Blockbuster Mining](https://xkcd.com/633)
+[Investing](https://xkcd.com/947)
 
-![Blockbuster Mining](./random_comic.png)
+![Investing](./random_comic.png)
 
-The 2007 Bridge to Terebithia trailer put me off too much to see that particular movie, but I am cautiously optimistic about Where the Wild Things Are.
+But Einstein said it was the most powerful force in the universe, and I take all my investment advice from flippant remarks by theoretical physicists making small talk at parties.
 
