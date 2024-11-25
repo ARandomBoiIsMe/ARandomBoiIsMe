@@ -1,6 +1,6 @@
-[Number Line](https://xkcd.com/899)
+[Finish Line](https://xkcd.com/423)
 
-![Number Line](./random_comic.png)
+![Finish Line](./random_comic.png)
 
-The Wikipedia page "List of Numbers" opens with "This list is incomplete; you can help by expanding it."
+The question with Lucy and the football was always whether, on some level, she believed the things she said.
 
