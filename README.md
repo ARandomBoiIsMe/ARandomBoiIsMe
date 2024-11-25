@@ -1,6 +1,6 @@
-[Pi Equals](https://xkcd.com/10)
+[Number Line](https://xkcd.com/899)
 
-![Pi Equals](./random_comic.png)
+![Number Line](./random_comic.png)
 
-My most famous drawing, and one of the first I did for the site
+The Wikipedia page "List of Numbers" opens with "This list is incomplete; you can help by expanding it."
 
