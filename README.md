@@ -1,6 +1,6 @@
-[Air Travel Packing List](https://xkcd.com/2525)
+[Beam of Light](https://xkcd.com/2959)
 
-![Air Travel Packing List](./random_comic.png)
+![Beam of Light](./random_comic.png)
 
-I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.
+Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."
 
