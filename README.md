@@ -1,6 +1,6 @@
-[Beam of Light](https://xkcd.com/2959)
+[Pixels](https://xkcd.com/1416)
 
-![Beam of Light](./random_comic.png)
+![Pixels](./random_comic.png)
 
-Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."
+It's turtles all the way down.
 
