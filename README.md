@@ -1,6 +1,6 @@
-[Annoying Ringtone Champion](https://xkcd.com/1241)
+[Air Travel Packing List](https://xkcd.com/2525)
 
-![Annoying Ringtone Champion](./random_comic.png)
+![Air Travel Packing List](./random_comic.png)
 
-It beat out 'Clock radio alarm', 'B-flat at 194 decibels', 'That noise from Dumb & Dumber', and 'Recording of a sobbing voice begging you to answer'.
+I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.
 
