@@ -1,6 +1,6 @@
-[Finish Line](https://xkcd.com/423)
+[Annoying Ringtone Champion](https://xkcd.com/1241)
 
-![Finish Line](./random_comic.png)
+![Annoying Ringtone Champion](./random_comic.png)
 
-The question with Lucy and the football was always whether, on some level, she believed the things she said.
+It beat out 'Clock radio alarm', 'B-flat at 194 decibels', 'That noise from Dumb & Dumber', and 'Recording of a sobbing voice begging you to answer'.
 
