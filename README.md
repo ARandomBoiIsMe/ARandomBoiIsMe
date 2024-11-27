@@ -1,6 +1,6 @@
-[Pixels](https://xkcd.com/1416)
+[Lincoln-Douglas](https://xkcd.com/639)
 
-![Pixels](./random_comic.png)
+![Lincoln-Douglas](./random_comic.png)
 
-It's turtles all the way down.
+Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.
 
