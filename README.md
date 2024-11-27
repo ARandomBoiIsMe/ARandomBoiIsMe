@@ -1,6 +1,6 @@
-[Lincoln-Douglas](https://xkcd.com/639)
+[Computer Problems](https://xkcd.com/722)
 
-![Lincoln-Douglas](./random_comic.png)
+![Computer Problems](./random_comic.png)
 
-Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.
+This is how I explain computer problems to my cat. My cat usually seems happier than me.
 
