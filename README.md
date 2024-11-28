@@ -1,6 +1,6 @@
-[Leap Smearing](https://xkcd.com/2266)
+[Frequency](https://xkcd.com/1331)
 
-![Leap Smearing](./random_comic.png)
+![Frequency](./random_comic.png)
 
-Some people suspect that it started as a "No, I didn't forget Valentine's Day" excuse that got out of hand.
+This comic shows estimated average frequency. I wanted to include the pitch drop experiment, but it turns out the gif format has some issues with decade-long loops.
 
