@@ -1,6 +1,6 @@
-[Pointers](https://xkcd.com/138)
+[Leap Smearing](https://xkcd.com/2266)
 
-![Pointers](./random_comic.png)
+![Leap Smearing](./random_comic.png)
 
-Every computer, at the unreachable memory address 0x-1, stores a secret.  I found it, and it is that all humans ar-- SEGMENTATION FAULT.
+Some people suspect that it started as a "No, I didn't forget Valentine's Day" excuse that got out of hand.
 
