@@ -1,6 +1,6 @@
-[Priorities](https://xkcd.com/336)
+[Rover Replies](https://xkcd.com/2517)
 
-![Priorities](./random_comic.png)
+![Rover Replies](./random_comic.png)
 
-You should start giving out 'E's so I can spell FACADE or DEFACED.
+I'm so glad NASA let you take your phone to Mars!
 
