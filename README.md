@@ -1,6 +1,6 @@
-[Hallucinations](https://xkcd.com/203)
+[What If](https://xkcd.com/17)
 
-![Hallucinations](./random_comic.png)
+![What If](./random_comic.png)
 
-And the possibility of lucid dreaming just makes it that much more fascinating.
+I once made an anniversary card for my then-girlfriend with this layout.
 
