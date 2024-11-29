@@ -1,6 +1,6 @@
-[TED Talk](https://xkcd.com/541)
+[Glacial Erratic](https://xkcd.com/1848)
 
-![TED Talk](./random_comic.png)
+![Glacial Erratic](./random_comic.png)
 
-The IAU ban came after the 'redefinition of 'planet' to include the IAU president's mom' incident.
+"This will take a while, which sucks, because I'm already so busy chiseling out igneous intrusions from rock formations and watching Youtube loops of the Superman fault-sealing scene over and over."
 
