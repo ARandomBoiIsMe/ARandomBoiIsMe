@@ -1,6 +1,6 @@
-[Rover Replies](https://xkcd.com/2517)
+[TED Talk](https://xkcd.com/541)
 
-![Rover Replies](./random_comic.png)
+![TED Talk](./random_comic.png)
 
-I'm so glad NASA let you take your phone to Mars!
+The IAU ban came after the 'redefinition of 'planet' to include the IAU president's mom' incident.
 
