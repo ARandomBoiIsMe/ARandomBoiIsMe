@@ -1,6 +1,6 @@
-[Pathogen Resistance](https://xkcd.com/2287)
+[Geographic Qualifiers](https://xkcd.com/2901)
 
-![Pathogen Resistance](./random_comic.png)
+![Geographic Qualifiers](./random_comic.png)
 
-We're not trapped in here with the coronavirus. The coronavirus is trapped in here with us.
+'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]
 
