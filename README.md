@@ -1,6 +1,6 @@
-[Standing](https://xkcd.com/1329)
+[Date Line](https://xkcd.com/2854)
 
-![Standing](./random_comic.png)
+![Date Line](./random_comic.png)
 
-At first I was making fun of them, but joke's on me--the deer is surprisingly ergonomic, except for the kicks.
+They estimate the rocket should be free by approximately ... uh ... well, in about two hours.
 
