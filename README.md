@@ -1,6 +1,6 @@
-[Date Line](https://xkcd.com/2854)
+[Pathogen Resistance](https://xkcd.com/2287)
 
-![Date Line](./random_comic.png)
+![Pathogen Resistance](./random_comic.png)
 
-They estimate the rocket should be free by approximately ... uh ... well, in about two hours.
+We're not trapped in here with the coronavirus. The coronavirus is trapped in here with us.
 
