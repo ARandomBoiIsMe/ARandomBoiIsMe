@@ -1,6 +1,6 @@
-[Toot](https://xkcd.com/757)
+[Debugging](https://xkcd.com/1722)
 
-![Toot](./random_comic.png)
+![Debugging](./random_comic.png)
 
-This is also one of only five identified situations in which a vuvuzela is actually appropriate.
+When you Google an error message and it gets no results, you can be pretty sure you've found a clue to the location of Martin's sword.
 
