@@ -1,6 +1,6 @@
-[Hair Growth Rate](https://xkcd.com/2316)
+[Atoms](https://xkcd.com/1490)
 
-![Hair Growth Rate](./random_comic.png)
+![Atoms](./random_comic.png)
 
-Hourly haircuts would be annoying, but they'd be easier to do yourself, since you'd have adjacent hairs as a guide. Growing it out would be a huge pain, though.
+When I was little I had trouble telling my dad apart from the dog. I always recognized my mom because she had a bunch of extra plutoniums in her middle. I never did ask her why ...
 
