@@ -1,6 +1,6 @@
-[Debugging](https://xkcd.com/1722)
+[Hair Growth Rate](https://xkcd.com/2316)
 
-![Debugging](./random_comic.png)
+![Hair Growth Rate](./random_comic.png)
 
-When you Google an error message and it gets no results, you can be pretty sure you've found a clue to the location of Martin's sword.
+Hourly haircuts would be annoying, but they'd be easier to do yourself, since you'd have adjacent hairs as a guide. Growing it out would be a huge pain, though.
 
