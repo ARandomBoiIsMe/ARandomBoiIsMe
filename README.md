@@ -1,6 +1,6 @@
-[Tornado](https://xkcd.com/1487)
+[Interesting Life](https://xkcd.com/308)
 
-![Tornado](./random_comic.png)
+![Interesting Life](./random_comic.png)
 
-Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides.
+Quick, fashion a climbing harness out of cat-6 cable and follow me down.
 
