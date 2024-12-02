@@ -1,6 +1,6 @@
-[Drone Fishing](https://xkcd.com/2208)
+[Tornado](https://xkcd.com/1487)
 
-![Drone Fishing](./random_comic.png)
+![Tornado](./random_comic.png)
 
-Today's consumers who order their drones off the internet don't know the joy of going out in nature and returning with a drone that you caught yourself, whose angry owners you fought off with your own two hands.
+Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides.
 
