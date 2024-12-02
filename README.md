@@ -1,6 +1,6 @@
-[Atoms](https://xkcd.com/1490)
+[Drone Fishing](https://xkcd.com/2208)
 
-![Atoms](./random_comic.png)
+![Drone Fishing](./random_comic.png)
 
-When I was little I had trouble telling my dad apart from the dog. I always recognized my mom because she had a bunch of extra plutoniums in her middle. I never did ask her why ...
+Today's consumers who order their drones off the internet don't know the joy of going out in nature and returning with a drone that you caught yourself, whose angry owners you fought off with your own two hands.
 
