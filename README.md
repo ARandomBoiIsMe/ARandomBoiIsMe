@@ -1,6 +1,6 @@
-[Interesting Life](https://xkcd.com/308)
+[Earth/Venus Venn Diagram](https://xkcd.com/2903)
 
-![Interesting Life](./random_comic.png)
+![Earth/Venus Venn Diagram](./random_comic.png)
 
-Quick, fashion a climbing harness out of cat-6 cable and follow me down.
+Actually, the fact that Mars is still orbiting safely over here means that it was technically an *Euler* apocalypse, not a Venn one.
 
