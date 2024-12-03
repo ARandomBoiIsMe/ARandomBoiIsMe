@@ -1,6 +1,6 @@
-[I Am Not Good with Boomerangs](https://xkcd.com/445)
+[Pet Peeve #114](https://xkcd.com/238)
 
-![I Am Not Good with Boomerangs](./random_comic.png)
+![Pet Peeve #114](./random_comic.png)
 
-Bonus strip: just read the rightmost panels straight down. 
+I'm reading a goddamn book, thank you very much.
 
