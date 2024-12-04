@@ -1,6 +1,6 @@
-[Decline](https://xkcd.com/523)
+[The Cloud](https://xkcd.com/908)
 
-![Decline](./random_comic.png)
+![The Cloud](./random_comic.png)
 
-'There's also a spike on the Fourier transform at the one-month mark where --' 'You want to stop talking right now.'
+There's planned downtime every night when we turn on the Roomba and it runs over the cord.
 
