@@ -1,6 +1,6 @@
-[Diode](https://xkcd.com/814)
+[Sunshield](https://xkcd.com/2564)
 
-![Diode](./random_comic.png)
+![Sunshield](./random_comic.png)
 
-And the worst part is you won't apologize.
+RIP the surface of Mars
 
