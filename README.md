@@ -1,6 +1,6 @@
-[The Cloud](https://xkcd.com/908)
+[Diode](https://xkcd.com/814)
 
-![The Cloud](./random_comic.png)
+![Diode](./random_comic.png)
 
-There's planned downtime every night when we turn on the Roomba and it runs over the cord.
+And the worst part is you won't apologize.
 
