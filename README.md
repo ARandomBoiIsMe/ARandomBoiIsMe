@@ -1,6 +1,6 @@
-[Pet Peeve #114](https://xkcd.com/238)
+[Decline](https://xkcd.com/523)
 
-![Pet Peeve #114](./random_comic.png)
+![Decline](./random_comic.png)
 
-I'm reading a goddamn book, thank you very much.
+'There's also a spike on the Fourier transform at the one-month mark where --' 'You want to stop talking right now.'
 
