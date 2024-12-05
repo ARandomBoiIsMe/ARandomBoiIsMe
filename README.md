@@ -1,6 +1,6 @@
-[Sunshield](https://xkcd.com/2564)
+[Bigger Problem](https://xkcd.com/2368)
 
-![Sunshield](./random_comic.png)
+![Bigger Problem](./random_comic.png)
 
-RIP the surface of Mars
+Your point that the world contains multiple problems is a real slam-dunk argument against fixing any of them.
 
