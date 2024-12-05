@@ -1,6 +1,6 @@
-[Expiration Date High Score](https://xkcd.com/2178)
+[Time Management](https://xkcd.com/874)
 
-![Expiration Date High Score](./random_comic.png)
+![Time Management](./random_comic.png)
 
-"Wait, we've MOVED since 2010. How on Earth did--" "Look, some of us were just born to be champions."
+I never trust anyone who's more excited about success than about doing the thing they want to be successful at.
 
