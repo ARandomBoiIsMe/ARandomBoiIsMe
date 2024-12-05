@@ -1,6 +1,6 @@
-[Voting Referendum](https://xkcd.com/2225)
+[Expiration Date High Score](https://xkcd.com/2178)
 
-![Voting Referendum](./random_comic.png)
+![Expiration Date High Score](./random_comic.png)
 
-The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.
+"Wait, we've MOVED since 2010. How on Earth did--" "Look, some of us were just born to be champions."
 
