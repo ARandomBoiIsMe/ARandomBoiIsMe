@@ -1,6 +1,6 @@
-[Bigger Problem](https://xkcd.com/2368)
+[Voting Referendum](https://xkcd.com/2225)
 
-![Bigger Problem](./random_comic.png)
+![Voting Referendum](./random_comic.png)
 
-Your point that the world contains multiple problems is a real slam-dunk argument against fixing any of them.
+The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.
 
