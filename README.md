@@ -1,6 +1,6 @@
-[Magic Words](https://xkcd.com/1383)
+[Diet Coke+Mentos](https://xkcd.com/346)
 
-![Magic Words](./random_comic.png)
+![Diet Coke+Mentos](./random_comic.png)
 
-'And then whisper 'anapest' in my ear as you hold me?'
+The cola+Mentos trick is up there with corn starch+water (vibrating platter optional) in scientific coolness out of common kitchen supplies.
 
