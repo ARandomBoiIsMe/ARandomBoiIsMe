@@ -1,6 +1,6 @@
-[Time Management](https://xkcd.com/874)
+[Etch-a-Sketch](https://xkcd.com/551)
 
-![Time Management](./random_comic.png)
+![Etch-a-Sketch](./random_comic.png)
 
-I never trust anyone who's more excited about success than about doing the thing they want to be successful at.
+Surrounded by boring mysteries.
 
