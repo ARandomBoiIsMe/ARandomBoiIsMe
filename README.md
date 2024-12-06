@@ -1,6 +1,6 @@
-[Etch-a-Sketch](https://xkcd.com/551)
+[Magic Words](https://xkcd.com/1383)
 
-![Etch-a-Sketch](./random_comic.png)
+![Magic Words](./random_comic.png)
 
-Surrounded by boring mysteries.
+'And then whisper 'anapest' in my ear as you hold me?'
 
