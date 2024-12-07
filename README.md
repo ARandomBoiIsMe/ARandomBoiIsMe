@@ -1,6 +1,6 @@
-[(](https://xkcd.com/859)
+[Beauty](https://xkcd.com/877)
 
-![(](./random_comic.png)
+![Beauty](./random_comic.png)
 
-Brains aside, I wonder how many poorly-written xkcd.com-parsing scripts will break on this title (or ;;"''{<<[' this mouseover text."
+The best hugs are probably from hagfish, which can extrude microscopic filaments that convert a huge volume of water around them to slime in seconds. Instant cozy blanket!
 
