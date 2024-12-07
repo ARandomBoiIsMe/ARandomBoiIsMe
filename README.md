@@ -1,6 +1,6 @@
-[Close to You](https://xkcd.com/348)
+[(](https://xkcd.com/859)
 
-![Close to You](./random_comic.png)
+![(](./random_comic.png)
 
-We should probably talk about this before the wedding.
+Brains aside, I wonder how many poorly-written xkcd.com-parsing scripts will break on this title (or ;;"''{<<[' this mouseover text."
 
