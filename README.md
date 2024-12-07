@@ -1,6 +1,6 @@
-[Beauty](https://xkcd.com/877)
+[Fight Club](https://xkcd.com/922)
 
-![Beauty](./random_comic.png)
+![Fight Club](./random_comic.png)
 
-The best hugs are probably from hagfish, which can extrude microscopic filaments that convert a huge volume of water around them to slime in seconds. Instant cozy blanket!
+I'm not saying it's all bad, but that movie has not aged as well as my teenage self in 2000 was confident it would.
 
