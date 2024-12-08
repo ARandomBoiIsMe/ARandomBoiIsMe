@@ -1,6 +1,6 @@
-[Fight Club](https://xkcd.com/922)
+[Pokémon Go](https://xkcd.com/1705)
 
-![Fight Club](./random_comic.png)
+![Pokémon Go](./random_comic.png)
 
-I'm not saying it's all bad, but that movie has not aged as well as my teenage self in 2000 was confident it would.
+Still waiting for the Pokémon Go update that lets you capture strangers' pets.
 
