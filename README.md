@@ -1,6 +1,6 @@
-[Formal Languages](https://xkcd.com/1090)
+[Namespace Land Rush](https://xkcd.com/1963)
 
-![Formal Languages](./random_comic.png)
+![Namespace Land Rush](./random_comic.png)
 
-[audience looks around] 'What just happened?' 'There must be some context we're missing.'
+You can also just mash the keyboard at random, but you might end up with a gibberish name no one can pronounce.
 
