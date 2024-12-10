@@ -1,6 +1,6 @@
-[Random Obsessions](https://xkcd.com/1835)
+[Magnetohydrodynamics](https://xkcd.com/1851)
 
-![Random Obsessions](./random_comic.png)
+![Magnetohydrodynamics](./random_comic.png)
 
-I take the view that "open-faced sandwiches" are not sandwiches, but all other physical objects are.
+Magnetohydrodynamics combines the intuitive nature of Maxwell's equations with the easy solvability of the Navier-Stokes equations. It's so straightforward physicists add "relativistic" or "quantum" just to keep it from getting boring.
 
