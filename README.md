@@ -1,6 +1,6 @@
-[Chemicals](https://xkcd.com/2648)
+[Solar System Compression Artifacts](https://xkcd.com/2414)
 
-![Chemicals](./random_comic.png)
+![Solar System Compression Artifacts](./random_comic.png)
 
-It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.
+Most of our universe consists of dark matter rendered completely undetectable by our spacetime codec's dynamic range issues.
 
