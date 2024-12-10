@@ -1,6 +1,6 @@
-[Namespace Land Rush](https://xkcd.com/1963)
+[Random Obsessions](https://xkcd.com/1835)
 
-![Namespace Land Rush](./random_comic.png)
+![Random Obsessions](./random_comic.png)
 
-You can also just mash the keyboard at random, but you might end up with a gibberish name no one can pronounce.
+I take the view that "open-faced sandwiches" are not sandwiches, but all other physical objects are.
 
