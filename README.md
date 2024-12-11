@@ -1,6 +1,6 @@
-[Messaging Systems](https://xkcd.com/2365)
+[Breaker Box](https://xkcd.com/2848)
 
-![Messaging Systems](./random_comic.png)
+![Breaker Box](./random_comic.png)
 
-SMS is just the worst, but I'm having trouble convincing people to adopt my preferred system, TLS IRC with a local server and a patched DOSBox gateway running in my mobile browser.
+Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.
 
