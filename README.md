@@ -1,6 +1,6 @@
-[Breaker Box](https://xkcd.com/2848)
+[Now](https://xkcd.com/1335)
 
-![Breaker Box](./random_comic.png)
+![Now](./random_comic.png)
 
-Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.
+This image stays roughly in sync with the day (assuming the Earth continues spinning). Shortcut: xkcd.com/now
 
