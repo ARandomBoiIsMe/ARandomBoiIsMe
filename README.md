@@ -1,6 +1,6 @@
-[Dark Arts](https://xkcd.com/2531)
+[Expiration Date High Score](https://xkcd.com/2178)
 
-![Dark Arts](./random_comic.png)
+![Expiration Date High Score](./random_comic.png)
 
-You think, 'okay, THIS is an ideal use case for hardlinks!' but then 6 months later you're doing some extremely cursed Google search like 'javascript ext4' and wondering where things went wrong.
+"Wait, we've MOVED since 2010. How on Earth did--" "Look, some of us were just born to be champions."
 
