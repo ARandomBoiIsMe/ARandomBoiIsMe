@@ -1,6 +1,6 @@
-[Now](https://xkcd.com/1335)
+[Decay Modes](https://xkcd.com/2860)
 
-![Now](./random_comic.png)
+![Decay Modes](./random_comic.png)
 
-This image stays roughly in sync with the day (assuming the Earth continues spinning). Shortcut: xkcd.com/now
+Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy.
 
