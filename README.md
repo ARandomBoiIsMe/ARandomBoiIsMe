@@ -1,6 +1,6 @@
-[Phylogenetic Tree](https://xkcd.com/2269)
+[Cryogenics](https://xkcd.com/989)
 
-![Phylogenetic Tree](./random_comic.png)
+![Cryogenics](./random_comic.png)
 
-And I was kicked out of my March Madness pool because I wouldn't shut up about the evidence for NBA/ABA endosymbiosis.
+'Welcome to the future! Nothing's changed.' was the slogan of my astonishingly short-lived tech startup.
 
