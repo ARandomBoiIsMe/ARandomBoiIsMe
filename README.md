@@ -1,6 +1,6 @@
-[Aurora Meaning](https://xkcd.com/2233)
+[Phylogenetic Tree](https://xkcd.com/2269)
 
-![Aurora Meaning](./random_comic.png)
+![Phylogenetic Tree](./random_comic.png)
 
-The astro-ph.SR arXiv servers are simultaneously being overwhelmed by electronic requests and actual electricity.
+And I was kicked out of my March Madness pool because I wouldn't shut up about the evidence for NBA/ABA endosymbiosis.
 
