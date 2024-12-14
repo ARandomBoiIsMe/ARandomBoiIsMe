@@ -1,6 +1,6 @@
-[Logical](https://xkcd.com/1901)
+[Kill Hitler](https://xkcd.com/1063)
 
-![Logical](./random_comic.png)
+![Kill Hitler](./random_comic.png)
 
-It's like I've always said--people just need more common sense. But not the kind of common sense that lets them figure out that they're being condescended to by someone who thinks they're stupid, because then I'll be in trouble.
+Revised directive: It is forbidden for you to interfere with human history until you've at least taken a class on it.
 
