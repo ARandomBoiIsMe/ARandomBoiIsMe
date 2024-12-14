@@ -1,6 +1,6 @@
-[Black Hat Support](https://xkcd.com/278)
+[Normal Distribution](https://xkcd.com/2118)
 
-![Black Hat Support](./random_comic.png)
+![Normal Distribution](./random_comic.png)
 
-So as not to leave you hanging -- it was a problem with select() calls.
+It's the NORMAL distribution, not the TANGENT distribution.
 
