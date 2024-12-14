@@ -1,6 +1,6 @@
-[The Carriage](https://xkcd.com/788)
+[Black Hat Support](https://xkcd.com/278)
 
-![The Carriage](./random_comic.png)
+![Black Hat Support](./random_comic.png)
 
-I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.
+So as not to leave you hanging -- it was a problem with select() calls.
 
