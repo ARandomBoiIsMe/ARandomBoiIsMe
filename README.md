@@ -1,6 +1,6 @@
-[Normal Distribution](https://xkcd.com/2118)
+[Logical](https://xkcd.com/1901)
 
-![Normal Distribution](./random_comic.png)
+![Logical](./random_comic.png)
 
-It's the NORMAL distribution, not the TANGENT distribution.
+It's like I've always said--people just need more common sense. But not the kind of common sense that lets them figure out that they're being condescended to by someone who thinks they're stupid, because then I'll be in trouble.
 
