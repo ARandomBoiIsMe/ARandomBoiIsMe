@@ -1,6 +1,6 @@
-[Fermat's First Theorem](https://xkcd.com/2689)
+[Mispronouncing](https://xkcd.com/148)
 
-![Fermat's First Theorem](./random_comic.png)
+![Mispronouncing](./random_comic.png)
 
-Mathematicians quickly determined that it spells ANT BNECN, an unusual theoretical dish which was not successfully cooked until Andrew Wiles made it for breakfast in the 1990s.
+My pal Emad does this all the time.  'Hey man, which way to the airpart?'
 
