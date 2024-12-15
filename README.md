@@ -1,6 +1,6 @@
-[Kill Hitler](https://xkcd.com/1063)
+[Internet Archive](https://xkcd.com/2102)
 
-![Kill Hitler](./random_comic.png)
+![Internet Archive](./random_comic.png)
 
-Revised directive: It is forbidden for you to interfere with human history until you've at least taken a class on it.
+The fact that things like the npm left-pad incident are so rare is oddly reassuring.
 
