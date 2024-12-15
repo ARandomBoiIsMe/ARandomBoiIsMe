@@ -1,6 +1,6 @@
-[Mispronouncing](https://xkcd.com/148)
+[Evidence of Alien Life](https://xkcd.com/2359)
 
-![Mispronouncing](./random_comic.png)
+![Evidence of Alien Life](./random_comic.png)
 
-My pal Emad does this all the time.  'Hey man, which way to the airpart?'
+Both too cautious AND not cautious enough: "I'm skeptical that those are aliens, so I'm going to try pulling off their masks."
 
