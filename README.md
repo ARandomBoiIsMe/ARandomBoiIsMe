@@ -1,6 +1,6 @@
-[Internet Archive](https://xkcd.com/2102)
+[Fermat's First Theorem](https://xkcd.com/2689)
 
-![Internet Archive](./random_comic.png)
+![Fermat's First Theorem](./random_comic.png)
 
-The fact that things like the npm left-pad incident are so rare is oddly reassuring.
+Mathematicians quickly determined that it spells ANT BNECN, an unusual theoretical dish which was not successfully cooked until Andrew Wiles made it for breakfast in the 1990s.
 
