@@ -1,6 +1,6 @@
-[SafetySat](https://xkcd.com/1992)
+[Conditionals](https://xkcd.com/1652)
 
-![SafetySat](./random_comic.png)
+![Conditionals](./random_comic.png)
 
-During launch, in the event of an unexpected sensor reading, SafetySat will extend prongs in all directions to secure itself and any other cubesats safely in the launch vehicle until the source of the problem can be determined.
+'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'
 
