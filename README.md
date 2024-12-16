@@ -1,6 +1,6 @@
-[Evidence of Alien Life](https://xkcd.com/2359)
+[Sierpinski Valentine](https://xkcd.com/543)
 
-![Evidence of Alien Life](./random_comic.png)
+![Sierpinski Valentine](./random_comic.png)
 
-Both too cautious AND not cautious enough: "I'm skeptical that those are aliens, so I'm going to try pulling off their masks."
+Especially you mouseover-text readers.  You're the best.  <3
 
