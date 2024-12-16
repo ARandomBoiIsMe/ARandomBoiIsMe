@@ -1,6 +1,6 @@
-[IMDb Vaccines](https://xkcd.com/2441)
+[SafetySat](https://xkcd.com/1992)
 
-![IMDb Vaccines](./random_comic.png)
+![SafetySat](./random_comic.png)
 
-I'm actually not sure if Vader and the Emperor count as a household or if Vader lives in that weird black egg thing or what.
+During launch, in the event of an unexpected sensor reading, SafetySat will extend prongs in all directions to secure itself and any other cubesats safely in the launch vehicle until the source of the problem can be determined.
 
