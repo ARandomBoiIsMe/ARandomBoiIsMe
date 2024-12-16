@@ -1,6 +1,6 @@
-[Sierpinski Valentine](https://xkcd.com/543)
+[IMDb Vaccines](https://xkcd.com/2441)
 
-![Sierpinski Valentine](./random_comic.png)
+![IMDb Vaccines](./random_comic.png)
 
-Especially you mouseover-text readers.  You're the best.  <3
+I'm actually not sure if Vader and the Emperor count as a household or if Vader lives in that weird black egg thing or what.
 
