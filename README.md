@@ -1,6 +1,6 @@
-[2018 CVE List](https://xkcd.com/1957)
+[Kerning](https://xkcd.com/1015)
 
-![2018 CVE List](./random_comic.png)
+![Kerning](./random_comic.png)
 
-CVE-2018-?????: It turns out Bruce Schneier is just two mischevious kids in a trenchcoat.
+I have never been as self-conscious about my handwriting as when I was inking in the caption for this comic.
 
