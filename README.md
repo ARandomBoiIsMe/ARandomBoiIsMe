@@ -1,6 +1,6 @@
-[Conditionals](https://xkcd.com/1652)
+[Automation](https://xkcd.com/1319)
 
-![Conditionals](./random_comic.png)
+![Automation](./random_comic.png)
 
-'If you're done being pedantic, we should get dinner.' 'You did it again!' 'No, I didn't.'
+'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.
 
