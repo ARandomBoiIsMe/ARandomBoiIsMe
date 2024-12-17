@@ -1,6 +1,6 @@
-[Automation](https://xkcd.com/1319)
+[2018 CVE List](https://xkcd.com/1957)
 
-![Automation](./random_comic.png)
+![2018 CVE List](./random_comic.png)
 
-'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.
+CVE-2018-?????: It turns out Bruce Schneier is just two mischevious kids in a trenchcoat.
 
