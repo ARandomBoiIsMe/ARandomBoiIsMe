@@ -1,6 +1,6 @@
-[Kerning](https://xkcd.com/1015)
+[Good and Bad Ideas](https://xkcd.com/2929)
 
-![Kerning](./random_comic.png)
+![Good and Bad Ideas](./random_comic.png)
 
-I have never been as self-conscious about my handwriting as when I was inking in the caption for this comic.
+While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.
 
