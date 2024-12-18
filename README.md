@@ -1,6 +1,6 @@
-[Pokémon Go](https://xkcd.com/1705)
+[Iceberg](https://xkcd.com/2787)
 
-![Pokémon Go](./random_comic.png)
+![Iceberg](./random_comic.png)
 
-Still waiting for the Pokémon Go update that lets you capture strangers' pets.
+90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%.
 
