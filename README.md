@@ -1,6 +1,6 @@
-[Iceberg](https://xkcd.com/2787)
+[Violin Plots](https://xkcd.com/1967)
 
-![Iceberg](./random_comic.png)
+![Violin Plots](./random_comic.png)
 
-90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%.
+Strictly speaking, 'violin' refers to the internal structure of the data. The external portion visible in the plot is called the 'viola.'
 
