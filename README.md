@@ -1,6 +1,6 @@
-[Good and Bad Ideas](https://xkcd.com/2929)
+[Pokémon Go](https://xkcd.com/1705)
 
-![Good and Bad Ideas](./random_comic.png)
+![Pokémon Go](./random_comic.png)
 
-While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.
+Still waiting for the Pokémon Go update that lets you capture strangers' pets.
 
