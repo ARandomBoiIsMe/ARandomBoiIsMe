@@ -1,6 +1,6 @@
-[Sitting in a Tree](https://xkcd.com/2919)
+[Improvised](https://xkcd.com/469)
 
-![Sitting in a Tree](./random_comic.png)
+![Improvised](./random_comic.png)
 
-First comes blood / Then we perish / Then comes Death in his Eternity Carriage.
+Oh, your brother is Luke.  Sorry, should've mentioned that first.
 
