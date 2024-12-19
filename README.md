@@ -1,6 +1,6 @@
-[Geohydrotypography](https://xkcd.com/2803)
+[Sitting in a Tree](https://xkcd.com/2919)
 
-![Geohydrotypography](./random_comic.png)
+![Sitting in a Tree](./random_comic.png)
 
-The Atlantic is expanding at about 10 ppm (points per month).
+First comes blood / Then we perish / Then comes Death in his Eternity Carriage.
 
