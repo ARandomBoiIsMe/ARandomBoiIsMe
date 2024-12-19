@@ -1,6 +1,6 @@
-[Mattresses](https://xkcd.com/2096)
+[Frankenstein Captcha](https://xkcd.com/2604)
 
-![Mattresses](./random_comic.png)
+![Frankenstein Captcha](./random_comic.png)
 
-After reading that "The War To Sell You A Mattress Is An Internet Nightmare" article, I've decided it's safer and less complicated to just sleep on the floor. DISCLOSURE: THE AUTHOR OF THIS MOUSEOVER TEXT RECEIVED FINANCIAL COMPENSATION FROM THE FLOOR INDUSTRY FOR THIS MESSAGE.
+The distinction between a ship and a boat is a line drawn in water.
 
