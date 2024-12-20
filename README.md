@@ -1,6 +1,6 @@
-[Ears](https://xkcd.com/1899)
+[Sitting in a Tree](https://xkcd.com/2919)
 
-![Ears](./random_comic.png)
+![Sitting in a Tree](./random_comic.png)
 
-My theory is that most humans have been colonized with alien mind-control slugs that hold the earbuds for them, and the ones who can't wear earbuds are the only surviving free ones.
+First comes blood / Then we perish / Then comes Death in his Eternity Carriage.
 
