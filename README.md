@@ -1,6 +1,6 @@
-[Frankenstein Captcha](https://xkcd.com/2604)
+[Ears](https://xkcd.com/1899)
 
-![Frankenstein Captcha](./random_comic.png)
+![Ears](./random_comic.png)
 
-The distinction between a ship and a boat is a line drawn in water.
+My theory is that most humans have been colonized with alien mind-control slugs that hold the earbuds for them, and the ones who can't wear earbuds are the only surviving free ones.
 
