@@ -1,6 +1,6 @@
-[Apocalypse](https://xkcd.com/599)
+[Craigslist Apartments](https://xkcd.com/886)
 
-![Apocalypse](./random_comic.png)
+![Craigslist Apartments](./random_comic.png)
 
-I wonder if I still have time to go shoot a short film with Kevin Bacon.
+$1600 / 1386153BR 3BATH, MODERN SLIDING DOORS, GUEST ROOMS, GARBAGE DISPOSAL. FREE MANDATORY PARKING (ENFORCED). CONVENIENT TO ALDERAAN.
 
