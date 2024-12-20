@@ -1,6 +1,6 @@
-[Sitting in a Tree](https://xkcd.com/2919)
+[Apocalypse](https://xkcd.com/599)
 
-![Sitting in a Tree](./random_comic.png)
+![Apocalypse](./random_comic.png)
 
-First comes blood / Then we perish / Then comes Death in his Eternity Carriage.
+I wonder if I still have time to go shoot a short film with Kevin Bacon.
 
