@@ -1,6 +1,6 @@
-[Craigslist Apartments](https://xkcd.com/886)
+[Unreachable State](https://xkcd.com/2200)
 
-![Craigslist Apartments](./random_comic.png)
+![Unreachable State](./random_comic.png)
 
-$1600 / 1386153BR 3BATH, MODERN SLIDING DOORS, GUEST ROOMS, GARBAGE DISPOSAL. FREE MANDATORY PARKING (ENFORCED). CONVENIENT TO ALDERAAN.
+ERROR: We've reached an unreachable state. Anything is possible. The limits were in our heads all along. Follow your dreams.
 
