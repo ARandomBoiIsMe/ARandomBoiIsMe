@@ -1,6 +1,6 @@
-[Gift Exchange](https://xkcd.com/2554)
+[MicroSD](https://xkcd.com/691)
 
-![Gift Exchange](./random_comic.png)
+![MicroSD](./random_comic.png)
 
-In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.
+That card holds a refrigerator carton's worth of floppy discs, and a soda can full of those cards could hold the entire iTunes store's music library. Mmmm.
 
