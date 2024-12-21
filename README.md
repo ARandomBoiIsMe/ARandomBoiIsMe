@@ -1,6 +1,6 @@
-[Unreachable State](https://xkcd.com/2200)
+[Gift Exchange](https://xkcd.com/2554)
 
-![Unreachable State](./random_comic.png)
+![Gift Exchange](./random_comic.png)
 
-ERROR: We've reached an unreachable state. Anything is possible. The limits were in our heads all along. Follow your dreams.
+In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.
 
