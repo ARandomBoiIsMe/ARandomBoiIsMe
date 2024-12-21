@@ -1,6 +1,6 @@
-[MicroSD](https://xkcd.com/691)
+[Fans](https://xkcd.com/131)
 
-![MicroSD](./random_comic.png)
+![Fans](./random_comic.png)
 
-That card holds a refrigerator carton's worth of floppy discs, and a soda can full of those cards could hold the entire iTunes store's music library. Mmmm.
+It's not going to break the fan, bouncing a rubber ball off the wall isn't going to dent it, and the roof can hold me just fine.  You LIED!
 
