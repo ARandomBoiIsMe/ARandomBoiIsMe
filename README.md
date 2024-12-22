@@ -1,6 +1,6 @@
-[Etymonline](https://xkcd.com/2722)
+[Merlin](https://xkcd.com/270)
 
-![Etymonline](./random_comic.png)
+![Merlin](./random_comic.png)
 
-NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology.
+I mean, the black-and-white stuff was running backward, but it hardly mattered to the story.
 
