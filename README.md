@@ -1,6 +1,6 @@
-[Couple](https://xkcd.com/355)
+[Etymonline](https://xkcd.com/2722)
 
-![Couple](./random_comic.png)
+![Etymonline](./random_comic.png)
 
-Facebook defines relationships.  'Yeah, we would have broken up last night, but the net connection was down.'
+NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology.
 
