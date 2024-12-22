@@ -1,6 +1,6 @@
-[Merlin](https://xkcd.com/270)
+[Location](https://xkcd.com/1143)
 
-![Merlin](./random_comic.png)
+![Location](./random_comic.png)
 
-I mean, the black-and-white stuff was running backward, but it hardly mattered to the story.
+Ingress: Foursquare With Space Noises.
 
