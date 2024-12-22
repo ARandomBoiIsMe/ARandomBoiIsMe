@@ -1,6 +1,6 @@
-[Fans](https://xkcd.com/131)
+[Couple](https://xkcd.com/355)
 
-![Fans](./random_comic.png)
+![Couple](./random_comic.png)
 
-It's not going to break the fan, bouncing a rubber ball off the wall isn't going to dent it, and the roof can hold me just fine.  You LIED!
+Facebook defines relationships.  'Yeah, we would have broken up last night, but the net connection was down.'
 
