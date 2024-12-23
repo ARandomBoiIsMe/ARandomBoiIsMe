@@ -1,6 +1,6 @@
-[Guest Week: Zach Weiner (SMBC)](https://xkcd.com/826)
+[Love Songs](https://xkcd.com/2870)
 
-![Guest Week: Zach Weiner (SMBC)](./random_comic.png)
+![Love Songs](./random_comic.png)
 
-Guest comic by Zach Weiner of Saturday Morning Breakfast Cereal. When I was stressed out, Zach gave me a talk that was really encouraging and somehow involved nanobots.
+The Piña Colada song carves a trajectory across the chart over the course of the song.
 
