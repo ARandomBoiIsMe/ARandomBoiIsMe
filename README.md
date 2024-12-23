@@ -1,6 +1,6 @@
-[Astronomy Numbers](https://xkcd.com/2707)
+[Exercise Progression](https://xkcd.com/2631)
 
-![Astronomy Numbers](./random_comic.png)
+![Exercise Progression](./random_comic.png)
 
-I adopted a cat that weighs 12 solar masses. Laser pointers love chasing it.
+They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!
 
