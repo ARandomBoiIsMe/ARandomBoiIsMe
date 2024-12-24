@@ -1,6 +1,6 @@
-[Exercise Progression](https://xkcd.com/2631)
+[Standards](https://xkcd.com/927)
 
-![Exercise Progression](./random_comic.png)
+![Standards](./random_comic.png)
 
-They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!
+Fortunately, the charging one has been solved now that we've all standardized on mini-USB. Or is it micro-USB? Shit.
 
