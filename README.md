@@ -1,6 +1,6 @@
-[Standards](https://xkcd.com/927)
+[Parody Week: A Softer World](https://xkcd.com/144)
 
-![Standards](./random_comic.png)
+![Parody Week: A Softer World](./random_comic.png)
 
-Fortunately, the charging one has been solved now that we've all standardized on mini-USB. Or is it micro-USB? Shit.
+The robot is pregnant.  It isn't mine.
 
