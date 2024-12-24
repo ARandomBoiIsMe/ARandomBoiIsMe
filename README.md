@@ -1,6 +1,6 @@
-[Parody Week: A Softer World](https://xkcd.com/144)
+[Pwned](https://xkcd.com/91)
 
-![Parody Week: A Softer World](./random_comic.png)
+![Pwned](./random_comic.png)
 
-The robot is pregnant.  It isn't mine.
+I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
 
