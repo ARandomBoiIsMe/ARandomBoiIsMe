@@ -1,6 +1,6 @@
-[Pwned](https://xkcd.com/91)
+[New Car](https://xkcd.com/570)
 
-![Pwned](./random_comic.png)
+![New Car](./random_comic.png)
 
-I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
+Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.
 
