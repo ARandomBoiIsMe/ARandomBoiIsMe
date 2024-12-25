@@ -1,6 +1,6 @@
-[Externalities](https://xkcd.com/1193)
+[Squirrelphone](https://xkcd.com/1578)
 
-![Externalities](./random_comic.png)
+![Squirrelphone](./random_comic.png)
 
-
+After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.
 
