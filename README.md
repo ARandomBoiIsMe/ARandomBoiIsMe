@@ -1,6 +1,6 @@
-[New Car](https://xkcd.com/570)
+[Mainly Known For](https://xkcd.com/2621)
 
-![New Car](./random_comic.png)
+![Mainly Known For](./random_comic.png)
 
-Somewhere out there is a company that has actually figured out how to enlarge penises, and it's helpless to reach potential customers.
+Oh sure, I know Keira Knightly, from the first movie in that series by The Land Before Time producer. You know, the franchise with the guy from Jurassic Park and Ghostwriter, and script work by Billie Lourd's mom?
 
