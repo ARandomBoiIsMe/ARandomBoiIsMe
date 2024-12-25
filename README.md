@@ -1,6 +1,6 @@
-[Rayleigh Scattering](https://xkcd.com/1818)
+[Externalities](https://xkcd.com/1193)
 
-![Rayleigh Scattering](./random_comic.png)
+![Externalities](./random_comic.png)
 
-If you ask "why are leaves green?" the usual answer is "because they're full of chlorophyll, and chlorophyll is green," even though "why does chlorophyll scatter green light?" is a great question too.
+
 
