@@ -1,6 +1,6 @@
-[Mainly Known For](https://xkcd.com/2621)
+[Rayleigh Scattering](https://xkcd.com/1818)
 
-![Mainly Known For](./random_comic.png)
+![Rayleigh Scattering](./random_comic.png)
 
-Oh sure, I know Keira Knightly, from the first movie in that series by The Land Before Time producer. You know, the franchise with the guy from Jurassic Park and Ghostwriter, and script work by Billie Lourd's mom?
+If you ask "why are leaves green?" the usual answer is "because they're full of chlorophyll, and chlorophyll is green," even though "why does chlorophyll scatter green light?" is a great question too.
 
