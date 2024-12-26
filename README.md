@@ -1,6 +1,6 @@
-[Bowl](https://xkcd.com/39)
+[Dual USB-C](https://xkcd.com/2493)
 
-![Bowl](./random_comic.png)
+![Dual USB-C](./random_comic.png)
 
-For the moment it's a standoff
+Small devices use two-prong USB-AC, but there's also a three-prong version with a USB-B plug as the ground.
 
