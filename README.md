@@ -1,6 +1,6 @@
-[Squirrelphone](https://xkcd.com/1578)
+[Margin](https://xkcd.com/1381)
 
-![Squirrelphone](./random_comic.png)
+![Margin](./random_comic.png)
 
-After a while, the squirrel starts making that beeping noise and doesn't stop until it hops back up onto the stump.
+PROTIP: You can get around the Shannon-Hartley limit by setting your font size to 0.
 
