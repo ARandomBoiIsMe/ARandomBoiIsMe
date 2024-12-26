@@ -1,6 +1,6 @@
-[Margin](https://xkcd.com/1381)
+[Code Quality 3](https://xkcd.com/1833)
 
-![Margin](./random_comic.png)
+![Code Quality 3](./random_comic.png)
 
-PROTIP: You can get around the Shannon-Hartley limit by setting your font size to 0.
+It's like a half-solved cryptogram where the solution is a piece of FORTH code written by someone who doesn't know FORTH.
 
