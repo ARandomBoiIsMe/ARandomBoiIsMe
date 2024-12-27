@@ -1,6 +1,6 @@
-[Immune Factory](https://xkcd.com/2491)
+[Aversion Fads](https://xkcd.com/471)
 
-![Immune Factory](./random_comic.png)
+![Aversion Fads](./random_comic.png)
 
-In the final vote, the doubters were won over by the strength of the name IMMUNION.
+Hey, are you friends with any hamsters?  This kite needs a passenger.
 
