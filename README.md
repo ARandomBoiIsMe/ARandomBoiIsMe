@@ -1,6 +1,6 @@
-[Pixels](https://xkcd.com/1416)
+[Polar/Cartesian](https://xkcd.com/1230)
 
-![Pixels](./random_comic.png)
+![Polar/Cartesian](./random_comic.png)
 
-It's turtles all the way down.
+Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.
 
