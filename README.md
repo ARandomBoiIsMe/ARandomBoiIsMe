@@ -1,6 +1,6 @@
-[Polar/Cartesian](https://xkcd.com/1230)
+[Immune Factory](https://xkcd.com/2491)
 
-![Polar/Cartesian](./random_comic.png)
+![Immune Factory](./random_comic.png)
 
-Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.
+In the final vote, the doubters were won over by the strength of the name IMMUNION.
 
