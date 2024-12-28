@@ -1,6 +1,6 @@
-[Heist](https://xkcd.com/2077)
+[Laptop Hell](https://xkcd.com/533)
 
-![Heist](./random_comic.png)
+![Laptop Hell](./random_comic.png)
 
-But he has a hat AND a toolbox! Where could someone planning a heist get THOSE?
+The xkcd.com sysadmin has a Q2010, and I can attest that it can handle a fall down several flight of concrete steps.  Relatedly, he's upset with me -- I hope he doesn't take revenge by messing with my site's contenDISREGARD THAT I SUCK COCKS
 
