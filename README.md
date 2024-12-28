@@ -1,6 +1,6 @@
-[Flowers](https://xkcd.com/34)
+[Heist](https://xkcd.com/2077)
 
-![Flowers](./random_comic.png)
+![Heist](./random_comic.png)
 
-This is actually pencil on paper, just inverted and colored
+But he has a hat AND a toolbox! Where could someone planning a heist get THOSE?
 
