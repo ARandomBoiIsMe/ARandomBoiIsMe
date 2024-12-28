@@ -1,6 +1,6 @@
-[Laptop Hell](https://xkcd.com/533)
+[The Drake Equation](https://xkcd.com/384)
 
-![Laptop Hell](./random_comic.png)
+![The Drake Equation](./random_comic.png)
 
-The xkcd.com sysadmin has a Q2010, and I can attest that it can handle a fall down several flight of concrete steps.  Relatedly, he's upset with me -- I hope he doesn't take revenge by messing with my site's contenDISREGARD THAT I SUCK COCKS
+But seriously, there's loads of intelligent life.  It's just not screaming constantly in all directions on the handful of frequencies we search.
 
