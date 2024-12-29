@@ -1,6 +1,6 @@
-[Immune Response](https://xkcd.com/2443)
+[Fetishes](https://xkcd.com/468)
 
-![Immune Response](./random_comic.png)
+![Fetishes](./random_comic.png)
 
-I don't care whether you win or lose, as long as you have-- ...okay, sorry, I'm being reminded I very much care whether you win or lose. I need you to win, that's very important.
+They eventually resolved this self-reference, but Cantor's 'everything-in-the-fetish-book-twice' parties finally sunk the idea.
 
