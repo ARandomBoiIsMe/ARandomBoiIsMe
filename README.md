@@ -1,6 +1,6 @@
-[Fetishes](https://xkcd.com/468)
+[Morning Routine](https://xkcd.com/490)
 
-![Fetishes](./random_comic.png)
+![Morning Routine](./random_comic.png)
 
-They eventually resolved this self-reference, but Cantor's 'everything-in-the-fetish-book-twice' parties finally sunk the idea.
+I had a really hard time not writing '... profit!'
 
