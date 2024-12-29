@@ -1,6 +1,6 @@
-[The Drake Equation](https://xkcd.com/384)
+[Immune Response](https://xkcd.com/2443)
 
-![The Drake Equation](./random_comic.png)
+![Immune Response](./random_comic.png)
 
-But seriously, there's loads of intelligent life.  It's just not screaming constantly in all directions on the handful of frequencies we search.
+I don't care whether you win or lose, as long as you have-- ...okay, sorry, I'm being reminded I very much care whether you win or lose. I need you to win, that's very important.
 
