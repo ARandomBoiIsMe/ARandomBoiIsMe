@@ -1,6 +1,6 @@
-[Gravitational Wave Pulsars](https://xkcd.com/2358)
+[All the Girls](https://xkcd.com/770)
 
-![Gravitational Wave Pulsars](./random_comic.png)
+![All the Girls](./random_comic.png)
 
-The most important attributes of a vector in 3-space are {Location, Location, Location}
+You know that I'll never leave you. Not as long as she's with someone.
 
