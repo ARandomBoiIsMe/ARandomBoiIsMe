@@ -1,6 +1,6 @@
-[All the Girls](https://xkcd.com/770)
+[Background Apps](https://xkcd.com/1965)
 
-![All the Girls](./random_comic.png)
+![Background Apps](./random_comic.png)
 
-You know that I'll never leave you. Not as long as she's with someone.
+My plane banner company gets business by flying around with a banner showing a <div> tag, waiting for a web developer to get frustrated enough to order a matching </div>.
 
