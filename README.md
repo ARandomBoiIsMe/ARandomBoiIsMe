@@ -1,6 +1,6 @@
-[Types of Scientific Paper](https://xkcd.com/2456)
+[Lunar Cycles](https://xkcd.com/2172)
 
-![Types of Scientific Paper](./random_comic.png)
+![Lunar Cycles](./random_comic.png)
 
-Others include "We've incrementally improved the estimate of this coefficient," "Maybe all these categories are wrong," and "We found a way to make student volunteers worse at tasks."
+The Antikythera mechanism had a whole set of gears specifically to track the cyclic popularity of skinny jeans and low-rise waists.
 
