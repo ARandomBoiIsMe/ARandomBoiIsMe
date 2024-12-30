@@ -1,6 +1,6 @@
-[Background Apps](https://xkcd.com/1965)
+[Types of Scientific Paper](https://xkcd.com/2456)
 
-![Background Apps](./random_comic.png)
+![Types of Scientific Paper](./random_comic.png)
 
-My plane banner company gets business by flying around with a banner showing a <div> tag, waiting for a web developer to get frustrated enough to order a matching </div>.
+Others include "We've incrementally improved the estimate of this coefficient," "Maybe all these categories are wrong," and "We found a way to make student volunteers worse at tasks."
 
