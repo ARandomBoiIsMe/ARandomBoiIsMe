@@ -1,6 +1,6 @@
-[Lunar Cycles](https://xkcd.com/2172)
+[Red Line Through HTTPS](https://xkcd.com/2634)
 
-![Lunar Cycles](./random_comic.png)
+![Red Line Through HTTPS](./random_comic.png)
 
-The Antikythera mechanism had a whole set of gears specifically to track the cyclic popularity of skinny jeans and low-rise waists.
+Some organization has been paying to keep this up and it hasn't been removed from search results. Seems like two votes of confidence to me.
 
