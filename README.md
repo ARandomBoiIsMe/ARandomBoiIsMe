@@ -1,6 +1,6 @@
-[Red Line Through HTTPS](https://xkcd.com/2634)
+[Rapid Test Results](https://xkcd.com/2558)
 
-![Red Line Through HTTPS](./random_comic.png)
+![Rapid Test Results](./random_comic.png)
 
-Some organization has been paying to keep this up and it hasn't been removed from search results. Seems like two votes of confidence to me.
+A solid red area with two white lines means that you have been infected with the anti-coronavirus, COVID+19, which will cure anyone you have close contact with.
 
