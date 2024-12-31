@@ -1,6 +1,6 @@
-[Parenthetical Names](https://xkcd.com/2252)
+[Nostalgia](https://xkcd.com/318)
 
-![Parenthetical Names](./random_comic.png)
+![Nostalgia](./random_comic.png)
 
-I never got around to seeing that movie about the battle (of Midway).
+If you don't get this one, don't google it.
 
