@@ -1,6 +1,6 @@
-[Worst Hurricane](https://xkcd.com/1407)
+[Daylight Saving Choice](https://xkcd.com/2846)
 
-![Worst Hurricane](./random_comic.png)
+![Daylight Saving Choice](./random_comic.png)
 
-'Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.
+I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.
 
