@@ -1,6 +1,6 @@
-[Thumbtacks And String](https://xkcd.com/2244)
+[Worst Hurricane](https://xkcd.com/1407)
 
-![Thumbtacks And String](./random_comic.png)
+![Worst Hurricane](./random_comic.png)
 
-A tattoo of a tattoo parlor receipt
+'Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.
 
