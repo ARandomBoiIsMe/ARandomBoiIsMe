@@ -1,6 +1,6 @@
-[Nostalgia](https://xkcd.com/318)
+[Thumbtacks And String](https://xkcd.com/2244)
 
-![Nostalgia](./random_comic.png)
+![Thumbtacks And String](./random_comic.png)
 
-If you don't get this one, don't google it.
+A tattoo of a tattoo parlor receipt
 
