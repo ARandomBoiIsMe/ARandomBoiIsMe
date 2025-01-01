@@ -1,6 +1,6 @@
-[Daylight Saving Choice](https://xkcd.com/2846)
+[Diet Coke+Mentos](https://xkcd.com/346)
 
-![Daylight Saving Choice](./random_comic.png)
+![Diet Coke+Mentos](./random_comic.png)
 
-I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.
+The cola+Mentos trick is up there with corn starch+water (vibrating platter optional) in scientific coolness out of common kitchen supplies.
 
