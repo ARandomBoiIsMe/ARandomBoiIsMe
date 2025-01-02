@@ -1,6 +1,6 @@
-[Gastroenterology](https://xkcd.com/2177)
+[Types of Editors](https://xkcd.com/1341)
 
-![Gastroenterology](./random_comic.png)
+![Types of Editors](./random_comic.png)
 
-"Mostly it means that I'm acutely aware that the kid one table over coughed as the server walked past with our food."
+m-x machineofdeath-mode
 
