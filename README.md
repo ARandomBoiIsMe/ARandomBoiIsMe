@@ -1,6 +1,6 @@
-[Heart-Stopping Texts](https://xkcd.com/2544)
+[Dangers](https://xkcd.com/369)
 
-![Heart-Stopping Texts](./random_comic.png)
+![Dangers](./random_comic.png)
 
-Was this your car? [looping 'image loading' animation]
+Zero results: 'snake charming' and 'haberdashery'.  (Things like 'car' and 'boating' and such are of course the highest, by a huge margin.)
 
