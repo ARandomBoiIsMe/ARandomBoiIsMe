@@ -1,6 +1,6 @@
-[Dangers](https://xkcd.com/369)
+[Gastroenterology](https://xkcd.com/2177)
 
-![Dangers](./random_comic.png)
+![Gastroenterology](./random_comic.png)
 
-Zero results: 'snake charming' and 'haberdashery'.  (Things like 'car' and 'boating' and such are of course the highest, by a huge margin.)
+"Mostly it means that I'm acutely aware that the kid one table over coughed as the server walked past with our food."
 
