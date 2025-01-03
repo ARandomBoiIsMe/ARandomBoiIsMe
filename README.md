@@ -1,6 +1,6 @@
-[Green Flash](https://xkcd.com/766)
+[Challengers](https://xkcd.com/2067)
 
-![Green Flash](./random_comic.png)
+![Challengers](./random_comic.png)
 
-The exact cause of the phenomenon is unknown, but it's thought to be linked to atmospheric refraction and you getting a really cool car.
+Use your mouse or fingers to pan + zoom. To edit the map, submit your ballot on November 6th.
 
