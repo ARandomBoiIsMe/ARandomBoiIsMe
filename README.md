@@ -1,6 +1,6 @@
-[Sphere](https://xkcd.com/1248)
+[Green Flash](https://xkcd.com/766)
 
-![Sphere](./random_comic.png)
+![Green Flash](./random_comic.png)
 
-This message brought to you by the Society of Astronomers Trapped on the Surface of a Sphere.
+The exact cause of the phenomenon is unknown, but it's thought to be linked to atmospheric refraction and you getting a really cool car.
 
