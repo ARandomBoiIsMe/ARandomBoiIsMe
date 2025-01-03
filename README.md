@@ -1,6 +1,6 @@
-[Types of Editors](https://xkcd.com/1341)
+[Sphere](https://xkcd.com/1248)
 
-![Types of Editors](./random_comic.png)
+![Sphere](./random_comic.png)
 
-m-x machineofdeath-mode
+This message brought to you by the Society of Astronomers Trapped on the Surface of a Sphere.
 
