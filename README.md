@@ -1,6 +1,6 @@
-[Challengers](https://xkcd.com/2067)
+[Math Paper](https://xkcd.com/410)
 
-![Challengers](./random_comic.png)
+![Math Paper](./random_comic.png)
 
-Use your mouse or fingers to pan + zoom. To edit the map, submit your ballot on November 6th.
+That's nothing.  I once lost my genetics, rocketry, and stripping licenses in a single incident.
 
