@@ -1,6 +1,6 @@
-[Spinal Tap Amps](https://xkcd.com/670)
+[Game Show](https://xkcd.com/2197)
 
-![Spinal Tap Amps](./random_comic.png)
+![Game Show](./random_comic.png)
 
-Wow, that's less than $200 per ... uh ... that's a good deal!
+Eventually they agreed to "an auto-retracting dog leash with one end clipped to your house, so you can press the button on the handle and water-ski home."
 
