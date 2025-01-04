@@ -1,6 +1,6 @@
-[Reading in the Original](https://xkcd.com/2168)
+[Spinal Tap Amps](https://xkcd.com/670)
 
-![Reading in the Original](./random_comic.png)
+![Spinal Tap Amps](./random_comic.png)
 
-The articles are much shorter, but I assume that's because this version predates the merger with the Hawaiian text that created the modern Hawaiian-Greek hybrid wiki-pedia.
+Wow, that's less than $200 per ... uh ... that's a good deal!
 
