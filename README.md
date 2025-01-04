@@ -1,6 +1,6 @@
-[Math Paper](https://xkcd.com/410)
+[Reading in the Original](https://xkcd.com/2168)
 
-![Math Paper](./random_comic.png)
+![Reading in the Original](./random_comic.png)
 
-That's nothing.  I once lost my genetics, rocketry, and stripping licenses in a single incident.
+The articles are much shorter, but I assume that's because this version predates the merger with the Hawaiian text that created the modern Hawaiian-Greek hybrid wiki-pedia.
 
