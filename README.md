@@ -1,6 +1,6 @@
-[To Be Wanted](https://xkcd.com/372)
+[Abstract Pickup](https://xkcd.com/2824)
 
-![To Be Wanted](./random_comic.png)
+![Abstract Pickup](./random_comic.png)
 
-Or so I hope?
+Escape Artist Frees Self From Conversation With Pickup Artist
 
