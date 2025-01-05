@@ -1,6 +1,6 @@
-[Atoms](https://xkcd.com/1490)
+[Panama Canal](https://xkcd.com/2127)
 
-![Atoms](./random_comic.png)
+![Panama Canal](./random_comic.png)
 
-When I was little I had trouble telling my dad apart from the dog. I always recognized my mom because she had a bunch of extra plutoniums in her middle. I never did ask her why ...
+Once they selected the other proposal, we could have kept shopping ours around, but we would had to modify it include an aqueduct over their canal, which would be totally unreasonable.
 
