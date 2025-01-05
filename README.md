@@ -1,6 +1,6 @@
-[Abstract Pickup](https://xkcd.com/2824)
+[Atoms](https://xkcd.com/1490)
 
-![Abstract Pickup](./random_comic.png)
+![Atoms](./random_comic.png)
 
-Escape Artist Frees Self From Conversation With Pickup Artist
+When I was little I had trouble telling my dad apart from the dog. I always recognized my mom because she had a bunch of extra plutoniums in her middle. I never did ask her why ...
 
