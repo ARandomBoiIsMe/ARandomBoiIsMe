@@ -1,6 +1,6 @@
-[Panama Canal](https://xkcd.com/2127)
+[Monty Python -- Enough](https://xkcd.com/16)
 
-![Panama Canal](./random_comic.png)
+![Monty Python -- Enough](./random_comic.png)
 
-Once they selected the other proposal, we could have kept shopping ours around, but we would had to modify it include an aqueduct over their canal, which would be totally unreasonable.
+I went to a dinner where there was a full 10 minutes of Holy Grail quotes exchanged, with no context, in lieu of conversation.  It depressed me badly.
 
