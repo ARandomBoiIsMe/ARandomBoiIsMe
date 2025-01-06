@@ -1,6 +1,6 @@
-[Earth-Like Exoplanet](https://xkcd.com/2202)
+[Content Protection](https://xkcd.com/129)
 
-![Earth-Like Exoplanet](./random_comic.png)
+![Content Protection](./random_comic.png)
 
-Fire is actually a potential biosignature, since it means something is filling the atmosphere with an unstable gas like oxygen. If we find a planet covered in flames, it might be an indicator that it supports life. Or used to, anyway, before the fire.
+If you think the purveyors of DRM simply want to protect artists, check out chapters 13 and 14 in Free Culture, by Lawrence Lessig.  Their goal is the elimination of all culture they don't control.
 
