@@ -1,6 +1,6 @@
-[Monty Python -- Enough](https://xkcd.com/16)
+[Earth-Like Exoplanet](https://xkcd.com/2202)
 
-![Monty Python -- Enough](./random_comic.png)
+![Earth-Like Exoplanet](./random_comic.png)
 
-I went to a dinner where there was a full 10 minutes of Holy Grail quotes exchanged, with no context, in lieu of conversation.  It depressed me badly.
+Fire is actually a potential biosignature, since it means something is filling the atmosphere with an unstable gas like oxygen. If we find a planet covered in flames, it might be an indicator that it supports life. Or used to, anyway, before the fire.
 
