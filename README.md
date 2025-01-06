@@ -1,6 +1,6 @@
-[Canada](https://xkcd.com/180)
+[Craigslist Apartments](https://xkcd.com/886)
 
-![Canada](./random_comic.png)
+![Craigslist Apartments](./random_comic.png)
 
-IT'S ALL REAL
+$1600 / 1386153BR 3BATH, MODERN SLIDING DOORS, GUEST ROOMS, GARBAGE DISPOSAL. FREE MANDATORY PARKING (ENFORCED). CONVENIENT TO ALDERAAN.
 
