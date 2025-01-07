@@ -1,6 +1,6 @@
-[Cursive Letters](https://xkcd.com/2912)
+[Star Trek into Darkness](https://xkcd.com/1167)
 
-![Cursive Letters](./random_comic.png)
+![Star Trek into Darkness](./random_comic.png)
 
-𝓘 𝓽𝓱𝓲𝓷𝓴 𝓬𝓪𝓹𝓲𝓽𝓪𝓵 𝓛 𝓲𝓼 𝓹𝓻𝓸𝓫𝓪𝓫𝓵𝔂 𝓽𝓱𝓮 𝓶𝓸𝓼𝓽 𝓯𝓾𝓷 𝓽𝓸 𝔀𝓻𝓲𝓽𝓮, 𝓽𝓱𝓸𝓾𝓰𝓱 𝓵𝓸𝔀𝓮𝓻𝓬𝓪𝓼𝓮 𝓺 𝓲𝓼 𝓪𝓵𝓼𝓸 𝓪 𝓼𝓽𝓻𝓸𝓷𝓰 𝓬𝓸𝓷𝓽𝓮𝓷𝓭𝓮𝓻.
+Of course, factions immediately sprang up in favor of '~*~sTaR tReK iNtO dArKnEsS~*~', 'xX_StAr TrEk InTo DaRkNess_Xx', and 'Star Trek lnto Darkness' (that's a lowercase 'L').
 
