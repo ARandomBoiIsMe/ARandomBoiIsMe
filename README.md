@@ -1,6 +1,6 @@
-[Aspect Ratio](https://xkcd.com/1187)
+[Quantum Mechanics](https://xkcd.com/1240)
 
-![Aspect Ratio](./random_comic.png)
+![Quantum Mechanics](./random_comic.png)
 
-I'm always disappointed when 'Anamorphic Widescreen' doesn't refer to a widescreen Animorphs movie.
+You can also just ignore any science assertion where 'quantum mechanics' is the most complicated phrase in it.
 
