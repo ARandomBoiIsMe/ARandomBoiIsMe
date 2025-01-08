@@ -1,6 +1,6 @@
-[Rainbow](https://xkcd.com/1684)
+[The Cloud](https://xkcd.com/908)
 
-![Rainbow](./random_comic.png)
+![The Cloud](./random_comic.png)
 
-Listen, in a few thousand years you'll invent a game called 'SimCity' which has a 'disaster' button, and then you'll understand.
+There's planned downtime every night when we turn on the Roomba and it runs over the cord.
 
