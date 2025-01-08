@@ -1,6 +1,6 @@
-[The Cloud](https://xkcd.com/908)
+[Jurassic World](https://xkcd.com/1452)
 
-![The Cloud](./random_comic.png)
+![Jurassic World](./random_comic.png)
 
-There's planned downtime every night when we turn on the Roomba and it runs over the cord.
+Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.
 
