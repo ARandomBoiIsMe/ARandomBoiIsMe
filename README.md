@@ -1,6 +1,6 @@
-[Dimensional Analysis](https://xkcd.com/687)
+[Rainbow](https://xkcd.com/1684)
 
-![Dimensional Analysis](./random_comic.png)
+![Rainbow](./random_comic.png)
 
-Or the pressure at the Earth's core will rise slightly.
+Listen, in a few thousand years you'll invent a game called 'SimCity' which has a 'disaster' button, and then you'll understand.
 
