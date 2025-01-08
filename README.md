@@ -1,6 +1,6 @@
-[Quantum Mechanics](https://xkcd.com/1240)
+[Dimensional Analysis](https://xkcd.com/687)
 
-![Quantum Mechanics](./random_comic.png)
+![Dimensional Analysis](./random_comic.png)
 
-You can also just ignore any science assertion where 'quantum mechanics' is the most complicated phrase in it.
+Or the pressure at the Earth's core will rise slightly.
 
