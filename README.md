@@ -1,6 +1,6 @@
-[Update Your Address](https://xkcd.com/2075)
+[California](https://xkcd.com/1410)
 
-![Update Your Address](./random_comic.png)
+![California](./random_comic.png)
 
-This is my four-digit PIN. It was passed down to me by my father, and someday I will pass it on to you. Unless we figure out how to update it, but that sounds complicated.
+58% of the state has gone into plaid.
 
