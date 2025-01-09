@@ -1,6 +1,6 @@
-[California](https://xkcd.com/1410)
+[Stargazing 2](https://xkcd.com/2017)
 
-![California](./random_comic.png)
+![Stargazing 2](./random_comic.png)
 
-58% of the state has gone into plaid.
+I mean, it wasn't exactly MY thesis. When the FAA came to shut down our observatory for using the telescope mirror to shine light at airplanes, I took a thesis and a bunch of doctorates from the supply cabinet on my way out.
 
