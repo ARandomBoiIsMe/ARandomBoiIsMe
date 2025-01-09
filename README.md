@@ -1,6 +1,6 @@
-[Jurassic World](https://xkcd.com/1452)
+[Update Your Address](https://xkcd.com/2075)
 
-![Jurassic World](./random_comic.png)
+![Update Your Address](./random_comic.png)
 
-Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.
+This is my four-digit PIN. It was passed down to me by my father, and someday I will pass it on to you. Unless we figure out how to update it, but that sounds complicated.
 
