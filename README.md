@@ -1,6 +1,6 @@
-[Basketball Earth](https://xkcd.com/1515)
+[Air Handler](https://xkcd.com/2753)
 
-![Basketball Earth](./random_comic.png)
+![Air Handler](./random_comic.png)
 
-How many points do you get for dunking every basketball in existence at once?
+It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate.
 
