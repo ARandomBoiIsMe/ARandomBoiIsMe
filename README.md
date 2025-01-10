@@ -1,6 +1,6 @@
-[Dating Pools](https://xkcd.com/314)
+[Basketball Earth](https://xkcd.com/1515)
 
-![Dating Pools](./random_comic.png)
+![Basketball Earth](./random_comic.png)
 
-The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.
+How many points do you get for dunking every basketball in existence at once?
 
