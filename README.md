@@ -1,6 +1,6 @@
-[Dimensions](https://xkcd.com/1524)
+[Dating Pools](https://xkcd.com/314)
 
-![Dimensions](./random_comic.png)
+![Dating Pools](./random_comic.png)
 
-I would say time is definitely one of my top three favorite dimensions.
+The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.
 
