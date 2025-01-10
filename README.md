@@ -1,6 +1,6 @@
-[Europa Clipper](https://xkcd.com/3011)
+[Dimensions](https://xkcd.com/1524)
 
-![Europa Clipper](./random_comic.png)
+![Dimensions](./random_comic.png)
 
-They had BETTER make this a sample return mission.
+I would say time is definitely one of my top three favorite dimensions.
 
