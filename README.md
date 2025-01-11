@@ -1,6 +1,6 @@
-[Air Handler](https://xkcd.com/2753)
+[Getting Out of Hand](https://xkcd.com/333)
 
-![Air Handler](./random_comic.png)
+![Getting Out of Hand](./random_comic.png)
 
-It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate.
+Wikipedia's role as brain-extension, while a little troubling, is also really cool.
 
