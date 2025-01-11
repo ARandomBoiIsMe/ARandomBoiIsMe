@@ -1,6 +1,6 @@
-[Moon Landing Mission Profiles](https://xkcd.com/2909)
+[Five-Minute Comics: Part 1](https://xkcd.com/819)
 
-![Moon Landing Mission Profiles](./random_comic.png)
+![Five-Minute Comics: Part 1](./random_comic.png)
 
-If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder.
+The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.
 
