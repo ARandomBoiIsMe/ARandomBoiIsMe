@@ -1,6 +1,6 @@
-[Five-Minute Comics: Part 1](https://xkcd.com/819)
+[Upcoming Hurricanes](https://xkcd.com/453)
 
-![Five-Minute Comics: Part 1](./random_comic.png)
+![Upcoming Hurricanes](./random_comic.png)
 
-The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.
+I'd like to see more damage assessments for hurricanes hitting New York and flooding Manhattan -- something like the 1938 Long Island Express, but aimed a bit more to the west.  It's just a matter of time.
 
