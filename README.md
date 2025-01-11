@@ -1,6 +1,6 @@
-[Getting Out of Hand](https://xkcd.com/333)
+[Moon Landing Mission Profiles](https://xkcd.com/2909)
 
-![Getting Out of Hand](./random_comic.png)
+![Moon Landing Mission Profiles](./random_comic.png)
 
-Wikipedia's role as brain-extension, while a little troubling, is also really cool.
+If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder.
 
