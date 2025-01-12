@@ -1,6 +1,6 @@
-[Cells](https://xkcd.com/1217)
+[Presidential Alert](https://xkcd.com/1435)
 
-![Cells](./random_comic.png)
+![Presidential Alert](./random_comic.png)
 
-Now, if it selectively kills cancer cells in a petri dish, you can be sure it's at least a great breakthrough for everyone suffering from petri dish cancer.
+When putting his kids to bed, after saying 'Goodnight', Obama has to stop himself from saying 'God bless you, and God bless the United States of America.'
 
