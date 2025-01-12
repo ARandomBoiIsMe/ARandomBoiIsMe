@@ -1,6 +1,6 @@
-[Presidential Alert](https://xkcd.com/1435)
+[X](https://xkcd.com/2309)
 
-![Presidential Alert](./random_comic.png)
+![X](./random_comic.png)
 
-When putting his kids to bed, after saying 'Goodnight', Obama has to stop himself from saying 'God bless you, and God bless the United States of America.'
+The worst is when you run out of monospaced fonts and have to use variable-width variables.
 
