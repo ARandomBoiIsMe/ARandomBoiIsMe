@@ -1,6 +1,6 @@
-[Golden Hammer](https://xkcd.com/801)
+[Omniknot](https://xkcd.com/2738)
 
-![Golden Hammer](./random_comic.png)
+![Omniknot](./random_comic.png)
 
-Took me five tries to find the right one, but I managed to salvage our night out--if not the boat--in the end.
+The Gordian knot is an omniknot tied using every bend in the Ashley Book of Knots, and then for extra security the upper rope at every crossing is connected to the lower with a randomly-chosen hitch.
 
