@@ -1,6 +1,6 @@
-[X](https://xkcd.com/2309)
+[Autumn and Fall](https://xkcd.com/2825)
 
-![X](./random_comic.png)
+![Autumn and Fall](./random_comic.png)
 
-The worst is when you run out of monospaced fonts and have to use variable-width variables.
+Of course in reality this is just a US/UK thing; in British English, 'fall' is the brief period in between and 'autumn' is the main season.
 
