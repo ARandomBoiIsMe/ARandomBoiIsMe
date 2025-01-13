@@ -1,6 +1,6 @@
-[Autumn and Fall](https://xkcd.com/2825)
+[Ears](https://xkcd.com/1899)
 
-![Autumn and Fall](./random_comic.png)
+![Ears](./random_comic.png)
 
-Of course in reality this is just a US/UK thing; in British English, 'fall' is the brief period in between and 'autumn' is the main season.
+My theory is that most humans have been colonized with alien mind-control slugs that hold the earbuds for them, and the ones who can't wear earbuds are the only surviving free ones.
 
