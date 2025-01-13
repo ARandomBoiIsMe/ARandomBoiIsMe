@@ -1,6 +1,6 @@
-[Ears](https://xkcd.com/1899)
+[Golden Hammer](https://xkcd.com/801)
 
-![Ears](./random_comic.png)
+![Golden Hammer](./random_comic.png)
 
-My theory is that most humans have been colonized with alien mind-control slugs that hold the earbuds for them, and the ones who can't wear earbuds are the only surviving free ones.
+Took me five tries to find the right one, but I managed to salvage our night out--if not the boat--in the end.
 
