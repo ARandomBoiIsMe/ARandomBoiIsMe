@@ -1,6 +1,6 @@
-[Symptoms](https://xkcd.com/2279)
+[Canyon](https://xkcd.com/13)
 
-![Symptoms](./random_comic.png)
+![Canyon](./random_comic.png)
 
-This medicine says it may cause lightheadedness, dry mouth, and blurred vision, but my head feels incredibly heavy, water is pouring from my mouth, and I can see individual hummingbird wingbeats, so I think I'm fine.
+They're standing at the lip of the canyon, which isn't clear at all.
 
