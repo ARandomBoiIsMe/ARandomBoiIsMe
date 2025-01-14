@@ -1,6 +1,6 @@
-[Omniknot](https://xkcd.com/2738)
+[Symptoms](https://xkcd.com/2279)
 
-![Omniknot](./random_comic.png)
+![Symptoms](./random_comic.png)
 
-The Gordian knot is an omniknot tied using every bend in the Ashley Book of Knots, and then for extra security the upper rope at every crossing is connected to the lower with a randomly-chosen hitch.
+This medicine says it may cause lightheadedness, dry mouth, and blurred vision, but my head feels incredibly heavy, water is pouring from my mouth, and I can see individual hummingbird wingbeats, so I think I'm fine.
 
