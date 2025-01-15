@@ -1,6 +1,6 @@
-[Rogers St.](https://xkcd.com/884)
+[Space Launch System](https://xkcd.com/984)
 
-![Rogers St.](./random_comic.png)
+![Space Launch System](./random_comic.png)
 
-'We can also use middle names in place of first pet's names, but yours is something incomprehensible about dropping tables.'
+The SLS head engineer plans to invite Shania Twain to stand under the completed prototype, then tell her, 'I don't expect you to date me just because I'm a rocket scientist, but you've gotta admit--this is pretty fucking impressive.'
 
