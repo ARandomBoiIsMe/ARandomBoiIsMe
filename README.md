@@ -1,6 +1,6 @@
-[Time Machines](https://xkcd.com/1203)
+[Warning](https://xkcd.com/1075)
 
-![Time Machines](./random_comic.png)
+![Warning](./random_comic.png)
 
-'All time machine systems nominal ... T-minus ten ... eleven ...'
+Also possibly several miles beyond that.
 
