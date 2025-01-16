@@ -1,6 +1,6 @@
-[Romantic Drama Equation](https://xkcd.com/216)
+[t Distribution](https://xkcd.com/1347)
 
-![Romantic Drama Equation](./random_comic.png)
+![t Distribution](./random_comic.png)
 
-Real-life prospective-pairing curves over things like age can get depressing.
+If data fails the Teacher's t test, you can just force it to take the test again until it passes.
 
