@@ -1,6 +1,6 @@
-[t Distribution](https://xkcd.com/1347)
+[Icon Swap](https://xkcd.com/2183)
 
-![t Distribution](./random_comic.png)
+![Icon Swap](./random_comic.png)
 
-If data fails the Teacher's t test, you can just force it to take the test again until it passes.
+Someone's probably working on an eBook app where, if you stop reading right before some plot twist happens, the app will wait a while and then send you a breaking news alert about what's happening, prompting you to open it and read the next few pages to learn more.
 
