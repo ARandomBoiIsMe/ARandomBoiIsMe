@@ -1,6 +1,6 @@
-[Public Key](https://xkcd.com/1553)
+[Romantic Drama Equation](https://xkcd.com/216)
 
-![Public Key](./random_comic.png)
+![Romantic Drama Equation](./random_comic.png)
 
-I guess I should be signing stuff, but I've never been sure what to sign. Maybe if I post my private key, I can crowdsource my decisions about what to sign.
+Real-life prospective-pairing curves over things like age can get depressing.
 
