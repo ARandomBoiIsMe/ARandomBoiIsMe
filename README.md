@@ -1,6 +1,6 @@
-[1337: Part 4](https://xkcd.com/344)
+[Brand Identity](https://xkcd.com/993)
 
-![1337: Part 4](./random_comic.png)
+![Brand Identity](./random_comic.png)
 
-Mrs. Roberts would have gotten up sooner, of course, but she was busy piping find ~ and find ~nomad into xargs shred, just in case.
+Legally-mandated information would be printed on the back or discreetly along the bottom. In small letters under the nutrition information it would say 'Like our products? Visit our website!' There would be no URL.
 
