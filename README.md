@@ -1,6 +1,6 @@
-[Forgetting](https://xkcd.com/379)
+[Superzoom](https://xkcd.com/1719)
 
-![Forgetting](./random_comic.png)
+![Superzoom](./random_comic.png)
 
-Of course, the assert doesn't work.
+*click* Let him know he's got a stain on his shirt, though.
 
