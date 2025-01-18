@@ -1,6 +1,6 @@
-[Foucault Pendulum](https://xkcd.com/2201)
+[Infrastructures](https://xkcd.com/743)
 
-![Foucault Pendulum](./random_comic.png)
+![Infrastructures](./random_comic.png)
 
-Trust me, you don't want to get on the wrong side of the paramilitary enforcement arm of the International Earth Rotation and Reference Systems Service.
+The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.
 
