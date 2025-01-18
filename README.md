@@ -1,6 +1,6 @@
-[Flying Cars](https://xkcd.com/864)
+[Hitler](https://xkcd.com/29)
 
-![Flying Cars](./random_comic.png)
+![Hitler](./random_comic.png)
 
-It's hard to fit in the backseat of my flying car with my android Realdoll when we're both wearing jetpacks.
+So he's saying that God thought Hitler's art was so bad that the Holocaust was an acceptable alternative.  It's no secret that the hat guy is closely based on Aram, from Men in Hats.
 
