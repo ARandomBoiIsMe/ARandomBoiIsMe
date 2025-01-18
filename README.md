@@ -1,6 +1,6 @@
-[Hitler](https://xkcd.com/29)
+[Foucault Pendulum](https://xkcd.com/2201)
 
-![Hitler](./random_comic.png)
+![Foucault Pendulum](./random_comic.png)
 
-So he's saying that God thought Hitler's art was so bad that the Holocaust was an acceptable alternative.  It's no secret that the hat guy is closely based on Aram, from Men in Hats.
+Trust me, you don't want to get on the wrong side of the paramilitary enforcement arm of the International Earth Rotation and Reference Systems Service.
 
