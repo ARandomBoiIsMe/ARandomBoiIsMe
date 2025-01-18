@@ -1,6 +1,6 @@
-[Brand Identity](https://xkcd.com/993)
+[Flying Cars](https://xkcd.com/864)
 
-![Brand Identity](./random_comic.png)
+![Flying Cars](./random_comic.png)
 
-Legally-mandated information would be printed on the back or discreetly along the bottom. In small letters under the nutrition information it would say 'Like our products? Visit our website!' There would be no URL.
+It's hard to fit in the backseat of my flying car with my android Realdoll when we're both wearing jetpacks.
 
