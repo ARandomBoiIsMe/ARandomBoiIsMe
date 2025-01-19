@@ -1,6 +1,6 @@
-[Infrastructures](https://xkcd.com/743)
+[Escape Artist](https://xkcd.com/234)
 
-![Infrastructures](./random_comic.png)
+![Escape Artist](./random_comic.png)
 
-The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.
+Easier to escape: n-layered nested quotes or an iron maiden?
 
