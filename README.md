@@ -1,6 +1,6 @@
-[New Sports System](https://xkcd.com/2291)
+[Poll Watching](https://xkcd.com/1130)
 
-![New Sports System](./random_comic.png)
+![Poll Watching](./random_comic.png)
 
-Under my system, boxing and football suffered, pair figure skating still worked but had to adapt by dropping some moves, and pro wrestling was actually completely unaffected.
+The choices we make Tuesday could have MASSIVE and PERMANENT effects on the charts on Nate Silver's blog!
 
