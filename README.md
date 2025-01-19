@@ -1,6 +1,6 @@
-[Poll Watching](https://xkcd.com/1130)
+[Spider Paleontology](https://xkcd.com/1747)
 
-![Poll Watching](./random_comic.png)
+![Spider Paleontology](./random_comic.png)
 
-The choices we make Tuesday could have MASSIVE and PERMANENT effects on the charts on Nate Silver's blog!
+Whenever you see a video of birds doing something weird, remember: Birds are a small subset of dinosaurs, so the weirdness of birds is a small subset of the weirdness of dinosaurs.
 
