@@ -1,6 +1,6 @@
-[Escape Artist](https://xkcd.com/234)
+[New Sports System](https://xkcd.com/2291)
 
-![Escape Artist](./random_comic.png)
+![New Sports System](./random_comic.png)
 
-Easier to escape: n-layered nested quotes or an iron maiden?
+Under my system, boxing and football suffered, pair figure skating still worked but had to adapt by dropping some moves, and pro wrestling was actually completely unaffected.
 
