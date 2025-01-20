@@ -1,6 +1,6 @@
-[Invisible Formatting](https://xkcd.com/2109)
+[Conditional Risk](https://xkcd.com/795)
 
-![Invisible Formatting](./random_comic.png)
+![Conditional Risk](./random_comic.png)
 
-To avoid errors like this, we render all text and pipe it through OCR before processing, fixing a handful of irregular bugs by burying them beneath a smooth, uniform layer of bugs.
+'Dude, wait -- I'm not American! So my risk is basically zero!'
 
