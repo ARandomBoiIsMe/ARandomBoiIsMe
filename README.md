@@ -1,6 +1,6 @@
-[Conditional Risk](https://xkcd.com/795)
+[Robot Future](https://xkcd.com/1968)
 
-![Conditional Risk](./random_comic.png)
+![Robot Future](./random_comic.png)
 
-'Dude, wait -- I'm not American! So my risk is basically zero!'
+I mean, we already live in a world of flying robots killing people. I don't worry about how powerful the machines are, I worry about who the machines give power to.
 
