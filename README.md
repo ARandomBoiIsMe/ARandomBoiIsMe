@@ -1,6 +1,6 @@
-[Robot Future](https://xkcd.com/1968)
+[Nanobots](https://xkcd.com/865)
 
-![Robot Future](./random_comic.png)
+![Nanobots](./random_comic.png)
 
-I mean, we already live in a world of flying robots killing people. I don't worry about how powerful the machines are, I worry about who the machines give power to.
+I think the IETF hit the right balance with the 128 bits thing. We can fit MAC addresses in a /64 subnet, and the nanobots will only be able to devour half the planet.
 
