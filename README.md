@@ -1,6 +1,6 @@
-[Journal 2](https://xkcd.com/377)
+[Path Minimization](https://xkcd.com/2821)
 
-![Journal 2](./random_comic.png)
+![Path Minimization](./random_comic.png)
 
-That's my hat!  You took my hat!
+Of course you get an ice cream cone for the swimmer too! You're not a monster.
 
