@@ -1,6 +1,6 @@
-[Nanobots](https://xkcd.com/865)
+[Stanislav Petrov Day](https://xkcd.com/2052)
 
-![Nanobots](./random_comic.png)
+![Stanislav Petrov Day](./random_comic.png)
 
-I think the IETF hit the right balance with the 128 bits thing. We can fit MAC addresses in a /64 subnet, and the nanobots will only be able to devour half the planet.
+I was going to get you an alarm clock that occasionally goes off randomly in the middle of the night, but you can ignore it and go back to sleep and it's fine.
 
