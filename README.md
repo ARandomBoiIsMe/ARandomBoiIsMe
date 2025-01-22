@@ -1,6 +1,6 @@
-[Differentiation and Integration](https://xkcd.com/2117)
+[Average Familiarity](https://xkcd.com/2501)
 
-![Differentiation and Integration](./random_comic.png)
+![Average Familiarity](./random_comic.png)
 
-"Symbolic integration" is when you theatrically go through the motions of finding integrals, but the actual result you get doesn't matter because it's purely symbolic.
+How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!
 
