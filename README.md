@@ -1,6 +1,6 @@
-[Cold Air](https://xkcd.com/3016)
+[Chemtrails](https://xkcd.com/2654)
 
-![Cold Air](./random_comic.png)
+![Chemtrails](./random_comic.png)
 
-We also should really have checked that the old water tower was disconnected from the water system before we started filling it with compressed air.
+Ants have reverse chemtrails--regular citizens spraying chemicals everywhere they go to control the government.
 
