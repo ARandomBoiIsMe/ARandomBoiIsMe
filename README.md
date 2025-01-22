@@ -1,6 +1,6 @@
-[Chemtrails](https://xkcd.com/2654)
+[Differentiation and Integration](https://xkcd.com/2117)
 
-![Chemtrails](./random_comic.png)
+![Differentiation and Integration](./random_comic.png)
 
-Ants have reverse chemtrails--regular citizens spraying chemicals everywhere they go to control the government.
+"Symbolic integration" is when you theatrically go through the motions of finding integrals, but the actual result you get doesn't matter because it's purely symbolic.
 
