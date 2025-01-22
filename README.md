@@ -1,6 +1,6 @@
-[Path Minimization](https://xkcd.com/2821)
+[Cold Air](https://xkcd.com/3016)
 
-![Path Minimization](./random_comic.png)
+![Cold Air](./random_comic.png)
 
-Of course you get an ice cream cone for the swimmer too! You're not a monster.
+We also should really have checked that the old water tower was disconnected from the water system before we started filling it with compressed air.
 
