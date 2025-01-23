@@ -1,6 +1,6 @@
-[Barrel - Part 2](https://xkcd.com/11)
+[Starwatching](https://xkcd.com/428)
 
-![Barrel - Part 2](./random_comic.png)
+![Starwatching](./random_comic.png)
 
-Awww.
+I always figured the word 'blog' would sound *less* silly as the years went by.
 
