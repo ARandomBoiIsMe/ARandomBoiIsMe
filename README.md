@@ -1,6 +1,6 @@
-[Average Familiarity](https://xkcd.com/2501)
+[Cosmologist Genres](https://xkcd.com/2340)
 
-![Average Familiarity](./random_comic.png)
+![Cosmologist Genres](./random_comic.png)
 
-How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!
+Inflationary cosmologists call all music from after the first 10^-30 seconds "post-"
 
