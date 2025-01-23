@@ -1,6 +1,6 @@
-[Cosmologist Genres](https://xkcd.com/2340)
+[Reassuring](https://xkcd.com/1263)
 
-![Cosmologist Genres](./random_comic.png)
+![Reassuring](./random_comic.png)
 
-Inflationary cosmologists call all music from after the first 10^-30 seconds "post-"
+'At least humans are better at quietly amusing ourselves, oblivious to our pending obsolescence' thought the human, as a nearby Dell Inspiron contentedly displayed the same bouncing geometric shape screensaver it had been running for years.
 
