@@ -1,6 +1,6 @@
-[<span style="color: #0000ED">House</span> of Pancakes](https://xkcd.com/472)
+[Chemistry](https://xkcd.com/1442)
 
-![<span style="color: #0000ED">House</span> of Pancakes](./random_comic.png)
+![Chemistry](./random_comic.png)
 
-Fuck it.  I'm just going to Waffle House.
+These are all sans-serif compounds. Serif compounds are dramatically different and usually much more reactive.
 
