@@ -1,6 +1,6 @@
-[Starwatching](https://xkcd.com/428)
+[Violin Plots](https://xkcd.com/1967)
 
-![Starwatching](./random_comic.png)
+![Violin Plots](./random_comic.png)
 
-I always figured the word 'blog' would sound *less* silly as the years went by.
+Strictly speaking, 'violin' refers to the internal structure of the data. The external portion visible in the plot is called the 'viola.'
 
