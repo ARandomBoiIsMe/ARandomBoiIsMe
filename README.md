@@ -1,6 +1,6 @@
-[Violin Plots](https://xkcd.com/1967)
+[Heartbleed](https://xkcd.com/1353)
 
-![Violin Plots](./random_comic.png)
+![Heartbleed](./random_comic.png)
 
-Strictly speaking, 'violin' refers to the internal structure of the data. The external portion visible in the plot is called the 'viola.'
+I looked at some of the data dumps from vulnerable sites, and it was ... bad. I saw emails, passwords, password hints. SSL keys and session cookies. Important servers brimming with visitor IPs. Attack ships on fire off the shoulder of Orion, c-beams glittering in the dark near the Tannhäuser Gate. I should probably patch OpenSSL.
 
