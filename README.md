@@ -1,6 +1,6 @@
-[Arsenic-Based Life](https://xkcd.com/829)
+[Making Hash Browns](https://xkcd.com/421)
 
-![Arsenic-Based Life](./random_comic.png)
+![Making Hash Browns](./random_comic.png)
 
-According to a new paper published in the journal Science, reporters are unable to thrive in an arsenic-rich environment.
+There are at least fourteen ways this could go badly (seventeen if that fork is a dangerous crossbreed.)
 
