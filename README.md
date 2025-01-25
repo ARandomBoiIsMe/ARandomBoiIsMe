@@ -1,6 +1,6 @@
-[Chemistry](https://xkcd.com/1442)
+[Sample](https://xkcd.com/780)
 
-![Chemistry](./random_comic.png)
+![Sample](./random_comic.png)
 
-These are all sans-serif compounds. Serif compounds are dramatically different and usually much more reactive.
+There are two or three songs out there with beeps in the chorus that sound exactly like the clock radio alarm I had in high school, and hearing it makes me think my life since junior year has been a dream I'm about to wake up from.
 
