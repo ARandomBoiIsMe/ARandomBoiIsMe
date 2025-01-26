@@ -1,6 +1,6 @@
-[Biff Tannen](https://xkcd.com/2104)
+[Birds and Dinosaurs](https://xkcd.com/1211)
 
-![Biff Tannen](./random_comic.png)
+![Birds and Dinosaurs](./random_comic.png)
 
-I can't help myself; now I want to read a bunch of thinkpieces from newspapers in Biff's 1985 arguing over whether the growth of the region into a corporate dystopia was inevitable.
+Sure, T. rex is closer in height to Stegosaurus than a sparrow. But that doesn't tell you much; 'Dinosaur Comics' author Ryan North is closer in height to certain dinosaurs than to the average human.
 
