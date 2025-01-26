@@ -1,6 +1,6 @@
-[Nighttime Stories](https://xkcd.com/304)
+[Share Buttons](https://xkcd.com/1034)
 
-![Nighttime Stories](./random_comic.png)
+![Share Buttons](./random_comic.png)
 
-Cue angry letters from all seven fans of Xenocide.
+The only post to achieve perfect balance between the four was a hilarious joke about Mark Zuckerberg getting caught using a pseudonym to sneak past the TSA.
 
