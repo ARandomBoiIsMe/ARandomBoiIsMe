@@ -1,6 +1,6 @@
-[Share Buttons](https://xkcd.com/1034)
+[UI Change](https://xkcd.com/1770)
 
-![Share Buttons](./random_comic.png)
+![UI Change](./random_comic.png)
 
-The only post to achieve perfect balance between the four was a hilarious joke about Mark Zuckerberg getting caught using a pseudonym to sneak past the TSA.
+I know they said this change is permanent, but surely when they hear how much we're complaining someone will find a way to change things back.
 
