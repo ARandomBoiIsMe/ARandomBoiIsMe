@@ -1,6 +1,6 @@
-[UI Change](https://xkcd.com/1770)
+[1000 Times](https://xkcd.com/558)
 
-![UI Change](./random_comic.png)
+![1000 Times](./random_comic.png)
 
-I know they said this change is permanent, but surely when they hear how much we're complaining someone will find a way to change things back.
+And 0.002 dollars will NEVER equal 0.002 cents.
 
