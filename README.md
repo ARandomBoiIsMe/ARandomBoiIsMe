@@ -1,6 +1,6 @@
-[1000 Times](https://xkcd.com/558)
+[You Hang Up First](https://xkcd.com/698)
 
-![1000 Times](./random_comic.png)
+![You Hang Up First](./random_comic.png)
 
-And 0.002 dollars will NEVER equal 0.002 cents.
+No, YOU stumble past a series of post-breakup hookups in a daze as you slowly realize what you've lost and how unlikely you are ever to get it back first.
 
