@@ -1,6 +1,6 @@
-[Snacktime Rules](https://xkcd.com/183)
+[Time Machine](https://xkcd.com/716)
 
-![Snacktime Rules](./random_comic.png)
+![Time Machine](./random_comic.png)
 
-I am not making this rule up.  Although my mom wants you all to know it made perfect sense at the time.
+We never see any time travelers because they all discover it's a huge mistake. This is also why your friend at the lab suddenly looked about a year older recently.
 
