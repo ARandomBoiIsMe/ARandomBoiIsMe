@@ -1,6 +1,6 @@
-[Salt Dome](https://xkcd.com/2752)
+[Quantum Vacuum Virtual Plasma](https://xkcd.com/1404)
 
-![Salt Dome](./random_comic.png)
+![Quantum Vacuum Virtual Plasma](./random_comic.png)
 
-The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.
+I don't understand the things you do, and you therefore may represent an interaction with the quantum vacuum virtual plasma.
 
