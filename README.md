@@ -1,6 +1,6 @@
-[You Hang Up First](https://xkcd.com/698)
+[Snacktime Rules](https://xkcd.com/183)
 
-![You Hang Up First](./random_comic.png)
+![Snacktime Rules](./random_comic.png)
 
-No, YOU stumble past a series of post-breakup hookups in a daze as you slowly realize what you've lost and how unlikely you are ever to get it back first.
+I am not making this rule up.  Although my mom wants you all to know it made perfect sense at the time.
 
