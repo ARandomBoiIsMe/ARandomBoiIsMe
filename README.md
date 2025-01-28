@@ -1,6 +1,6 @@
-[Time Machine](https://xkcd.com/716)
+[Salt Dome](https://xkcd.com/2752)
 
-![Time Machine](./random_comic.png)
+![Salt Dome](./random_comic.png)
 
-We never see any time travelers because they all discover it's a huge mistake. This is also why your friend at the lab suddenly looked about a year older recently.
+The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.
 
