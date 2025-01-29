@@ -1,6 +1,6 @@
-[1000 Times](https://xkcd.com/558)
+[Flowcharts](https://xkcd.com/1488)
 
-![1000 Times](./random_comic.png)
+![Flowcharts](./random_comic.png)
 
-And 0.002 dollars will NEVER equal 0.002 cents.
+Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!
 
