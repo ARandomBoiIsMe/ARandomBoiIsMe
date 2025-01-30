@@ -1,6 +1,6 @@
-[Digital Rights Management](https://xkcd.com/86)
+[Spacecraft Debris Odds Ratio](https://xkcd.com/2599)
 
-![Digital Rights Management](./random_comic.png)
+![Spacecraft Debris Odds Ratio](./random_comic.png)
 
-If you're interested in the subject, Lawrence Lessig's 'Free Culture' is pretty good
+You say this daily walk will reduce my risk of death from cardiovascular disease by 30%, but also increase my risk of death by bear attack by 300%? That's a 280% increased! I'm not a sucker; I'm staying inside.
 
