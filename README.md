@@ -1,6 +1,6 @@
-[UK Coal](https://xkcd.com/2992)
+[Digital Rights Management](https://xkcd.com/86)
 
-![UK Coal](./random_comic.png)
+![Digital Rights Management](./random_comic.png)
 
-The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.
+If you're interested in the subject, Lawrence Lessig's 'Free Culture' is pretty good
 
