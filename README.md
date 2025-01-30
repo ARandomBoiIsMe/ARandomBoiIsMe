@@ -1,6 +1,6 @@
-[Coronavirus Worries](https://xkcd.com/2282)
+[UK Coal](https://xkcd.com/2992)
 
-![Coronavirus Worries](./random_comic.png)
+![UK Coal](./random_comic.png)
 
-Offscreen, bottom left: Whether the custom :coronavirus: Slack react emoji you just added was public domain or whether you should have put a Creative Commons credit somewhere
+The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.
 
