@@ -1,6 +1,6 @@
-[Flowcharts](https://xkcd.com/1488)
+[Coronavirus Worries](https://xkcd.com/2282)
 
-![Flowcharts](./random_comic.png)
+![Coronavirus Worries](./random_comic.png)
 
-Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!
+Offscreen, bottom left: Whether the custom :coronavirus: Slack react emoji you just added was public domain or whether you should have put a Creative Commons credit somewhere
 
