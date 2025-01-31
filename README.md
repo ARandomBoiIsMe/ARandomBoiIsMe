@@ -1,6 +1,6 @@
-[Planet Killer Comet Margarita](https://xkcd.com/2729)
+[Elefino](https://xkcd.com/28)
 
-![Planet Killer Comet Margarita](./random_comic.png)
+![Elefino](./random_comic.png)
 
-I'll take mine on the rocks, no ice.
+Hell if I know
 
