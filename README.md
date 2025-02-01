@@ -1,6 +1,6 @@
-[Update](https://xkcd.com/1328)
+[Circuit Diagram](https://xkcd.com/730)
 
-![Update](./random_comic.png)
+![Circuit Diagram](./random_comic.png)
 
-I have a bunch of things open right now.
+I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.
 
