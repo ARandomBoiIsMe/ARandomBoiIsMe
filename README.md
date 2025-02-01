@@ -1,6 +1,6 @@
-[Choices: Part 4](https://xkcd.com/267)
+[TSP vs TBSP](https://xkcd.com/2526)
 
-![Choices: Part 4](./random_comic.png)
+![TSP vs TBSP](./random_comic.png)
 
-Making out with yourself: now an official xkcd theme?  Troubling.
+It's like one teraspoon / when all you need is a kilonife
 
