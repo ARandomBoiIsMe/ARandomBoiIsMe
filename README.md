@@ -1,6 +1,6 @@
-[Circuit Diagram](https://xkcd.com/730)
+[Choices: Part 4](https://xkcd.com/267)
 
-![Circuit Diagram](./random_comic.png)
+![Choices: Part 4](./random_comic.png)
 
-I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.
+Making out with yourself: now an official xkcd theme?  Troubling.
 
