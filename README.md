@@ -1,6 +1,6 @@
-[Late Cenozoic](https://xkcd.com/2990)
+[Phone Alarm](https://xkcd.com/1359)
 
-![Late Cenozoic](./random_comic.png)
+![Phone Alarm](./random_comic.png)
 
-Our nucleic acid recovery techinques found a great deal of homo sapiens DNA incorporated into the fossils, particularly the ones containing high levels of resin, leading to the theory that these dinosaurs preyed on the once-dominant primates.
+Who's calling me?? WHY IS THE WORST PERSON IN THE WORLD CALLING ME!?
 
