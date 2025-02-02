@@ -1,6 +1,6 @@
-[TSP vs TBSP](https://xkcd.com/2526)
+[Base System](https://xkcd.com/540)
 
-![TSP vs TBSP](./random_comic.png)
+![Base System](./random_comic.png)
 
-It's like one teraspoon / when all you need is a kilonife
+I once got to second base with a basketball player.  She was so confused.
 
