@@ -1,6 +1,6 @@
-[Down](https://xkcd.com/2800)
+[Google Trends Maps](https://xkcd.com/2126)
 
-![Down](./random_comic.png)
+![Google Trends Maps](./random_comic.png)
 
-It's just that I get nervous about heights.
+It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.
 
