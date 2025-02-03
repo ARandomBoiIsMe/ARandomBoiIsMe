@@ -1,6 +1,6 @@
-[Phone Alarm](https://xkcd.com/1359)
+[Phantom Menace](https://xkcd.com/991)
 
-![Phone Alarm](./random_comic.png)
+![Phantom Menace](./random_comic.png)
 
-Who's calling me?? WHY IS THE WORST PERSON IN THE WORLD CALLING ME!?
+We could go to the theater across town and see if it's opened THERE yet, but we don't want to lose our place in line.
 
