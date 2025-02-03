@@ -1,6 +1,6 @@
-[Phantom Menace](https://xkcd.com/991)
+[Null Hypothesis](https://xkcd.com/892)
 
-![Phantom Menace](./random_comic.png)
+![Null Hypothesis](./random_comic.png)
 
-We could go to the theater across town and see if it's opened THERE yet, but we don't want to lose our place in line.
+Hell, my eighth grade science class managed to conclusively reject it just based on a classroom experiment. It's pretty sad to hear about million-dollar research teams who can't even manage that.
 
