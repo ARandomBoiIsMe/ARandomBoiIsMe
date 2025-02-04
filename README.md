@@ -1,6 +1,6 @@
-[A Crossword Puzzle](https://xkcd.com/2957)
+[Outdated Periodic Table](https://xkcd.com/2723)
 
-![A Crossword Puzzle](./random_comic.png)
+![Outdated Periodic Table](./random_comic.png)
 
-Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality].
+Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.
 
