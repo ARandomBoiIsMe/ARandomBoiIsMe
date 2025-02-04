@@ -1,6 +1,6 @@
-[Google Trends Maps](https://xkcd.com/2126)
+[Paperwork](https://xkcd.com/1977)
 
-![Google Trends Maps](./random_comic.png)
+![Paperwork](./random_comic.png)
 
-It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.
+Plus, the photo was geotagged, my unlocked password manager was visible on the laptop, AND you could see my naked reflection in the dark part of the screen.
 
