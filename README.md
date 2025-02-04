@@ -1,6 +1,6 @@
-[Paperwork](https://xkcd.com/1977)
+[A Crossword Puzzle](https://xkcd.com/2957)
 
-![Paperwork](./random_comic.png)
+![A Crossword Puzzle](./random_comic.png)
 
-Plus, the photo was geotagged, my unlocked password manager was visible on the laptop, AND you could see my naked reflection in the dark part of the screen.
+Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality].
 
