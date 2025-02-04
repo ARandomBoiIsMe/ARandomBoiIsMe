@@ -1,6 +1,6 @@
-[Outdated Periodic Table](https://xkcd.com/2723)
+[Global Atmospheric Circulation](https://xkcd.com/2805)
 
-![Outdated Periodic Table](./random_comic.png)
+![Global Atmospheric Circulation](./random_comic.png)
 
-Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.
+Refs generally say that you can exercise enough altitude control to avoid the ground, but if you start strategically choosing air layers to steer yourself, that's traveling.
 
