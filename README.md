@@ -1,6 +1,6 @@
-[Turnabout](https://xkcd.com/1441)
+[Secret Worlds](https://xkcd.com/52)
 
-![Turnabout](./random_comic.png)
+![Secret Worlds](./random_comic.png)
 
-Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.
+No two adjacent circles are the same color.
 
