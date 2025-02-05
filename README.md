@@ -1,6 +1,6 @@
-[I Could Care Less](https://xkcd.com/1576)
+[All the Girls](https://xkcd.com/770)
 
-![I Could Care Less](./random_comic.png)
+![All the Girls](./random_comic.png)
 
-I literally could care less.
+You know that I'll never leave you. Not as long as she's with someone.
 
