@@ -1,6 +1,6 @@
-[Secret Worlds](https://xkcd.com/52)
+[I Could Care Less](https://xkcd.com/1576)
 
-![Secret Worlds](./random_comic.png)
+![I Could Care Less](./random_comic.png)
 
-No two adjacent circles are the same color.
+I literally could care less.
 
