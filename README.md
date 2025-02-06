@@ -1,6 +1,6 @@
-[The Data So Far](https://xkcd.com/373)
+[2045](https://xkcd.com/2685)
 
-![The Data So Far](./random_comic.png)
+![2045](./random_comic.png)
 
-But THIS guy, he might be for real!
+"Sorry, doctor, I'm going to have to come in on a different day--I have another appointment that would be really hard to move, in terms of the kinetic energy requirements."
 
