@@ -1,6 +1,6 @@
-[Space Mission Hearing](https://xkcd.com/2124)
+[1991 and 2021](https://xkcd.com/2481)
 
-![Space Mission Hearing](./random_comic.png)
+![1991 and 2021](./random_comic.png)
 
-Our grant application contains one of those little greeting card speakers that plays spaceship noises when you open it.
+"Oh, and our computers all have cameras now, which is nice during the pandemic lockdowns." "The WHAT."
 
