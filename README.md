@@ -1,6 +1,6 @@
-[2045](https://xkcd.com/2685)
+[Space Mission Hearing](https://xkcd.com/2124)
 
-![2045](./random_comic.png)
+![Space Mission Hearing](./random_comic.png)
 
-"Sorry, doctor, I'm going to have to come in on a different day--I have another appointment that would be really hard to move, in terms of the kinetic energy requirements."
+Our grant application contains one of those little greeting card speakers that plays spaceship noises when you open it.
 
