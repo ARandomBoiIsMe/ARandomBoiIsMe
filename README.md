@@ -1,6 +1,6 @@
-[All the Girls](https://xkcd.com/770)
+[The Data So Far](https://xkcd.com/373)
 
-![All the Girls](./random_comic.png)
+![The Data So Far](./random_comic.png)
 
-You know that I'll never leave you. Not as long as she's with someone.
+But THIS guy, he might be for real!
 
