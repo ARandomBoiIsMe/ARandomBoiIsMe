@@ -1,6 +1,6 @@
-[1991 and 2021](https://xkcd.com/2481)
+[Software Development](https://xkcd.com/2021)
 
-![1991 and 2021](./random_comic.png)
+![Software Development](./random_comic.png)
 
-"Oh, and our computers all have cameras now, which is nice during the pandemic lockdowns." "The WHAT."
+Update: It turns out the cannon has a motorized base, and can make holes just fine using the barrel itself as a battering ram. But due to design constraints it won't work without a projectile loaded in, so we still need those drills.
 
