@@ -1,6 +1,6 @@
-[New Nobel Prizes](https://xkcd.com/2527)
+[A �](https://xkcd.com/1913)
 
-![New Nobel Prizes](./random_comic.png)
+![A �](./random_comic.png)
 
-They've endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams.
+If you want in on the fun, map a key on your keyboard to the sequence U+0041 U+0020 U+FFFD (or U+0021 U+0020 U+FFFD for the exclamation point version), and then no update can never take this away from you.
 
