@@ -1,6 +1,6 @@
-[Software Development](https://xkcd.com/2021)
+[Electron Color](https://xkcd.com/2734)
 
-![Software Development](./random_comic.png)
+![Electron Color](./random_comic.png)
 
-Update: It turns out the cannon has a motorized base, and can make holes just fine using the barrel itself as a battering ram. But due to design constraints it won't work without a projectile loaded in, so we still need those drills.
+There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.
 
