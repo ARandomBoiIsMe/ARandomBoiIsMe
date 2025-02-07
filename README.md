@@ -1,6 +1,6 @@
-[Electron Color](https://xkcd.com/2734)
+[New Nobel Prizes](https://xkcd.com/2527)
 
-![Electron Color](./random_comic.png)
+![New Nobel Prizes](./random_comic.png)
 
-There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.
+They've endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams.
 
