@@ -1,6 +1,6 @@
-[Mu](https://xkcd.com/815)
+[6-Foot Zone](https://xkcd.com/2286)
 
-![Mu](./random_comic.png)
+![6-Foot Zone](./random_comic.png)
 
-As the CoKF approaches 0, productivity goes negative as you pull OTHER people into chair-spinning contests.
+Technically now it's a 34-foot zone.
 
