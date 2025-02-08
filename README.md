@@ -1,6 +1,6 @@
-[A �](https://xkcd.com/1913)
+[Mnemonics](https://xkcd.com/992)
 
-![A �](./random_comic.png)
+![Mnemonics](./random_comic.png)
 
-If you want in on the fun, map a key on your keyboard to the sequence U+0041 U+0020 U+FFFD (or U+0021 U+0020 U+FFFD for the exclamation point version), and then no update can never take this away from you.
+'Sailor Moon's head exploded once' and 'Some men have explosive orgasms' both work for the Great Lakes from west to east (Paddle-to-the-Sea order).
 
