@@ -1,6 +1,6 @@
-[Mnemonics](https://xkcd.com/992)
+[Mu](https://xkcd.com/815)
 
-![Mnemonics](./random_comic.png)
+![Mu](./random_comic.png)
 
-'Sailor Moon's head exploded once' and 'Some men have explosive orgasms' both work for the Great Lakes from west to east (Paddle-to-the-Sea order).
+As the CoKF approaches 0, productivity goes negative as you pull OTHER people into chair-spinning contests.
 
