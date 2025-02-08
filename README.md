@@ -1,6 +1,6 @@
-[6-Foot Zone](https://xkcd.com/2286)
+[Guest Week: Jeffrey Rowland (Overcompensating)](https://xkcd.com/825)
 
-![6-Foot Zone](./random_comic.png)
+![Guest Week: Jeffrey Rowland (Overcompensating)](./random_comic.png)
 
-Technically now it's a 34-foot zone.
+Guest comic by Jeffrey Rowland of Overcompensating/Wigu.  Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.
 
