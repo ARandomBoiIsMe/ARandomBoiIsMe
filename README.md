@@ -1,6 +1,6 @@
-[Dimensional Chess](https://xkcd.com/2465)
+[Flag Map Sabotage](https://xkcd.com/2528)
 
-![Dimensional Chess](./random_comic.png)
+![Flag Map Sabotage](./random_comic.png)
 
-In Dimensional Chess, every move is annotated '?!'.
+Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down.
 
