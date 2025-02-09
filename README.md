@@ -1,6 +1,6 @@
-[Flag Map Sabotage](https://xkcd.com/2528)
+[Lightning Distance](https://xkcd.com/2027)
 
-![Flag Map Sabotage](./random_comic.png)
+![Lightning Distance](./random_comic.png)
 
-Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down.
+The index of radio refraction does have a lot of variation, which might throw off your calculations, so you can also look at the difference in brightness between the visible flash and more-attenuated UV and x-rays.
 
