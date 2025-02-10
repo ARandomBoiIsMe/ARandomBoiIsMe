@@ -1,6 +1,6 @@
-[Front Door](https://xkcd.com/1064)
+[Ballot Selfies](https://xkcd.com/2066)
 
-![Front Door](./random_comic.png)
+![Ballot Selfies](./random_comic.png)
 
-FYI: I'll be releasing a wolf into a randomly-chosen front yard sometime in the next 30 years. Now your fear is reasonable, and you don't need to feel embarrassed anymore. Problem solved!
+There were actually some good reasons for those laws, but IMO they now do more harm than good. Which raises a question: If there's a ballot measure to strike them down, how can I resist the urge to take a picture of my "yes" vote?
 
