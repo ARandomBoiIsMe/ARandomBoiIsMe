@@ -1,6 +1,6 @@
-[Geohydrotypography](https://xkcd.com/2803)
+[Front Door](https://xkcd.com/1064)
 
-![Geohydrotypography](./random_comic.png)
+![Front Door](./random_comic.png)
 
-The Atlantic is expanding at about 10 ppm (points per month).
+FYI: I'll be releasing a wolf into a randomly-chosen front yard sometime in the next 30 years. Now your fear is reasonable, and you don't need to feel embarrassed anymore. Problem solved!
 
