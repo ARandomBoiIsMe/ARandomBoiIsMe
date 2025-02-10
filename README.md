@@ -1,6 +1,6 @@
-[Trum-](https://xkcd.com/2046)
+[Geohydrotypography](https://xkcd.com/2803)
 
-![Trum-](./random_comic.png)
+![Geohydrotypography](./random_comic.png)
 
-Excited to vote for future presidents Bill Eisenhamper, Amy Forb, Ethan Obample, and Abigail Washingtoast.
+The Atlantic is expanding at about 10 ppm (points per month).
 
