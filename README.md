@@ -1,6 +1,6 @@
-[Debugger](https://xkcd.com/1163)
+[Trum-](https://xkcd.com/2046)
 
-![Debugger](./random_comic.png)
+![Trum-](./random_comic.png)
 
-It can take a site a while to figure out that there's a problem with their 'report a bug' form.
+Excited to vote for future presidents Bill Eisenhamper, Amy Forb, Ethan Obample, and Abigail Washingtoast.
 
