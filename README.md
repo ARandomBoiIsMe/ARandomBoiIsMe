@@ -1,6 +1,6 @@
-[Ufo](https://xkcd.com/2156)
+[Board Game](https://xkcd.com/1566)
 
-![Ufo](./random_comic.png)
+![Board Game](./random_comic.png)
 
-"It's a little low for a weather balloon; it might be some other kind." "Yeah. Besides, I know I'm the alien conspiracy guy, but come on--the idea that the government would care about hiding something so mundane as atmospheric temperature measurement is too ridiculous even for me."
+Yes, it took a lot of work to make the cards and pieces, but it's worth it--the players are way more thorough than the tax prep people ever were.
 
