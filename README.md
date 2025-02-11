@@ -1,6 +1,6 @@
-[Find You](https://xkcd.com/104)
+[Group Chat Rules](https://xkcd.com/2235)
 
-![Find You](./random_comic.png)
+![Group Chat Rules](./random_comic.png)
 
-I'm like the Terminator, except with love!
+There's no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.
 
