@@ -1,6 +1,6 @@
-[Group Chat Rules](https://xkcd.com/2235)
+[Induced Current](https://xkcd.com/509)
 
-![Group Chat Rules](./random_comic.png)
+![Induced Current](./random_comic.png)
 
-There's no group chat member more enigmatic than the cool person who you all assume has the chat on mute, but who then instantly chimes in with no delay the moment something relevant to them is mentioned.
+The MythBusters need to tackle whether a black hole from the LHC could REALLY destroy the world.
 
