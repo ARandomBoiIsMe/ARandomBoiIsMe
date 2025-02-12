@@ -1,6 +1,6 @@
-[March 2020](https://xkcd.com/2459)
+[Update Your Address](https://xkcd.com/2075)
 
-![March 2020](./random_comic.png)
+![Update Your Address](./random_comic.png)
 
-"I've traveled here from the year 2020 to bring you this vaccine!"
+This is my four-digit PIN. It was passed down to me by my father, and someday I will pass it on to you. Unless we figure out how to update it, but that sounds complicated.
 
