@@ -1,6 +1,6 @@
-[Induced Current](https://xkcd.com/509)
+[March 2020](https://xkcd.com/2459)
 
-![Induced Current](./random_comic.png)
+![March 2020](./random_comic.png)
 
-The MythBusters need to tackle whether a black hole from the LHC could REALLY destroy the world.
+"I've traveled here from the year 2020 to bring you this vaccine!"
 
