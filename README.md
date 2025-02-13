@@ -1,6 +1,6 @@
-[Inflection](https://xkcd.com/1709)
+[Tones](https://xkcd.com/479)
 
-![Inflection](./random_comic.png)
+![Tones](./random_comic.png)
 
-"Or maybe, because we're suddenly having so many conversations through written text, we'll start relying MORE on altered spelling to indicate meaning!" "Wat."
+I need a lawn, so I can yell at kids to stay off it.
 
