@@ -1,6 +1,6 @@
-[Interior Decorating](https://xkcd.com/2692)
+[Inflection](https://xkcd.com/1709)
 
-![Interior Decorating](./random_comic.png)
+![Inflection](./random_comic.png)
 
-It all came flat-packed in Pandora's Box.
+"Or maybe, because we're suddenly having so many conversations through written text, we'll start relying MORE on altered spelling to indicate meaning!" "Wat."
 
