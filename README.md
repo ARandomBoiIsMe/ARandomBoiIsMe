@@ -1,6 +1,6 @@
-[Automation](https://xkcd.com/1319)
+[Finish Line](https://xkcd.com/423)
 
-![Automation](./random_comic.png)
+![Finish Line](./random_comic.png)
 
-'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.
+The question with Lucy and the football was always whether, on some level, she believed the things she said.
 
