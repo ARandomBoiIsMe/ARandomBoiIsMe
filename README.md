@@ -1,6 +1,6 @@
-[Finish Line](https://xkcd.com/423)
+[Existence Proof](https://xkcd.com/1856)
 
-![Finish Line](./random_comic.png)
+![Existence Proof](./random_comic.png)
 
-The question with Lucy and the football was always whether, on some level, she believed the things she said.
+Real analysis is way realer than I expected.
 
