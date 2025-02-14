@@ -1,6 +1,6 @@
-[Existence Proof](https://xkcd.com/1856)
+[Tax AI](https://xkcd.com/2265)
 
-![Existence Proof](./random_comic.png)
+![Tax AI](./random_comic.png)
 
-Real analysis is way realer than I expected.
+I ended up getting my tax return prepared at a local place by a really friendly pretrained neural net named Greg.
 
