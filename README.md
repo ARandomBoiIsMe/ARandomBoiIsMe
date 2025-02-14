@@ -1,6 +1,6 @@
-[The Race: Part 4](https://xkcd.com/580)
+[Worst-Case Scenario](https://xkcd.com/748)
 
-![The Race: Part 4](./random_comic.png)
+![Worst-Case Scenario](./random_comic.png)
 
-Things are rarely just crazy enough to work, but they're frequently just crazy enough to fail hilariously.
+To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead.
 
