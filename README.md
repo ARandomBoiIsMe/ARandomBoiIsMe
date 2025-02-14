@@ -1,6 +1,6 @@
-[Tax AI](https://xkcd.com/2265)
+[The Race: Part 4](https://xkcd.com/580)
 
-![Tax AI](./random_comic.png)
+![The Race: Part 4](./random_comic.png)
 
-I ended up getting my tax return prepared at a local place by a really friendly pretrained neural net named Greg.
+Things are rarely just crazy enough to work, but they're frequently just crazy enough to fail hilariously.
 
