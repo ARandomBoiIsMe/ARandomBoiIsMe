@@ -1,6 +1,6 @@
-[Worst-Case Scenario](https://xkcd.com/748)
+[Extrapolating](https://xkcd.com/605)
 
-![Worst-Case Scenario](./random_comic.png)
+![Extrapolating](./random_comic.png)
 
-To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead.
+By the third trimester, there will be hundreds of babies inside you.
 
