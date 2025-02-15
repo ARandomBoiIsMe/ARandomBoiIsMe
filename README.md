@@ -1,6 +1,6 @@
-[Temperature Scales](https://xkcd.com/3001)
+[Excessive Quotation](https://xkcd.com/307)
 
-![Temperature Scales](./random_comic.png)
+![Excessive Quotation](./random_comic.png)
 
-In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed.
+Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.
 
