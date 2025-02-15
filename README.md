@@ -1,6 +1,6 @@
-[Minnesota](https://xkcd.com/2887)
+[Temperature Scales](https://xkcd.com/3001)
 
-![Minnesota](./random_comic.png)
+![Temperature Scales](./random_comic.png)
 
-In addition to 'squishy', after reviewing my submitted intraplate ground motion data, the National Geodetic Survey has politely asked me to stop using the word 'supple' so often when describing Midwestern states.
+In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed.
 
