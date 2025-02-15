@@ -1,6 +1,6 @@
-[Extrapolating](https://xkcd.com/605)
+[Minnesota](https://xkcd.com/2887)
 
-![Extrapolating](./random_comic.png)
+![Minnesota](./random_comic.png)
 
-By the third trimester, there will be hundreds of babies inside you.
+In addition to 'squishy', after reviewing my submitted intraplate ground motion data, the National Geodetic Survey has politely asked me to stop using the word 'supple' so often when describing Midwestern states.
 
