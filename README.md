@@ -1,6 +1,6 @@
-[To Be Wanted](https://xkcd.com/372)
+[Sun Avoidance](https://xkcd.com/3029)
 
-![To Be Wanted](./random_comic.png)
+![Sun Avoidance](./random_comic.png)
 
-Or so I hope?
+C'mon, ESA Solar Orbiter team, just give the Parker probe a LITTLE nudge at aphelion. Crash it into the sun. Fulfill the dream of Icarus. It is your destiny.
 
