@@ -1,6 +1,6 @@
-[In the Trees](https://xkcd.com/71)
+[To Be Wanted](https://xkcd.com/372)
 
-![In the Trees](./random_comic.png)
+![To Be Wanted](./random_comic.png)
 
-It was tricky.
+Or so I hope?
 
