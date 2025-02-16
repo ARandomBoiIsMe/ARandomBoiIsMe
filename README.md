@@ -1,6 +1,6 @@
-[Excessive Quotation](https://xkcd.com/307)
+[In the Trees](https://xkcd.com/71)
 
-![Excessive Quotation](./random_comic.png)
+![In the Trees](./random_comic.png)
 
-Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.
+It was tricky.
 
