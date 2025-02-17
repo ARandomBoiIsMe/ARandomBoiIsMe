@@ -1,6 +1,6 @@
-[Confounding Variables](https://xkcd.com/2560)
+[Professional Oaths](https://xkcd.com/2843)
 
-![Confounding Variables](./random_comic.png)
+![Professional Oaths](./random_comic.png)
 
-You can find a perfect correlation if you just control for the residual.
+Interpretations of the Hermeneutic Oath differ.
 
