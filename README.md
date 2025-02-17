@@ -1,6 +1,6 @@
-[Professional Oaths](https://xkcd.com/2843)
+[Footnote Labyrinths](https://xkcd.com/1208)
 
-![Professional Oaths](./random_comic.png)
+![Footnote Labyrinths](./random_comic.png)
 
-Interpretations of the Hermeneutic Oath differ.
+Every time you read this mouseover, toggle between interpreting nested footnotes as footnotes on footnotes and interpreting them as exponents (minus one, modulo 6, plus 1).
 
