@@ -1,6 +1,6 @@
-[Flying Cars](https://xkcd.com/864)
+[Confounding Variables](https://xkcd.com/2560)
 
-![Flying Cars](./random_comic.png)
+![Confounding Variables](./random_comic.png)
 
-It's hard to fit in the backseat of my flying car with my android Realdoll when we're both wearing jetpacks.
+You can find a perfect correlation if you just control for the residual.
 
