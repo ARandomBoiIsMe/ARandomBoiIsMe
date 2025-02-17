@@ -1,6 +1,6 @@
-[Footnote Labyrinths](https://xkcd.com/1208)
+[Curiosity](https://xkcd.com/1091)
 
-![Footnote Labyrinths](./random_comic.png)
+![Curiosity](./random_comic.png)
 
-Every time you read this mouseover, toggle between interpreting nested footnotes as footnotes on footnotes and interpreting them as exponents (minus one, modulo 6, plus 1).
+As of this writing the NASA/JPL websites are still overloaded. Trying CURIOSITY-REAR-CAM_[256px_x_256px].torrent.SwEsUb.DVDRip.XviD-aXXo.jpg instead.
 
