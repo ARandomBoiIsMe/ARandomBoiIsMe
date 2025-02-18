@@ -1,6 +1,6 @@
-[Python](https://xkcd.com/353)
+[Progeny](https://xkcd.com/894)
 
-![Python](./random_comic.png)
+![Progeny](./random_comic.png)
 
-I wrote 20 short programs in Python yesterday.  It was wonderful.  Perl, I'm leaving you.
+I tell my children 'it's not whether you win or lose, it's how you play the game.' I'm trying to take the edge off their competitive drive to ensure that I can always beat them.
 
