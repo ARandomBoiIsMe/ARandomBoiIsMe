@@ -1,6 +1,6 @@
-[Curiosity](https://xkcd.com/1091)
+[Recipes](https://xkcd.com/720)
 
-![Curiosity](./random_comic.png)
+![Recipes](./random_comic.png)
 
-As of this writing the NASA/JPL websites are still overloaded. Trying CURIOSITY-REAR-CAM_[256px_x_256px].torrent.SwEsUb.DVDRip.XviD-aXXo.jpg instead.
+To be fair, the braised and confused newt on a bed of crushed Doritos turned out to be delicious.
 
