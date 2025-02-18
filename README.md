@@ -1,6 +1,6 @@
-[Progeny](https://xkcd.com/894)
+[New Horizons](https://xkcd.com/1532)
 
-![Progeny](./random_comic.png)
+![New Horizons](./random_comic.png)
 
-I tell my children 'it's not whether you win or lose, it's how you play the game.' I'm trying to take the edge off their competitive drive to ensure that I can always beat them.
+Last-minute course change: Let's see if we can hit Steve's house.
 
