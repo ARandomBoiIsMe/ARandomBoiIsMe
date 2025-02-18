@@ -1,6 +1,6 @@
-[Recipes](https://xkcd.com/720)
+[Python](https://xkcd.com/353)
 
-![Recipes](./random_comic.png)
+![Python](./random_comic.png)
 
-To be fair, the braised and confused newt on a bed of crushed Doritos turned out to be delicious.
+I wrote 20 short programs in Python yesterday.  It was wonderful.  Perl, I'm leaving you.
 
