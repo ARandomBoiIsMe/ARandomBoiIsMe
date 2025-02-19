@@ -1,6 +1,6 @@
-[Random Number](https://xkcd.com/221)
+[Self-Driving Issues](https://xkcd.com/1958)
 
-![Random Number](./random_comic.png)
+![Self-Driving Issues](./random_comic.png)
 
-RFC 1149.5 specifies 4 as the standard IEEE-vetted random number.
+If most people turn into muderers all of a sudden, we'll need to push out a firmware update or something.
 
