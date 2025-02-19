@@ -1,6 +1,6 @@
-[Lojban](https://xkcd.com/191)
+[Random Number](https://xkcd.com/221)
 
-![Lojban](./random_comic.png)
+![Random Number](./random_comic.png)
 
-zo'o ta jitfa .i .e'o xu do pendo mi
+RFC 1149.5 specifies 4 as the standard IEEE-vetted random number.
 
