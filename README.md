@@ -1,6 +1,6 @@
-[Self-Driving Issues](https://xkcd.com/1958)
+[With Apologies to The Who](https://xkcd.com/274)
 
-![Self-Driving Issues](./random_comic.png)
+![With Apologies to The Who](./random_comic.png)
 
-If most people turn into muderers all of a sudden, we'll need to push out a firmware update or something.
+Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.
 
