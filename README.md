@@ -1,6 +1,6 @@
-[Elevator Inspection](https://xkcd.com/897)
+[AirAware](https://xkcd.com/1207)
 
-![Elevator Inspection](./random_comic.png)
+![AirAware](./random_comic.png)
 
-Even governmental elevator inspectors get bored halfway through asking where the building office is.
+It ships with a version of Google Now that alerts you when it's too late to leave for your appointments.
 
