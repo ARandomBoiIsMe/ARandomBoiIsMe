@@ -1,6 +1,6 @@
-[With Apologies to The Who](https://xkcd.com/274)
+[Elevator Inspection](https://xkcd.com/897)
 
-![With Apologies to The Who](./random_comic.png)
+![Elevator Inspection](./random_comic.png)
 
-Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.
+Even governmental elevator inspectors get bored halfway through asking where the building office is.
 
