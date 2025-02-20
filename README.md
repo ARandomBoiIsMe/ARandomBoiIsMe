@@ -1,6 +1,6 @@
-[AirAware](https://xkcd.com/1207)
+[Maslow's Pyramid](https://xkcd.com/2988)
 
-![AirAware](./random_comic.png)
+![Maslow's Pyramid](./random_comic.png)
 
-It ships with a version of Google Now that alerts you when it's too late to leave for your appointments.
+The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps.
 
