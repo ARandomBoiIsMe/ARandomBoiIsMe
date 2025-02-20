@@ -1,6 +1,6 @@
-[Maslow's Pyramid](https://xkcd.com/2988)
+[Super Bowl](https://xkcd.com/1480)
 
-![Maslow's Pyramid](./random_comic.png)
+![Super Bowl](./random_comic.png)
 
-The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps.
+My hobby: Pretending to miss the sarcasm when people show off their lack of interest in football by talking about 'sportsball' and acting excited to find someone else who's interested, then acting confused when they try to clarify.
 
