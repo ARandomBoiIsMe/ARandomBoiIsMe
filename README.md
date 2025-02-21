@@ -1,6 +1,6 @@
-[Rembrandt Photo](https://xkcd.com/1182)
+[Mail](https://xkcd.com/96)
 
-![Rembrandt Photo](./random_comic.png)
+![Mail](./random_comic.png)
 
-::click:: Come back! You didn't see the one of Whistler's mother!
+I'm on the USPS No Fly List
 
