@@ -1,6 +1,6 @@
-[TornadoGuard](https://xkcd.com/937)
+[Ingenuity](https://xkcd.com/2444)
 
-![TornadoGuard](./random_comic.png)
+![Ingenuity](./random_comic.png)
 
-The bug report was marked 'could not reproduce'.
+Plot twist: Thanks to [mumble mumble] second-order [mumble] Rayleigh-Taylor [mumble] turbulent [mumble] shear, it turns out powered flight is way EASIER on Mars!
 
