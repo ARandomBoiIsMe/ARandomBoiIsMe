@@ -1,6 +1,6 @@
-[Ingenuity](https://xkcd.com/2444)
+[Rembrandt Photo](https://xkcd.com/1182)
 
-![Ingenuity](./random_comic.png)
+![Rembrandt Photo](./random_comic.png)
 
-Plot twist: Thanks to [mumble mumble] second-order [mumble] Rayleigh-Taylor [mumble] turbulent [mumble] shear, it turns out powered flight is way EASIER on Mars!
+::click:: Come back! You didn't see the one of Whistler's mother!
 
