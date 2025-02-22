@@ -1,6 +1,6 @@
-[Limerick](https://xkcd.com/301)
+[Bigger Problem](https://xkcd.com/2368)
 
-![Limerick](./random_comic.png)
+![Bigger Problem](./random_comic.png)
 
-Fun game: try to post a YouTube comment so stupid that people realize you must be joking.  (Hint: this is impossible)
+Your point that the world contains multiple problems is a real slam-dunk argument against fixing any of them.
 
