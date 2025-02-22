@@ -1,6 +1,6 @@
-[Nolan Chart](https://xkcd.com/868)
+[Rack Unit](https://xkcd.com/1439)
 
-![Nolan Chart](./random_comic.png)
+![Rack Unit](./random_comic.png)
 
-Also in the right quadrant are NFPA-compliant chemical manufacturers and Sir Charles Wheatstone. Sharing the top with the internet libertarians are Nate Silver and several politically-active kite designers.
+There's also nothing in the TOSes that says you can't let a dog play baseball in the server room!
 
