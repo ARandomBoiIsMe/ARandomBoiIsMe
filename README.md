@@ -1,6 +1,6 @@
-[Bigger Problem](https://xkcd.com/2368)
+[Nolan Chart](https://xkcd.com/868)
 
-![Bigger Problem](./random_comic.png)
+![Nolan Chart](./random_comic.png)
 
-Your point that the world contains multiple problems is a real slam-dunk argument against fixing any of them.
+Also in the right quadrant are NFPA-compliant chemical manufacturers and Sir Charles Wheatstone. Sharing the top with the internet libertarians are Nate Silver and several politically-active kite designers.
 
