@@ -1,6 +1,6 @@
-[Metabolism](https://xkcd.com/1744)
+[#NowPlaying](https://xkcd.com/1482)
 
-![Metabolism](./random_comic.png)
+![#NowPlaying](./random_comic.png)
 
-I have this weird thing where if I don't drink enough water, I start feeling bad and then die of dehydration.
+If you click on the post, it takes you to search results for the note on various online music stores.
 
