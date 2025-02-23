@@ -1,6 +1,6 @@
-[Rack Unit](https://xkcd.com/1439)
+[Black Hole](https://xkcd.com/1680)
 
-![Rack Unit](./random_comic.png)
+![Black Hole](./random_comic.png)
 
-There's also nothing in the TOSes that says you can't let a dog play baseball in the server room!
+It also brings all the boys, and everything else, to the yard.
 
