@@ -1,6 +1,6 @@
-[Animal Songs](https://xkcd.com/2426)
+[Glacial Erratic](https://xkcd.com/1848)
 
-![Animal Songs](./random_comic.png)
+![Glacial Erratic](./random_comic.png)
 
-Dr. Fauci is not permitted to have a cat, because as director of the National Institute of Allergy and Infectious Diseases, his petting one would be considered giving aid and comfort to an allergen.
+"This will take a while, which sucks, because I'm already so busy chiseling out igneous intrusions from rock formations and watching Youtube loops of the Superman fault-sealing scene over and over."
 
