@@ -1,6 +1,6 @@
-[Cumulonimbus](https://xkcd.com/2185)
+[Animal Songs](https://xkcd.com/2426)
 
-![Cumulonimbus](./random_comic.png)
+![Animal Songs](./random_comic.png)
 
-The rarest of all clouds is the altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused by an interaction between warm moist air, cool dry air, cold slippery air, cursed air, and a cloud of nanobots.
+Dr. Fauci is not permitted to have a cat, because as director of the National Institute of Allergy and Infectious Diseases, his petting one would be considered giving aid and comfort to an allergen.
 
