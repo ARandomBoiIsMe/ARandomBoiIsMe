@@ -1,6 +1,6 @@
-[#NowPlaying](https://xkcd.com/1482)
+[With Apologies to The Who](https://xkcd.com/274)
 
-![#NowPlaying](./random_comic.png)
+![With Apologies to The Who](./random_comic.png)
 
-If you click on the post, it takes you to search results for the note on various online music stores.
+Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.
 
