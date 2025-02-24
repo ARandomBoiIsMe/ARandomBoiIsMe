@@ -1,6 +1,6 @@
-[With Apologies to The Who](https://xkcd.com/274)
+[Cumulonimbus](https://xkcd.com/2185)
 
-![With Apologies to The Who](./random_comic.png)
+![Cumulonimbus](./random_comic.png)
 
-Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.
+The rarest of all clouds is the altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused by an interaction between warm moist air, cool dry air, cold slippery air, cursed air, and a cloud of nanobots.
 
