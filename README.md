@@ -1,6 +1,6 @@
-[Driving PSA](https://xkcd.com/2932)
+[Middle Latitudes](https://xkcd.com/2081)
 
-![Driving PSA](./random_comic.png)
+![Middle Latitudes](./random_comic.png)
 
-This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time.
+Snowy blizzards are fun, but so are warm sunny beaches, so we split the difference by having lots of icy wet slush!
 
