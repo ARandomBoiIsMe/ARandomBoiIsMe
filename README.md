@@ -1,6 +1,6 @@
-[Middle Latitudes](https://xkcd.com/2081)
+[Reno Rhymes](https://xkcd.com/206)
 
-![Middle Latitudes](./random_comic.png)
+![Reno Rhymes](./random_comic.png)
 
-Snowy blizzards are fun, but so are warm sunny beaches, so we split the difference by having lots of icy wet slush!
+Did you shoot a man in Reno?  Now, I don't mean to pry.
 
