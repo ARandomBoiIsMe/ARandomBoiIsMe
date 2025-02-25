@@ -1,6 +1,6 @@
-[Reno Rhymes](https://xkcd.com/206)
+[My Friend Catherine](https://xkcd.com/1689)
 
-![Reno Rhymes](./random_comic.png)
+![My Friend Catherine](./random_comic.png)
 
-Did you shoot a man in Reno?  Now, I don't mean to pry.
+I can't get any work done because my friend Catherine is sitting on my keyboard.
 
