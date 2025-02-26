@@ -1,6 +1,6 @@
-[My Friend Catherine](https://xkcd.com/1689)
+[Turing Test](https://xkcd.com/329)
 
-![My Friend Catherine](./random_comic.png)
+![Turing Test](./random_comic.png)
 
-I can't get any work done because my friend Catherine is sitting on my keyboard.
+Hit Turing right in the test-ees.
 
