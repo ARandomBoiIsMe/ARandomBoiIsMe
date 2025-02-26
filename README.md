@@ -1,6 +1,6 @@
-[Parody Week: Megatokyo](https://xkcd.com/142)
+[Up Goer Five](https://xkcd.com/1133)
 
-![Parody Week: Megatokyo](./random_comic.png)
+![Up Goer Five](./random_comic.png)
 
-I just want to give him a hug or something.
+Another thing that is a bad problem is if you're flying toward space and the parts start to fall off your space car in the wrong order. If that happens, it means you won't go to space today, or maybe ever.
 
