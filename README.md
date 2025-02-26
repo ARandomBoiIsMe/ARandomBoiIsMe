@@ -1,6 +1,6 @@
-[Turing Test](https://xkcd.com/329)
+[Parody Week: Megatokyo](https://xkcd.com/142)
 
-![Turing Test](./random_comic.png)
+![Parody Week: Megatokyo](./random_comic.png)
 
-Hit Turing right in the test-ees.
+I just want to give him a hug or something.
 
