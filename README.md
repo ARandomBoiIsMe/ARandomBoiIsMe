@@ -1,6 +1,6 @@
-[Making Progress](https://xkcd.com/1906)
+[Ravioli-Shaped Objects](https://xkcd.com/2998)
 
-![Making Progress](./random_comic.png)
+![Ravioli-Shaped Objects](./random_comic.png)
 
-I started off with countless problems. But now I know, thanks to COUNT(), that I have "#REF! ERROR: Circular dependency detected" problems.
+It's a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond.
 
