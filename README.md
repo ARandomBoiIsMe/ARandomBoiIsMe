@@ -1,6 +1,6 @@
-[Ballmer Peak](https://xkcd.com/323)
+[Hurricane Names](https://xkcd.com/944)
 
-![Ballmer Peak](./random_comic.png)
+![Hurricane Names](./random_comic.png)
 
-Apple uses automated schnapps IVs.
+After exhausting the OED, we started numbering them. When overlapping hurricanes formed at all points on the Earth's surface, and our scheme was foiled by Cantor diagonalization, we just decided to name them all "Steve". Your local forecast tomorrow is "Steve". Good luck.
 
