@@ -1,6 +1,6 @@
-[Game Show](https://xkcd.com/2197)
+[Making Progress](https://xkcd.com/1906)
 
-![Game Show](./random_comic.png)
+![Making Progress](./random_comic.png)
 
-Eventually they agreed to "an auto-retracting dog leash with one end clipped to your house, so you can press the button on the handle and water-ski home."
+I started off with countless problems. But now I know, thanks to COUNT(), that I have "#REF! ERROR: Circular dependency detected" problems.
 
