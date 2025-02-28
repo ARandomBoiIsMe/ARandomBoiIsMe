@@ -1,6 +1,6 @@
-[Encryption](https://xkcd.com/2691)
+[Qualifications](https://xkcd.com/2756)
 
-![Encryption](./random_comic.png)
+![Qualifications](./random_comic.png)
 
-WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!
+'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'
 
