@@ -1,6 +1,6 @@
-[Qualifications](https://xkcd.com/2756)
+[Wifi](https://xkcd.com/1785)
 
-![Qualifications](./random_comic.png)
+![Wifi](./random_comic.png)
 
-'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'
+Further out to the right, it works correctly, but the reason it works still involves the word 'firmware.'
 
