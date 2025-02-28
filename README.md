@@ -1,6 +1,6 @@
-[Emoji Sports](https://xkcd.com/1920)
+[Encryption](https://xkcd.com/2691)
 
-![Emoji Sports](./random_comic.png)
+![Encryption](./random_comic.png)
 
-No horse has yet managed the elusive Quadruple Crown—winning the Kentucky Derby, the Preakness, the Belmont Stakes, and the Missouri Horse Hole.
+WARNING: PEOPLE NAMED EVE ARE PROHIBITED FROM INSTALLING THIS APP!
 
