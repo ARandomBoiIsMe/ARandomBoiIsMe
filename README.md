@@ -1,6 +1,6 @@
-[Panama Canal](https://xkcd.com/2127)
+[Christmas Plans](https://xkcd.com/679)
 
-![Panama Canal](./random_comic.png)
+![Christmas Plans](./random_comic.png)
 
-Once they selected the other proposal, we could have kept shopping ours around, but we would had to modify it include an aqueduct over their canal, which would be totally unreasonable.
+Physicists who want to protect traditional Christmas realize that the only way to keep from changing Christmas is not to observe it.
 
