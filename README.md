@@ -1,6 +1,6 @@
-[Wifi](https://xkcd.com/1785)
+[Spike Proteins](https://xkcd.com/2446)
 
-![Wifi](./random_comic.png)
+![Spike Proteins](./random_comic.png)
 
-Further out to the right, it works correctly, but the reason it works still involves the word 'firmware.'
+Ugh, it's stuck to my laptop. It must have bound to the ACER-2 receptor.
 
