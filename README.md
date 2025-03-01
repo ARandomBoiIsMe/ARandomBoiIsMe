@@ -1,6 +1,6 @@
-[Spike Proteins](https://xkcd.com/2446)
+[Panama Canal](https://xkcd.com/2127)
 
-![Spike Proteins](./random_comic.png)
+![Panama Canal](./random_comic.png)
 
-Ugh, it's stuck to my laptop. It must have bound to the ACER-2 receptor.
+Once they selected the other proposal, we could have kept shopping ours around, but we would had to modify it include an aqueduct over their canal, which would be totally unreasonable.
 
