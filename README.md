@@ -1,6 +1,6 @@
-[Christmas Plans](https://xkcd.com/679)
+[Pastime](https://xkcd.com/1222)
 
-![Christmas Plans](./random_comic.png)
+![Pastime](./random_comic.png)
 
-Physicists who want to protect traditional Christmas realize that the only way to keep from changing Christmas is not to observe it.
+Good thing we're too smart to spend all day being uselessly frustrated with ourselves. I mean, that'd be a hell of a waste, right?
 
