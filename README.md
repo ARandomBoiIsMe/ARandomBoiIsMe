@@ -1,6 +1,6 @@
-[Pastime](https://xkcd.com/1222)
+[SOPA](https://xkcd.com/1005)
 
-![Pastime](./random_comic.png)
+![SOPA](./random_comic.png)
 
-Good thing we're too smart to spend all day being uselessly frustrated with ourselves. I mean, that'd be a hell of a waste, right?
+In protest of SOPA, I'm currently getting totally blacked out.
 
