@@ -1,6 +1,6 @@
-[SOPA](https://xkcd.com/1005)
+[Cumulonimbus](https://xkcd.com/2185)
 
-![SOPA](./random_comic.png)
+![Cumulonimbus](./random_comic.png)
 
-In protest of SOPA, I'm currently getting totally blacked out.
+The rarest of all clouds is the altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused by an interaction between warm moist air, cool dry air, cold slippery air, cursed air, and a cloud of nanobots.
 
