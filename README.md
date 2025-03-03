@@ -1,6 +1,6 @@
-[The Tell-Tale Beat](https://xkcd.com/740)
+[Leap Year 2021](https://xkcd.com/2431)
 
-![The Tell-Tale Beat](./random_comic.png)
+![Leap Year 2021](./random_comic.png)
 
-You fancy me mad. Could a madman have outsmarted the greatest electronica/techno artists of our era? Next to fall will be Roderick Usher's house/trance band.
+I've lived in the present for my whole life and I'm not about to move now.
 
