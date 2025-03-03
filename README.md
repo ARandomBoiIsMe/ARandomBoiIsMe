@@ -1,6 +1,6 @@
-[Error Bars](https://xkcd.com/2110)
+[The Tell-Tale Beat](https://xkcd.com/740)
 
-![Error Bars](./random_comic.png)
+![The Tell-Tale Beat](./random_comic.png)
 
-...an effect size of 1.68 (95% CI: 1.56 (95% CI: 1.52 (95% CI: 1.504 (95% CI: 1.494 (95% CI: 1.488 (95% CI: 1.485 (95% CI: 1.482 (95% CI: 1.481 (95% CI: 1.4799 (95% CI: 1.4791 (95% CI: 1.4784...
+You fancy me mad. Could a madman have outsmarted the greatest electronica/techno artists of our era? Next to fall will be Roderick Usher's house/trance band.
 
