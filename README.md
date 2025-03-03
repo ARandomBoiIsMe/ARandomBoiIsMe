@@ -1,6 +1,6 @@
-[Leap Year 2021](https://xkcd.com/2431)
+[G-Spot](https://xkcd.com/685)
 
-![Leap Year 2021](./random_comic.png)
+![G-Spot](./random_comic.png)
 
-I've lived in the present for my whole life and I'm not about to move now.
+The BBC lead was 'The elusive erogenous zone said to exist in some women may be a myth, say researchers who have hunted for it.'  I couldn't read it with a straight face.
 
