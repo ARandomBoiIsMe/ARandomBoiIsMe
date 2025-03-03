@@ -1,6 +1,6 @@
-[G-Spot](https://xkcd.com/685)
+[Secretary: Part 3](https://xkcd.com/496)
 
-![G-Spot](./random_comic.png)
+![Secretary: Part 3](./random_comic.png)
 
-The BBC lead was 'The elusive erogenous zone said to exist in some women may be a myth, say researchers who have hunted for it.'  I couldn't read it with a straight face.
+He actually installed each piece in a different car in the lot, then built a new car in the spot from the displaced pieces.  It's a confusing maneuver known as the auto-troll shuffle.
 
