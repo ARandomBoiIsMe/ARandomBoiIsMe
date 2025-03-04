@@ -1,6 +1,6 @@
-[Language Nerd](https://xkcd.com/1443)
+[After the Pandemic](https://xkcd.com/2457)
 
-![Language Nerd](./random_comic.png)
+![After the Pandemic](./random_comic.png)
 
-Not to go all sentence fragment on you.
+I'm looking forward to having to worry a lot less about covid, but wouldn't mind if we worried a little more about giving each other colds. Colds are bad!
 
