@@ -1,6 +1,6 @@
-[Secretary: Part 3](https://xkcd.com/496)
+[Urgent Mission](https://xkcd.com/567)
 
-![Secretary: Part 3](./random_comic.png)
+![Urgent Mission](./random_comic.png)
 
-He actually installed each piece in a different car in the lot, then built a new car in the spot from the displaced pieces.  It's a confusing maneuver known as the auto-troll shuffle.
+Sure, we could stop dictators and pandemics, but we could also make the signs on every damn diagram make sense.
 
