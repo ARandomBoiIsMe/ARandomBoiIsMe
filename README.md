@@ -1,6 +1,6 @@
-[Urgent Mission](https://xkcd.com/567)
+[Language Nerd](https://xkcd.com/1443)
 
-![Urgent Mission](./random_comic.png)
+![Language Nerd](./random_comic.png)
 
-Sure, we could stop dictators and pandemics, but we could also make the signs on every damn diagram make sense.
+Not to go all sentence fragment on you.
 
