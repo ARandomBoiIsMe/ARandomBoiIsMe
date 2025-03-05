@@ -1,6 +1,6 @@
-[Commonly Mispronounced Equations](https://xkcd.com/2492)
+[Bubble Wrap](https://xkcd.com/2458)
 
-![Commonly Mispronounced Equations](./random_comic.png)
+![Bubble Wrap](./random_comic.png)
 
-"Epsihootamoo doopsiquorps" --the Schrödinger equation for the hydrogen atom
+I think of myself as the David Attenborough of factory mailing equipment.
 
