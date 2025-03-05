@@ -1,6 +1,6 @@
-[Bubble Wrap](https://xkcd.com/2458)
+[Drop Those Pounds](https://xkcd.com/1160)
 
-![Bubble Wrap](./random_comic.png)
+![Drop Those Pounds](./random_comic.png)
 
-I think of myself as the David Attenborough of factory mailing equipment.
+If the flyers don't work, we'll switch to the LEAST subtle method of informing a town of the existence of a trebuchet club.
 
