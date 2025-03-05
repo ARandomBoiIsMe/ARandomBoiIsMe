@@ -1,6 +1,6 @@
-[Drop Those Pounds](https://xkcd.com/1160)
+[Serenity is coming out tomorrow](https://xkcd.com/9)
 
-![Drop Those Pounds](./random_comic.png)
+![Serenity is coming out tomorrow](./random_comic.png)
 
-If the flyers don't work, we'll switch to the LEAST subtle method of informing a town of the existence of a trebuchet club.
+Mal, Simon, Wash, Zoe, River, Kaylee, Jayne, Inara, Book.
 
