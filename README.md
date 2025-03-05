@@ -1,6 +1,6 @@
-[Serenity is coming out tomorrow](https://xkcd.com/9)
+[Not Really Into Pokemon](https://xkcd.com/178)
 
-![Serenity is coming out tomorrow](./random_comic.png)
+![Not Really Into Pokemon](./random_comic.png)
 
-Mal, Simon, Wash, Zoe, River, Kaylee, Jayne, Inara, Book.
+As of this writing, Ubuntu 6.10 and Firefox 2.0 have left my computer a complete mess.
 
