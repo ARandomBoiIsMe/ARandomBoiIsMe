@@ -1,6 +1,6 @@
-[Not Really Into Pokemon](https://xkcd.com/178)
+[Stacey's Dad](https://xkcd.com/61)
 
-![Not Really Into Pokemon](./random_comic.png)
+![Stacey's Dad](./random_comic.png)
 
-As of this writing, Ubuntu 6.10 and Firefox 2.0 have left my computer a complete mess.
+I bet she gets you to mow the lawn, doesn't she?
 
