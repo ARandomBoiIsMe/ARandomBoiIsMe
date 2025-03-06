@@ -1,6 +1,6 @@
-[Stacey's Dad](https://xkcd.com/61)
+[Easily Confused Acronyms](https://xkcd.com/2759)
 
-![Stacey's Dad](./random_comic.png)
+![Easily Confused Acronyms](./random_comic.png)
 
-I bet she gets you to mow the lawn, doesn't she?
+'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.
 
