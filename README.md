@@ -1,6 +1,6 @@
-[Killed In Action](https://xkcd.com/1113)
+[Air Travel Packing List](https://xkcd.com/2525)
 
-![Killed In Action](./random_comic.png)
+![Air Travel Packing List](./random_comic.png)
 
-We can't let this happen again. We need to build a secure TWO-day-before-retirement safe room.
+I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.
 
