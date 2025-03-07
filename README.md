@@ -1,6 +1,6 @@
-[Air Travel Packing List](https://xkcd.com/2525)
+[DNA](https://xkcd.com/1605)
 
-![Air Travel Packing List](./random_comic.png)
+![DNA](./random_comic.png)
 
-I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.
+Researchers just found the gene responsible for mistakenly thinking we've found the gene for specific things. It's the region between the start and the end of every chromosome, plus a few segments in our mitochondria.
 
