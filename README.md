@@ -1,6 +1,6 @@
-[DNA](https://xkcd.com/1605)
+[Height](https://xkcd.com/482)
 
-![DNA](./random_comic.png)
+![Height](./random_comic.png)
 
-Researchers just found the gene responsible for mistakenly thinking we've found the gene for specific things. It's the region between the start and the end of every chromosome, plus a few segments in our mitochondria.
+Interestingly, on a true vertical log plot, I think the Eiffel Tower's sides really would be straight lines.
 
