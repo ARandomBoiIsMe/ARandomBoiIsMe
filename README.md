@@ -1,6 +1,6 @@
-[Survivorship Bias](https://xkcd.com/1827)
+[Killed In Action](https://xkcd.com/1113)
 
-![Survivorship Bias](./random_comic.png)
+![Killed In Action](./random_comic.png)
 
-They say you can't argue with results, but what kind of defeatist attitude is that? If you stick with it, you can argue with ANYTHING.
+We can't let this happen again. We need to build a secure TWO-day-before-retirement safe room.
 
