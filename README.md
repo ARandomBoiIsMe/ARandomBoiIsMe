@@ -1,6 +1,6 @@
-[Health Data](https://xkcd.com/2620)
+[Subduction License](https://xkcd.com/1388)
 
-![Health Data](./random_comic.png)
+![Subduction License](./random_comic.png)
 
-Donate now to help us find a cure for causality. No one should have to suffer through events because of other events.
+'Dude, why can't you just be a normal roommate?' 'Because I'm coming TOWARD you!'
 
