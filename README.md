@@ -1,6 +1,6 @@
-[Height](https://xkcd.com/482)
+[Sheet Bend](https://xkcd.com/2880)
 
-![Height](./random_comic.png)
+![Sheet Bend](./random_comic.png)
 
-Interestingly, on a true vertical log plot, I think the Eiffel Tower's sides really would be straight lines.
+A left-handed sheet bend creates a much weaker connection, especially under moderate loads.
 
