@@ -1,6 +1,6 @@
-[Subduction License](https://xkcd.com/1388)
+[Nanobots](https://xkcd.com/865)
 
-![Subduction License](./random_comic.png)
+![Nanobots](./random_comic.png)
 
-'Dude, why can't you just be a normal roommate?' 'Because I'm coming TOWARD you!'
+I think the IETF hit the right balance with the 128 bits thing. We can fit MAC addresses in a /64 subnet, and the nanobots will only be able to devour half the planet.
 
