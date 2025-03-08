@@ -1,6 +1,6 @@
-[Sheet Bend](https://xkcd.com/2880)
+[Health Data](https://xkcd.com/2620)
 
-![Sheet Bend](./random_comic.png)
+![Health Data](./random_comic.png)
 
-A left-handed sheet bend creates a much weaker connection, especially under moderate loads.
+Donate now to help us find a cure for causality. No one should have to suffer through events because of other events.
 
