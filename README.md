@@ -1,6 +1,6 @@
-[Kepler](https://xkcd.com/21)
+[Far Away](https://xkcd.com/352)
 
-![Kepler](./random_comic.png)
+![Far Away](./random_comic.png)
 
-Science joke.  You should probably just move along.
+Sometimes an impulsive 2:00 AM cross-country trip is the only solution.
 
