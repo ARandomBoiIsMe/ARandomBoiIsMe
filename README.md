@@ -1,6 +1,6 @@
-[Nash](https://xkcd.com/182)
+[Kepler](https://xkcd.com/21)
 
-![Nash](./random_comic.png)
+![Kepler](./random_comic.png)
 
-Maybe someday science will get over its giant collective crush on Richard Feynman.  But I doubt it!
+Science joke.  You should probably just move along.
 
