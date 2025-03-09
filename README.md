@@ -1,6 +1,6 @@
-[Far Away](https://xkcd.com/352)
+[Arbitrage](https://xkcd.com/1499)
 
-![Far Away](./random_comic.png)
+![Arbitrage](./random_comic.png)
 
-Sometimes an impulsive 2:00 AM cross-country trip is the only solution.
+The invisible hand of the market never texts me back.
 
