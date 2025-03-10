@@ -1,6 +1,6 @@
-[Presents for Biologists](https://xkcd.com/2747)
+[Battery Life](https://xkcd.com/2680)
 
-![Presents for Biologists](./random_comic.png)
+![Battery Life](./random_comic.png)
 
-A lot of these are actually non-venomous, but I can see which species you mistook them for. If you pause the crane for a sec I can give you some ID pointers for next time!
+It's okay, I'm at 10%, so I'm good for another month or two.
 
