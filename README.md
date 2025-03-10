@@ -1,6 +1,6 @@
-[Arbitrage](https://xkcd.com/1499)
+[Open Source](https://xkcd.com/225)
 
-![Arbitrage](./random_comic.png)
+![Open Source](./random_comic.png)
 
-The invisible hand of the market never texts me back.
+Later we'll dress up like Big Oil thugs and jump Ralph Nader.
 
