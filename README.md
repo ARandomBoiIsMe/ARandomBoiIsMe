@@ -1,6 +1,6 @@
-[Open Source](https://xkcd.com/225)
+[Presents for Biologists](https://xkcd.com/2747)
 
-![Open Source](./random_comic.png)
+![Presents for Biologists](./random_comic.png)
 
-Later we'll dress up like Big Oil thugs and jump Ralph Nader.
+A lot of these are actually non-venomous, but I can see which species you mistook them for. If you pause the crane for a sec I can give you some ID pointers for next time!
 
