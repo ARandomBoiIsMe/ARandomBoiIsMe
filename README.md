@@ -1,6 +1,6 @@
-[Battery Life](https://xkcd.com/2680)
+[Flatten the Planets](https://xkcd.com/2750)
 
-![Battery Life](./random_comic.png)
+![Flatten the Planets](./random_comic.png)
 
-It's okay, I'm at 10%, so I'm good for another month or two.
+We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.
 
