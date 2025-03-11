@@ -1,6 +1,6 @@
-[Revolutionary](https://xkcd.com/675)
+[Advent](https://xkcd.com/1577)
 
-![Revolutionary](./random_comic.png)
+![Advent](./random_comic.png)
 
-I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.
+The few dozen doors that have little Christmas trees on them are a nice touch.
 
