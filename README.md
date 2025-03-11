@@ -1,6 +1,6 @@
-[Flatten the Planets](https://xkcd.com/2750)
+[Packages](https://xkcd.com/576)
 
-![Flatten the Planets](./random_comic.png)
+![Packages](./random_comic.png)
 
-We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds.
+Day six: 'The hell?  Who mails a bobcat?'
 
