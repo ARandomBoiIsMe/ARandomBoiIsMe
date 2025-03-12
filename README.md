@@ -1,6 +1,6 @@
-[Unpickable](https://xkcd.com/916)
+[Estimation](https://xkcd.com/612)
 
-![Unpickable](./random_comic.png)
+![Estimation](./random_comic.png)
 
-The safe is empty except for an unsolved 5x5 Rubik's cube.
+They could say "the connection is probably lost," but it's more fun to do naive time-averaging to give you hope that if you wait around for 1,163 hours, it will finally finish.
 
