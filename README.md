@@ -1,6 +1,6 @@
-[Advent](https://xkcd.com/1577)
+[AirAware](https://xkcd.com/1207)
 
-![Advent](./random_comic.png)
+![AirAware](./random_comic.png)
 
-The few dozen doors that have little Christmas trees on them are a nice touch.
+It ships with a version of Google Now that alerts you when it's too late to leave for your appointments.
 
