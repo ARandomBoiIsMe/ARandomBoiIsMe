@@ -1,6 +1,6 @@
-[Suggestions](https://xkcd.com/672)
+[Networking Problems](https://xkcd.com/2259)
 
-![Suggestions](./random_comic.png)
+![Networking Problems](./random_comic.png)
 
-An hour later: SUGGESTION: LICK HER NIPPLE MORE.
+LOOK, THE LATENCY FALLS EVERY TIME YOU CLAP YOUR HANDS AND SAY YOU BELIEVE
 
