@@ -1,6 +1,6 @@
-[Networking Problems](https://xkcd.com/2259)
+[President](https://xkcd.com/1370)
 
-![Networking Problems](./random_comic.png)
+![President](./random_comic.png)
 
-LOOK, THE LATENCY FALLS EVERY TIME YOU CLAP YOUR HANDS AND SAY YOU BELIEVE
+Anyone who thinks we're all going to spend the 2032 elections poring over rambling blog posts by teenagers has never tried to read a rambling blog post by a teenager.
 
