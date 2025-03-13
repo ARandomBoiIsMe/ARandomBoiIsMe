@@ -1,6 +1,6 @@
-[Nash](https://xkcd.com/182)
+[Nolan Chart](https://xkcd.com/868)
 
-![Nash](./random_comic.png)
+![Nolan Chart](./random_comic.png)
 
-Maybe someday science will get over its giant collective crush on Richard Feynman.  But I doubt it!
+Also in the right quadrant are NFPA-compliant chemical manufacturers and Sir Charles Wheatstone. Sharing the top with the internet libertarians are Nate Silver and several politically-active kite designers.
 
