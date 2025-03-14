@@ -1,6 +1,6 @@
-[Motivated Reasoning Olympics](https://xkcd.com/2167)
+[Sky Spotters](https://xkcd.com/1910)
 
-![Motivated Reasoning Olympics](./random_comic.png)
+![Sky Spotters](./random_comic.png)
 
-[later] I can't believe how bad corruption has become, especially given that our league split off from the statewide one a month ago SPECIFICALLY to protest this kind of flagrantly biased judging.
+Where I live, one of the most common categories of sky object without a weird obsessive spotting community is "lost birthday party balloons," so that might be a good choice—although you risk angering the marine wildlife people, and they have sharks.
 
