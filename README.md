@@ -1,6 +1,6 @@
-[Myspace](https://xkcd.com/134)
+[METAR](https://xkcd.com/3024)
 
-![Myspace](./random_comic.png)
+![METAR](./random_comic.png)
 
-It's like they got together and said 'what do we miss most from the internet in 1998?  that's right, embedded MIDI!'
+In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM.
 
