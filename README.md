@@ -1,6 +1,6 @@
-[Nolan Chart](https://xkcd.com/868)
+[Motivated Reasoning Olympics](https://xkcd.com/2167)
 
-![Nolan Chart](./random_comic.png)
+![Motivated Reasoning Olympics](./random_comic.png)
 
-Also in the right quadrant are NFPA-compliant chemical manufacturers and Sir Charles Wheatstone. Sharing the top with the internet libertarians are Nate Silver and several politically-active kite designers.
+[later] I can't believe how bad corruption has become, especially given that our league split off from the statewide one a month ago SPECIFICALLY to protest this kind of flagrantly biased judging.
 
