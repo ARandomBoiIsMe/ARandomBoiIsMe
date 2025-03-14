@@ -1,6 +1,6 @@
-[Sky Spotters](https://xkcd.com/1910)
+[Myspace](https://xkcd.com/134)
 
-![Sky Spotters](./random_comic.png)
+![Myspace](./random_comic.png)
 
-Where I live, one of the most common categories of sky object without a weird obsessive spotting community is "lost birthday party balloons," so that might be a good choice—although you risk angering the marine wildlife people, and they have sharks.
+It's like they got together and said 'what do we miss most from the internet in 1998?  that's right, embedded MIDI!'
 
