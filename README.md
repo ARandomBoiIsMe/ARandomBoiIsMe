@@ -1,6 +1,6 @@
-[METAR](https://xkcd.com/3024)
+[Barrel - Part 2](https://xkcd.com/11)
 
-![METAR](./random_comic.png)
+![Barrel - Part 2](./random_comic.png)
 
-In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM.
+Awww.
 
