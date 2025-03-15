@@ -1,6 +1,6 @@
-[Communicating](https://xkcd.com/1860)
+[Disaster Movie](https://xkcd.com/2029)
 
-![Communicating](./random_comic.png)
+![Disaster Movie](./random_comic.png)
 
-You're saying that the responsibility for avoiding miscommunication lies entirely with the listener, not the speaker, which explains why you haven't been able to convince anyone to help you down from that wall.
+Really, they'd be rushing around collecting revisions to go into the next scheduled quarterly public data update, not publishing them immediately, but you have to embellish things a little for Hollywood.
 
