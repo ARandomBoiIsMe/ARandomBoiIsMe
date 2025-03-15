@@ -1,6 +1,6 @@
-[Balloon Internet](https://xkcd.com/1226)
+[Communicating](https://xkcd.com/1860)
 
-![Balloon Internet](./random_comic.png)
+![Communicating](./random_comic.png)
 
-I run a business selling rural internet access. My infrastructure consists of a bunch of Verizon wifi hotspots that I sign up for and then cancel at the end of the 14-day return period.
+You're saying that the responsibility for avoiding miscommunication lies entirely with the listener, not the speaker, which explains why you haven't been able to convince anyone to help you down from that wall.
 
