@@ -1,6 +1,6 @@
-[Stargazing 3](https://xkcd.com/2274)
+[Connoisseur](https://xkcd.com/915)
 
-![Stargazing 3](./random_comic.png)
+![Connoisseur](./random_comic.png)
 
-If we can destroy enough of the lights in our region, we may see more comets, but that's a risk we'll have to take.
+Our brains have just one scale, and we resize our experiences to fit.
 
