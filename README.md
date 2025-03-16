@@ -1,6 +1,6 @@
-[Coronavirus Genome 2](https://xkcd.com/2299)
+[Stargazing 3](https://xkcd.com/2274)
 
-![Coronavirus Genome 2](./random_comic.png)
+![Stargazing 3](./random_comic.png)
 
-[moments later, checking phone] Okay, I agree my posting it was weird, but it's somehow even more unnerving that you immediately liked the post.
+If we can destroy enough of the lights in our region, we may see more comets, but that's a risk we'll have to take.
 
