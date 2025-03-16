@@ -1,6 +1,6 @@
-[Disaster Movie](https://xkcd.com/2029)
+[Coronavirus Genome 2](https://xkcd.com/2299)
 
-![Disaster Movie](./random_comic.png)
+![Coronavirus Genome 2](./random_comic.png)
 
-Really, they'd be rushing around collecting revisions to go into the next scheduled quarterly public data update, not publishing them immediately, but you have to embellish things a little for Hollywood.
+[moments later, checking phone] Okay, I agree my posting it was weird, but it's somehow even more unnerving that you immediately liked the post.
 
