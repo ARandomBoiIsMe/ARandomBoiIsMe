@@ -1,6 +1,6 @@
-[Serena Versus the Drones](https://xkcd.com/2190)
+[Advent Calendar](https://xkcd.com/994)
 
-![Serena Versus the Drones](./random_comic.png)
+![Advent Calendar](./random_comic.png)
 
-After the test, she said that if she had a choice, she wouldn’t defend herself against drones using a tennis ball and racket, though she would absolutely pick them over other sports equipment. But, she added, "Drones don't bother me."
+I think you could get up to about 11:59:57 before you'd have trouble swallowing the chocolates fast enough. At that point, you'd need some kind of a liquify-and-chug apparatus to get up over the 11:59:59 barrier. Anyway, Merry Christmas!
 
