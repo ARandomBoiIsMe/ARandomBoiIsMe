@@ -1,6 +1,6 @@
-[Teaching Physics](https://xkcd.com/895)
+[Light Pollution](https://xkcd.com/2121)
 
-![Teaching Physics](./random_comic.png)
+![Light Pollution](./random_comic.png)
 
-Space-time is like some simple and familiar system which is both intuitively understandable and precisely analogous, and if I were Richard Feynman I'd be able to come up with it.
+It's so sad how almost no one alive today can remember seeing the galactic rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer of Sagittarius.
 
