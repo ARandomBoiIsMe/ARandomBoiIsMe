@@ -1,6 +1,6 @@
-[Bubble Wrap](https://xkcd.com/2458)
+[Teaching Physics](https://xkcd.com/895)
 
-![Bubble Wrap](./random_comic.png)
+![Teaching Physics](./random_comic.png)
 
-I think of myself as the David Attenborough of factory mailing equipment.
+Space-time is like some simple and familiar system which is both intuitively understandable and precisely analogous, and if I were Richard Feynman I'd be able to come up with it.
 
