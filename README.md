@@ -1,6 +1,6 @@
-[Depth Perception](https://xkcd.com/941)
+[Engineer Syllogism](https://xkcd.com/1570)
 
-![Depth Perception](./random_comic.png)
+![Engineer Syllogism](./random_comic.png)
 
-I've looked at clouds from both sides now.
+The less common, even worse outcome: "3: [everyone in the financial system] WOW, where did all my money just go?"
 
