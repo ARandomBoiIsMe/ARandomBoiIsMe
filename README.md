@@ -1,6 +1,6 @@
-[Troll Slayer](https://xkcd.com/591)
+[How to Make Friends](https://xkcd.com/1917)
 
-![Troll Slayer](./random_comic.png)
+![How to Make Friends](./random_comic.png)
 
-We have met the enemy and he is us.
+No, wait, come back! I want to be friends at you!
 
