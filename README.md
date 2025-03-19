@@ -1,6 +1,6 @@
-[How to Make Friends](https://xkcd.com/1917)
+[Hamster Ball Heist](https://xkcd.com/211)
 
-![How to Make Friends](./random_comic.png)
+![Hamster Ball Heist](./random_comic.png)
 
-No, wait, come back! I want to be friends at you!
+First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.
 
