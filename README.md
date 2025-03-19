@@ -1,6 +1,6 @@
-[Engineer Syllogism](https://xkcd.com/1570)
+[Troll Slayer](https://xkcd.com/591)
 
-![Engineer Syllogism](./random_comic.png)
+![Troll Slayer](./random_comic.png)
 
-The less common, even worse outcome: "3: [everyone in the financial system] WOW, where did all my money just go?"
+We have met the enemy and he is us.
 
