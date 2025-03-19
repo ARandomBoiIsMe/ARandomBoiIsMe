@@ -1,6 +1,6 @@
-[Hamster Ball Heist](https://xkcd.com/211)
+[Trimix](https://xkcd.com/3035)
 
-![Hamster Ball Heist](./random_comic.png)
+![Trimix](./random_comic.png)
 
-First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.
+You don't want the nitrogen percentage to be too high or you run the risk of eutrophication.
 
