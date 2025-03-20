@@ -1,6 +1,6 @@
-[Range Safety](https://xkcd.com/2876)
+[Nerd Sniping](https://xkcd.com/356)
 
-![Range Safety](./random_comic.png)
+![Nerd Sniping](./random_comic.png)
 
-The Range Mischief Officer has modified the trajectory to add a single random spin somewhere in the flight, but won't tell us where.
+I first saw this problem on the Google Labs Aptitude Test.  A professor and I filled a blackboard without getting anywhere.  Have fun.
 
