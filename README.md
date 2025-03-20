@@ -1,6 +1,6 @@
-[Trimix](https://xkcd.com/3035)
+[Range Safety](https://xkcd.com/2876)
 
-![Trimix](./random_comic.png)
+![Range Safety](./random_comic.png)
 
-You don't want the nitrogen percentage to be too high or you run the risk of eutrophication.
+The Range Mischief Officer has modified the trajectory to add a single random spin somewhere in the flight, but won't tell us where.
 
