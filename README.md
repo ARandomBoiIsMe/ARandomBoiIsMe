@@ -1,6 +1,6 @@
-[Kilobyte](https://xkcd.com/394)
+[Days of the Week](https://xkcd.com/930)
 
-![Kilobyte](./random_comic.png)
+![Days of the Week](./random_comic.png)
 
-I would take 'kibibyte' more seriously if it didn't sound so much like 'Kibbles N Bits'.
+Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.
 
