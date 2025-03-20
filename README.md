@@ -1,6 +1,6 @@
-[Nerd Sniping](https://xkcd.com/356)
+[Kilobyte](https://xkcd.com/394)
 
-![Nerd Sniping](./random_comic.png)
+![Kilobyte](./random_comic.png)
 
-I first saw this problem on the Google Labs Aptitude Test.  A professor and I filled a blackboard without getting anywhere.  Have fun.
+I would take 'kibibyte' more seriously if it didn't sound so much like 'Kibbles N Bits'.
 
