@@ -1,6 +1,6 @@
-[Krypton](https://xkcd.com/1384)
+[xkcd Phone 2000](https://xkcd.com/2000)
 
-![Krypton](./random_comic.png)
+![xkcd Phone 2000](./random_comic.png)
 
-Their Sun and gravity will make you, uh, something, I guess. Out of earshot from Earth, mostly.
+Our retina display features hundreds of pixels per inch in the central fovea region.
 
