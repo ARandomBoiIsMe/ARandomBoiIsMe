@@ -1,6 +1,6 @@
-[xkcd Phone 2000](https://xkcd.com/2000)
+[Further Research is Needed](https://xkcd.com/2268)
 
-![xkcd Phone 2000](./random_comic.png)
+![Further Research is Needed](./random_comic.png)
 
-Our retina display features hundreds of pixels per inch in the central fovea region.
+Further research is needed to fully understand how we managed to do such a good job.
 
