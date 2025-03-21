@@ -1,6 +1,6 @@
-[Days of the Week](https://xkcd.com/930)
+[Tech Loops](https://xkcd.com/1579)
 
-![Days of the Week](./random_comic.png)
+![Tech Loops](./random_comic.png)
 
-Not pictured: the elongated Halley's-Comet-like orbit of every Rebecca Black lyric.
+And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.
 
