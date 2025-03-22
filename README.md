@@ -1,6 +1,6 @@
-[CrowdStrike](https://xkcd.com/2961)
+[Desert Golfing](https://xkcd.com/1936)
 
-![CrowdStrike](./random_comic.png)
+![Desert Golfing](./random_comic.png)
 
-We were going to try swordfighting, but all my compiling is on hold.
+I just want to stay up long enough to watch the ball drop into the hole number 2018.
 
