@@ -1,6 +1,6 @@
-[Pickup Artists](https://xkcd.com/1178)
+[CrowdStrike](https://xkcd.com/2961)
 
-![Pickup Artists](./random_comic.png)
+![CrowdStrike](./random_comic.png)
 
-It sounds like a great way to make friends! Is it near that Friend Zone you keep talking about? I wanna go!
+We were going to try swordfighting, but all my compiling is on hold.
 
