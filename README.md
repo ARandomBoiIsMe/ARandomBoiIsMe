@@ -1,6 +1,6 @@
-[Further Research is Needed](https://xkcd.com/2268)
+[Cosmic Distance Calibration](https://xkcd.com/3066)
 
-![Further Research is Needed](./random_comic.png)
+![Cosmic Distance Calibration](./random_comic.png)
 
-Further research is needed to fully understand how we managed to do such a good job.
+This is the biggest breakthrough since astronomers noticed that the little crosshairs around red giant stars starting to burn helium are all the same size.
 
