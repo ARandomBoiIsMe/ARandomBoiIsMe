@@ -1,6 +1,6 @@
-[Cosmic Distance Calibration](https://xkcd.com/3066)
+[Pickup Artists](https://xkcd.com/1178)
 
-![Cosmic Distance Calibration](./random_comic.png)
+![Pickup Artists](./random_comic.png)
 
-This is the biggest breakthrough since astronomers noticed that the little crosshairs around red giant stars starting to burn helium are all the same size.
+It sounds like a great way to make friends! Is it near that Friend Zone you keep talking about? I wanna go!
 
