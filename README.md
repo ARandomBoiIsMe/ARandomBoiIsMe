@@ -1,6 +1,6 @@
-[2017](https://xkcd.com/1779)
+[Angular Diameter Turnaround](https://xkcd.com/2622)
 
-![2017](./random_comic.png)
+![Angular Diameter Turnaround](./random_comic.png)
 
-Things are looking good for the eclipse--Nate Silver says Earth will almost definitely still have a moon in August.
+Thank you to Katie Mack for teaching me about this effect, and to Janelle Shane for describing redshifts as 'like galaxies sinking into a pool of dilute blood,' which is how I'll see them from now on.
 
