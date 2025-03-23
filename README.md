@@ -1,6 +1,6 @@
-[String Theory](https://xkcd.com/171)
+[Curve-Fitting](https://xkcd.com/2048)
 
-![String Theory](./random_comic.png)
+![Curve-Fitting](./random_comic.png)
 
-This works on pretty much every level.
+Cauchy-Lorentz: "Something alarmingly mathematical is happening, and you should probably pause to Google my name and check what field I originally worked in."
 
