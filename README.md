@@ -1,6 +1,6 @@
-[Desert Golfing](https://xkcd.com/1936)
+[2017](https://xkcd.com/1779)
 
-![Desert Golfing](./random_comic.png)
+![2017](./random_comic.png)
 
-I just want to stay up long enough to watch the ball drop into the hole number 2018.
+Things are looking good for the eclipse--Nate Silver says Earth will almost definitely still have a moon in August.
 
