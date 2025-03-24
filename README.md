@@ -1,6 +1,6 @@
-[Curve-Fitting](https://xkcd.com/2048)
+[Congress](https://xkcd.com/1127)
 
-![Curve-Fitting](./random_comic.png)
+![Congress](./random_comic.png)
 
-Cauchy-Lorentz: "Something alarmingly mathematical is happening, and you should probably pause to Google my name and check what field I originally worked in."
+It'd be great if some news network started featuring partisan hack talking heads who were all Federalists and Jacksonians, just to see how long it took us to catch on.
 
