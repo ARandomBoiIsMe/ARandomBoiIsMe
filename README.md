@@ -1,6 +1,6 @@
-[With Apologies to Robert Frost](https://xkcd.com/312)
+[Methodology Trial](https://xkcd.com/2726)
 
-![With Apologies to Robert Frost](./random_comic.png)
+![Methodology Trial](./random_comic.png)
 
-Some say the world will end in fire; some say in segfaults.
+If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.
 
