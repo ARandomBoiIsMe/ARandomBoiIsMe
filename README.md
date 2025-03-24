@@ -1,6 +1,6 @@
-[Congress](https://xkcd.com/1127)
+[With Apologies to Robert Frost](https://xkcd.com/312)
 
-![Congress](./random_comic.png)
+![With Apologies to Robert Frost](./random_comic.png)
 
-It'd be great if some news network started featuring partisan hack talking heads who were all Federalists and Jacksonians, just to see how long it took us to catch on.
+Some say the world will end in fire; some say in segfaults.
 
