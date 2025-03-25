@@ -1,6 +1,6 @@
-[MC Hammer Age](https://xkcd.com/1995)
+[DateTime](https://xkcd.com/2867)
 
-![MC Hammer Age](./random_comic.png)
+![DateTime](./random_comic.png)
 
-Wait, sorry, I got mixed up--he's actually almost 50. It's the kid from The Karate Kid who just turned 40.
+It's not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn't know and the Devil isn't telling.]
 
