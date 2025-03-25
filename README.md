@@ -1,6 +1,6 @@
-[The Tell-Tale Beat](https://xkcd.com/740)
+[Tattoo Ideas](https://xkcd.com/2255)
 
-![The Tell-Tale Beat](./random_comic.png)
+![Tattoo Ideas](./random_comic.png)
 
-You fancy me mad. Could a madman have outsmarted the greatest electronica/techno artists of our era? Next to fall will be Roderick Usher's house/trance band.
+The text ALL YOUR BASE ARE BELONG TO US with a lengthy footnote explaining that I got this tattoo in 2020 and not, as you may assume, 2001, but offering no further clarification.
 
