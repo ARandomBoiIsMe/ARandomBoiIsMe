@@ -1,6 +1,6 @@
-[Tattoo Ideas](https://xkcd.com/2255)
+[MC Hammer Age](https://xkcd.com/1995)
 
-![Tattoo Ideas](./random_comic.png)
+![MC Hammer Age](./random_comic.png)
 
-The text ALL YOUR BASE ARE BELONG TO US with a lengthy footnote explaining that I got this tattoo in 2020 and not, as you may assume, 2001, but offering no further clarification.
+Wait, sorry, I got mixed up--he's actually almost 50. It's the kid from The Karate Kid who just turned 40.
 
