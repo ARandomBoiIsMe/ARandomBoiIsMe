@@ -1,6 +1,6 @@
-[Obituary Editor](https://xkcd.com/2745)
+[Legal Hacks](https://xkcd.com/504)
 
-![Obituary Editor](./random_comic.png)
+![Legal Hacks](./random_comic.png)
 
-As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected.
+It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.
 
