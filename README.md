@@ -1,6 +1,6 @@
-[That Lovin' Feelin'](https://xkcd.com/317)
+[Parameterball](https://xkcd.com/2852)
 
-![That Lovin' Feelin'](./random_comic.png)
+![Parameterball](./random_comic.png)
 
-Maybe there's no tenderness in her fingertips either, but at least SHE puts out.
+The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage.
 
