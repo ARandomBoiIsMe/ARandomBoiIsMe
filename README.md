@@ -1,6 +1,6 @@
-[Legal Hacks](https://xkcd.com/504)
+[That Lovin' Feelin'](https://xkcd.com/317)
 
-![Legal Hacks](./random_comic.png)
+![That Lovin' Feelin'](./random_comic.png)
 
-It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.
+Maybe there's no tenderness in her fingertips either, but at least SHE puts out.
 
