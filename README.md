@@ -1,6 +1,6 @@
-[Electric vs Gas](https://xkcd.com/2948)
+[Grownups](https://xkcd.com/150)
 
-![Electric vs Gas](./random_comic.png)
+![Grownups](./random_comic.png)
 
-An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill.
+I've looked into this, and I can't figure out a way to do it cheaply.  And I guess it wouldn't be sanitary.
 
