@@ -1,6 +1,6 @@
-[Frankenstein Captcha](https://xkcd.com/2604)
+[Serious](https://xkcd.com/840)
 
-![Frankenstein Captcha](./random_comic.png)
+![Serious](./random_comic.png)
 
-The distinction between a ship and a boat is a line drawn in water.
+Not to be confused with Serious PuTTY, the Windows terminal client where everything is in Impact.
 
