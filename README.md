@@ -1,6 +1,6 @@
-[Serious](https://xkcd.com/840)
+[Electric vs Gas](https://xkcd.com/2948)
 
-![Serious](./random_comic.png)
+![Electric vs Gas](./random_comic.png)
 
-Not to be confused with Serious PuTTY, the Windows terminal client where everything is in Impact.
+An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill.
 
