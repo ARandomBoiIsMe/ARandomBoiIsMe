@@ -1,6 +1,6 @@
-[Local News](https://xkcd.com/1699)
+[Super Bowl Context](https://xkcd.com/1640)
 
-![Local News](./random_comic.png)
+![Super Bowl Context](./random_comic.png)
 
-Will there ever be a physics term greater than 'tachyonic antitelephone?' According to this message from the future, the answer is 'no.'
+Why did the chicken cross the road? It begins over five thousand years ago with the domestication of the red junglefowl in southeast Asia and the development of paved roads in the Sumerian city of Ur.
 
