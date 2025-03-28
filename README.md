@@ -1,6 +1,6 @@
-[Super Bowl Context](https://xkcd.com/1640)
+[Immune Factory](https://xkcd.com/2491)
 
-![Super Bowl Context](./random_comic.png)
+![Immune Factory](./random_comic.png)
 
-Why did the chicken cross the road? It begins over five thousand years ago with the domestication of the red junglefowl in southeast Asia and the development of paved roads in the Sumerian city of Ur.
+In the final vote, the doubters were won over by the strength of the name IMMUNION.
 
