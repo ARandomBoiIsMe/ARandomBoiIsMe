@@ -1,6 +1,6 @@
-[Grownups](https://xkcd.com/150)
+[Astronomy Status Board](https://xkcd.com/2469)
 
-![Grownups](./random_comic.png)
+![Astronomy Status Board](./random_comic.png)
 
-I've looked into this, and I can't figure out a way to do it cheaply.  And I guess it wouldn't be sanitary.
+Junior astronomers hate getting put on board update duty, but someone's gotta make sure that stuff is still up there.
 
