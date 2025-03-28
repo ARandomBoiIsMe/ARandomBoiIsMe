@@ -1,6 +1,6 @@
-[Astronomy Status Board](https://xkcd.com/2469)
+[Local News](https://xkcd.com/1699)
 
-![Astronomy Status Board](./random_comic.png)
+![Local News](./random_comic.png)
 
-Junior astronomers hate getting put on board update duty, but someone's gotta make sure that stuff is still up there.
+Will there ever be a physics term greater than 'tachyonic antitelephone?' According to this message from the future, the answer is 'no.'
 
