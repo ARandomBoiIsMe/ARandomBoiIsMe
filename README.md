@@ -1,6 +1,6 @@
-[Batman](https://xkcd.com/1004)
+[Heists And Escapes](https://xkcd.com/2145)
 
-![Batman](./random_comic.png)
+![Heists And Escapes](./random_comic.png)
 
-I'm really worried Christopher Nolan will kill a man dressed like a bat in his next movie. (The man will be dressed like a bat, I mean. Christopher Nolan won't be, probably.)
+The interactive experience is built on a single theological framework that unites Dante, George R. R. Martin, every major heist movie, and Erin Gloria Ryan's "Kevin is dead" Home Alone theory.
 
