@@ -1,6 +1,6 @@
-[Heists And Escapes](https://xkcd.com/2145)
+[Trash Compactor Party](https://xkcd.com/2416)
 
-![Heists And Escapes](./random_comic.png)
+![Trash Compactor Party](./random_comic.png)
 
-The interactive experience is built on a single theological framework that unites Dante, George R. R. Martin, every major heist movie, and Erin Gloria Ryan's "Kevin is dead" Home Alone theory.
+What an incredible smell you've discovered.
 
