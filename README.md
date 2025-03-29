@@ -1,6 +1,6 @@
-[Immune Factory](https://xkcd.com/2491)
+[Neutrality Schmeutrality](https://xkcd.com/545)
 
-![Immune Factory](./random_comic.png)
+![Neutrality Schmeutrality](./random_comic.png)
 
-In the final vote, the doubters were won over by the strength of the name IMMUNION.
+'Hey, everyone, you can totally trust that I didn't do a word count on MY edit!'
 
