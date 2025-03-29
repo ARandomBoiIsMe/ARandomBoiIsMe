@@ -1,6 +1,6 @@
-[Neutrality Schmeutrality](https://xkcd.com/545)
+[Batman](https://xkcd.com/1004)
 
-![Neutrality Schmeutrality](./random_comic.png)
+![Batman](./random_comic.png)
 
-'Hey, everyone, you can totally trust that I didn't do a word count on MY edit!'
+I'm really worried Christopher Nolan will kill a man dressed like a bat in his next movie. (The man will be dressed like a bat, I mean. Christopher Nolan won't be, probably.)
 
