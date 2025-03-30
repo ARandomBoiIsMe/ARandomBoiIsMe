@@ -1,6 +1,6 @@
-[Christmas Settings](https://xkcd.com/1620)
+[Dear Diary](https://xkcd.com/1777)
 
-![Christmas Settings](./random_comic.png)
+![Dear Diary](./random_comic.png)
 
-SOUND DOGS MAKE: [BARKING] [HISSING] [LIGHTSABER NOISES] [FLUENT ENGLISH] [SWEARING]
+Dear Diary: UNSUBSCRIBE
 
