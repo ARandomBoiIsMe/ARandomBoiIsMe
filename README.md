@@ -1,6 +1,6 @@
-[Home Organization](https://xkcd.com/1077)
+[Christmas Settings](https://xkcd.com/1620)
 
-![Home Organization](./random_comic.png)
+![Christmas Settings](./random_comic.png)
 
-Lifehacking!
+SOUND DOGS MAKE: [BARKING] [HISSING] [LIGHTSABER NOISES] [FLUENT ENGLISH] [SWEARING]
 
