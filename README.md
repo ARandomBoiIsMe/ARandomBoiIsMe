@@ -1,6 +1,6 @@
-[Trash Compactor Party](https://xkcd.com/2416)
+[Payloads](https://xkcd.com/1461)
 
-![Trash Compactor Party](./random_comic.png)
+![Payloads](./random_comic.png)
 
-What an incredible smell you've discovered.
+With a space elevator, a backyard full of solar panels could launch about 500 horses per year, and a large power plant could launch 10 horses per minute.
 
