@@ -1,6 +1,6 @@
-[Payloads](https://xkcd.com/1461)
+[Home Organization](https://xkcd.com/1077)
 
-![Payloads](./random_comic.png)
+![Home Organization](./random_comic.png)
 
-With a space elevator, a backyard full of solar panels could launch about 500 horses per year, and a large power plant could launch 10 horses per minute.
+Lifehacking!
 
