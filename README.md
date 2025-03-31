@@ -1,6 +1,6 @@
-[Marshmallow Gun](https://xkcd.com/517)
+[Super Bowl](https://xkcd.com/60)
 
-![Marshmallow Gun](./random_comic.png)
+![Super Bowl](./random_comic.png)
 
-Except in reality crossing a stream of marshmallows would create a giant Bill Murray.
+The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose.  The 'watch it for the ads' addition was a master stroke.
 
