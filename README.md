@@ -1,6 +1,6 @@
-[Dear Diary](https://xkcd.com/1777)
+[Marshmallow Gun](https://xkcd.com/517)
 
-![Dear Diary](./random_comic.png)
+![Marshmallow Gun](./random_comic.png)
 
-Dear Diary: UNSUBSCRIBE
+Except in reality crossing a stream of marshmallows would create a giant Bill Murray.
 
