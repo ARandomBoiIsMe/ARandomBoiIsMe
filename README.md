@@ -1,6 +1,6 @@
-[Super Bowl](https://xkcd.com/60)
+[Christmas Presents](https://xkcd.com/2246)
 
-![Super Bowl](./random_comic.png)
+![Christmas Presents](./random_comic.png)
 
-The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose.  The 'watch it for the ads' addition was a master stroke.
+"The parasitism might be mediated by a fungus!" exclaimed the biologist who was trying to ruin Christmas again.
 
