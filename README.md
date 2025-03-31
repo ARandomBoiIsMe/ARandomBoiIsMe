@@ -1,6 +1,6 @@
-[Christmas Presents](https://xkcd.com/2246)
+[Automatic Doors](https://xkcd.com/175)
 
-![Christmas Presents](./random_comic.png)
+![Automatic Doors](./random_comic.png)
 
-"The parasitism might be mediated by a fungus!" exclaimed the biologist who was trying to ruin Christmas again.
+I hope no automatic doors I know read this.  I would be so embarrassed.
 
