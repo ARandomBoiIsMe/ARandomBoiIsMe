@@ -1,6 +1,6 @@
-[Chess Notation](https://xkcd.com/1800)
+[Scheduling](https://xkcd.com/778)
 
-![Chess Notation](./random_comic.png)
+![Scheduling](./random_comic.png)
 
-I've decided to score all my conversations using chess win-loss notation. (??)
+'How about a little ... *family growth*?'  'Dude, that's not until round two.'
 
