@@ -1,6 +1,6 @@
-[Cheap GPS](https://xkcd.com/407)
+[Chess Notation](https://xkcd.com/1800)
 
-![Cheap GPS](./random_comic.png)
+![Chess Notation](./random_comic.png)
 
-In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.
+I've decided to score all my conversations using chess win-loss notation. (??)
 
