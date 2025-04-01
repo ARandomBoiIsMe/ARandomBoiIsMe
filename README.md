@@ -1,6 +1,6 @@
-[Automatic Doors](https://xkcd.com/175)
+[Cheap GPS](https://xkcd.com/407)
 
-![Automatic Doors](./random_comic.png)
+![Cheap GPS](./random_comic.png)
 
-I hope no automatic doors I know read this.  I would be so embarrassed.
+In lieu of mapping software, I once wrote a Perl program which, given a USB GPS receiver and a destination, printed 'LEFT' 'RIGHT' OR 'STRAIGHT' based on my heading.
 
