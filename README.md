@@ -1,6 +1,6 @@
-[Scheduling](https://xkcd.com/778)
+[Egg Strategies](https://xkcd.com/2408)
 
-![Scheduling](./random_comic.png)
+![Egg Strategies](./random_comic.png)
 
-'How about a little ... *family growth*?'  'Dude, that's not until round two.'
+Neutral Evil is for people who like keeping the weight nicely centered in the carton, but also hate everyone else who wants that.
 
