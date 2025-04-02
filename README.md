@@ -1,6 +1,6 @@
-[Okeanos](https://xkcd.com/1836)
+[Human Subjects](https://xkcd.com/1594)
 
-![Okeanos](./random_comic.png)
+![Human Subjects](./random_comic.png)
 
-WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT
+After meeting with a few of the subjects, the IRB actually recommended that you stop stressing out so much about safety guidelines.
 
