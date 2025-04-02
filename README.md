@@ -1,6 +1,6 @@
-[Cumulonimbus](https://xkcd.com/2185)
+[Okeanos](https://xkcd.com/1836)
 
-![Cumulonimbus](./random_comic.png)
+![Okeanos](./random_comic.png)
 
-The rarest of all clouds is the altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused by an interaction between warm moist air, cool dry air, cold slippery air, cursed air, and a cloud of nanobots.
+WHEN I WAS ON A BOAT I DROPPED MY PHONE CAN U LOOK FOR IT
 
