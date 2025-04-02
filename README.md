@@ -1,6 +1,6 @@
-[Egg Strategies](https://xkcd.com/2408)
+[Stellar Evolution](https://xkcd.com/2354)
 
-![Egg Strategies](./random_comic.png)
+![Stellar Evolution](./random_comic.png)
 
-Neutral Evil is for people who like keeping the weight nicely centered in the carton, but also hate everyone else who wants that.
+It may remain in equilibrium for some time, slowly growing, and then suddenly become significantly redder.
 
