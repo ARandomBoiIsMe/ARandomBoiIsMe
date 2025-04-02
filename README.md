@@ -1,6 +1,6 @@
-[Stellar Evolution](https://xkcd.com/2354)
+[Cumulonimbus](https://xkcd.com/2185)
 
-![Stellar Evolution](./random_comic.png)
+![Cumulonimbus](./random_comic.png)
 
-It may remain in equilibrium for some time, slowly growing, and then suddenly become significantly redder.
+The rarest of all clouds is the altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused by an interaction between warm moist air, cool dry air, cold slippery air, cursed air, and a cloud of nanobots.
 
