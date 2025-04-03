@@ -1,6 +1,6 @@
-[Breaker Box](https://xkcd.com/2848)
+[Tamagotchi Hive](https://xkcd.com/1546)
 
-![Breaker Box](./random_comic.png)
+![Tamagotchi Hive](./random_comic.png)
 
-Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.
+The Singularity happened, but not to us.
 
