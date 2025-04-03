@@ -1,6 +1,6 @@
-[Tamagotchi Hive](https://xkcd.com/1546)
+[Electoral Precedent](https://xkcd.com/1122)
 
-![Tamagotchi Hive](./random_comic.png)
+![Electoral Precedent](./random_comic.png)
 
-The Singularity happened, but not to us.
+No white guy who's been mentioned on Twitter has gone on to win.
 
