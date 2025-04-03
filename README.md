@@ -1,6 +1,6 @@
-[Human Subjects](https://xkcd.com/1594)
+[Breaker Box](https://xkcd.com/2848)
 
-![Human Subjects](./random_comic.png)
+![Breaker Box](./random_comic.png)
 
-After meeting with a few of the subjects, the IRB actually recommended that you stop stressing out so much about safety guidelines.
+Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one.
 
