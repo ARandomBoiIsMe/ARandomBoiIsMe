@@ -1,6 +1,6 @@
-[Electoral Precedent](https://xkcd.com/1122)
+[Baby Names](https://xkcd.com/1011)
 
-![Electoral Precedent](./random_comic.png)
+![Baby Names](./random_comic.png)
 
-No white guy who's been mentioned on Twitter has gone on to win.
+I've been trying for a couple years now but I haven't been able to come up with a name dumber than 'Renesmee'.
 
