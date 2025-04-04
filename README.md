@@ -1,6 +1,6 @@
-[Fastest-Growing](https://xkcd.com/1102)
+[Metabolism](https://xkcd.com/1744)
 
-![Fastest-Growing](./random_comic.png)
+![Metabolism](./random_comic.png)
 
-I lead a small but extraordinarily persuasive religion whose only members are door-to-door proselytizers from other faiths.
+I have this weird thing where if I don't drink enough water, I start feeling bad and then die of dehydration.
 
