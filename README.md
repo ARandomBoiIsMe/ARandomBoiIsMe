@@ -1,6 +1,6 @@
-[Baby Names](https://xkcd.com/1011)
+[Modern Tools](https://xkcd.com/2510)
 
-![Baby Names](./random_comic.png)
+![Modern Tools](./random_comic.png)
 
-I've been trying for a couple years now but I haven't been able to come up with a name dumber than 'Renesmee'.
+I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.
 
