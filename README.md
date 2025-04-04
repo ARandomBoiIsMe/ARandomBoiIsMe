@@ -1,6 +1,6 @@
-[Modern Tools](https://xkcd.com/2510)
+[Photo Library Management](https://xkcd.com/1832)
 
-![Modern Tools](./random_comic.png)
+![Photo Library Management](./random_comic.png)
 
-I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.
+A good lifehack is to use messy and unstable systems to organize your photos. That way, every five years or so it becomes obsolete and/or collapses, and you have to open it up and pick only your favorite pictures to salvage.
 
