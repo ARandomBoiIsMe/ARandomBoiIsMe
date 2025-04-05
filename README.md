@@ -1,6 +1,6 @@
-[Headline Words](https://xkcd.com/2584)
+[Keeping Time](https://xkcd.com/389)
 
-![Headline Words](./random_comic.png)
+![Keeping Time](./random_comic.png)
 
-Roundly-condemned headlinese initiative shuttered indefinitely.
+You can identify them ahead-of-time -- they lead with their left foot when the music starts.
 
