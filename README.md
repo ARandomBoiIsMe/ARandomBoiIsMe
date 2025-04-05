@@ -1,6 +1,6 @@
-[Fruit Collider](https://xkcd.com/1949)
+[Time Traveler Causes of Death](https://xkcd.com/2976)
 
-![Fruit Collider](./random_comic.png)
+![Time Traveler Causes of Death](./random_comic.png)
 
-The most delicious exotic fruit discovered this way is the strawberry banana. Sadly, it's only stable in puree form, so it's currently limited to yogurt and smoothies, but they're building a massive collider in Europe to search for a strawberry banana that can be eaten whole.
+Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician.
 
