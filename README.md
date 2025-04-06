@@ -1,6 +1,6 @@
-[Urban Planning Opinion Progression](https://xkcd.com/2832)
+[Orbital Mechanics](https://xkcd.com/1356)
 
-![Urban Planning Opinion Progression](./random_comic.png)
+![Orbital Mechanics](./random_comic.png)
 
-If they're going to make people ride bikes and scooters in traffic, then it should at LEAST be legal to do the Snow Crash thing where you use a hook-shot-style harpoon to catch free rides from cars.
+To be fair, my job at NASA was working on robots and didn't actually involve any orbital mechanics. The small positive slope over that period is because it turns out that if you hang around at NASA, you get in a lot of conversations about space.
 
