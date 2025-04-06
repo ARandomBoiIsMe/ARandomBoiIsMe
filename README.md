@@ -1,6 +1,6 @@
-[Orbital Mechanics](https://xkcd.com/1356)
+[Battle Room](https://xkcd.com/241)
 
-![Orbital Mechanics](./random_comic.png)
+![Battle Room](./random_comic.png)
 
-To be fair, my job at NASA was working on robots and didn't actually involve any orbital mechanics. The small positive slope over that period is because it turns out that if you hang around at NASA, you get in a lot of conversations about space.
+Bean actually sabotaged it just to give Dink the excuse to make that joke.
 
