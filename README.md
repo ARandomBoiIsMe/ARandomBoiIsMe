@@ -1,6 +1,6 @@
-[Time Traveler Causes of Death](https://xkcd.com/2976)
+[Election Screen Time](https://xkcd.com/2371)
 
-![Time Traveler Causes of Death](./random_comic.png)
+![Election Screen Time](./random_comic.png)
 
-Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician.
+Feels like I picked a bad year to try to start having a healthy relationship with political news.
 
