@@ -1,6 +1,6 @@
-[Election Screen Time](https://xkcd.com/2371)
+[Urban Planning Opinion Progression](https://xkcd.com/2832)
 
-![Election Screen Time](./random_comic.png)
+![Urban Planning Opinion Progression](./random_comic.png)
 
-Feels like I picked a bad year to try to start having a healthy relationship with political news.
+If they're going to make people ride bikes and scooters in traffic, then it should at LEAST be legal to do the Snow Crash thing where you use a hook-shot-style harpoon to catch free rides from cars.
 
