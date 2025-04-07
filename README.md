@@ -1,6 +1,6 @@
-[Scrabble](https://xkcd.com/492)
+[Misconceptions](https://xkcd.com/843)
 
-![Scrabble](./random_comic.png)
+![Misconceptions](./random_comic.png)
 
-A veteran Scrabble player will spot the 'OSTRICH' option.
+'Grandpa, what was it like in the Before time?' 'It was hell. People went around saying glass was a slow-flowing liquid. You folks these days don't know how good you have it.'
 
