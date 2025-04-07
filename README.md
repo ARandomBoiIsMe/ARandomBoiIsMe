@@ -1,6 +1,6 @@
-[Battle Room](https://xkcd.com/241)
+[Unique Date](https://xkcd.com/1340)
 
-![Battle Room](./random_comic.png)
+![Unique Date](./random_comic.png)
 
-Bean actually sabotaged it just to give Dink the excuse to make that joke.
+If our current civilization lasts another 8,000 years, it's probably fair to assume the Long Now Foundation got things right, and at some point we started listening to them and switched to five-digit years.
 
