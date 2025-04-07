@@ -1,6 +1,6 @@
-[Patch](https://xkcd.com/1685)
+[Scrabble](https://xkcd.com/492)
 
-![Patch](./random_comic.png)
+![Scrabble](./random_comic.png)
 
-My optimizer uses content-aware inpainting to fill in all the wasted whitespace in the code, repeating the process until it compiles.
+A veteran Scrabble player will spot the 'OSTRICH' option.
 
