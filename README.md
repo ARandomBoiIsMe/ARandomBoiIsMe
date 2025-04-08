@@ -1,6 +1,6 @@
-[Selection Bias](https://xkcd.com/2618)
+[Fundamental Forces](https://xkcd.com/1489)
 
-![Selection Bias](./random_comic.png)
+![Fundamental Forces](./random_comic.png)
 
-We carefully sampled the general population and found that most people are familiar with acquiescence bias.
+"Of these four forces, there's one we don't really understand." "Is it the weak force or the strong--" "It's gravity."
 
