@@ -1,6 +1,6 @@
-[Worrying](https://xkcd.com/1468)
+[Choices: Part 3](https://xkcd.com/266)
 
-![Worrying](./random_comic.png)
+![Choices: Part 3](./random_comic.png)
 
-If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.
+Wait, this is space -- how are you talking to me?  And, as an afterthought, what's up with the hole in reality?
 
