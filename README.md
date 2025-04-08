@@ -1,6 +1,6 @@
-[Fundamental Forces](https://xkcd.com/1489)
+[Worrying](https://xkcd.com/1468)
 
-![Fundamental Forces](./random_comic.png)
+![Worrying](./random_comic.png)
 
-"Of these four forces, there's one we don't really understand." "Is it the weak force or the strong--" "It's gravity."
+If the breaking news is about an event at a hospital or a lab, move it all the way over to the right.
 
