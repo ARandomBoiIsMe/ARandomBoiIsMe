@@ -1,6 +1,6 @@
-[Choices: Part 3](https://xkcd.com/266)
+[Graphic Designers](https://xkcd.com/2598)
 
-![Choices: Part 3](./random_comic.png)
+![Graphic Designers](./random_comic.png)
 
-Wait, this is space -- how are you talking to me?  And, as an afterthought, what's up with the hole in reality?
+They might make it past that first line of defense. For the second, you'll need some picture frames, a level, and a protractor that can do increments of less than a degree.
 
