@@ -1,6 +1,6 @@
-[Thumb War](https://xkcd.com/1753)
+[The bacon](https://xkcd.com/1054)
 
-![Thumb War](./random_comic.png)
+![The bacon](./random_comic.png)
 
-"Seventeen, eighteen, nineteen, twenty--" / "Can't we just read Pat the Bunny?"
+Normally pronounced 'THEH-buh-kon', I assume.
 
