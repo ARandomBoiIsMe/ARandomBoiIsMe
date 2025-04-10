@@ -1,6 +1,6 @@
-[Sample](https://xkcd.com/780)
+[Local News](https://xkcd.com/1699)
 
-![Sample](./random_comic.png)
+![Local News](./random_comic.png)
 
-There are two or three songs out there with beeps in the chorus that sound exactly like the clock radio alarm I had in high school, and hearing it makes me think my life since junior year has been a dream I'm about to wake up from.
+Will there ever be a physics term greater than 'tachyonic antitelephone?' According to this message from the future, the answer is 'no.'
 
