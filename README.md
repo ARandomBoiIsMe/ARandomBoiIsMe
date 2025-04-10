@@ -1,6 +1,6 @@
-[Suspension Bridge](https://xkcd.com/3048)
+[Virtual Assistant](https://xkcd.com/1931)
 
-![Suspension Bridge](./random_comic.png)
+![Virtual Assistant](./random_comic.png)
 
-As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it.
+If you ask it to please turn off that feature, it apologizes a whole bunch and promises to try to be quieter, then switches to a slightly lower-volume version of the clip with "sorry!" after the louder sounds.
 
