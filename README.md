@@ -1,6 +1,6 @@
-[EST](https://xkcd.com/1061)
+[Suspension Bridge](https://xkcd.com/3048)
 
-![EST](./random_comic.png)
+![Suspension Bridge](./random_comic.png)
 
-The month names are the same, except that the fourth month only has the name 'April' in even-numbered years, and is otherwise unnamed.
+As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it.
 
