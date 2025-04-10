@@ -1,6 +1,6 @@
-[Virtual Assistant](https://xkcd.com/1931)
+[Sample](https://xkcd.com/780)
 
-![Virtual Assistant](./random_comic.png)
+![Sample](./random_comic.png)
 
-If you ask it to please turn off that feature, it apologizes a whole bunch and promises to try to be quieter, then switches to a slightly lower-volume version of the clip with "sorry!" after the louder sounds.
+There are two or three songs out there with beeps in the chorus that sound exactly like the clock radio alarm I had in high school, and hearing it makes me think my life since junior year has been a dream I'm about to wake up from.
 
