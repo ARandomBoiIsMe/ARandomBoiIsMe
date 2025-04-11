@@ -1,6 +1,6 @@
-[Front Door](https://xkcd.com/1064)
+[Fever](https://xkcd.com/2877)
 
-![Front Door](./random_comic.png)
+![Fever](./random_comic.png)
 
-FYI: I'll be releasing a wolf into a randomly-chosen front yard sometime in the next 30 years. Now your fear is reasonable, and you don't need to feel embarrassed anymore. Problem solved!
+Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star.
 
