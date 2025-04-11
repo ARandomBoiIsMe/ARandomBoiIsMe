@@ -1,6 +1,6 @@
-[Networking](https://xkcd.com/1032)
+[Front Door](https://xkcd.com/1064)
 
-![Networking](./random_comic.png)
+![Front Door](./random_comic.png)
 
-Our company is agile and lean with a focus on the long tail. Ok, our company is actually a polecat I found in my backyard.
+FYI: I'll be releasing a wolf into a randomly-chosen front yard sometime in the next 30 years. Now your fear is reasonable, and you don't need to feel embarrassed anymore. Problem solved!
 
