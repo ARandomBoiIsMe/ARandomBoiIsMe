@@ -1,6 +1,6 @@
-[Aversion Fads](https://xkcd.com/471)
+[Networking](https://xkcd.com/1032)
 
-![Aversion Fads](./random_comic.png)
+![Networking](./random_comic.png)
 
-Hey, are you friends with any hamsters?  This kite needs a passenger.
+Our company is agile and lean with a focus on the long tail. Ok, our company is actually a polecat I found in my backyard.
 
