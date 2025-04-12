@@ -1,6 +1,6 @@
-[Moon Armor Index](https://xkcd.com/2908)
+[Loud Party](https://xkcd.com/358)
 
-![Moon Armor Index](./random_comic.png)
+![Loud Party](./random_comic.png)
 
-Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor.
+I'm glad this is so much fun because I'm not sure how we're getting down.
 
