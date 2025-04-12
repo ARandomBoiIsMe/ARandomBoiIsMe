@@ -1,6 +1,6 @@
-[Fever](https://xkcd.com/2877)
+[Perseids Pronunciation](https://xkcd.com/2814)
 
-![Fever](./random_comic.png)
+![Perseids Pronunciation](./random_comic.png)
 
-Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star.
+When speaking out loud, you can can call it the 'Perseids meatier shower' and no one will ever know. (If you do get caught somehow, just tell them to Google the 'Kentucky meat shower' and that will distract them while you escape.)
 
