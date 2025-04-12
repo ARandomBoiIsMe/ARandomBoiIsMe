@@ -1,6 +1,6 @@
-[Perseids Pronunciation](https://xkcd.com/2814)
+[Moon Armor Index](https://xkcd.com/2908)
 
-![Perseids Pronunciation](./random_comic.png)
+![Moon Armor Index](./random_comic.png)
 
-When speaking out loud, you can can call it the 'Perseids meatier shower' and no one will ever know. (If you do get caught somehow, just tell them to Google the 'Kentucky meat shower' and that will distract them while you escape.)
+Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor.
 
