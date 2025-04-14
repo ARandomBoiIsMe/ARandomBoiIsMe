@@ -1,6 +1,6 @@
-[Eclipse Searches](https://xkcd.com/1876)
+[Complex Numbers](https://xkcd.com/2028)
 
-![Eclipse Searches](./random_comic.png)
+![Complex Numbers](./random_comic.png)
 
-There were traffic jams for the eclipses in 1970 and 1979, and that was *before* we had the potential for overnight viral social media frenzies.
+I'm trying to prove that mathematics forms a meta-abelian group, which would finally confirm my suspicions that algebraic geometry and geometric algebra are the same thing.
 
