@@ -1,6 +1,6 @@
-[Complex Numbers](https://xkcd.com/2028)
+[26-Second Pulse](https://xkcd.com/2344)
 
-![Complex Numbers](./random_comic.png)
+![26-Second Pulse](./random_comic.png)
 
-I'm trying to prove that mathematics forms a meta-abelian group, which would finally confirm my suspicions that algebraic geometry and geometric algebra are the same thing.
+There are some papers arguing that there's a volcanic component, but I personally think they're just feeling guilty and trying to cover the trail.
 
