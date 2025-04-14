@@ -1,6 +1,6 @@
-[Revolutionary](https://xkcd.com/675)
+[Eclipse Searches](https://xkcd.com/1876)
 
-![Revolutionary](./random_comic.png)
+![Eclipse Searches](./random_comic.png)
 
-I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.
+There were traffic jams for the eclipses in 1970 and 1979, and that was *before* we had the potential for overnight viral social media frenzies.
 
