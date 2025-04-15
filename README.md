@@ -1,6 +1,6 @@
-[Motivated Reasoning Olympics](https://xkcd.com/2167)
+[Icon Swap](https://xkcd.com/2183)
 
-![Motivated Reasoning Olympics](./random_comic.png)
+![Icon Swap](./random_comic.png)
 
-[later] I can't believe how bad corruption has become, especially given that our league split off from the statewide one a month ago SPECIFICALLY to protest this kind of flagrantly biased judging.
+Someone's probably working on an eBook app where, if you stop reading right before some plot twist happens, the app will wait a while and then send you a breaking news alert about what's happening, prompting you to open it and read the next few pages to learn more.
 
