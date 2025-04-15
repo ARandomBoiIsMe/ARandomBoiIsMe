@@ -1,6 +1,6 @@
-[26-Second Pulse](https://xkcd.com/2344)
+[Motivated Reasoning Olympics](https://xkcd.com/2167)
 
-![26-Second Pulse](./random_comic.png)
+![Motivated Reasoning Olympics](./random_comic.png)
 
-There are some papers arguing that there's a volcanic component, but I personally think they're just feeling guilty and trying to cover the trail.
+[later] I can't believe how bad corruption has become, especially given that our league split off from the statewide one a month ago SPECIFICALLY to protest this kind of flagrantly biased judging.
 
