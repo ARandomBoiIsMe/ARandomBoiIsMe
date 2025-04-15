@@ -1,6 +1,6 @@
-[Inbox](https://xkcd.com/2181)
+[Blockchain](https://xkcd.com/2267)
 
-![Inbox](./random_comic.png)
+![Blockchain](./random_comic.png)
 
-Rome's declaration of war against Carthage was sent from a no-reply address, so Hannibal had to cross the Alps to deliver his "UNSUBSCRIBE" response in person.
+Blockchains are like grappling hooks, in that it's extremely cool when you encounter a problem for which they're the right solution, but it happens way too rarely in real life.
 
