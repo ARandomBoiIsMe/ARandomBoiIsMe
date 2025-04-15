@@ -1,6 +1,6 @@
-[Icon Swap](https://xkcd.com/2183)
+[Inbox](https://xkcd.com/2181)
 
-![Icon Swap](./random_comic.png)
+![Inbox](./random_comic.png)
 
-Someone's probably working on an eBook app where, if you stop reading right before some plot twist happens, the app will wait a while and then send you a breaking news alert about what's happening, prompting you to open it and read the next few pages to learn more.
+Rome's declaration of war against Carthage was sent from a no-reply address, so Hannibal had to cross the Alps to deliver his "UNSUBSCRIBE" response in person.
 
