@@ -1,6 +1,6 @@
-[T. Rex Evolution](https://xkcd.com/3042)
+[Magic School Bus](https://xkcd.com/911)
 
-![T. Rex Evolution](./random_comic.png)
+![Magic School Bus](./random_comic.png)
 
-Unfortunately, body size and bite force continue to increase.
+At my OLD school, we used Microsoft Encarta 2005.
 
