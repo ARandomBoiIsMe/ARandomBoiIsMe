@@ -1,6 +1,6 @@
-[Maslow's Pyramid](https://xkcd.com/2988)
+[Alternative Energy Revolution](https://xkcd.com/556)
 
-![Maslow's Pyramid](./random_comic.png)
+![Alternative Energy Revolution](./random_comic.png)
 
-The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps.
+The moment their arms spun freely in our air, they were doomed -- for Man has earned his right to hold this planet against all comers, by virtue of occasionally producing someone totally batshit insane.
 
