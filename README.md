@@ -1,6 +1,6 @@
-[Blockchain](https://xkcd.com/2267)
+[T. Rex Evolution](https://xkcd.com/3042)
 
-![Blockchain](./random_comic.png)
+![T. Rex Evolution](./random_comic.png)
 
-Blockchains are like grappling hooks, in that it's extremely cool when you encounter a problem for which they're the right solution, but it happens way too rarely in real life.
+Unfortunately, body size and bite force continue to increase.
 
