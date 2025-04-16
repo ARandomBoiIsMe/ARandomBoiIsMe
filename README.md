@@ -1,6 +1,6 @@
-[Magic School Bus](https://xkcd.com/911)
+[Maslow's Pyramid](https://xkcd.com/2988)
 
-![Magic School Bus](./random_comic.png)
+![Maslow's Pyramid](./random_comic.png)
 
-At my OLD school, we used Microsoft Encarta 2005.
+The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps.
 
