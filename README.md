@@ -1,6 +1,6 @@
-[Helium Synthesis](https://xkcd.com/2972)
+[Argument Timing](https://xkcd.com/1929)
 
-![Helium Synthesis](./random_comic.png)
+![Argument Timing](./random_comic.png)
 
-Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero.
+Of course, everyone has their own profile. There are morning arguers, hangry arguers, meal-time arguers, late-night arguers, and people who get in a meta-argument over what their argument timing is, dredge up examples of past arguments, and end up fighting over THOSE again as well.
 
