@@ -1,6 +1,6 @@
-[Alternative Energy Revolution](https://xkcd.com/556)
+[A Bunch of Rocks](https://xkcd.com/505)
 
-![Alternative Energy Revolution](./random_comic.png)
+![A Bunch of Rocks](./random_comic.png)
 
-The moment their arms spun freely in our air, they were doomed -- for Man has earned his right to hold this planet against all comers, by virtue of occasionally producing someone totally batshit insane.
+I call Rule 34 on Wolfram's Rule 34.
 
