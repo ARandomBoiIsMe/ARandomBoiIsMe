@@ -1,6 +1,6 @@
-[A Bunch of Rocks](https://xkcd.com/505)
+[Helium Synthesis](https://xkcd.com/2972)
 
-![A Bunch of Rocks](./random_comic.png)
+![Helium Synthesis](./random_comic.png)
 
-I call Rule 34 on Wolfram's Rule 34.
+Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero.
 
