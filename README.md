@@ -1,6 +1,6 @@
-[Argument Timing](https://xkcd.com/1929)
+[int(pi)](https://xkcd.com/1275)
 
-![Argument Timing](./random_comic.png)
+![int(pi)](./random_comic.png)
 
-Of course, everyone has their own profile. There are morning arguers, hangry arguers, meal-time arguers, late-night arguers, and people who get in a meta-argument over what their argument timing is, dredge up examples of past arguments, and end up fighting over THOSE again as well.
+If replacing all the '3's doesn't fix your code, remove the 4s, too, with 'ceiling(pi) / floor(pi) * pi * r^floor(pi)'. Mmm, floor pie.
 
