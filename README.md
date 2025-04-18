@@ -1,6 +1,6 @@
-[int(pi)](https://xkcd.com/1275)
+[Greenhouse Effect](https://xkcd.com/2889)
 
-![int(pi)](./random_comic.png)
+![Greenhouse Effect](./random_comic.png)
 
-If replacing all the '3's doesn't fix your code, remove the 4s, too, with 'ceiling(pi) / floor(pi) * pi * r^floor(pi)'. Mmm, floor pie.
+Once he had the answer, Arrhenius complained to his friends that he'd "wasted over a full year" doing tedious calculations by hand about "so trifling a matter" as hypothetical CO2 concentrations in far-off eras (quoted in Crawford, 1997).
 
