@@ -1,6 +1,6 @@
-[Decay Modes](https://xkcd.com/2860)
+[Electron Color](https://xkcd.com/2734)
 
-![Decay Modes](./random_comic.png)
+![Electron Color](./random_comic.png)
 
-Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy.
+There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.
 
