@@ -1,6 +1,6 @@
-[Electron Color](https://xkcd.com/2734)
+[Snake Facts](https://xkcd.com/1398)
 
-![Electron Color](./random_comic.png)
+![Snake Facts](./random_comic.png)
 
-There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring.
+Biologically speaking, what we call a 'snake' is actually a human digestive tract which has escaped from its host.
 
