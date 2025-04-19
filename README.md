@@ -1,6 +1,6 @@
-[The Source](https://xkcd.com/1590)
+[Product Launch](https://xkcd.com/2473)
 
-![The Source](./random_comic.png)
+![Product Launch](./random_comic.png)
 
-Why did we even have that thing?
+"Okay, that was weird, but the product reveal was normal. I think the danger is pas--" "One more thing." "Oh no."
 
