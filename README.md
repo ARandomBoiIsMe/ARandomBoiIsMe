@@ -1,6 +1,6 @@
-[Snake Facts](https://xkcd.com/1398)
+[Westerns](https://xkcd.com/2152)
 
-![Snake Facts](./random_comic.png)
+![Westerns](./random_comic.png)
 
-Biologically speaking, what we call a 'snake' is actually a human digestive tract which has escaped from its host.
+Sitting here idly trying to figure out how the population of the Old West in the late 1800s compares to the number of Red Dead Redemption 2 players.
 
