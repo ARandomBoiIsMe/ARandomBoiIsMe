@@ -1,6 +1,6 @@
-[False Dichotomy](https://xkcd.com/2592)
+[Free Fallin'](https://xkcd.com/2811)
 
-![False Dichotomy](./random_comic.png)
+![Free Fallin'](./random_comic.png)
 
-There are two types of dichotomy: False dichotomies, true dichotomies, and surprise trichotomies.
+Their crash investigation team had some particularly harsh words for Dave Matthews.
 
