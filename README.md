@@ -1,6 +1,6 @@
-[Free Fallin'](https://xkcd.com/2811)
+[Manhattan Project](https://xkcd.com/1736)
 
-![Free Fallin'](./random_comic.png)
+![Manhattan Project](./random_comic.png)
 
-Their crash investigation team had some particularly harsh words for Dave Matthews.
+On the plus side, we definitely killed that cancer over there, even if we caused a bunch more everywhere else.
 
