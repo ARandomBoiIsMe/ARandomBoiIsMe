@@ -1,6 +1,6 @@
-[Manhattan Project](https://xkcd.com/1736)
+[Good Cop, Dadaist Cop](https://xkcd.com/1018)
 
-![Manhattan Project](./random_comic.png)
+![Good Cop, Dadaist Cop](./random_comic.png)
 
-On the plus side, we definitely killed that cancer over there, even if we caused a bunch more everywhere else.
+NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.
 
