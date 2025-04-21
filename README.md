@@ -1,6 +1,6 @@
-[Planet Definitions](https://xkcd.com/3063)
+[Ghostbusters Marathon](https://xkcd.com/213)
 
-![Planet Definitions](./random_comic.png)
+![Ghostbusters Marathon](./random_comic.png)
 
-Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.
+If you walk out that door you'll be crossing the Rubicon with me, and that's one stream I'm not ready to cross.
 
