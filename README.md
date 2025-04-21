@@ -1,6 +1,6 @@
-[Ghostbusters Marathon](https://xkcd.com/213)
+[2016 Conversation Guide](https://xkcd.com/1623)
 
-![Ghostbusters Marathon](./random_comic.png)
+![2016 Conversation Guide](./random_comic.png)
 
-If you walk out that door you'll be crossing the Rubicon with me, and that's one stream I'm not ready to cross.
+The real loser in an argument about the meaning of the word 'hoverboard' is anyone who leaves that argument on foot.
 
