@@ -1,6 +1,6 @@
-[Good Cop, Dadaist Cop](https://xkcd.com/1018)
+[Planet Definitions](https://xkcd.com/3063)
 
-![Good Cop, Dadaist Cop](./random_comic.png)
+![Planet Definitions](./random_comic.png)
 
-NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.
+Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.
 
