@@ -1,6 +1,6 @@
-[2016 Conversation Guide](https://xkcd.com/1623)
+[API](https://xkcd.com/1481)
 
-![2016 Conversation Guide](./random_comic.png)
+![API](./random_comic.png)
 
-The real loser in an argument about the meaning of the word 'hoverboard' is anyone who leaves that argument on foot.
+ACCESS LIMITS: Clients may maintain connections to the server for no more than 86,400 seconds per day. If you need additional time, you may contact IERS to file a request for up to one additional second.
 
