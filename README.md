@@ -1,6 +1,6 @@
-[Helium Reserve](https://xkcd.com/2766)
+[Tuesdays](https://xkcd.com/1099)
 
-![Helium Reserve](./random_comic.png)
+![Tuesdays](./random_comic.png)
 
-The government has been trying to sell off the Federal Helium Reserve for a few years now, but the sale has been on hold while they try to figure out how to explain this situation to buyers.
+Try our bottomless drinks and fall forever!
 
