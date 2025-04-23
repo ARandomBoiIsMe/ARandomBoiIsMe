@@ -1,6 +1,6 @@
-[Christmas Eve Eve](https://xkcd.com/2089)
+[Mispronouncing](https://xkcd.com/148)
 
-![Christmas Eve Eve](./random_comic.png)
+![Mispronouncing](./random_comic.png)
 
-It turns out that saying "Oh, so THAT'S why they call it Boxing Day" is a good way to get punched a second time.
+My pal Emad does this all the time.  'Hey man, which way to the airpart?'
 
