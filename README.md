@@ -1,6 +1,6 @@
-[Mispronouncing](https://xkcd.com/148)
+[Research Risks](https://xkcd.com/1904)
 
-![Mispronouncing](./random_comic.png)
+![Research Risks](./random_comic.png)
 
-My pal Emad does this all the time.  'Hey man, which way to the airpart?'
+The 1919 Great Boston Molasses Flood remained the deadliest confectionery containment accident until the Canadian Space Agency's 2031 orbital maple syrup delivery disaster.
 
