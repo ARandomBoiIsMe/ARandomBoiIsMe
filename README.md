@@ -1,6 +1,6 @@
-[Twitter](https://xkcd.com/491)
+[Once Per Day](https://xkcd.com/1853)
 
-![Twitter](./random_comic.png)
+![Once Per Day](./random_comic.png)
 
-If long tooltips / cut off for you / then upgrade from / Firefox 2 / Burma Shave
+I'm not totally locked into my routine—twice a year, I take a break to change the batteries in my smoke detectors.
 
