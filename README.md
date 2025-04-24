@@ -1,6 +1,6 @@
-[Tech Loops](https://xkcd.com/1579)
+[Cold Medicine](https://xkcd.com/1618)
 
-![Tech Loops](./random_comic.png)
+![Cold Medicine](./random_comic.png)
 
-And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.
+Seriously considering buying some illegal drugs to try to turn them back into cold medicine.
 
