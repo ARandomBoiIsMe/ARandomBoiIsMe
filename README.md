@@ -1,6 +1,6 @@
-[Cold Medicine](https://xkcd.com/1618)
+[Google Trends Maps](https://xkcd.com/2126)
 
-![Cold Medicine](./random_comic.png)
+![Google Trends Maps](./random_comic.png)
 
-Seriously considering buying some illegal drugs to try to turn them back into cold medicine.
+It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.
 
