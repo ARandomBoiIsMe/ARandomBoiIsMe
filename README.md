@@ -1,6 +1,6 @@
-[Research Risks](https://xkcd.com/1904)
+[Tech Loops](https://xkcd.com/1579)
 
-![Research Risks](./random_comic.png)
+![Tech Loops](./random_comic.png)
 
-The 1919 Great Boston Molasses Flood remained the deadliest confectionery containment accident until the Canadian Space Agency's 2031 orbital maple syrup delivery disaster.
+And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.
 
