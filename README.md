@@ -1,6 +1,6 @@
-[Google Trends Maps](https://xkcd.com/2126)
+[Book Podcasts](https://xkcd.com/2834)
 
-![Google Trends Maps](./random_comic.png)
+![Book Podcasts](./random_comic.png)
 
-It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.
+I've been working my way through this 1950s podcast by someone named John Tolkien called 'Lord of the Rings'--it's a deep dive into this fictional world he created. Good stuff, really bingeable!
 
