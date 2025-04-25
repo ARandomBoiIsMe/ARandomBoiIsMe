@@ -1,6 +1,6 @@
-[Polls vs the Street](https://xkcd.com/2357)
+[Tap That Ass](https://xkcd.com/398)
 
-![Polls vs the Street](./random_comic.png)
+![Tap That Ass](./random_comic.png)
 
-Other pollsters complain about declining response rates, but our poll showed that 96% of respondents would be 'somewhat likely' or 'very likely' to agree to answer a series of questions for a survey.
+Hey, when you're done draining the syrup, just leave the hole, okay?
 
