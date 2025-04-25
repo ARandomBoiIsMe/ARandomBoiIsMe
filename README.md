@@ -1,6 +1,6 @@
-[All the Girls](https://xkcd.com/770)
+[Polls vs the Street](https://xkcd.com/2357)
 
-![All the Girls](./random_comic.png)
+![Polls vs the Street](./random_comic.png)
 
-You know that I'll never leave you. Not as long as she's with someone.
+Other pollsters complain about declining response rates, but our poll showed that 96% of respondents would be 'somewhat likely' or 'very likely' to agree to answer a series of questions for a survey.
 
