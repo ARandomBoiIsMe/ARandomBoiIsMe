@@ -1,6 +1,6 @@
-[Tap That Ass](https://xkcd.com/398)
+[Research Account](https://xkcd.com/2894)
 
-![Tap That Ass](./random_comic.png)
+![Research Account](./random_comic.png)
 
-Hey, when you're done draining the syrup, just leave the hole, okay?
+Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO
 
