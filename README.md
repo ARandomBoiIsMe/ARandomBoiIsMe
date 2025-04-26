@@ -1,6 +1,6 @@
-[RBA](https://xkcd.com/464)
+[My Sky](https://xkcd.com/1117)
 
-![RBA](./random_comic.png)
+![My Sky](./random_comic.png)
 
-This is a story all about how I started drinking.
+According to my mom, my first word was (looking up at the sky) 'Wow!'
 
