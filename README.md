@@ -1,6 +1,6 @@
-[My Sky](https://xkcd.com/1117)
+[Sports](https://xkcd.com/904)
 
-![My Sky](./random_comic.png)
+![Sports](./random_comic.png)
 
-According to my mom, my first word was (looking up at the sky) 'Wow!'
+Also, all financial analysis. And, more directly, D&D.
 
