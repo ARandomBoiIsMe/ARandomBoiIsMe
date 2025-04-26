@@ -1,6 +1,6 @@
-[Research Account](https://xkcd.com/2894)
+[RBA](https://xkcd.com/464)
 
-![Research Account](./random_comic.png)
+![RBA](./random_comic.png)
 
-Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO
+This is a story all about how I started drinking.
 
