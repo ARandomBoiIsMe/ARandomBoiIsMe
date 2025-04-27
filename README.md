@@ -1,6 +1,6 @@
-[Moon Shapes](https://xkcd.com/1738)
+[Decay Chain](https://xkcd.com/3071)
 
-![Moon Shapes](./random_comic.png)
+![Decay Chain](./random_comic.png)
 
-Whenever I see a picture of the moon where the points go more than halfway around, I assume it's being eclipsed by one of those Independence Day ships and interpret the rest of the image in light of that.
+If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model.
 
