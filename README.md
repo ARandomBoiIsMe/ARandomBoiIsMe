@@ -1,6 +1,6 @@
-[Sports](https://xkcd.com/904)
+[Moon Shapes](https://xkcd.com/1738)
 
-![Sports](./random_comic.png)
+![Moon Shapes](./random_comic.png)
 
-Also, all financial analysis. And, more directly, D&D.
+Whenever I see a picture of the moon where the points go more than halfway around, I assume it's being eclipsed by one of those Independence Day ships and interpret the rest of the image in light of that.
 
