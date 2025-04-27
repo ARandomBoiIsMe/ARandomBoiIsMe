@@ -1,6 +1,6 @@
-[Blame](https://xkcd.com/1761)
+[Baby](https://xkcd.com/1650)
 
-![Blame](./random_comic.png)
+![Baby](./random_comic.png)
 
-I bet if I yell at my scared friends I will feel better.
+Does it get taller first and then widen, or does it reach full width before getting taller, or alternate, or what?
 
