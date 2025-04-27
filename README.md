@@ -1,6 +1,6 @@
-[Decay Chain](https://xkcd.com/3071)
+[Blame](https://xkcd.com/1761)
 
-![Decay Chain](./random_comic.png)
+![Blame](./random_comic.png)
 
-If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model.
+I bet if I yell at my scared friends I will feel better.
 
