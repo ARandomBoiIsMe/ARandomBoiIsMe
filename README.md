@@ -1,6 +1,6 @@
-[Light Pollution](https://xkcd.com/2121)
+[Parenthetical Names](https://xkcd.com/2252)
 
-![Light Pollution](./random_comic.png)
+![Parenthetical Names](./random_comic.png)
 
-It's so sad how almost no one alive today can remember seeing the galactic rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer of Sagittarius.
+I never got around to seeing that movie about the battle (of Midway).
 
