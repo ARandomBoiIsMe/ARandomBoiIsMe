@@ -1,6 +1,6 @@
-[Baby](https://xkcd.com/1650)
+[Nightmare Code](https://xkcd.com/2485)
 
-![Baby](./random_comic.png)
+![Nightmare Code](./random_comic.png)
 
-Does it get taller first and then widen, or does it reach full width before getting taller, or alternate, or what?
+Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.
 
