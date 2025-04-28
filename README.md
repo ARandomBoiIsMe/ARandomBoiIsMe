@@ -1,6 +1,6 @@
-[Parenthetical Names](https://xkcd.com/2252)
+[Juno](https://xkcd.com/1703)
 
-![Parenthetical Names](./random_comic.png)
+![Juno](./random_comic.png)
 
-I never got around to seeing that movie about the battle (of Midway).
+"The name wasn't a tip-off?" "Honestly, at first I thought you were saying 'Juneau'. A gravity assist seemed like a weird way to get to Alaska, but I figured it must be more efficient or something."
 
