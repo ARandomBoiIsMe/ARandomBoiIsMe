@@ -1,6 +1,6 @@
-[Nightmare Code](https://xkcd.com/2485)
+[Light Pollution](https://xkcd.com/2121)
 
-![Nightmare Code](./random_comic.png)
+![Light Pollution](./random_comic.png)
 
-Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.
+It's so sad how almost no one alive today can remember seeing the galactic rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer of Sagittarius.
 
