@@ -1,6 +1,6 @@
-[Wishlist](https://xkcd.com/2069)
+[Lego](https://xkcd.com/659)
 
-![Wishlist](./random_comic.png)
+![Lego](./random_comic.png)
 
-Disappointed that they caved to fan pressure and went with Ruth Bader Ginsburg over Elena Kagan.
+Dad, where is Grandpa right now?
 
