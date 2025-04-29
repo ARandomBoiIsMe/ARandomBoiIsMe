@@ -1,6 +1,6 @@
-[xkcd Phone 2000](https://xkcd.com/2000)
+[Wishlist](https://xkcd.com/2069)
 
-![xkcd Phone 2000](./random_comic.png)
+![Wishlist](./random_comic.png)
 
-Our retina display features hundreds of pixels per inch in the central fovea region.
+Disappointed that they caved to fan pressure and went with Ruth Bader Ginsburg over Elena Kagan.
 
