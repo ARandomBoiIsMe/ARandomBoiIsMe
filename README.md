@@ -1,6 +1,6 @@
-[Juno](https://xkcd.com/1703)
+[xkcd Phone 2000](https://xkcd.com/2000)
 
-![Juno](./random_comic.png)
+![xkcd Phone 2000](./random_comic.png)
 
-"The name wasn't a tip-off?" "Honestly, at first I thought you were saying 'Juneau'. A gravity assist seemed like a weird way to get to Alaska, but I figured it must be more efficient or something."
+Our retina display features hundreds of pixels per inch in the central fovea region.
 
