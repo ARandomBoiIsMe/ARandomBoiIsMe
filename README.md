@@ -1,6 +1,6 @@
-[Excel Lambda](https://xkcd.com/2453)
+[Flowcharts](https://xkcd.com/1488)
 
-![Excel Lambda](./random_comic.png)
+![Flowcharts](./random_comic.png)
 
-Extremely rude how Turing's later formulations of the halting problem called me out by name specifically.
+Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!
 
