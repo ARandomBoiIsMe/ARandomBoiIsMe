@@ -1,6 +1,6 @@
-[Shadowfacts](https://xkcd.com/1272)
+[Felsius](https://xkcd.com/1923)
 
-![Shadowfacts](./random_comic.png)
+![Felsius](./random_comic.png)
 
-'Look to my coming on the fifth day. At dawn, look to the east.' 'And look to the west to see our shadows!'
+The symbol for degrees Felsius is an average of the Euro symbol (€) and the Greek lunate epsilon (ϵ).
 
