@@ -1,6 +1,6 @@
-[Writers Strike](https://xkcd.com/360)
+[Shadowfacts](https://xkcd.com/1272)
 
-![Writers Strike](./random_comic.png)
+![Shadowfacts](./random_comic.png)
 
-He's just jealous because everyone's up in the attic listening to Stephen Colbert.
+'Look to my coming on the fifth day. At dawn, look to the east.' 'And look to the west to see our shadows!'
 
