@@ -1,6 +1,6 @@
-[Boyfriend](https://xkcd.com/539)
+[Google Trends Maps](https://xkcd.com/2126)
 
-![Boyfriend](./random_comic.png)
+![Google Trends Maps](./random_comic.png)
 
-... okay, but because you said that, we're breaking up.
+It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.
 
