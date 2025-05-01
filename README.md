@@ -1,6 +1,6 @@
-[Google Trends Maps](https://xkcd.com/2126)
+[Backward in Time](https://xkcd.com/1017)
 
-![Google Trends Maps](./random_comic.png)
+![Backward in Time](./random_comic.png)
 
-It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.
+People tell me I have too much time on my hands, but really the problem is that there's too much time, PERIOD.
 
