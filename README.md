@@ -1,6 +1,6 @@
-[Felsius](https://xkcd.com/1923)
+[Boyfriend](https://xkcd.com/539)
 
-![Felsius](./random_comic.png)
+![Boyfriend](./random_comic.png)
 
-The symbol for degrees Felsius is an average of the Euro symbol (€) and the Greek lunate epsilon (ϵ).
+... okay, but because you said that, we're breaking up.
 
