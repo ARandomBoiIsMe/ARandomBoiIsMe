@@ -1,6 +1,6 @@
-[Freedom](https://xkcd.com/706)
+[Hawaii](https://xkcd.com/1946)
 
-![Freedom](./random_comic.png)
+![Hawaii](./random_comic.png)
 
-Sometimes I'm terrified to realize how many options other people have.
+Ok, I've got it, just need to plug in my security key. Hmm, which way does the USB go? Nope, not that way. I'll just flip it and– OH JEEZ IT FELL INTO THE VENT.
 
