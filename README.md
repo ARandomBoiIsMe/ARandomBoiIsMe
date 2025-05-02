@@ -1,6 +1,6 @@
-[Daylight Saving Choice](https://xkcd.com/2846)
+[Sandwich](https://xkcd.com/149)
 
-![Daylight Saving Choice](./random_comic.png)
+![Sandwich](./random_comic.png)
 
-I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.
+Proper User Policy apparently means Simon Says.
 
