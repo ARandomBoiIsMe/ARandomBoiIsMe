@@ -1,6 +1,6 @@
-[Map of the Internet](https://xkcd.com/195)
+[Daylight Saving Choice](https://xkcd.com/2846)
 
-![Map of the Internet](./random_comic.png)
+![Daylight Saving Choice](./random_comic.png)
 
-For the IPv6 map just imagine the XP default desktop picture.
+I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.
 
