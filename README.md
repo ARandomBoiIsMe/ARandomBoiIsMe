@@ -1,6 +1,6 @@
-[Sandwich](https://xkcd.com/149)
+[Freedom](https://xkcd.com/706)
 
-![Sandwich](./random_comic.png)
+![Freedom](./random_comic.png)
 
-Proper User Policy apparently means Simon Says.
+Sometimes I'm terrified to realize how many options other people have.
 
