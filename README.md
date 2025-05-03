@@ -1,6 +1,6 @@
-[Sledding Discussion](https://xkcd.com/529)
+[1337: Part 5](https://xkcd.com/345)
 
-![Sledding Discussion](./random_comic.png)
+![1337: Part 5](./random_comic.png)
 
-If you get your hands on that one, it's the worst place to have a breaking-up conversation.
+This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times.
 
