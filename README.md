@@ -1,6 +1,6 @@
-[Hawaii](https://xkcd.com/1946)
+[2016 Conversation Guide](https://xkcd.com/1623)
 
-![Hawaii](./random_comic.png)
+![2016 Conversation Guide](./random_comic.png)
 
-Ok, I've got it, just need to plug in my security key. Hmm, which way does the USB go? Nope, not that way. I'll just flip it and– OH JEEZ IT FELL INTO THE VENT.
+The real loser in an argument about the meaning of the word 'hoverboard' is anyone who leaves that argument on foot.
 
