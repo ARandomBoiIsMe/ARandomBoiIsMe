@@ -1,6 +1,6 @@
-[1337: Part 5](https://xkcd.com/345)
+[Infrastructures](https://xkcd.com/743)
 
-![1337: Part 5](./random_comic.png)
+![Infrastructures](./random_comic.png)
 
-This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times.
+The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.
 
