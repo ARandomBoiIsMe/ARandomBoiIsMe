@@ -1,6 +1,6 @@
-[Infrastructures](https://xkcd.com/743)
+[Periodic Table Regions](https://xkcd.com/2913)
 
-![Infrastructures](./random_comic.png)
+![Periodic Table Regions](./random_comic.png)
 
-The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.
+Cesium-133, let it be. Cesium-134, let it be even more.
 
