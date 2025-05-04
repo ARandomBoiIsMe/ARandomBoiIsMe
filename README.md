@@ -1,6 +1,6 @@
-[Approximations](https://xkcd.com/1047)
+[Disk Usage](https://xkcd.com/2143)
 
-![Approximations](./random_comic.png)
+![Disk Usage](./random_comic.png)
 
-Two tips: 1) 8675309 is not just prime, it's a twin prime, and 2) if you ever find yourself raising log(anything)^e or taking the pi-th root of anything, set down the marker and back away from the whiteboard; something has gone horribly wrong.
+Menu -> Manage -> [Optimize space usage, Encrypt disk usage report, Convert photos to text-only, Delete temporary files, Delete permanent files, Delete all files currently in use, Optimize menu options, Download cloud, Optimize cloud , Upload unused space to cloud]
 
