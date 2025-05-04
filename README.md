@@ -1,6 +1,6 @@
-[Periodic Table Regions](https://xkcd.com/2913)
+[Approximations](https://xkcd.com/1047)
 
-![Periodic Table Regions](./random_comic.png)
+![Approximations](./random_comic.png)
 
-Cesium-133, let it be. Cesium-134, let it be even more.
+Two tips: 1) 8675309 is not just prime, it's a twin prime, and 2) if you ever find yourself raising log(anything)^e or taking the pi-th root of anything, set down the marker and back away from the whiteboard; something has gone horribly wrong.
 
