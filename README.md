@@ -1,6 +1,6 @@
-[Idiocracy](https://xkcd.com/603)
+[Fourier](https://xkcd.com/26)
 
-![Idiocracy](./random_comic.png)
+![Fourier](./random_comic.png)
 
-People aren't going to change, for better or for worse. Technology's going to be so cool. All in all, the future will be okay! Except climate; we fucked that one up.
+That cat has some serious periodic components
 
