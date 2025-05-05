@@ -1,6 +1,6 @@
-[Travelling Salesman Problem](https://xkcd.com/399)
+[Idiocracy](https://xkcd.com/603)
 
-![Travelling Salesman Problem](./random_comic.png)
+![Idiocracy](./random_comic.png)
 
-What's the complexity class of the best linear programming cutting-plane techniques?  I couldn't find it anywhere.  Man, the Garfield guy doesn't have these problems ...
+People aren't going to change, for better or for worse. Technology's going to be so cool. All in all, the future will be okay! Except climate; we fucked that one up.
 
