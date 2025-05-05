@@ -1,6 +1,6 @@
-[Fourier](https://xkcd.com/26)
+[Bookshelf Sorting](https://xkcd.com/2791)
 
-![Fourier](./random_comic.png)
+![Bookshelf Sorting](./random_comic.png)
 
-That cat has some serious periodic components
+Of course, I sort all my bookshelves the normal way, alphabetically (by first sentence).
 
