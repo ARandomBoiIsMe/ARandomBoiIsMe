@@ -1,6 +1,6 @@
-[Advent Calendar](https://xkcd.com/994)
+[Collatz Conjecture](https://xkcd.com/710)
 
-![Advent Calendar](./random_comic.png)
+![Collatz Conjecture](./random_comic.png)
 
-I think you could get up to about 11:59:57 before you'd have trouble swallowing the chocolates fast enough. At that point, you'd need some kind of a liquify-and-chug apparatus to get up over the 11:59:59 barrier. Anyway, Merry Christmas!
+The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules.
 
