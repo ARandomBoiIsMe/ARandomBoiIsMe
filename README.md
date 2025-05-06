@@ -1,6 +1,6 @@
-[Collatz Conjecture](https://xkcd.com/710)
+[Branding](https://xkcd.com/624)
 
-![Collatz Conjecture](./random_comic.png)
+![Branding](./random_comic.png)
 
-The Strong Collatz Conjecture states that this holds for any set of obsessively-hand-applied rules.
+Actually, 'RSS&M' is kinda catchy.
 
