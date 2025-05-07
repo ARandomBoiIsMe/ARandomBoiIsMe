@@ -1,6 +1,6 @@
-[Ruling Out](https://xkcd.com/2783)
+[Laser Pointer](https://xkcd.com/729)
 
-![Ruling Out](./random_comic.png)
+![Laser Pointer](./random_comic.png)
 
-We were able to replicate and confirm prior authors' detection of a moon orbiting the Earth with high confidence.
+It's a lasing cat-vity!
 
