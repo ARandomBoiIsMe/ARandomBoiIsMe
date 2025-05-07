@@ -1,6 +1,6 @@
-[Forget](https://xkcd.com/1093)
+[PermaCal](https://xkcd.com/1514)
 
-![Forget](./random_comic.png)
+![PermaCal](./random_comic.png)
 
-'Baby Got Back' turned 20 this year. My favorite nostalgia show is VH1's 'I Love The Inexorable March of Time Toward the Grave That Awaits Us All.'
+The flood of PermaCalNTP leap-second notifications was bad enough, but when people started asking for millisecond resolution, the resulting DDOS brought down the internet.
 
