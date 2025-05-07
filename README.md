@@ -1,6 +1,6 @@
-[Hertzsprung-Russell Diagram](https://xkcd.com/2009)
+[Forget](https://xkcd.com/1093)
 
-![Hertzsprung-Russell Diagram](./random_comic.png)
+![Forget](./random_comic.png)
 
-The Hertzsprung-Russell diagram is located in its own lower right corner, unless you're viewing it on an unusually big screen.
+'Baby Got Back' turned 20 this year. My favorite nostalgia show is VH1's 'I Love The Inexorable March of Time Toward the Grave That Awaits Us All.'
 
