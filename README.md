@@ -1,6 +1,6 @@
-[PermaCal](https://xkcd.com/1514)
+[Ruling Out](https://xkcd.com/2783)
 
-![PermaCal](./random_comic.png)
+![Ruling Out](./random_comic.png)
 
-The flood of PermaCalNTP leap-second notifications was bad enough, but when people started asking for millisecond resolution, the resulting DDOS brought down the internet.
+We were able to replicate and confirm prior authors' detection of a moon orbiting the Earth with high confidence.
 
