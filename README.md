@@ -1,6 +1,6 @@
-[Brookhaven RHIC](https://xkcd.com/2007)
+[Light Hacks](https://xkcd.com/2024)
 
-![Brookhaven RHIC](./random_comic.png)
+![Light Hacks](./random_comic.png)
 
-"Buddy, you trying to pull something? I can't buy this gold--all the electrons are missing. I could face serious charges!"
+Life hack: Wait for an advanced civilization to be briefly distracted, then sneak in and construct a slightly smaller Dyson sphere inside theirs.
 
