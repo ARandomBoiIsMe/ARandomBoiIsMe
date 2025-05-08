@@ -1,6 +1,6 @@
-[Outdated Periodic Table](https://xkcd.com/2723)
+[Broomstick](https://xkcd.com/1149)
 
-![Outdated Periodic Table](./random_comic.png)
+![Broomstick](./random_comic.png)
 
-Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.
+'Broom first, then slippers.' 'How do I know you'll return the broom once you've secured your ticket?' 'I'll leave my little dog as collateral.' 'Great. Pleasure doing business!'
 
