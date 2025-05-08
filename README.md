@@ -1,6 +1,6 @@
-[Laser Pointer](https://xkcd.com/729)
+[Outdated Periodic Table](https://xkcd.com/2723)
 
-![Laser Pointer](./random_comic.png)
+![Outdated Periodic Table](./random_comic.png)
 
-It's a lasing cat-vity!
+Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.
 
