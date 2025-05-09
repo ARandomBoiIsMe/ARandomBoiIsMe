@@ -1,6 +1,6 @@
-[Margaret](https://xkcd.com/1544)
+[Research Areas by Size and Countedness](https://xkcd.com/1991)
 
-![Margaret](./random_comic.png)
+![Research Areas by Size and Countedness](./random_comic.png)
 
-Otherwise known as Margaret the Destroyer, I will bring pain to the the Great One. Then again, maybe I won't.
+Mathematicians give a third answer on the vertical axis, "That question is poorly defined, but we have a sub-field devoted to every plausible version of it."
 
