@@ -1,6 +1,6 @@
-[Mystery Asterisk Destination](https://xkcd.com/2708)
+[With Apologies to The Who](https://xkcd.com/274)
 
-![Mystery Asterisk Destination](./random_comic.png)
+![With Apologies to The Who](./random_comic.png)
 
-If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger.
+Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.
 
