@@ -1,6 +1,6 @@
-[Light Hacks](https://xkcd.com/2024)
+[Margaret](https://xkcd.com/1544)
 
-![Light Hacks](./random_comic.png)
+![Margaret](./random_comic.png)
 
-Life hack: Wait for an advanced civilization to be briefly distracted, then sneak in and construct a slightly smaller Dyson sphere inside theirs.
+Otherwise known as Margaret the Destroyer, I will bring pain to the the Great One. Then again, maybe I won't.
 
