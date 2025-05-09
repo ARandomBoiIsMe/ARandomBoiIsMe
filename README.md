@@ -1,6 +1,6 @@
-[Research Areas by Size and Countedness](https://xkcd.com/1991)
+[Mystery Asterisk Destination](https://xkcd.com/2708)
 
-![Research Areas by Size and Countedness](./random_comic.png)
+![Mystery Asterisk Destination](./random_comic.png)
 
-Mathematicians give a third answer on the vertical axis, "That question is poorly defined, but we have a sub-field devoted to every plausible version of it."
+If you ever see the † dagger symbol with no unmatched footnote, it means the writer is saying the phrase while threatening you with a dagger.
 
