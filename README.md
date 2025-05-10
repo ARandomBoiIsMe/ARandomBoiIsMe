@@ -1,6 +1,6 @@
-[Darkness](https://xkcd.com/1391)
+[Semicontrolled Demolition](https://xkcd.com/690)
 
-![Darkness](./random_comic.png)
+![Semicontrolled Demolition](./random_comic.png)
 
-This was actually wish #406. Wish #2 was for him to lose the ability to remember that each new wish wasn't my first.
+I believe the truth always lies halfway between the most extreme claims.
 
