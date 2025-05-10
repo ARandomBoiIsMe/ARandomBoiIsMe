@@ -1,6 +1,6 @@
-[With Apologies to The Who](https://xkcd.com/274)
+[How to Make Friends](https://xkcd.com/1917)
 
-![With Apologies to The Who](./random_comic.png)
+![How to Make Friends](./random_comic.png)
 
-Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.
+No, wait, come back! I want to be friends at you!
 
