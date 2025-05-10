@@ -1,6 +1,6 @@
-[How to Make Friends](https://xkcd.com/1917)
+[Darkness](https://xkcd.com/1391)
 
-![How to Make Friends](./random_comic.png)
+![Darkness](./random_comic.png)
 
-No, wait, come back! I want to be friends at you!
+This was actually wish #406. Wish #2 was for him to lose the ability to remember that each new wish wasn't my first.
 
