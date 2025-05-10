@@ -1,6 +1,6 @@
-[Semicontrolled Demolition](https://xkcd.com/690)
+[Galilean Moons](https://xkcd.com/1300)
 
-![Semicontrolled Demolition](./random_comic.png)
+![Galilean Moons](./random_comic.png)
 
-I believe the truth always lies halfway between the most extreme claims.
+I'm SO glad I escaped. They almost had me caught in their weird ... thing.
 
