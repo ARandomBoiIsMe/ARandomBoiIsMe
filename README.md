@@ -1,6 +1,6 @@
-[Galilean Moons](https://xkcd.com/1300)
+[News Story Reaction](https://xkcd.com/2505)
 
-![Galilean Moons](./random_comic.png)
+![News Story Reaction](./random_comic.png)
 
-I'm SO glad I escaped. They almost had me caught in their weird ... thing.
+Unless the next line is, "After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph."
 
