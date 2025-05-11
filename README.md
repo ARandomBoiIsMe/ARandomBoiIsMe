@@ -1,6 +1,6 @@
-[Super Bowl](https://xkcd.com/1480)
+[Physical Quantities](https://xkcd.com/2780)
 
-![Super Bowl](./random_comic.png)
+![Physical Quantities](./random_comic.png)
 
-My hobby: Pretending to miss the sarcasm when people show off their lack of interest in football by talking about 'sportsball' and acting excited to find someone else who's interested, then acting confused when they try to clarify.
+The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.
 
