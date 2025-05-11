@@ -1,6 +1,6 @@
-[News Story Reaction](https://xkcd.com/2505)
+[Resonance](https://xkcd.com/228)
 
-![News Story Reaction](./random_comic.png)
+![Resonance](./random_comic.png)
 
-Unless the next line is, "After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph."
+It's really hard to control the frequency, actually.
 
