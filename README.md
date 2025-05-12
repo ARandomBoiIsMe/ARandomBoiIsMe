@@ -1,6 +1,6 @@
-[Message Boards](https://xkcd.com/2363)
+[Statistics](https://xkcd.com/2400)
 
-![Message Boards](./random_comic.png)
+![Statistics](./random_comic.png)
 
-(c) You can have a scooter when you pay for it yourself, and (d) if you can't learn to start a new thread rather than responding to an old one, you'll be banned. [thread locked by moderator]
+We reject the null hypothesis based on the 'hot damn, check out this chart' test.
 
