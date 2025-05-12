@@ -1,6 +1,6 @@
-[Open Letter](https://xkcd.com/1274)
+[Acceptable Risk](https://xkcd.com/2330)
 
-![Open Letter](./random_comic.png)
+![Acceptable Risk](./random_comic.png)
 
-Are you ok?  Do you need help?
+Good thing I'm not already prone to overthinking everyday decisions!
 
