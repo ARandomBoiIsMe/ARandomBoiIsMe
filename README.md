@@ -1,6 +1,6 @@
-[Physical Quantities](https://xkcd.com/2780)
+[Open Letter](https://xkcd.com/1274)
 
-![Physical Quantities](./random_comic.png)
+![Open Letter](./random_comic.png)
 
-The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.
+Are you ok?  Do you need help?
 
