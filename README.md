@@ -1,6 +1,6 @@
-[Unscientific](https://xkcd.com/397)
+[Juicer](https://xkcd.com/1265)
 
-![Unscientific](./random_comic.png)
+![Juicer](./random_comic.png)
 
-Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism.  We'll also examine the existence of God and whether true love exists.
+But the rind is where all the vitamins are!
 
