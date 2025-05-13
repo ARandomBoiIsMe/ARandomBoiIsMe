@@ -1,6 +1,6 @@
-[Juicer](https://xkcd.com/1265)
+[Humming](https://xkcd.com/1192)
 
-![Juicer](./random_comic.png)
+![Humming](./random_comic.png)
 
-But the rind is where all the vitamins are!
+I'm so bad at carrying a tune, those 'find a song by humming its melody' websites throw an HTTP 406 error as soon as I start to hum.
 
