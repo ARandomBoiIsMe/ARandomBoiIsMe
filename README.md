@@ -1,6 +1,6 @@
-[Humming](https://xkcd.com/1192)
+[Númenor Margaritaville](https://xkcd.com/2994)
 
-![Humming](./random_comic.png)
+![Númenor Margaritaville](./random_comic.png)
 
-I'm so bad at carrying a tune, those 'find a song by humming its melody' websites throw an HTTP 406 error as soon as I start to hum.
+I see white shores, and beyond it, a far green country under a tequila sunrise.
 
