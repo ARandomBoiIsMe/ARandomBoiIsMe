@@ -1,6 +1,6 @@
-[Statistics](https://xkcd.com/2400)
+[Unscientific](https://xkcd.com/397)
 
-![Statistics](./random_comic.png)
+![Unscientific](./random_comic.png)
 
-We reject the null hypothesis based on the 'hot damn, check out this chart' test.
+Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism.  We'll also examine the existence of God and whether true love exists.
 
