@@ -1,6 +1,6 @@
-[Immune System](https://xkcd.com/1907)
+[Confidence Interval](https://xkcd.com/2311)
 
-![Immune System](./random_comic.png)
+![Confidence Interval](./random_comic.png)
 
-It also helps with negotiation. "Look, if it were up to me, *I'd* accept your offer, but my swarm of autonomous killer cells literally can't be reasoned with. It's out of my hands!"
+The worst part is that's the millisigma interval.
 
