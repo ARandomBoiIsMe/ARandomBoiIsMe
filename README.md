@@ -1,6 +1,6 @@
-[Confidence Interval](https://xkcd.com/2311)
+[Development](https://xkcd.com/957)
 
-![Confidence Interval](./random_comic.png)
+![Development](./random_comic.png)
 
-The worst part is that's the millisigma interval.
+Funding was quickly restored to the NHC and the APA was taken back off hurricane forecast duty.
 
