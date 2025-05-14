@@ -1,6 +1,6 @@
-[Númenor Margaritaville](https://xkcd.com/2994)
+[Repairs](https://xkcd.com/1994)
 
-![Númenor Margaritaville](./random_comic.png)
+![Repairs](./random_comic.png)
 
-I see white shores, and beyond it, a far green country under a tequila sunrise.
+I was just disassembling it over the course of five hours so it would fit in the trash more efficiently.
 
