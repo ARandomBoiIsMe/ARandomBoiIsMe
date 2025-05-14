@@ -1,6 +1,6 @@
-[Repairs](https://xkcd.com/1994)
+[Immune System](https://xkcd.com/1907)
 
-![Repairs](./random_comic.png)
+![Immune System](./random_comic.png)
 
-I was just disassembling it over the course of five hours so it would fit in the trash more efficiently.
+It also helps with negotiation. "Look, if it were up to me, *I'd* accept your offer, but my swarm of autonomous killer cells literally can't be reasoned with. It's out of my hands!"
 
