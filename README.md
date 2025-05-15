@@ -1,6 +1,6 @@
-[Ninja Turtles](https://xkcd.com/197)
+[Proofs](https://xkcd.com/1724)
 
-![Ninja Turtles](./random_comic.png)
+![Proofs](./random_comic.png)
 
-The henchmen Bebop and Rocksteady have hijacked the musical genres for us just like the Lone Ranger hijacked the William Tell Overture for our parents.
+Next, let's assume the decision of whether to take the Axiom of Choice is made by a deterministic process ...
 
