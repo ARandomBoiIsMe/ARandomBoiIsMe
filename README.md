@@ -1,6 +1,6 @@
-[Sword Pull](https://xkcd.com/2578)
+[Ninja Turtles](https://xkcd.com/197)
 
-![Sword Pull](./random_comic.png)
+![Ninja Turtles](./random_comic.png)
 
-Merlin really shouldn't leave his dirt bike lying around.
+The henchmen Bebop and Rocksteady have hijacked the musical genres for us just like the Lone Ranger hijacked the William Tell Overture for our parents.
 
