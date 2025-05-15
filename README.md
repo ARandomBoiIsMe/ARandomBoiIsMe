@@ -1,6 +1,6 @@
-[Wishlist](https://xkcd.com/2069)
+[Sword Pull](https://xkcd.com/2578)
 
-![Wishlist](./random_comic.png)
+![Sword Pull](./random_comic.png)
 
-Disappointed that they caved to fan pressure and went with Ruth Bader Ginsburg over Elena Kagan.
+Merlin really shouldn't leave his dirt bike lying around.
 
