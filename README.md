@@ -1,6 +1,6 @@
-[Think Logically](https://xkcd.com/1112)
+[Genetic Testing](https://xkcd.com/1706)
 
-![Think Logically](./random_comic.png)
+![Genetic Testing](./random_comic.png)
 
-I've developed a more logical set of rules but the people on the chess community have a bunch of stupid emotional biases and won't reply to my posts.
+Plus, now I know that I have risk factors for elbow dysplasia, heartworm, parvo, and mange.
 
