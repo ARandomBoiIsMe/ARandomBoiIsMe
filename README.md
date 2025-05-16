@@ -1,6 +1,6 @@
-[Proofs](https://xkcd.com/1724)
+[Think Logically](https://xkcd.com/1112)
 
-![Proofs](./random_comic.png)
+![Think Logically](./random_comic.png)
 
-Next, let's assume the decision of whether to take the Axiom of Choice is made by a deterministic process ...
+I've developed a more logical set of rules but the people on the chess community have a bunch of stupid emotional biases and won't reply to my posts.
 
