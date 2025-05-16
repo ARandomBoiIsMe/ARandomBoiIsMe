@@ -1,6 +1,6 @@
-[Inflation](https://xkcd.com/1365)
+[FIRST Design](https://xkcd.com/689)
 
-![Inflation](./random_comic.png)
+![FIRST Design](./random_comic.png)
 
-Wait till they notice the faint reflection of Michael Jordan and Bugs Bunny in the E-mode.
+Pool on the roof must've sprung a leak.
 
