@@ -1,6 +1,6 @@
-[Genetic Testing](https://xkcd.com/1706)
+[Inflation](https://xkcd.com/1365)
 
-![Genetic Testing](./random_comic.png)
+![Inflation](./random_comic.png)
 
-Plus, now I know that I have risk factors for elbow dysplasia, heartworm, parvo, and mange.
+Wait till they notice the faint reflection of Michael Jordan and Bugs Bunny in the E-mode.
 
