@@ -1,6 +1,6 @@
-[Qualifiers](https://xkcd.com/2158)
+[Anachronym Challenge](https://xkcd.com/3075)
 
-![Qualifiers](./random_comic.png)
+![Anachronym Challenge](./random_comic.png)
 
-[20 minutes later] ", hi."
+I have to pay with paper money.
 
