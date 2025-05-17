@@ -1,6 +1,6 @@
-[FIRST Design](https://xkcd.com/689)
+[Background Screens](https://xkcd.com/1451)
 
-![FIRST Design](./random_comic.png)
+![Background Screens](./random_comic.png)
 
-Pool on the roof must've sprung a leak.
+No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big.
 
