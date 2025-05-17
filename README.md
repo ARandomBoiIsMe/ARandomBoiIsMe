@@ -1,6 +1,6 @@
-[Background Screens](https://xkcd.com/1451)
+[Outdated Periodic Table](https://xkcd.com/2723)
 
-![Background Screens](./random_comic.png)
+![Outdated Periodic Table](./random_comic.png)
 
-No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big.
+Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.
 
