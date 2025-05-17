@@ -1,6 +1,6 @@
-[Outdated Periodic Table](https://xkcd.com/2723)
+[Qualifiers](https://xkcd.com/2158)
 
-![Outdated Periodic Table](./random_comic.png)
+![Qualifiers](./random_comic.png)
 
-Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.
+[20 minutes later] ", hi."
 
