@@ -1,6 +1,6 @@
-[Anachronym Challenge](https://xkcd.com/3075)
+[Complex Numbers](https://xkcd.com/2028)
 
-![Anachronym Challenge](./random_comic.png)
+![Complex Numbers](./random_comic.png)
 
-I have to pay with paper money.
+I'm trying to prove that mathematics forms a meta-abelian group, which would finally confirm my suspicions that algebraic geometry and geometric algebra are the same thing.
 
