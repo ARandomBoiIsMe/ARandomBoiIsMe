@@ -1,6 +1,6 @@
-[Names](https://xkcd.com/302)
+[Conjunction](https://xkcd.com/2401)
 
-![Names](./random_comic.png)
+![Conjunction](./random_comic.png)
 
-I'm always so happy that I successfully navigated the introduction that I completely forget to pay attention to the name the other person told me.
+The IAU is sad to announce that at 00:39 UTC on December 22nd, Jupiter and Saturn did unfortunately come into contact, and appear to have blooped together.
 
