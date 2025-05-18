@@ -1,6 +1,6 @@
-[Skynet](https://xkcd.com/1046)
+[Names](https://xkcd.com/302)
 
-![Skynet](./random_comic.png)
+![Names](./random_comic.png)
 
-'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'
+I'm always so happy that I successfully navigated the introduction that I completely forget to pay attention to the name the other person told me.
 
