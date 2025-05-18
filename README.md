@@ -1,6 +1,6 @@
-[Complex Numbers](https://xkcd.com/2028)
+[Skynet](https://xkcd.com/1046)
 
-![Complex Numbers](./random_comic.png)
+![Skynet](./random_comic.png)
 
-I'm trying to prove that mathematics forms a meta-abelian group, which would finally confirm my suspicions that algebraic geometry and geometric algebra are the same thing.
+'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'
 
