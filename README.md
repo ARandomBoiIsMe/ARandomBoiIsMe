@@ -1,6 +1,6 @@
-[City Nicknames](https://xkcd.com/1864)
+[An Apple for a Dollar](https://xkcd.com/2019)
 
-![City Nicknames](./random_comic.png)
+![An Apple for a Dollar](./random_comic.png)
 
-This place has so many demonyms. Northlanders. Fair Folk. Honey Barons. Lake Dwellers. Treasurers. Swamp Watchers. Dream Farmers. Wellfolk. Rockeaters. Forgotten Royals. Remote Clients. Barrow-Clerks. The People of Land and Sky.
+I'd like 0.4608 apples, please.
 
