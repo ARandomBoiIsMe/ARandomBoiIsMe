@@ -1,6 +1,6 @@
-[Conjunction](https://xkcd.com/2401)
+[City Nicknames](https://xkcd.com/1864)
 
-![Conjunction](./random_comic.png)
+![City Nicknames](./random_comic.png)
 
-The IAU is sad to announce that at 00:39 UTC on December 22nd, Jupiter and Saturn did unfortunately come into contact, and appear to have blooped together.
+This place has so many demonyms. Northlanders. Fair Folk. Honey Barons. Lake Dwellers. Treasurers. Swamp Watchers. Dream Farmers. Wellfolk. Rockeaters. Forgotten Royals. Remote Clients. Barrow-Clerks. The People of Land and Sky.
 
