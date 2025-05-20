@@ -1,6 +1,6 @@
-[Radon](https://xkcd.com/3037)
+[Together](https://xkcd.com/572)
 
-![Radon](./random_comic.png)
+![Together](./random_comic.png)
 
-A good ²³⁸Umbrella policy should cover it.
+This scavenger hunt is getting boring.  Let's go work on the treehouse!
 
