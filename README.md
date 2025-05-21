@@ -1,6 +1,6 @@
-[Plastic Bags](https://xkcd.com/990)
+[Real Estate](https://xkcd.com/1894)
 
-![Plastic Bags](./random_comic.png)
+![Real Estate](./random_comic.png)
 
-The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.
+I tried converting the prices into pizzas, to put it in more familiar terms, and it just became a hard-to-think-about number of pizzas.
 
