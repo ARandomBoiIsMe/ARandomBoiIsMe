@@ -1,6 +1,6 @@
-[Shopping Teams](https://xkcd.com/309)
+[Steal This Comic](https://xkcd.com/488)
 
-![Shopping Teams](./random_comic.png)
+![Steal This Comic](./random_comic.png)
 
-I am never going out to buy an air conditioner with my sysadmin again.
+I spent more time trying to get an audible.com audio book playing than it took to listen to the book.  I have lost every other piece of DRM-locked music I have paid for.
 
