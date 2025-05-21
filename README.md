@@ -1,6 +1,6 @@
-[Choices: Part 4](https://xkcd.com/267)
+[Shopping Teams](https://xkcd.com/309)
 
-![Choices: Part 4](./random_comic.png)
+![Shopping Teams](./random_comic.png)
 
-Making out with yourself: now an official xkcd theme?  Troubling.
+I am never going out to buy an air conditioner with my sysadmin again.
 
