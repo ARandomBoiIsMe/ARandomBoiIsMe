@@ -1,6 +1,6 @@
-[Steal This Comic](https://xkcd.com/488)
+[Plastic Bags](https://xkcd.com/990)
 
-![Steal This Comic](./random_comic.png)
+![Plastic Bags](./random_comic.png)
 
-I spent more time trying to get an audible.com audio book playing than it took to listen to the book.  I have lost every other piece of DRM-locked music I have paid for.
+The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.
 
