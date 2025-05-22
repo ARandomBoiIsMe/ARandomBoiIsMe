@@ -1,6 +1,6 @@
-[Juggling](https://xkcd.com/942)
+[Food Combinations](https://xkcd.com/1609)
 
-![Juggling](./random_comic.png)
+![Food Combinations](./random_comic.png)
 
-Later: 'Why is there a book hovering over the trash can?'
+If anyone tries this on you, the best reply is a deadpan "Oh yeah, that's a common potato chip flavor in Canada."
 
