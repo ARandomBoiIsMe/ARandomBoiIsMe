@@ -1,6 +1,6 @@
-[Binary Heart](https://xkcd.com/99)
+[Local News](https://xkcd.com/1699)
 
-![Binary Heart](./random_comic.png)
+![Local News](./random_comic.png)
 
-i love you
+Will there ever be a physics term greater than 'tachyonic antitelephone?' According to this message from the future, the answer is 'no.'
 
