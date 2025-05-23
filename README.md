@@ -1,6 +1,6 @@
-[Local News](https://xkcd.com/1699)
+[Helium Reserve](https://xkcd.com/2766)
 
-![Local News](./random_comic.png)
+![Helium Reserve](./random_comic.png)
 
-Will there ever be a physics term greater than 'tachyonic antitelephone?' According to this message from the future, the answer is 'no.'
+The government has been trying to sell off the Federal Helium Reserve for a few years now, but the sale has been on hold while they try to figure out how to explain this situation to buyers.
 
