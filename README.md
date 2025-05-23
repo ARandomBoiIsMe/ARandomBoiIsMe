@@ -1,6 +1,6 @@
-[Wifi](https://xkcd.com/1785)
+[Chasing](https://xkcd.com/2931)
 
-![Wifi](./random_comic.png)
+![Chasing](./random_comic.png)
 
-Further out to the right, it works correctly, but the reason it works still involves the word 'firmware.'
+Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley.
 
