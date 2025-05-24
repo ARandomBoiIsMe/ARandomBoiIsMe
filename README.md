@@ -1,6 +1,6 @@
-[Houston](https://xkcd.com/1438)
+[Road Rage](https://xkcd.com/440)
 
-![Houston](./random_comic.png)
+![Road Rage](./random_comic.png)
 
-'Oh, hey Mom. No, nothing important, just at work.'
+Okay, now just as the loss hits him, slam on the brakes.
 
