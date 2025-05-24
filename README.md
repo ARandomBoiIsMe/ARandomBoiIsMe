@@ -1,6 +1,6 @@
-[Money](https://xkcd.com/980)
+[Houston](https://xkcd.com/1438)
 
-![Money](./random_comic.png)
+![Houston](./random_comic.png)
 
-There, I showed you it.
+'Oh, hey Mom. No, nothing important, just at work.'
 
