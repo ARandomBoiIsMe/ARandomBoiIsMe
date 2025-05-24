@@ -1,6 +1,6 @@
-[Road Rage](https://xkcd.com/440)
+[Light Pollution](https://xkcd.com/2121)
 
-![Road Rage](./random_comic.png)
+![Light Pollution](./random_comic.png)
 
-Okay, now just as the loss hits him, slam on the brakes.
+It's so sad how almost no one alive today can remember seeing the galactic rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer of Sagittarius.
 
