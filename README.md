@@ -1,6 +1,6 @@
-[Two-Factor Security Key](https://xkcd.com/2522)
+[Delivery](https://xkcd.com/431)
 
-![Two-Factor Security Key](./random_comic.png)
+![Delivery](./random_comic.png)
 
-The bruises on my fingertips are my proof of work.
+Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery!  Ha ha, get it?  Oh God, don't throw those syringes!  Your baby's fine!
 
