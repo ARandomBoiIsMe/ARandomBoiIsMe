@@ -1,6 +1,6 @@
-[Bill Nye](https://xkcd.com/200)
+[Milk](https://xkcd.com/858)
 
-![Bill Nye](./random_comic.png)
+![Milk](./random_comic.png)
 
-You could at least not wear the lab coat everywhere, dude.
+It's not hard when you have the same thought like 40 or 50 percent of the time.
 
