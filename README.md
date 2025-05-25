@@ -1,6 +1,6 @@
-[Delivery](https://xkcd.com/431)
+[Cougars](https://xkcd.com/999)
 
-![Delivery](./random_comic.png)
+![Cougars](./random_comic.png)
 
-Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery!  Ha ha, get it?  Oh God, don't throw those syringes!  Your baby's fine!
+If you're lying in bed tonight and you see yellow eyes glinting in your window, are you being stalked by a puma, a mountain lion, a panther, a catamount, or a cougar? Trick question--in North America, they're all names for the same species, Puma concolor! Isn't learning fun? Anyway, sleep tight!
 
