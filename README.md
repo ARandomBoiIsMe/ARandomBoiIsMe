@@ -1,6 +1,6 @@
-[Law of Drama](https://xkcd.com/1124)
+[Klout](https://xkcd.com/1057)
 
-![Law of Drama](./random_comic.png)
+![Klout](./random_comic.png)
 
-'Drama' is just 'people being upset', when someone says they're always surrounded by drama and they just ignore it, it starts to make sense that their strategy might be backfiring.
+Though please do confirm that it's actually *me* on Klout first, and not one of my friends trying to get me punched. The great thing about this douchebag deadman switch is that I will never dare trigger it.
 
