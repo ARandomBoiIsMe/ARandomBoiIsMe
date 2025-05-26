@@ -1,6 +1,6 @@
-[1-to-1 Scale](https://xkcd.com/2761)
+[Law of Drama](https://xkcd.com/1124)
 
-![1-to-1 Scale](./random_comic.png)
+![Law of Drama](./random_comic.png)
 
-There's a version that shows the planets with no cropping, but it's hard to find a display that supports it.
+'Drama' is just 'people being upset', when someone says they're always surrounded by drama and they just ignore it, it starts to make sense that their strategy might be backfiring.
 
