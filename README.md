@@ -1,6 +1,6 @@
-[Frankenstein](https://xkcd.com/1589)
+[1-to-1 Scale](https://xkcd.com/2761)
 
-![Frankenstein](./random_comic.png)
+![1-to-1 Scale](./random_comic.png)
 
-"Wait, so in this version is Frankenstein also the doctor's name?" "No, he's just 'The Doctor'."
+There's a version that shows the planets with no cropping, but it's hard to find a display that supports it.
 
