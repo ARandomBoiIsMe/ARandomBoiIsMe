@@ -1,6 +1,6 @@
-[Milk](https://xkcd.com/858)
+[Frankenstein](https://xkcd.com/1589)
 
-![Milk](./random_comic.png)
+![Frankenstein](./random_comic.png)
 
-It's not hard when you have the same thought like 40 or 50 percent of the time.
+"Wait, so in this version is Frankenstein also the doctor's name?" "No, he's just 'The Doctor'."
 
