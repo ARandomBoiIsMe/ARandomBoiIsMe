@@ -1,6 +1,6 @@
-[Bad Ex](https://xkcd.com/796)
+[Periodic Table Changes](https://xkcd.com/2639)
 
-![Bad Ex](./random_comic.png)
+![Periodic Table Changes](./random_comic.png)
 
-Since the goatee, glasses, and Seltzer & Friedberg DVD collection didn't tip you off, there will be a $20 negligence charge for this service.
+It's nice how the end of the periodic table is flush with the edge these days, so I think we should agree no one should find any new elements after #118 unless they discover a whole row at once.
 
