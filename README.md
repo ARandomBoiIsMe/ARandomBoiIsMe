@@ -1,6 +1,6 @@
-[Room Temperature](https://xkcd.com/2798)
+[Superlative](https://xkcd.com/621)
 
-![Room Temperature](./random_comic.png)
+![Superlative](./random_comic.png)
 
-They're also refusing to fund my device that demonstrates uncontrolled hot fusion.
+Stay while I recount the crazy TF2 kill I managed yesterday, my friends.
 
