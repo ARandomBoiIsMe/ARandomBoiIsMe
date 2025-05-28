@@ -1,6 +1,6 @@
-[Superlative](https://xkcd.com/621)
+[Bracket Symbols](https://xkcd.com/2954)
 
-![Superlative](./random_comic.png)
+![Bracket Symbols](./random_comic.png)
 
-Stay while I recount the crazy TF2 kill I managed yesterday, my friends.
+’"‘”’" means "I edited this text on both my phone and my laptop before sending it"
 
