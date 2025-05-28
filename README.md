@@ -1,6 +1,6 @@
-[Bracket Symbols](https://xkcd.com/2954)
+[Pirate Bay](https://xkcd.com/553)
 
-![Bracket Symbols](./random_comic.png)
+![Pirate Bay](./random_comic.png)
 
-’"‘”’" means "I edited this text on both my phone and my laptop before sending it"
+We find you guilty of closing your torrents as soon as they finish.  Your sentence is unremovable Hungarian subtitles on everything.
 
