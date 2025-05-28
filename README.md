@@ -1,6 +1,6 @@
-[Fiction vs Nonfiction](https://xkcd.com/2546)
+[Supernova](https://xkcd.com/2878)
 
-![Fiction vs Nonfiction](./random_comic.png)
+![Supernova](./random_comic.png)
 
-The real challenge is how to file Boba Fett's biography of Doris Kearns Goodwin.
+They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.
 
