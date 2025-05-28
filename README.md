@@ -1,6 +1,6 @@
-[Pirate Bay](https://xkcd.com/553)
+[Fiction vs Nonfiction](https://xkcd.com/2546)
 
-![Pirate Bay](./random_comic.png)
+![Fiction vs Nonfiction](./random_comic.png)
 
-We find you guilty of closing your torrents as soon as they finish.  Your sentence is unremovable Hungarian subtitles on everything.
+The real challenge is how to file Boba Fett's biography of Doris Kearns Goodwin.
 
