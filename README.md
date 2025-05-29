@@ -1,6 +1,6 @@
-[Supernova](https://xkcd.com/2878)
+[Marsiforming](https://xkcd.com/2095)
 
-![Supernova](./random_comic.png)
+![Marsiforming](./random_comic.png)
 
-They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.
+It has so many advantages--it preserves Martian life, requires fewer interplanetary launches, and makes it much easier to field-test Mars rovers.
 
