@@ -1,6 +1,6 @@
-[Marsiforming](https://xkcd.com/2095)
+[Comic Fragment](https://xkcd.com/254)
 
-![Marsiforming](./random_comic.png)
+![Comic Fragment](./random_comic.png)
 
-It has so many advantages--it preserves Martian life, requires fewer interplanetary launches, and makes it much easier to field-test Mars rovers.
+No one wants an explanation more than us.  Except Ms. Garofalo.
 
