@@ -1,6 +1,6 @@
-[Comic Fragment](https://xkcd.com/254)
+[Pwned](https://xkcd.com/91)
 
-![Comic Fragment](./random_comic.png)
+![Pwned](./random_comic.png)
 
-No one wants an explanation more than us.  Except Ms. Garofalo.
+I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
 
