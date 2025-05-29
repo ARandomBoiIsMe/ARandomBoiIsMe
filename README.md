@@ -1,6 +1,6 @@
-[Pwned](https://xkcd.com/91)
+[Zealous Autoconfig](https://xkcd.com/416)
 
-![Pwned](./random_comic.png)
+![Zealous Autoconfig](./random_comic.png)
 
-I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
+I hear this is an option in the latest Ubuntu release.
 
