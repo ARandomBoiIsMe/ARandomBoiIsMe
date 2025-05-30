@@ -1,6 +1,6 @@
-[TV Problems](https://xkcd.com/1760)
+[Trouble for Science](https://xkcd.com/1574)
 
-![TV Problems](./random_comic.png)
+![Trouble for Science](./random_comic.png)
 
-Certified skydiving instructors know way more about safely falling from planes than I do, and are way more likely to die that way.
+Careful mathematical analysis demonstrates small-scale irregularities in Gaussian distribution
 
