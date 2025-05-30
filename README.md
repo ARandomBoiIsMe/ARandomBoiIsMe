@@ -1,6 +1,6 @@
-[Zealous Autoconfig](https://xkcd.com/416)
+[TV Problems](https://xkcd.com/1760)
 
-![Zealous Autoconfig](./random_comic.png)
+![TV Problems](./random_comic.png)
 
-I hear this is an option in the latest Ubuntu release.
+Certified skydiving instructors know way more about safely falling from planes than I do, and are way more likely to die that way.
 
