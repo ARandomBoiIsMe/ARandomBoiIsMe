@@ -1,6 +1,6 @@
-[Darkness](https://xkcd.com/1391)
+[Division Notation](https://xkcd.com/2687)
 
-![Darkness](./random_comic.png)
+![Division Notation](./random_comic.png)
 
-This was actually wish #406. Wish #2 was for him to lose the ability to remember that each new wish wasn't my first.
+Science tip: Scientists hardly ever use the two-dot division sign, and when they do it often doesn't even mean division, but they still get REALLY mad when you repurpose it to write stuff like SALE! ALL SHOES 30÷ OFF!
 
