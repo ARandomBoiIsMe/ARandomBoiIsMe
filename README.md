@@ -1,6 +1,6 @@
-[Adjective Foods](https://xkcd.com/1774)
+[Copyright](https://xkcd.com/14)
 
-![Adjective Foods](./random_comic.png)
+![Copyright](./random_comic.png)
 
-Contains 100% of your recommended daily allowance!
+After reading Slashdot and BoingBoing, sometimes I have to go outside.
 
