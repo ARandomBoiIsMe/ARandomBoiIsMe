@@ -1,6 +1,6 @@
-[Copyright](https://xkcd.com/14)
+[Darkness](https://xkcd.com/1391)
 
-![Copyright](./random_comic.png)
+![Darkness](./random_comic.png)
 
-After reading Slashdot and BoingBoing, sometimes I have to go outside.
+This was actually wish #406. Wish #2 was for him to lose the ability to remember that each new wish wasn't my first.
 
