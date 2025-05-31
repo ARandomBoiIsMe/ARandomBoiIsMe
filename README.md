@@ -1,6 +1,6 @@
-[Division Notation](https://xkcd.com/2687)
+[Physical Quantities](https://xkcd.com/2780)
 
-![Division Notation](./random_comic.png)
+![Physical Quantities](./random_comic.png)
 
-Science tip: Scientists hardly ever use the two-dot division sign, and when they do it often doesn't even mean division, but they still get REALLY mad when you repurpose it to write stuff like SALE! ALL SHOES 30÷ OFF!
+The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.
 
