@@ -1,6 +1,6 @@
-[Swiftkey](https://xkcd.com/1068)
+[Sad](https://xkcd.com/1790)
 
-![Swiftkey](./random_comic.png)
+![Sad](./random_comic.png)
 
-Although the Markov chain-style text model is still rudimentary; it recently gave me "Massachusetts Institute of America". Although I have to admit it sounds prestigious.
+With the right 90-degree rotation, any effect is a side effect.
 
