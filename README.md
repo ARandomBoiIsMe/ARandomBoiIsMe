@@ -1,6 +1,6 @@
-[Physical Quantities](https://xkcd.com/2780)
+[Exploits of a Mom](https://xkcd.com/327)
 
-![Physical Quantities](./random_comic.png)
+![Exploits of a Mom](./random_comic.png)
 
-The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.
+Her daughter is named Help I'm trapped in a driver's license factory.
 
