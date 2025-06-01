@@ -1,6 +1,6 @@
-[Sad](https://xkcd.com/1790)
+[Iambic Pentameter](https://xkcd.com/79)
 
-![Sad](./random_comic.png)
+![Iambic Pentameter](./random_comic.png)
 
-With the right 90-degree rotation, any effect is a side effect.
+Of course, you don't wanna limit yourself to the strict forms of the meter.  That could get pretty difficult.
 
