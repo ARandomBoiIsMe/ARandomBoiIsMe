@@ -1,6 +1,6 @@
-[Exploits of a Mom](https://xkcd.com/327)
+[Swiftkey](https://xkcd.com/1068)
 
-![Exploits of a Mom](./random_comic.png)
+![Swiftkey](./random_comic.png)
 
-Her daughter is named Help I'm trapped in a driver's license factory.
+Although the Markov chain-style text model is still rudimentary; it recently gave me "Massachusetts Institute of America". Although I have to admit it sounds prestigious.
 
