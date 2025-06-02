@@ -1,6 +1,6 @@
-[Sheet Bend](https://xkcd.com/2880)
+[Bell's Theorem](https://xkcd.com/1591)
 
-![Sheet Bend](./random_comic.png)
+![Bell's Theorem](./random_comic.png)
 
-A left-handed sheet bend creates a much weaker connection, especially under moderate loads.
+The no-communication theorem states that no communication about the no-communication theorem can clear up the misunderstanding quickly enough to allow faster-than-light signaling.
 
