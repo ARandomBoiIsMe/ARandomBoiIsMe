@@ -1,6 +1,6 @@
-[Iambic Pentameter](https://xkcd.com/79)
+[Bad Opinions](https://xkcd.com/2051)
 
-![Iambic Pentameter](./random_comic.png)
+![Bad Opinions](./random_comic.png)
 
-Of course, you don't wanna limit yourself to the strict forms of the meter.  That could get pretty difficult.
+I thought of another bad opinion! I couldn't find anyone who expressed it specifically, but still, the fact that I can so easily imagine it is infuriating! I'm gonna tell everyone about it!
 
