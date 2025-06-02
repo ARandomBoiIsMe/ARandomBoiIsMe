@@ -1,6 +1,6 @@
-[Bell's Theorem](https://xkcd.com/1591)
+[Delta-P](https://xkcd.com/969)
 
-![Bell's Theorem](./random_comic.png)
+![Delta-P](./random_comic.png)
 
-The no-communication theorem states that no communication about the no-communication theorem can clear up the misunderstanding quickly enough to allow faster-than-light signaling.
+If you fire a Portal gun through the door of the wardrobe, space and time knot together, which leads to a frustrated Aslan trying to impart Christian morality to the Space sphere.
 
