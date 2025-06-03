@@ -1,6 +1,6 @@
-[Delta-P](https://xkcd.com/969)
+[Space Mission Hearing](https://xkcd.com/2124)
 
-![Delta-P](./random_comic.png)
+![Space Mission Hearing](./random_comic.png)
 
-If you fire a Portal gun through the door of the wardrobe, space and time knot together, which leads to a frustrated Aslan trying to impart Christian morality to the Space sphere.
+Our grant application contains one of those little greeting card speakers that plays spaceship noises when you open it.
 
