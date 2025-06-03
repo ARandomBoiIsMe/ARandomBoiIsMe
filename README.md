@@ -1,6 +1,6 @@
-[Space Mission Hearing](https://xkcd.com/2124)
+[Substitute](https://xkcd.com/135)
 
-![Space Mission Hearing](./random_comic.png)
+![Substitute](./random_comic.png)
 
-Our grant application contains one of those little greeting card speakers that plays spaceship noises when you open it.
+YOU THINK THIS IS FUNNY?
 
