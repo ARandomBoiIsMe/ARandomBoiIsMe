@@ -1,6 +1,6 @@
-[RNA](https://xkcd.com/3056)
+[E Scooters](https://xkcd.com/2188)
 
-![RNA](./random_comic.png)
+![E Scooters](./random_comic.png)
 
-2040s: RNA formed the basis for life each of the five known times it arose on the early Earth.
+Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.
 
