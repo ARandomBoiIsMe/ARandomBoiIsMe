@@ -1,6 +1,6 @@
-[Substitute](https://xkcd.com/135)
+[RNA](https://xkcd.com/3056)
 
-![Substitute](./random_comic.png)
+![RNA](./random_comic.png)
 
-YOU THINK THIS IS FUNNY?
+2040s: RNA formed the basis for life each of the five known times it arose on the early Earth.
 
