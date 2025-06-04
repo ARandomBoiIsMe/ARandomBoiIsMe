@@ -1,6 +1,6 @@
-[Musical Scales](https://xkcd.com/2788)
+[Vaccine Research](https://xkcd.com/2515)
 
-![Musical Scales](./random_comic.png)
+![Vaccine Research](./random_comic.png)
 
-In the Hall of the Mountain King was accidentally composed on log/log paper.
+Honestly feel a little sheepish about the amount of time and effort I spent confirming "yes, the vaccine helps protect people from getting sick and dying" but I guess everyone needs a hobby.
 
