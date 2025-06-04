@@ -1,6 +1,6 @@
-[E Scooters](https://xkcd.com/2188)
+[Musical Scales](https://xkcd.com/2788)
 
-![E Scooters](./random_comic.png)
+![Musical Scales](./random_comic.png)
 
-Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.
+In the Hall of the Mountain King was accidentally composed on log/log paper.
 
