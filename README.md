@@ -1,6 +1,6 @@
-[Doppler Effect](https://xkcd.com/2926)
+[Towed Message](https://xkcd.com/2757)
 
-![Doppler Effect](./random_comic.png)
+![Towed Message](./random_comic.png)
 
-The Doppler effect is a mysterious wavelength-shifting phenomenon which seems to primarily affect sirens, which is why the 🚨 emoji is red.
+"Hi, what you do is fly over a designated zone and detach the--" "WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE"
 
