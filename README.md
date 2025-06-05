@@ -1,6 +1,6 @@
-[Super Bowl](https://xkcd.com/60)
+[Cumulonimbus](https://xkcd.com/2185)
 
-![Super Bowl](./random_comic.png)
+![Cumulonimbus](./random_comic.png)
 
-The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose.  The 'watch it for the ads' addition was a master stroke.
+The rarest of all clouds is the altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused by an interaction between warm moist air, cool dry air, cold slippery air, cursed air, and a cloud of nanobots.
 
