@@ -1,6 +1,6 @@
-[Towed Message](https://xkcd.com/2757)
+[Reload](https://xkcd.com/188)
 
-![Towed Message](./random_comic.png)
+![Reload](./random_comic.png)
 
-"Hi, what you do is fly over a designated zone and detach the--" "WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE"
+And watch out for that guy from comic #53.
 
