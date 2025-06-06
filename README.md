@@ -1,6 +1,6 @@
-[Orphaned Projects](https://xkcd.com/306)
+[Geese](https://xkcd.com/1440)
 
-![Orphaned Projects](./random_comic.png)
+![Geese](./random_comic.png)
 
-His date works for Red Hat, who hired a coach for her, too.  He advised her to 'rent lots of movies like Hitch.  Guys love those.'
+Anyway, that's a common misconception. Geese live for a long time; all the ones we can see will probably keep flying around for billions of years before they explode.
 
