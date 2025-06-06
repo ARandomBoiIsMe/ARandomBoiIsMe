@@ -1,6 +1,6 @@
-[Cumulonimbus](https://xkcd.com/2185)
+[Hawaii](https://xkcd.com/1946)
 
-![Cumulonimbus](./random_comic.png)
+![Hawaii](./random_comic.png)
 
-The rarest of all clouds is the altocumulenticulostratonimbulocirruslenticulomammanoctilucent cloud, caused by an interaction between warm moist air, cool dry air, cold slippery air, cursed air, and a cloud of nanobots.
+Ok, I've got it, just need to plug in my security key. Hmm, which way does the USB go? Nope, not that way. I'll just flip it and– OH JEEZ IT FELL INTO THE VENT.
 
