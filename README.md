@@ -1,6 +1,6 @@
-[Geese](https://xkcd.com/1440)
+[Accident](https://xkcd.com/161)
 
-![Geese](./random_comic.png)
+![Accident](./random_comic.png)
 
-Anyway, that's a common misconception. Geese live for a long time; all the ones we can see will probably keep flying around for billions of years before they explode.
+As far as treachery-as-driving-music goes, Katamari music is matched only by Guitar Hero music.
 
