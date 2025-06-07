@@ -1,6 +1,6 @@
-[Everything](https://xkcd.com/968)
+[Traffic Lights](https://xkcd.com/1116)
 
-![Everything](./random_comic.png)
+![Traffic Lights](./random_comic.png)
 
-I wanna hold your hand so I don't fall out of your gyrocopter.
+There's an intersection I drive through sometimes that has a forward green arrow, a red light, and a 'no turns' sign all on one pole. I honestly have no idea what it's telling me to do.
 
