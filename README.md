@@ -1,6 +1,6 @@
-[Negative Results](https://xkcd.com/2020)
+[Everything](https://xkcd.com/968)
 
-![Negative Results](./random_comic.png)
+![Everything](./random_comic.png)
 
-P.S. We're going to the beach this weekend, so I'm attaching my preregistration forms for that trip now, before we find out whether it produces any interesting results.
+I wanna hold your hand so I don't fall out of your gyrocopter.
 
