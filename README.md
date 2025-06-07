@@ -1,6 +1,6 @@
-[Traffic Lights](https://xkcd.com/1116)
+[SkiFree](https://xkcd.com/667)
 
-![Traffic Lights](./random_comic.png)
+![SkiFree](./random_comic.png)
 
-There's an intersection I drive through sometimes that has a forward green arrow, a red light, and a 'no turns' sign all on one pole. I honestly have no idea what it's telling me to do.
+And from that day on, I wore this little 'F' key pendant everywhere I went.
 
