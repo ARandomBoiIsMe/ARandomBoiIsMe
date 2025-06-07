@@ -1,6 +1,6 @@
-[Accident](https://xkcd.com/161)
+[Negative Results](https://xkcd.com/2020)
 
-![Accident](./random_comic.png)
+![Negative Results](./random_comic.png)
 
-As far as treachery-as-driving-music goes, Katamari music is matched only by Guitar Hero music.
+P.S. We're going to the beach this weekend, so I'm attaching my preregistration forms for that trip now, before we find out whether it produces any interesting results.
 
