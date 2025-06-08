@@ -1,6 +1,6 @@
-[SkiFree](https://xkcd.com/667)
+[Pillar](https://xkcd.com/32)
 
-![SkiFree](./random_comic.png)
+![Pillar](./random_comic.png)
 
-And from that day on, I wore this little 'F' key pendant everywhere I went.
+A comic by my brother Doug, redrawn and rewritten by me
 
