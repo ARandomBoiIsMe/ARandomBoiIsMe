@@ -1,6 +1,6 @@
-[Pillar](https://xkcd.com/32)
+[Cold](https://xkcd.com/1321)
 
-![Pillar](./random_comic.png)
+![Cold](./random_comic.png)
 
-A comic by my brother Doug, redrawn and rewritten by me
+'You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'
 
