@@ -1,6 +1,6 @@
-[Reviews](https://xkcd.com/1036)
+[Avoidance](https://xkcd.com/615)
 
-![Reviews](./random_comic.png)
+![Avoidance](./random_comic.png)
 
-I plugged in this lamp and my dog went rigid, spoke a sentence of perfect Akkadian, and then was hurled sideways through the picture window. Even worse, it's one of those lamps where the switch is on the cord.
+Hobby: seeing how many menu selections you can get someone to go through before they realize you're not an automated system and/or hang up.
 
