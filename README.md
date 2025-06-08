@@ -1,6 +1,6 @@
-[Cold](https://xkcd.com/1321)
+[Reviews](https://xkcd.com/1036)
 
-![Cold](./random_comic.png)
+![Reviews](./random_comic.png)
 
-'You see the same pattern all over. Take Detroit--' 'Hold on. Why do you know all these statistics offhand?' 'Oh, um, no idea. I definitely spend my evenings hanging out with friends, and not curating a REALLY NEAT database of temperature statistics. Because, pshh, who would want to do that, right? Also, snowfall records.'
+I plugged in this lamp and my dog went rigid, spoke a sentence of perfect Akkadian, and then was hurled sideways through the picture window. Even worse, it's one of those lamps where the switch is on the cord.
 
