@@ -1,6 +1,6 @@
-[Avoidance](https://xkcd.com/615)
+[Misusing Slang](https://xkcd.com/166)
 
-![Avoidance](./random_comic.png)
+![Misusing Slang](./random_comic.png)
 
-Hobby: seeing how many menu selections you can get someone to go through before they realize you're not an automated system and/or hang up.
+It slowly dawns on us that our parents knew exactly what they were doing.
 
