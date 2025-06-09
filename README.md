@@ -1,6 +1,6 @@
-[Exam Numbers](https://xkcd.com/2966)
+[Just Alerting You](https://xkcd.com/15)
 
-![Exam Numbers](./random_comic.png)
+![Just Alerting You](./random_comic.png)
 
-Calligraphy exam: Write down the number 37, spelled out, nicely.
+Just thought you should know
 
