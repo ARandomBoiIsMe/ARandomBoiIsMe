@@ -1,6 +1,6 @@
-[Misusing Slang](https://xkcd.com/166)
+[Reading in the Original](https://xkcd.com/2168)
 
-![Misusing Slang](./random_comic.png)
+![Reading in the Original](./random_comic.png)
 
-It slowly dawns on us that our parents knew exactly what they were doing.
+The articles are much shorter, but I assume that's because this version predates the merger with the Hawaiian text that created the modern Hawaiian-Greek hybrid wiki-pedia.
 
