@@ -1,6 +1,6 @@
-[Hygrometer](https://xkcd.com/2060)
+[Not Really Into Pokemon](https://xkcd.com/178)
 
-![Hygrometer](./random_comic.png)
+![Not Really Into Pokemon](./random_comic.png)
 
-I'm working on assembling a combination declinometer, sclerometer, viscometer, aleurometer, stalagmometer, and hypsometer. I'm making good progress according to my ometerometer, a device which shows the rate at which I'm acquiring measurement devices.
+As of this writing, Ubuntu 6.10 and Firefox 2.0 have left my computer a complete mess.
 
