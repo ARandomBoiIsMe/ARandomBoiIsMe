@@ -1,6 +1,6 @@
-[Transformers](https://xkcd.com/1336)
+[Meta-Alternating Current](https://xkcd.com/2642)
 
-![Transformers](./random_comic.png)
+![Meta-Alternating Current](./random_comic.png)
 
-A helicopter bursts from a chrysalis and alights on a rock, rotors still damp.
+It's always bothered me that you can't cancel out an inverter by putting a second inverter after it.
 
