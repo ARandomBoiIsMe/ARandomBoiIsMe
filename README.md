@@ -1,6 +1,6 @@
-[Just Alerting You](https://xkcd.com/15)
+[Hygrometer](https://xkcd.com/2060)
 
-![Just Alerting You](./random_comic.png)
+![Hygrometer](./random_comic.png)
 
-Just thought you should know
+I'm working on assembling a combination declinometer, sclerometer, viscometer, aleurometer, stalagmometer, and hypsometer. I'm making good progress according to my ometerometer, a device which shows the rate at which I'm acquiring measurement devices.
 
