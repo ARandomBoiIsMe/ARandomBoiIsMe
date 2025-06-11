@@ -1,6 +1,6 @@
-[Sun and Earth](https://xkcd.com/2004)
+[Binary Heart](https://xkcd.com/99)
 
-![Sun and Earth](./random_comic.png)
+![Binary Heart](./random_comic.png)
 
-But we don't need to worry about the boiling masses sandwiching the thin layer in which we live, since we're so fragile and short-lived that it's unlikely to kill us before something else does! Wait, why doesn't that sound reassuring?
+i love you
 
