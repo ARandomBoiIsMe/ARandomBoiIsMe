@@ -1,6 +1,6 @@
-[Meta-Alternating Current](https://xkcd.com/2642)
+[The Moon and the Great Wall](https://xkcd.com/1921)
 
-![Meta-Alternating Current](./random_comic.png)
+![The Moon and the Great Wall](./random_comic.png)
 
-It's always bothered me that you can't cancel out an inverter by putting a second inverter after it.
+And arguably sunspots, on rare occasions. But even if they count, it takes ideal conditions and you might hurt your eyes.
 
