@@ -1,6 +1,6 @@
-[Binary Heart](https://xkcd.com/99)
+[Vodka](https://xkcd.com/1528)
 
-![Binary Heart](./random_comic.png)
+![Vodka](./random_comic.png)
 
-i love you
+Or whatever's handy! I'm pretty much pure alcohol and water, so it doesn't really matter!
 
