@@ -1,6 +1,6 @@
-[The Moon and the Great Wall](https://xkcd.com/1921)
+[Sun and Earth](https://xkcd.com/2004)
 
-![The Moon and the Great Wall](./random_comic.png)
+![Sun and Earth](./random_comic.png)
 
-And arguably sunspots, on rare occasions. But even if they count, it takes ideal conditions and you might hurt your eyes.
+But we don't need to worry about the boiling masses sandwiching the thin layer in which we live, since we're so fragile and short-lived that it's unlikely to kill us before something else does! Wait, why doesn't that sound reassuring?
 
