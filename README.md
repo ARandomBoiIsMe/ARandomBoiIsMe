@@ -1,6 +1,6 @@
-[Scientific Field Prefixes](https://xkcd.com/2656)
+[Tire Swing](https://xkcd.com/1659)
 
-![Scientific Field Prefixes](./random_comic.png)
+![Tire Swing](./random_comic.png)
 
-Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)
+If we find one of those tire dumps, the next time he tries to get his truck back we can just retreat and let him have it.
 
