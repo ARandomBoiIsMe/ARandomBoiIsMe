@@ -1,6 +1,6 @@
-[Vodka](https://xkcd.com/1528)
+[NWS Warnings](https://xkcd.com/2179)
 
-![Vodka](./random_comic.png)
+![NWS Warnings](./random_comic.png)
 
-Or whatever's handy! I'm pretty much pure alcohol and water, so it doesn't really matter!
+Kind of rude of them to simultaneously issue an EVACUATION - IMMEDIATE alert, a SHELTER IN PLACE alert, and a 911 TELEPHONE OUTAGE alert.
 
