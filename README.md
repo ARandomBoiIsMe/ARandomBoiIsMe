@@ -1,6 +1,6 @@
-[xkcd Phone 2](https://xkcd.com/1465)
+[Scientific Field Prefixes](https://xkcd.com/2656)
 
-![xkcd Phone 2](./random_comic.png)
+![Scientific Field Prefixes](./random_comic.png)
 
-Washable, though only once.
+Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)
 
