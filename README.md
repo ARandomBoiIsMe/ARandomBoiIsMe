@@ -1,6 +1,6 @@
-[Startup Opportunity](https://xkcd.com/1772)
+[Slide Trombone](https://xkcd.com/2334)
 
-![Startup Opportunity](./random_comic.png)
+![Slide Trombone](./random_comic.png)
 
-While there's no formal regulation, it turns out their industry group is NOT one you want mad at you.
+Remember the CPS 2000, the super soaker that was discontinued because it was too powerful? Relatedly, can I borrow your tuba?
 
