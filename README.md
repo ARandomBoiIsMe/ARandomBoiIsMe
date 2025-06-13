@@ -1,6 +1,6 @@
-[Archimedes](https://xkcd.com/857)
+[Startup Opportunity](https://xkcd.com/1772)
 
-![Archimedes](./random_comic.png)
+![Startup Opportunity](./random_comic.png)
 
-Give a man a fish, or he will destroy the only existing vial of antidote.
+While there's no formal regulation, it turns out their industry group is NOT one you want mad at you.
 
