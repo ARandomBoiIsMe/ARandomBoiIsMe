@@ -1,6 +1,6 @@
-[Log Cabin](https://xkcd.com/2891)
+[Archimedes](https://xkcd.com/857)
 
-![Log Cabin](./random_comic.png)
+![Archimedes](./random_comic.png)
 
-I'm sure the building inspectors will approve my design once they finally manage to escape.
+Give a man a fish, or he will destroy the only existing vial of antidote.
 
