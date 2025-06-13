@@ -1,6 +1,6 @@
-[Tire Swing](https://xkcd.com/1659)
+[Log Cabin](https://xkcd.com/2891)
 
-![Tire Swing](./random_comic.png)
+![Log Cabin](./random_comic.png)
 
-If we find one of those tire dumps, the next time he tries to get his truck back we can just retreat and let him have it.
+I'm sure the building inspectors will approve my design once they finally manage to escape.
 
