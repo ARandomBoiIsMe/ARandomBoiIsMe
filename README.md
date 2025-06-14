@@ -1,6 +1,6 @@
-[Slide Trombone](https://xkcd.com/2334)
+[Back to the Future](https://xkcd.com/102)
 
-![Slide Trombone](./random_comic.png)
+![Back to the Future](./random_comic.png)
 
-Remember the CPS 2000, the super soaker that was discontinued because it was too powerful? Relatedly, can I borrow your tuba?
+He's kind of an asshole, when you think about it
 
