@@ -1,6 +1,6 @@
-[Impostor](https://xkcd.com/451)
+[Mistranslations](https://xkcd.com/414)
 
-![Impostor](./random_comic.png)
+![Mistranslations](./random_comic.png)
 
-If you think this is too hard on literary criticism, read the Wikipedia article on deconstruction.
+Oh, I think this word might mean 'Crisco'!
 
