@@ -1,6 +1,6 @@
-[Dirty Harry](https://xkcd.com/692)
+[Quantum Teleportation](https://xkcd.com/465)
 
-![Dirty Harry](./random_comic.png)
+![Quantum Teleportation](./random_comic.png)
 
-Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.
+Science should be exactly as cool as the headlines sound.  Like the 'RUSSIANS CUT APART AND REASSEMBLE DOGS' thing.
 
