@@ -1,6 +1,6 @@
-[Mistranslations](https://xkcd.com/414)
+[Oceanography Gift](https://xkcd.com/2859)
 
-![Mistranslations](./random_comic.png)
+![Oceanography Gift](./random_comic.png)
 
-Oh, I think this word might mean 'Crisco'!
+Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents.
 
