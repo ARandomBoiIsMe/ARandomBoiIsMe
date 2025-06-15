@@ -1,6 +1,6 @@
-[What xkcd Means](https://xkcd.com/207)
+[Dirty Harry](https://xkcd.com/692)
 
-![What xkcd Means](./random_comic.png)
+![Dirty Harry](./random_comic.png)
 
-It means shuffling quickly past nuns on the street with ketchup in your palms, pretending you're hiding stigmata.
+Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.
 
