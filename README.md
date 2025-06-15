@@ -1,6 +1,6 @@
-[Oceanography Gift](https://xkcd.com/2859)
+[What xkcd Means](https://xkcd.com/207)
 
-![Oceanography Gift](./random_comic.png)
+![What xkcd Means](./random_comic.png)
 
-Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents.
+It means shuffling quickly past nuns on the street with ketchup in your palms, pretending you're hiding stigmata.
 
