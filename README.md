@@ -1,6 +1,6 @@
-[Quantum Teleportation](https://xkcd.com/465)
+[Phishing License](https://xkcd.com/1694)
 
-![Quantum Teleportation](./random_comic.png)
+![Phishing License](./random_comic.png)
 
-Science should be exactly as cool as the headlines sound.  Like the 'RUSSIANS CUT APART AND REASSEMBLE DOGS' thing.
+Later, walking out of jail after posting $10,000 bail: "Wait, this isn't the street the county jail is on."
 
