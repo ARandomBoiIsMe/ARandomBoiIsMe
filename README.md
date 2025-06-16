@@ -1,6 +1,6 @@
-[IMDb Vaccines](https://xkcd.com/2441)
+[Bee Orchid](https://xkcd.com/1259)
 
-![IMDb Vaccines](./random_comic.png)
+![Bee Orchid](./random_comic.png)
 
-I'm actually not sure if Vader and the Emperor count as a household or if Vader lives in that weird black egg thing or what.
+In sixty million years aliens will know humans only by a fuzzy clip of a woman in an Axe commercial.
 
