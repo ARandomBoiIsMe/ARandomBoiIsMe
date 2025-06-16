@@ -1,6 +1,6 @@
-[Bee Orchid](https://xkcd.com/1259)
+[Hours Before Departure](https://xkcd.com/2211)
 
-![Bee Orchid](./random_comic.png)
+![Hours Before Departure](./random_comic.png)
 
-In sixty million years aliens will know humans only by a fuzzy clip of a woman in an Axe commercial.
+They could afford to cut it close because they all had Global Entry.
 
