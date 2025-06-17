@@ -1,6 +1,6 @@
-[Hours Before Departure](https://xkcd.com/2211)
+[SUV](https://xkcd.com/437)
 
-![Hours Before Departure](./random_comic.png)
+![SUV](./random_comic.png)
 
-They could afford to cut it close because they all had Global Entry.
+Electric skateboards, by cost, get the equivalent of about 300 miles per gallon.  Lithium batteries just need to get cheaper.
 
