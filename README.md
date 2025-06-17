@@ -1,6 +1,6 @@
-[Normal Conversation](https://xkcd.com/2424)
+[Scrabble](https://xkcd.com/492)
 
-![Normal Conversation](./random_comic.png)
+![Scrabble](./random_comic.png)
 
-"I think I'll pass. These days I have a hard time feeling comfortable in crowded bars with loud music and lots of shouting." --me, after the pandemic, but now for a second reason
+A veteran Scrabble player will spot the 'OSTRICH' option.
 
