@@ -1,6 +1,6 @@
-[SUV](https://xkcd.com/437)
+[Protocol](https://xkcd.com/1323)
 
-![SUV](./random_comic.png)
+![Protocol](./random_comic.png)
 
-Electric skateboards, by cost, get the equivalent of about 300 miles per gallon.  Lithium batteries just need to get cheaper.
+Changing the names would be easier, but if you're not comfortable lying, try only making friends with people named Alice, Bob, Carol, etc.
 
