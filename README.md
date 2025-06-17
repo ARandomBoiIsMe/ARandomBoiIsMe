@@ -1,6 +1,6 @@
-[Protocol](https://xkcd.com/1323)
+[Normal Conversation](https://xkcd.com/2424)
 
-![Protocol](./random_comic.png)
+![Normal Conversation](./random_comic.png)
 
-Changing the names would be easier, but if you're not comfortable lying, try only making friends with people named Alice, Bob, Carol, etc.
+"I think I'll pass. These days I have a hard time feeling comfortable in crowded bars with loud music and lots of shouting." --me, after the pandemic, but now for a second reason
 
