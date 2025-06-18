@@ -1,6 +1,6 @@
-[Life Before the Pandemic](https://xkcd.com/2391)
+[Backslashes](https://xkcd.com/1638)
 
-![Life Before the Pandemic](./random_comic.png)
+![Backslashes](./random_comic.png)
 
-I can't wait until this is all over and I can go back to riding my horse through the mall.
+I searched my .bash_history for the line with the highest ratio of special characters to regular alphanumeric characters, and the winner was: cat out.txt | grep -o "[[(].*[])][^)]]*$" ... I have no memory of this and no idea what I was trying to do, but I sure hope it worked.
 
