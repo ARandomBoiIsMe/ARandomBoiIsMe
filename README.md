@@ -1,6 +1,6 @@
-[Scrabble](https://xkcd.com/492)
+[Life Before the Pandemic](https://xkcd.com/2391)
 
-![Scrabble](./random_comic.png)
+![Life Before the Pandemic](./random_comic.png)
 
-A veteran Scrabble player will spot the 'OSTRICH' option.
+I can't wait until this is all over and I can go back to riding my horse through the mall.
 
