@@ -1,6 +1,6 @@
-[PermaCal](https://xkcd.com/1514)
+[Mispronouncing](https://xkcd.com/148)
 
-![PermaCal](./random_comic.png)
+![Mispronouncing](./random_comic.png)
 
-The flood of PermaCalNTP leap-second notifications was bad enough, but when people started asking for millisecond resolution, the resulting DDOS brought down the internet.
+My pal Emad does this all the time.  'Hey man, which way to the airpart?'
 
