@@ -1,6 +1,6 @@
-[Ice](https://xkcd.com/914)
+[Parody Week: Megatokyo](https://xkcd.com/142)
 
-![Ice](./random_comic.png)
+![Parody Week: Megatokyo](./random_comic.png)
 
-On the plus side, she wrote 'Welcome to the AAA Club!' in lipstick on the bathroom mirror, and left me a membership/roadside assistance card on the counter.
+I just want to give him a hug or something.
 
