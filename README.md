@@ -1,6 +1,6 @@
-[Mispronouncing](https://xkcd.com/148)
+[Binary Heart](https://xkcd.com/99)
 
-![Mispronouncing](./random_comic.png)
+![Binary Heart](./random_comic.png)
 
-My pal Emad does this all the time.  'Hey man, which way to the airpart?'
+i love you
 
