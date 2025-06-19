@@ -1,6 +1,6 @@
-[Contrails](https://xkcd.com/1677)
+[Ice](https://xkcd.com/914)
 
-![Contrails](./random_comic.png)
+![Ice](./random_comic.png)
 
-Astronomy (or "astrology" in British English) is the study of ...
+On the plus side, she wrote 'Welcome to the AAA Club!' in lipstick on the bathroom mirror, and left me a membership/roadside assistance card on the counter.
 
