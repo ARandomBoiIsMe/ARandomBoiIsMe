@@ -1,6 +1,6 @@
-[Binary Heart](https://xkcd.com/99)
+[Contrails](https://xkcd.com/1677)
 
-![Binary Heart](./random_comic.png)
+![Contrails](./random_comic.png)
 
-i love you
+Astronomy (or "astrology" in British English) is the study of ...
 
