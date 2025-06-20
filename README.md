@@ -1,6 +1,6 @@
-[Ancient Stars](https://xkcd.com/1342)
+[Coffee Cup Holes](https://xkcd.com/2658)
 
-![Ancient Stars](./random_comic.png)
+![Coffee Cup Holes](./random_comic.png)
 
-'The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.
+Theoretical physicist: At the Planck length, uncountably many.
 
