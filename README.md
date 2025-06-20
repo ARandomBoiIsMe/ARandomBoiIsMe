@@ -1,6 +1,6 @@
-[Etymology](https://xkcd.com/890)
+[Stardew Valley](https://xkcd.com/1797)
 
-![Etymology](./random_comic.png)
+![Stardew Valley](./random_comic.png)
 
-For some reason, my childhood suspension of disbelief had no problem with the fact that this ancient galaxy is full of humans, but was derailed by language. There's no Asia OR Europe there, so where'd they get all the Indo-European roots?
+I have accidentally watered virtually every person and object in Pelican Town.
 
