@@ -1,6 +1,6 @@
-[Stardew Valley](https://xkcd.com/1797)
+[Ancient Stars](https://xkcd.com/1342)
 
-![Stardew Valley](./random_comic.png)
+![Ancient Stars](./random_comic.png)
 
-I have accidentally watered virtually every person and object in Pelican Town.
+'The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.
 
