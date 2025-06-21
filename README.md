@@ -1,6 +1,6 @@
-[Island (sketch)](https://xkcd.com/3)
+[College Athletes](https://xkcd.com/2210)
 
-![Island (sketch)](./random_comic.png)
+![College Athletes](./random_comic.png)
 
-Hello, island
+Their signature play is the three-point combinator, a recursive offense which is guaranteed not to halt and continues accumulating points until the buzzer.
 
