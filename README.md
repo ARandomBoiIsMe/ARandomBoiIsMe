@@ -1,6 +1,6 @@
-[Coffee Cup Holes](https://xkcd.com/2658)
+[Island (sketch)](https://xkcd.com/3)
 
-![Coffee Cup Holes](./random_comic.png)
+![Island (sketch)](./random_comic.png)
 
-Theoretical physicist: At the Planck length, uncountably many.
+Hello, island
 
