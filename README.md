@@ -1,6 +1,6 @@
-[College Athletes](https://xkcd.com/2210)
+[Permanence](https://xkcd.com/910)
 
-![College Athletes](./random_comic.png)
+![Permanence](./random_comic.png)
 
-Their signature play is the three-point combinator, a recursive offense which is guaranteed not to halt and continues accumulating points until the buzzer.
+This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!
 
