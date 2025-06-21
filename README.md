@@ -1,6 +1,6 @@
-[Permanence](https://xkcd.com/910)
+[Eclipse Coolness](https://xkcd.com/2914)
 
-![Permanence](./random_comic.png)
+![Eclipse Coolness](./random_comic.png)
 
-This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!
+A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky.
 
