@@ -1,6 +1,6 @@
-[Eclipse Coolness](https://xkcd.com/2914)
+[SOPA](https://xkcd.com/1005)
 
-![Eclipse Coolness](./random_comic.png)
+![SOPA](./random_comic.png)
 
-A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky.
+In protest of SOPA, I'm currently getting totally blacked out.
 
