@@ -1,6 +1,6 @@
-[Julia Stiles](https://xkcd.com/130)
+[Flowchart](https://xkcd.com/1195)
 
-![Julia Stiles](./random_comic.png)
+![Flowchart](./random_comic.png)
 
-I found an old tape of this episode in my family's closet.  Check the news section of the forums to see the clip!
+The way out is to use the marker you have to add a box that says 'get a marker' to the line between you and 'start', then add a 'no' line from the trap box to 'end'.
 
