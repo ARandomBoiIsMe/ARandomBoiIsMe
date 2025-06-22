@@ -1,6 +1,6 @@
-[SOPA](https://xkcd.com/1005)
+[Julia Stiles](https://xkcd.com/130)
 
-![SOPA](./random_comic.png)
+![Julia Stiles](./random_comic.png)
 
-In protest of SOPA, I'm currently getting totally blacked out.
+I found an old tape of this episode in my family's closet.  Check the news section of the forums to see the clip!
 
