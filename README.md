@@ -1,6 +1,6 @@
-[Flowchart](https://xkcd.com/1195)
+[Workflow](https://xkcd.com/1172)
 
-![Flowchart](./random_comic.png)
+![Workflow](./random_comic.png)
 
-The way out is to use the marker you have to add a box that says 'get a marker' to the line between you and 'start', then add a 'no' line from the trap box to 'end'.
+There are probably children out there holding down spacebar to stay warm in the winter! YOUR UPDATE MURDERS CHILDREN.
 
