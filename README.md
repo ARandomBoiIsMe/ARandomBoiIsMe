@@ -1,6 +1,6 @@
-[Branding](https://xkcd.com/624)
+[Astronaut Vandalism](https://xkcd.com/1375)
 
-![Branding](./random_comic.png)
+![Astronaut Vandalism](./random_comic.png)
 
-Actually, 'RSS&M' is kinda catchy.
+That night, retired USAF pilots covertly replaced the '62' with '50'.
 
