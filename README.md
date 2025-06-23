@@ -1,6 +1,6 @@
-[Workflow](https://xkcd.com/1172)
+[Mark](https://xkcd.com/842)
 
-![Workflow](./random_comic.png)
+![Mark](./random_comic.png)
 
-There are probably children out there holding down spacebar to stay warm in the winter! YOUR UPDATE MURDERS CHILDREN.
+I'm a solipsistic conspiracy theorist. I'm sure I must be up to something, and I will not stop until I find out what.
 
