@@ -1,6 +1,6 @@
-[Mark](https://xkcd.com/842)
+[Branding](https://xkcd.com/624)
 
-![Mark](./random_comic.png)
+![Branding](./random_comic.png)
 
-I'm a solipsistic conspiracy theorist. I'm sure I must be up to something, and I will not stop until I find out what.
+Actually, 'RSS&M' is kinda catchy.
 
