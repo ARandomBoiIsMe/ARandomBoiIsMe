@@ -1,6 +1,6 @@
-[Astronaut Vandalism](https://xkcd.com/1375)
+[xkcd Phone 12](https://xkcd.com/2377)
 
-![Astronaut Vandalism](./random_comic.png)
+![xkcd Phone 12](./random_comic.png)
 
-That night, retired USAF pilots covertly replaced the '62' with '50'.
+New phone OS features: Infinite customization (home screen icons no longer snap to grid), dark mode (disables screen), screaming mode (self-explanatory), and coherent ultracapacitor-pumped emission (please let us know what this setting does; we've been afraid to try it).
 
