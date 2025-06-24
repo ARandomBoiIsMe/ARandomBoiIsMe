@@ -1,6 +1,6 @@
-[Rulebook](https://xkcd.com/1552)
+[Blagofaire](https://xkcd.com/239)
 
-![Rulebook](./random_comic.png)
+![Blagofaire](./random_comic.png)
 
-It's definitely an intentional foul, but we've decided it's worth it.
+Things were better before the Structuring and the Levels.
 
