@@ -1,6 +1,6 @@
-[Blagofaire](https://xkcd.com/239)
+[Open Source](https://xkcd.com/225)
 
-![Blagofaire](./random_comic.png)
+![Open Source](./random_comic.png)
 
-Things were better before the Structuring and the Levels.
+Later we'll dress up like Big Oil thugs and jump Ralph Nader.
 
