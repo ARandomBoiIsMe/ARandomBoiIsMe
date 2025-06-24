@@ -1,6 +1,6 @@
-[xkcd Phone 12](https://xkcd.com/2377)
+[Rulebook](https://xkcd.com/1552)
 
-![xkcd Phone 12](./random_comic.png)
+![Rulebook](./random_comic.png)
 
-New phone OS features: Infinite customization (home screen icons no longer snap to grid), dark mode (disables screen), screaming mode (self-explanatory), and coherent ultracapacitor-pumped emission (please let us know what this setting does; we've been afraid to try it).
+It's definitely an intentional foul, but we've decided it's worth it.
 
