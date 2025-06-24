@@ -1,6 +1,6 @@
-[Open Source](https://xkcd.com/225)
+[Elefino](https://xkcd.com/28)
 
-![Open Source](./random_comic.png)
+![Elefino](./random_comic.png)
 
-Later we'll dress up like Big Oil thugs and jump Ralph Nader.
+Hell if I know
 
