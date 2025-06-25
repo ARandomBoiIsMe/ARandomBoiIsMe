@@ -1,6 +1,6 @@
-[Elefino](https://xkcd.com/28)
+[Phobia](https://xkcd.com/752)
 
-![Elefino](./random_comic.png)
+![Phobia](./random_comic.png)
 
-Hell if I know
+Oh God, the tornado picked up snakes!
 
