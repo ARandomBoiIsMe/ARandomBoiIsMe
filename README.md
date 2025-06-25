@@ -1,6 +1,6 @@
-[The Pace of Modern Life](https://xkcd.com/1227)
+[Local g](https://xkcd.com/852)
 
-![The Pace of Modern Life](./random_comic.png)
+![Local g](./random_comic.png)
 
-'Unfortunately, the notion of marriage which prevails ... at the present time ... regards the institution as simply a convenient arrangement or formal contract ... This disregard of the sanctity of marriage and contempt for its restrictions is one of the most alarming tendencies of the present age.' --John Harvey Kellogg, Ladies' guide in health and disease (1883)
+In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.
 
