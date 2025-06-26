@@ -1,6 +1,6 @@
-[Voting](https://xkcd.com/2361)
+[Stephen and Me](https://xkcd.com/671)
 
-![Voting](./random_comic.png)
+![Stephen and Me](./random_comic.png)
 
-'Wait, our state has mail voting. The forms are literally on the kitchen table.' 'Not now, I'm busy researching which channels have sharks in them.'
+Hey, let go! We were all thinking it! Someone had to speak truth to power!
 
