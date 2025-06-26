@@ -1,6 +1,6 @@
-[Stephen and Me](https://xkcd.com/671)
+[Dwarf Fortress](https://xkcd.com/1223)
 
-![Stephen and Me](./random_comic.png)
+![Dwarf Fortress](./random_comic.png)
 
-Hey, let go! We were all thinking it! Someone had to speak truth to power!
+I may be the kind of person who wastes a year implementing a Turing-complete computer in Dwarf Fortress, but that makes you the kind of person who wastes ten more getting that computer to run Minecraft.
 
