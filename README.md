@@ -1,6 +1,6 @@
-[Universal Seat Belt](https://xkcd.com/2495)
+[Voting](https://xkcd.com/2361)
 
-![Universal Seat Belt](./random_comic.png)
+![Voting](./random_comic.png)
 
-The plug fits really snugly, so it should be safe in a crash.
+'Wait, our state has mail voting. The forms are literally on the kitchen table.' 'Not now, I'm busy researching which channels have sharks in them.'
 
