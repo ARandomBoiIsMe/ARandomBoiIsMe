@@ -1,6 +1,6 @@
-[Formal Logic](https://xkcd.com/1033)
+[Golden Hammer](https://xkcd.com/801)
 
-![Formal Logic](./random_comic.png)
+![Golden Hammer](./random_comic.png)
 
-Note that this implies you should NOT honk solely because I stopped for a pedestrian and you're behind me.
+Took me five tries to find the right one, but I managed to salvage our night out--if not the boat--in the end.
 
