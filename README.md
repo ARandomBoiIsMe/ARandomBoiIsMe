@@ -1,6 +1,6 @@
-[UFO Evidence](https://xkcd.com/2786)
+[Three Kinds of Research](https://xkcd.com/2977)
 
-![UFO Evidence](./random_comic.png)
+![Three Kinds of Research](./random_comic.png)
 
-[Decades in the future] "Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019)."
+The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'
 
