@@ -1,6 +1,6 @@
-[Golden Hammer](https://xkcd.com/801)
+[UFO Evidence](https://xkcd.com/2786)
 
-![Golden Hammer](./random_comic.png)
+![UFO Evidence](./random_comic.png)
 
-Took me five tries to find the right one, but I managed to salvage our night out--if not the boat--in the end.
+[Decades in the future] "Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019)."
 
