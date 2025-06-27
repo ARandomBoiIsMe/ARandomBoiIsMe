@@ -1,6 +1,6 @@
-[Three Kinds of Research](https://xkcd.com/2977)
+[Attention Span](https://xkcd.com/2005)
 
-![Three Kinds of Research](./random_comic.png)
+![Attention Span](./random_comic.png)
 
-The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'
+I didn't even realize they MADE a novelization of "Surf Ninjas." How did you-- Oh my god, it's signed by the author?!
 
