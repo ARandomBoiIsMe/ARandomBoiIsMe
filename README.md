@@ -1,6 +1,6 @@
-[Lasering Incidents](https://xkcd.com/3030)
+[Relative Terms](https://xkcd.com/2754)
 
-![Lasering Incidents](./random_comic.png)
+![Relative Terms](./random_comic.png)
 
-I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.
+Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine.
 
