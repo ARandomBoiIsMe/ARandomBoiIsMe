@@ -1,6 +1,6 @@
-[Relative Terms](https://xkcd.com/2754)
+[Flag](https://xkcd.com/1815)
 
-![Relative Terms](./random_comic.png)
+![Flag](./random_comic.png)
 
-Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine.
+There's a compromise bill to keep the notification bar but at least charge the battery.
 
