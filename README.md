@@ -1,6 +1,6 @@
-[Flag](https://xkcd.com/1815)
+[Volcano Dinosaur](https://xkcd.com/2362)
 
-![Flag](./random_comic.png)
+![Volcano Dinosaur](./random_comic.png)
 
-There's a compromise bill to keep the notification bar but at least charge the battery.
+Phylogeneticists are working on identifying and notifying its next of kin.
 
