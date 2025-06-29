@@ -1,6 +1,6 @@
-[Storage Tanks](https://xkcd.com/2974)
+[Wall Art](https://xkcd.com/2018)
 
-![Storage Tanks](./random_comic.png)
+![Wall Art](./random_comic.png)
 
-We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them.
+At first, I moved from pokémon posters to regular oil paintings, but then these really grumpy and unreasonable detectives from the Louvre showed up and took them all. They wouldn't even give me back my thumbtacks!
 
