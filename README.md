@@ -1,6 +1,6 @@
-[Volcano Dinosaur](https://xkcd.com/2362)
+[P-Values](https://xkcd.com/1478)
 
-![Volcano Dinosaur](./random_comic.png)
+![P-Values](./random_comic.png)
 
-Phylogeneticists are working on identifying and notifying its next of kin.
+If all else fails, use "significant at a p>0.05 level" and hope no one notices.
 
