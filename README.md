@@ -1,6 +1,6 @@
-[Sandwich](https://xkcd.com/149)
+[Storage Tanks](https://xkcd.com/2974)
 
-![Sandwich](./random_comic.png)
+![Storage Tanks](./random_comic.png)
 
-Proper User Policy apparently means Simon Says.
+We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them.
 
