@@ -1,6 +1,6 @@
-[X Value](https://xkcd.com/2861)
+[Tornado Safety Tips](https://xkcd.com/1754)
 
-![X Value](./random_comic.png)
+![Tornado Safety Tips](./random_comic.png)
 
-The value of n is still unknown, but new results constrain it to fall between 8 and 10^500, ruling out popular 'n=1' and 'n=2' theories.
+It's a myth that you can never cross mountains safely, but be sure you understand how the climatic situation there will affect your parent thunderstorm.
 
