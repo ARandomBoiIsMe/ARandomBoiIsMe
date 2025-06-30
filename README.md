@@ -1,6 +1,6 @@
-[Meeting](https://xkcd.com/1493)
+[X Value](https://xkcd.com/2861)
 
-![Meeting](./random_comic.png)
+![X Value](./random_comic.png)
 
-Here at CompanyName.website, our three main strengths are our web-facing chairs, our huge collection of white papers, and the fact that we physically cannot die.
+The value of n is still unknown, but new results constrain it to fall between 8 and 10^500, ruling out popular 'n=1' and 'n=2' theories.
 
