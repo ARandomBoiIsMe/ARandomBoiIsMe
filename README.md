@@ -1,6 +1,6 @@
-[Tornado Safety Tips](https://xkcd.com/1754)
+[Cover-Up](https://xkcd.com/542)
 
-![Tornado Safety Tips](./random_comic.png)
+![Cover-Up](./random_comic.png)
 
-It's a myth that you can never cross mountains safely, but be sure you understand how the climatic situation there will affect your parent thunderstorm.
+Man, this trick has saved me so many times.
 
