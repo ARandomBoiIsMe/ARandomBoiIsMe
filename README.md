@@ -1,6 +1,6 @@
-[Cover-Up](https://xkcd.com/542)
+[Calendar of Meaningful Dates](https://xkcd.com/1140)
 
-![Cover-Up](./random_comic.png)
+![Calendar of Meaningful Dates](./random_comic.png)
 
-Man, this trick has saved me so many times.
+In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.
 
