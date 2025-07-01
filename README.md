@@ -1,6 +1,6 @@
-[Reindeer](https://xkcd.com/1776)
+[Painbow Award](https://xkcd.com/2537)
 
-![Reindeer](./random_comic.png)
+![Painbow Award](./random_comic.png)
 
-And then in a twinkling, a sound gave me pause / From the roof came the scratching of eight tarsal claws.
+This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue.
 
