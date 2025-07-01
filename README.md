@@ -1,6 +1,6 @@
-[Calendar of Meaningful Dates](https://xkcd.com/1140)
+[Potential](https://xkcd.com/987)
 
-![Calendar of Meaningful Dates](./random_comic.png)
+![Potential](./random_comic.png)
 
-In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.
+The bunch of disadvantaged kids I was tutoring became too good at writing, and their essays were forcing me to confront painful existential questions, so I started trying to turn them on to drugs and crime instead.
 
