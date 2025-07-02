@@ -1,6 +1,6 @@
-[Data Pipeline](https://xkcd.com/2054)
+[University Commas](https://xkcd.com/2995)
 
-![Data Pipeline](./random_comic.png)
+![University Commas](./random_comic.png)
 
-"Is the pipeline literally running from your laptop?" "Don't be silly, my laptop disconnects far too often to host a service we rely on. It's running on my phone."
+The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively.
 
