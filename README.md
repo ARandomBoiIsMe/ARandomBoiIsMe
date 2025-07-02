@@ -1,6 +1,6 @@
-[Fatal Crash Rate](https://xkcd.com/1993)
+[Data Pipeline](https://xkcd.com/2054)
 
-![Fatal Crash Rate](./random_comic.png)
+![Data Pipeline](./random_comic.png)
 
-Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect.
+"Is the pipeline literally running from your laptop?" "Don't be silly, my laptop disconnects far too often to host a service we rely on. It's running on my phone."
 
