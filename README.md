@@ -1,6 +1,6 @@
-[University Commas](https://xkcd.com/2995)
+[City Nicknames](https://xkcd.com/1864)
 
-![University Commas](./random_comic.png)
+![City Nicknames](./random_comic.png)
 
-The distinctive 'UCLA comma' and 'Michigan comma' are a long string of commas at the start and end of the sentence respectively.
+This place has so many demonyms. Northlanders. Fair Folk. Honey Barons. Lake Dwellers. Treasurers. Swamp Watchers. Dream Farmers. Wellfolk. Rockeaters. Forgotten Royals. Remote Clients. Barrow-Clerks. The People of Land and Sky.
 
