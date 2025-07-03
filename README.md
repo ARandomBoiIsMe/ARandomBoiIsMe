@@ -1,6 +1,6 @@
-[Wikipedia Caltrops](https://xkcd.com/2467)
+[Rayleigh Scattering](https://xkcd.com/1818)
 
-![Wikipedia Caltrops](./random_comic.png)
+![Rayleigh Scattering](./random_comic.png)
 
-Oh no, they set up a roadblock which is just a sign with the entire 'Czech hedgehog' article printed on it.
+If you ask "why are leaves green?" the usual answer is "because they're full of chlorophyll, and chlorophyll is green," even though "why does chlorophyll scatter green light?" is a great question too.
 
