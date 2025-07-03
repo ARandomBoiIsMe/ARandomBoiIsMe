@@ -1,6 +1,6 @@
-[Crossbows](https://xkcd.com/564)
+[Emulation](https://xkcd.com/2221)
 
-![Crossbows](./random_comic.png)
+![Emulation](./random_comic.png)
 
-I hate being the slowest guy in the lab.
+I laugh at the software as if I'm 100% confident that it's 2019.
 
