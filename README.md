@@ -1,6 +1,6 @@
-[City Nicknames](https://xkcd.com/1864)
+[Wikipedia Caltrops](https://xkcd.com/2467)
 
-![City Nicknames](./random_comic.png)
+![Wikipedia Caltrops](./random_comic.png)
 
-This place has so many demonyms. Northlanders. Fair Folk. Honey Barons. Lake Dwellers. Treasurers. Swamp Watchers. Dream Farmers. Wellfolk. Rockeaters. Forgotten Royals. Remote Clients. Barrow-Clerks. The People of Land and Sky.
+Oh no, they set up a roadblock which is just a sign with the entire 'Czech hedgehog' article printed on it.
 
