@@ -1,6 +1,6 @@
-[Petit Trees (sketch)](https://xkcd.com/2)
+[Efficiency](https://xkcd.com/1445)
 
-![Petit Trees (sketch)](./random_comic.png)
+![Efficiency](./random_comic.png)
 
-'Petit' being a reference to Le Petit Prince, which I only thought about halfway through the sketch
+I need an extension for my research project because I spent all month trying to figure out whether learning Dvorak would help me type it faster.
 
