@@ -1,6 +1,6 @@
-[Efficiency](https://xkcd.com/1445)
+[TSP vs TBSP](https://xkcd.com/2526)
 
-![Efficiency](./random_comic.png)
+![TSP vs TBSP](./random_comic.png)
 
-I need an extension for my research project because I spent all month trying to figure out whether learning Dvorak would help me type it faster.
+It's like one teraspoon / when all you need is a kilonife
 
