@@ -1,6 +1,6 @@
-[Emulation](https://xkcd.com/2221)
+[Petit Trees (sketch)](https://xkcd.com/2)
 
-![Emulation](./random_comic.png)
+![Petit Trees (sketch)](./random_comic.png)
 
-I laugh at the software as if I'm 100% confident that it's 2019.
+'Petit' being a reference to Le Petit Prince, which I only thought about halfway through the sketch
 
