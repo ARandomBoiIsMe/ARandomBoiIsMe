@@ -1,6 +1,6 @@
-[TSP vs TBSP](https://xkcd.com/2526)
+[Working](https://xkcd.com/951)
 
-![TSP vs TBSP](./random_comic.png)
+![Working](./random_comic.png)
 
-It's like one teraspoon / when all you need is a kilonife
+And if you drive a typical car more than a mile out of your way for each penny you save on the per-gallon price, it doesn't matter how worthless your time is to you--the gas to get you there and back costs more than you save.
 
