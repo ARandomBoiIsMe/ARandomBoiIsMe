@@ -1,6 +1,6 @@
-[Playing Devil's Advocate to Win](https://xkcd.com/164)
+[Particle Properties](https://xkcd.com/1862)
 
-![Playing Devil's Advocate to Win](./random_comic.png)
+![Particle Properties](./random_comic.png)
 
-There are so many well-meaning conservatives around here who just assume global warming is only presented as a moral issue for political reasons.
+Each particle also has a password which allows its properties to be changed, but the cosmic censorship hypothesis suggests we can never observe the password itself—only its secure hash.
 
