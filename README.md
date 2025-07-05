@@ -1,6 +1,6 @@
-[Particle Properties](https://xkcd.com/1862)
+[Star Trek into Darkness](https://xkcd.com/1167)
 
-![Particle Properties](./random_comic.png)
+![Star Trek into Darkness](./random_comic.png)
 
-Each particle also has a password which allows its properties to be changed, but the cosmic censorship hypothesis suggests we can never observe the password itself—only its secure hash.
+Of course, factions immediately sprang up in favor of '~*~sTaR tReK iNtO dArKnEsS~*~', 'xX_StAr TrEk InTo DaRkNess_Xx', and 'Star Trek lnto Darkness' (that's a lowercase 'L').
 
