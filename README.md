@@ -1,6 +1,6 @@
-[Working](https://xkcd.com/951)
+[First News Memory](https://xkcd.com/2174)
 
-![Working](./random_comic.png)
+![First News Memory](./random_comic.png)
 
-And if you drive a typical car more than a mile out of your way for each penny you save on the per-gallon price, it doesn't matter how worthless your time is to you--the gas to get you there and back costs more than you save.
+Psychology researchers say our 'flashbulb' memories of big events can be unreliable, but I clearly remember watching live on CNN as Challenger crashed into and destroyed the Berlin Wall.
 
