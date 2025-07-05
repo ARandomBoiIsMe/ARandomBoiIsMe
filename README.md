@@ -1,6 +1,6 @@
-[First News Memory](https://xkcd.com/2174)
+[Playing Devil's Advocate to Win](https://xkcd.com/164)
 
-![First News Memory](./random_comic.png)
+![Playing Devil's Advocate to Win](./random_comic.png)
 
-Psychology researchers say our 'flashbulb' memories of big events can be unreliable, but I clearly remember watching live on CNN as Challenger crashed into and destroyed the Berlin Wall.
+There are so many well-meaning conservatives around here who just assume global warming is only presented as a moral issue for political reasons.
 
