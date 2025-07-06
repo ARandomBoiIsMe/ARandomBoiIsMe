@@ -1,6 +1,6 @@
-[Königsberg](https://xkcd.com/2694)
+[Scrabble](https://xkcd.com/492)
 
-![Königsberg](./random_comic.png)
+![Scrabble](./random_comic.png)
 
-At first I thought I would need some gold or something to pay him, but then I realized that it was the 18th century and I could just bring a roll of aluminum foil.
+A veteran Scrabble player will spot the 'OSTRICH' option.
 
