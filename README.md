@@ -1,6 +1,6 @@
-[Fundamental Forces](https://xkcd.com/1489)
+[Königsberg](https://xkcd.com/2694)
 
-![Fundamental Forces](./random_comic.png)
+![Königsberg](./random_comic.png)
 
-"Of these four forces, there's one we don't really understand." "Is it the weak force or the strong--" "It's gravity."
+At first I thought I would need some gold or something to pay him, but then I realized that it was the 18th century and I could just bring a roll of aluminum foil.
 
