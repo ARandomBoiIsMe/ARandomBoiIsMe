@@ -1,6 +1,6 @@
-[Scrabble](https://xkcd.com/492)
+[Weekend](https://xkcd.com/1073)
 
-![Scrabble](./random_comic.png)
+![Weekend](./random_comic.png)
 
-A veteran Scrabble player will spot the 'OSTRICH' option.
+Of the two Garfields, you wouldn't think the cat would turn out to be the more compelling presidential speechwriter, but there you go.
 
