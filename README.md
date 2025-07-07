@@ -1,6 +1,6 @@
-[Snakes](https://xkcd.com/1604)
+[Friends](https://xkcd.com/513)
 
-![Snakes](./random_comic.png)
+![Friends](./random_comic.png)
 
-The last band of color indicates the snake's tolerance for being held before biting.
+Friends with detriments.
 
