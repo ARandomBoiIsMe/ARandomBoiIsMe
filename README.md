@@ -1,6 +1,6 @@
-[Christmas Back Home](https://xkcd.com/361)
+[Snakes](https://xkcd.com/1604)
 
-![Christmas Back Home](./random_comic.png)
+![Snakes](./random_comic.png)
 
-Family going to bed at 10 PM is so much worse than jet lag.
+The last band of color indicates the snake's tolerance for being held before biting.
 
