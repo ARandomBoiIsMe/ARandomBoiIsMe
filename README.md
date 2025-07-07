@@ -1,6 +1,6 @@
-[Weekend](https://xkcd.com/1073)
+[Christmas Back Home](https://xkcd.com/361)
 
-![Weekend](./random_comic.png)
+![Christmas Back Home](./random_comic.png)
 
-Of the two Garfields, you wouldn't think the cat would turn out to be the more compelling presidential speechwriter, but there you go.
+Family going to bed at 10 PM is so much worse than jet lag.
 
