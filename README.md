@@ -1,6 +1,6 @@
-[Before Sunrise](https://xkcd.com/176)
+[Charity](https://xkcd.com/871)
 
-![Before Sunrise](./random_comic.png)
+![Charity](./random_comic.png)
 
-It's an amazing time of day; the light is great for photography.
+I usually respond to someone else doing something good by figuring out a reason that they're not really as good as they seem. But I've been realizing lately that there's an easier way to handle these situations, and it involves zero internet arguments.
 
