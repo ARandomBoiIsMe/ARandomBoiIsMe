@@ -1,6 +1,6 @@
-[Charity](https://xkcd.com/871)
+[Olympic Sports](https://xkcd.com/2964)
 
-![Charity](./random_comic.png)
+![Olympic Sports](./random_comic.png)
 
-I usually respond to someone else doing something good by figuring out a reason that they're not really as good as they seem. But I've been realizing lately that there's an easier way to handle these situations, and it involves zero internet arguments.
+Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump.
 
