@@ -1,6 +1,6 @@
-[Quadcopter](https://xkcd.com/1630)
+[Before Sunrise](https://xkcd.com/176)
 
-![Quadcopter](./random_comic.png)
+![Before Sunrise](./random_comic.png)
 
-I always have to turn off nature documentaries when they show these scenes.
+It's an amazing time of day; the light is great for photography.
 
