@@ -1,6 +1,6 @@
-[Proxy Variable](https://xkcd.com/2652)
+[The Search](https://xkcd.com/638)
 
-![Proxy Variable](./random_comic.png)
+![The Search](./random_comic.png)
 
-Our work has produced great answers. Now someone just needs to figure out which questions they go with.
+I am so excited about the Kepler mission. This is the second most important thing our species has ever done, right behind inventing the concept of delivery pizza.
 
