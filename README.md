@@ -1,6 +1,6 @@
-[The Search](https://xkcd.com/638)
+[debian-main](https://xkcd.com/797)
 
-![The Search](./random_comic.png)
+![debian-main](./random_comic.png)
 
-I am so excited about the Kepler mission. This is the second most important thing our species has ever done, right behind inventing the concept of delivery pizza.
+dpkg: error processing package (--purge): subprocess pre-removal script returned error exit 163: OH_GOD_THEYRE_INSIDE_MY_CLOTHES
 
