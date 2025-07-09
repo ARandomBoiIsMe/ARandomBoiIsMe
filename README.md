@@ -1,6 +1,6 @@
-[Olympic Sports](https://xkcd.com/2964)
+[Proxy Variable](https://xkcd.com/2652)
 
-![Olympic Sports](./random_comic.png)
+![Proxy Variable](./random_comic.png)
 
-Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump.
+Our work has produced great answers. Now someone just needs to figure out which questions they go with.
 
