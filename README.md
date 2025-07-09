@@ -1,6 +1,6 @@
-[debian-main](https://xkcd.com/797)
+[Fastest-Growing](https://xkcd.com/1102)
 
-![debian-main](./random_comic.png)
+![Fastest-Growing](./random_comic.png)
 
-dpkg: error processing package (--purge): subprocess pre-removal script returned error exit 163: OH_GOD_THEYRE_INSIDE_MY_CLOTHES
+I lead a small but extraordinarily persuasive religion whose only members are door-to-door proselytizers from other faiths.
 
