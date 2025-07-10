@@ -1,6 +1,6 @@
-[I Am](https://xkcd.com/709)
+[Gravitational Waves](https://xkcd.com/1642)
 
-![I Am](./random_comic.png)
+![Gravitational Waves](./random_comic.png)
 
-Great, LO-M. Do you speak Bocce? I'm supposed to find one that speaks Bocce.
+"That last LinkedIn request set a new record for the most energetic physical event ever observed. Maybe we should respond." "Nah."
 
