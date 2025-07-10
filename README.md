@@ -1,6 +1,6 @@
-[Fastest-Growing](https://xkcd.com/1102)
+[Rest and Fluids](https://xkcd.com/2580)
 
-![Fastest-Growing](./random_comic.png)
+![Rest and Fluids](./random_comic.png)
 
-I lead a small but extraordinarily persuasive religion whose only members are door-to-door proselytizers from other faiths.
+Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.
 
