@@ -1,6 +1,6 @@
-[Rest and Fluids](https://xkcd.com/2580)
+[I Am](https://xkcd.com/709)
 
-![Rest and Fluids](./random_comic.png)
+![I Am](./random_comic.png)
 
-Remember not to take it easy. Put a hot washcloth on your forehead, remain standing, and breathe dry air while taking lots of histamines. You need to give your body a chance to get sick again.
+Great, LO-M. Do you speak Bocce? I'm supposed to find one that speaks Bocce.
 
