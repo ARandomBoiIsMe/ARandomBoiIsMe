@@ -1,6 +1,6 @@
-[Gravitational Waves](https://xkcd.com/1642)
+[Personal Data](https://xkcd.com/1971)
 
-![Gravitational Waves](./random_comic.png)
+![Personal Data](./random_comic.png)
 
-"That last LinkedIn request set a new record for the most energetic physical event ever observed. Maybe we should respond." "Nah."
+Do I just leave money in my mailbox? How much? How much money do they need, anyway? I guess it probably depends how the economy is doing. If stocks go up, should I leave more money in my mailbox or less?
 
