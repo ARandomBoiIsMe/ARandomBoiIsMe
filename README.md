@@ -1,6 +1,6 @@
-[1.2 Kilofives](https://xkcd.com/2946)
+[Lincoln-Douglas](https://xkcd.com/639)
 
-![1.2 Kilofives](./random_comic.png)
+![Lincoln-Douglas](./random_comic.png)
 
-'Oh yeah? Give me 50 milliscore reasons why I should stop.'
+Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.
 
