@@ -1,6 +1,6 @@
-[Lincoln-Douglas](https://xkcd.com/639)
+[Pendulum Types](https://xkcd.com/2924)
 
-![Lincoln-Douglas](./random_comic.png)
+![Pendulum Types](./random_comic.png)
 
-Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.
+The creepy fingers that grow from a vibrating cornstarch-water mix can be modeled as a chain of inverted vertical pendulums (DOI:10.1039/c4sm00265b) and are believed to be the fingers of Maxwell's Demon trying to push through into our universe.
 
