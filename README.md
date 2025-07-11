@@ -1,6 +1,6 @@
-[Personal Data](https://xkcd.com/1971)
+[Music Knowledge](https://xkcd.com/132)
 
-![Personal Data](./random_comic.png)
+![Music Knowledge](./random_comic.png)
 
-Do I just leave money in my mailbox? How much? How much money do they need, anyway? I guess it probably depends how the economy is doing. If stocks go up, should I leave more money in my mailbox or less?
+When Guitar Hero 2 comes out I'll have fresh conversational material for MONTHS.
 
