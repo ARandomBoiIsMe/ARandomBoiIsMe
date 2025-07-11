@@ -1,6 +1,6 @@
-[Music Knowledge](https://xkcd.com/132)
+[1.2 Kilofives](https://xkcd.com/2946)
 
-![Music Knowledge](./random_comic.png)
+![1.2 Kilofives](./random_comic.png)
 
-When Guitar Hero 2 comes out I'll have fresh conversational material for MONTHS.
+'Oh yeah? Give me 50 milliscore reasons why I should stop.'
 
