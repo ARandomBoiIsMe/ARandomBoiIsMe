@@ -1,6 +1,6 @@
-[Modern](https://xkcd.com/3089)
+[I Don't Want Directions](https://xkcd.com/783)
 
-![Modern](./random_comic.png)
+![I Don't Want Directions](./random_comic.png)
 
-Scholars are still debating whether the current period is post-postmodern or neo-contemporary.
+Yes, I understand that the turn is half a mile past the big field, but my GPS knows that, too.  This would be easier if you weren't about to ask me to repeat it all back to you.
 
