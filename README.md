@@ -1,6 +1,6 @@
-[Local Group](https://xkcd.com/2938)
+[Modern](https://xkcd.com/3089)
 
-![Local Group](./random_comic.png)
+![Modern](./random_comic.png)
 
-Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter.
+Scholars are still debating whether the current period is post-postmodern or neo-contemporary.
 
