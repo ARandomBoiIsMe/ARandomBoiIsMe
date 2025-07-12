@@ -1,6 +1,6 @@
-[I Don't Want Directions](https://xkcd.com/783)
+[Relativity](https://xkcd.com/1233)
 
-![I Don't Want Directions](./random_comic.png)
+![Relativity](./random_comic.png)
 
-Yes, I understand that the turn is half a mile past the big field, but my GPS knows that, too.  This would be easier if you weren't about to ask me to repeat it all back to you.
+It's commonly believed that Lorentz contraction makes objects appear flatter along the direction of travel. However, this ignores light travel times. In fact, a fast-moving butt would appear rotated toward the observer but not substantially distorted. Shakira was right.
 
