@@ -1,6 +1,6 @@
-[Pendulum Types](https://xkcd.com/2924)
+[Local Group](https://xkcd.com/2938)
 
-![Pendulum Types](./random_comic.png)
+![Local Group](./random_comic.png)
 
-The creepy fingers that grow from a vibrating cornstarch-water mix can be modeled as a chain of inverted vertical pendulums (DOI:10.1039/c4sm00265b) and are believed to be the fingers of Maxwell's Demon trying to push through into our universe.
+Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter.
 
