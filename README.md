@@ -1,6 +1,6 @@
-[Still Raw](https://xkcd.com/473)
+[Comic Fragment](https://xkcd.com/254)
 
-![Still Raw](./random_comic.png)
+![Comic Fragment](./random_comic.png)
 
-We actually divorced once over the airplane/treadmill argument.  (Preemptive response to the inevitable threads arguing about it:  you're all wrong on the internet.)
+No one wants an explanation more than us.  Except Ms. Garofalo.
 
