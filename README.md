@@ -1,6 +1,6 @@
-[Relativity](https://xkcd.com/1233)
+[Five-Minute Comics: Part 1](https://xkcd.com/819)
 
-![Relativity](./random_comic.png)
+![Five-Minute Comics: Part 1](./random_comic.png)
 
-It's commonly believed that Lorentz contraction makes objects appear flatter along the direction of travel. However, this ignores light travel times. In fact, a fast-moving butt would appear rotated toward the observer but not substantially distorted. Shakira was right.
+The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.
 
