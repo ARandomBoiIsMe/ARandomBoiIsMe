@@ -1,6 +1,6 @@
-[Five-Minute Comics: Part 1](https://xkcd.com/819)
+[Still Raw](https://xkcd.com/473)
 
-![Five-Minute Comics: Part 1](./random_comic.png)
+![Still Raw](./random_comic.png)
 
-The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.
+We actually divorced once over the airplane/treadmill argument.  (Preemptive response to the inevitable threads arguing about it:  you're all wrong on the internet.)
 
