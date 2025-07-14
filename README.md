@@ -1,6 +1,6 @@
-[Hack](https://xkcd.com/1337)
+[Complex Vowels](https://xkcd.com/2657)
 
-![Hack](./random_comic.png)
+![Complex Vowels](./random_comic.png)
 
-HACK THE STARS
+Pronouncing [ṡṡċċḣḣẇẇȧȧ] is easy; you just say it like the 'x' in 'fire'.
 
