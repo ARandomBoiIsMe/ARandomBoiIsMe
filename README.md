@@ -1,6 +1,6 @@
-[Wright Brothers](https://xkcd.com/106)
+[Incident Report](https://xkcd.com/2553)
 
-![Wright Brothers](./random_comic.png)
+![Incident Report](./random_comic.png)
 
-I'm not sure if this is actually true
+Increasing-precision timestamps are the Jaws theme of incident reports.
 
