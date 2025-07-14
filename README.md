@@ -1,6 +1,6 @@
-[Complex Vowels](https://xkcd.com/2657)
+[Wright Brothers](https://xkcd.com/106)
 
-![Complex Vowels](./random_comic.png)
+![Wright Brothers](./random_comic.png)
 
-Pronouncing [ṡṡċċḣḣẇẇȧȧ] is easy; you just say it like the 'x' in 'fire'.
+I'm not sure if this is actually true
 
