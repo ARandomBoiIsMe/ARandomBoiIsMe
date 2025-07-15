@@ -1,6 +1,6 @@
-[Motion Blur](https://xkcd.com/2628)
+[Christmas Presents](https://xkcd.com/2246)
 
-![Motion Blur](./random_comic.png)
+![Christmas Presents](./random_comic.png)
 
-I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.
+"The parasitism might be mediated by a fungus!" exclaimed the biologist who was trying to ruin Christmas again.
 
