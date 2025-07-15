@@ -1,6 +1,6 @@
-[Christmas Presents](https://xkcd.com/2246)
+[Awful People](https://xkcd.com/2548)
 
-![Christmas Presents](./random_comic.png)
+![Awful People](./random_comic.png)
 
-"The parasitism might be mediated by a fungus!" exclaimed the biologist who was trying to ruin Christmas again.
+Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.
 
