@@ -1,6 +1,6 @@
-[Incident Report](https://xkcd.com/2553)
+[Motion Blur](https://xkcd.com/2628)
 
-![Incident Report](./random_comic.png)
+![Motion Blur](./random_comic.png)
 
-Increasing-precision timestamps are the Jaws theme of incident reports.
+I can't speak for your other subjects, but MY motion was as smooth and natural as the framerate allowed.
 
