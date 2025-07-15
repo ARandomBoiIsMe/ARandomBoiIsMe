@@ -1,6 +1,6 @@
-[Awful People](https://xkcd.com/2548)
+[Collector's Edition](https://xkcd.com/2288)
 
-![Awful People](./random_comic.png)
+![Collector's Edition](./random_comic.png)
 
-Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.
+I'm sure you can find some suitable worldbuilding material if you scavenge through the archives.
 
