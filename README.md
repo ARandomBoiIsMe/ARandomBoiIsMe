@@ -1,6 +1,6 @@
-[Chemtrails](https://xkcd.com/2654)
+[Lumpers and Splitters](https://xkcd.com/2518)
 
-![Chemtrails](./random_comic.png)
+![Lumpers and Splitters](./random_comic.png)
 
-Ants have reverse chemtrails--regular citizens spraying chemicals everywhere they go to control the government.
+Anna Karenina is a happy family lumper and unhappy family splitter.
 
