@@ -1,6 +1,6 @@
-[Rainbow](https://xkcd.com/1684)
+[Chemtrails](https://xkcd.com/2654)
 
-![Rainbow](./random_comic.png)
+![Chemtrails](./random_comic.png)
 
-Listen, in a few thousand years you'll invent a game called 'SimCity' which has a 'disaster' button, and then you'll understand.
+Ants have reverse chemtrails--regular citizens spraying chemicals everywhere they go to control the government.
 
