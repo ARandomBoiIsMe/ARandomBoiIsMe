@@ -1,6 +1,6 @@
-[Lumpers and Splitters](https://xkcd.com/2518)
+[Citogenesis](https://xkcd.com/978)
 
-![Lumpers and Splitters](./random_comic.png)
+![Citogenesis](./random_comic.png)
 
-Anna Karenina is a happy family lumper and unhappy family splitter.
+I just read a pop-science book by a respected author. One chapter, and much of the thesis, was based around wildly inaccurate data which traced back to ... Wikipedia. To encourage people to be on their toes, I'm not going to say what book or author.
 
