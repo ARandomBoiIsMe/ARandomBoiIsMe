@@ -1,6 +1,6 @@
-[Collector's Edition](https://xkcd.com/2288)
+[Rainbow](https://xkcd.com/1684)
 
-![Collector's Edition](./random_comic.png)
+![Rainbow](./random_comic.png)
 
-I'm sure you can find some suitable worldbuilding material if you scavenge through the archives.
+Listen, in a few thousand years you'll invent a game called 'SimCity' which has a 'disaster' button, and then you'll understand.
 
