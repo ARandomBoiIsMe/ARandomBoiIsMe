@@ -1,6 +1,6 @@
-[Stargazing](https://xkcd.com/1644)
+[Visited](https://xkcd.com/1051)
 
-![Stargazing](./random_comic.png)
+![Visited](./random_comic.png)
 
-Some of you may be thinking, 'But wait, isn't the brightest star in our sky the Sun?' I think that's a great question and you should totally ask it. On the infinite tree of possible conversations spread out before us, I think that's definitely the most promising branch.
+I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.
 
