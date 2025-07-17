@@ -1,6 +1,6 @@
-[Visited](https://xkcd.com/1051)
+[Watson Medical Algorithm](https://xkcd.com/1619)
 
-![Visited](./random_comic.png)
+![Watson Medical Algorithm](./random_comic.png)
 
-I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.
+Due to a minor glitch, 'discharge patient' does not cause the algorithm to exit, but instead leads back to 'hunt down and capture patient'.
 
