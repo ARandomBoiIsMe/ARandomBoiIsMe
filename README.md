@@ -1,6 +1,6 @@
-[Citogenesis](https://xkcd.com/978)
+[Stargazing](https://xkcd.com/1644)
 
-![Citogenesis](./random_comic.png)
+![Stargazing](./random_comic.png)
 
-I just read a pop-science book by a respected author. One chapter, and much of the thesis, was based around wildly inaccurate data which traced back to ... Wikipedia. To encourage people to be on their toes, I'm not going to say what book or author.
+Some of you may be thinking, 'But wait, isn't the brightest star in our sky the Sun?' I think that's a great question and you should totally ask it. On the infinite tree of possible conversations spread out before us, I think that's definitely the most promising branch.
 
