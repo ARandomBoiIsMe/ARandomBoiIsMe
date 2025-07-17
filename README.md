@@ -1,6 +1,6 @@
-[Watson Medical Algorithm](https://xkcd.com/1619)
+[Scantron](https://xkcd.com/499)
 
-![Watson Medical Algorithm](./random_comic.png)
+![Scantron](./random_comic.png)
 
-Due to a minor glitch, 'discharge patient' does not cause the algorithm to exit, but instead leads back to 'hunt down and capture patient'.
+Also, after all the warnings about filling in the bubbles completely, I spent like 30 seconds on each one.
 
