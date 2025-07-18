@@ -1,6 +1,6 @@
-[Contiguous 41 States](https://xkcd.com/2394)
+[IMDb Vaccines](https://xkcd.com/2441)
 
-![Contiguous 41 States](./random_comic.png)
+![IMDb Vaccines](./random_comic.png)
 
-Linguists, settling some inscrutable grudge, have been steadily sneaking more backdated synonyms for 'sharing borders' into the dictionary. They've added 'contiguous,' 'coterminous,' 'conterminous,' and next year they're adding 'conterguous.'
+I'm actually not sure if Vader and the Emperor count as a household or if Vader lives in that weird black egg thing or what.
 
