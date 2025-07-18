@@ -1,6 +1,6 @@
-[Scantron](https://xkcd.com/499)
+[Contiguous 41 States](https://xkcd.com/2394)
 
-![Scantron](./random_comic.png)
+![Contiguous 41 States](./random_comic.png)
 
-Also, after all the warnings about filling in the bubbles completely, I spent like 30 seconds on each one.
+Linguists, settling some inscrutable grudge, have been steadily sneaking more backdated synonyms for 'sharing borders' into the dictionary. They've added 'contiguous,' 'coterminous,' 'conterminous,' and next year they're adding 'conterguous.'
 
