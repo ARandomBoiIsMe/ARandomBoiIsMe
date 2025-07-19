@@ -1,6 +1,6 @@
-[Cell Phone Functions](https://xkcd.com/2212)
+[Privacy](https://xkcd.com/983)
 
-![Cell Phone Functions](./random_comic.png)
+![Privacy](./random_comic.png)
 
-... tazer ... fire extinguisher ... bird feeder ... toilet paper ...
+Eventual headline: 'University Researchers Create Life in Lab! Darkness, Faulty Condoms Blamed.'
 
