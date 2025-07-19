@@ -1,6 +1,6 @@
-[Privacy](https://xkcd.com/983)
+[TMI](https://xkcd.com/1369)
 
-![Privacy](./random_comic.png)
+![TMI](./random_comic.png)
 
-Eventual headline: 'University Researchers Create Life in Lab! Darkness, Faulty Condoms Blamed.'
+'TMI' he whispered, gazing into the sea.
 
