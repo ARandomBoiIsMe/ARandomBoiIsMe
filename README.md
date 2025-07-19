@@ -1,6 +1,6 @@
-[Parody Week: A Softer World](https://xkcd.com/144)
+[Cell Phone Functions](https://xkcd.com/2212)
 
-![Parody Week: A Softer World](./random_comic.png)
+![Cell Phone Functions](./random_comic.png)
 
-The robot is pregnant.  It isn't mine.
+... tazer ... fire extinguisher ... bird feeder ... toilet paper ...
 
