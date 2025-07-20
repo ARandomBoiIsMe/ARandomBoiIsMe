@@ -1,6 +1,6 @@
-[License Plate](https://xkcd.com/1105)
+[Amazon](https://xkcd.com/1165)
 
-![License Plate](./random_comic.png)
+![Amazon](./random_comic.png)
 
-The next day: 'What? Six bank robberies!? But I just vandalized the library!' 'Nice try. They saw your plate with all the 1's and I's.' 'That's impossible! I've been with my car the whole ti-- ... wait. Ok, wow, that was clever of her.'
+Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.
 
