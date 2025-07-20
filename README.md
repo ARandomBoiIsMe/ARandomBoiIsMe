@@ -1,6 +1,6 @@
-[Amazon](https://xkcd.com/1165)
+[Geeks and Nerds](https://xkcd.com/747)
 
-![Amazon](./random_comic.png)
+![Geeks and Nerds](./random_comic.png)
 
-Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.
+The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.
 
