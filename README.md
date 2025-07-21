@@ -1,6 +1,6 @@
-[Precision vs Accuracy](https://xkcd.com/2696)
+[Fastest-Growing](https://xkcd.com/1102)
 
-![Precision vs Accuracy](./random_comic.png)
+![Fastest-Growing](./random_comic.png)
 
-'Barack Obama is much less likely than the average cat to jump in and out of cardboard boxes for fun' is low precision, but I'm not sure about the accuracy.
+I lead a small but extraordinarily persuasive religion whose only members are door-to-door proselytizers from other faiths.
 
