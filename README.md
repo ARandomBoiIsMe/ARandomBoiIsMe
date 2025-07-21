@@ -1,6 +1,6 @@
-[Study](https://xkcd.com/749)
+[Precision vs Accuracy](https://xkcd.com/2696)
 
-![Study](./random_comic.png)
+![Precision vs Accuracy](./random_comic.png)
 
-Volunteers needed for a study on transmission of urushiol from digital contact with thin strips of fibrous cellulose pulp.
+'Barack Obama is much less likely than the average cat to jump in and out of cardboard boxes for fun' is low precision, but I'm not sure about the accuracy.
 
