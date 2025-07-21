@@ -1,6 +1,6 @@
-[Fastest-Growing](https://xkcd.com/1102)
+[Quotative Like](https://xkcd.com/1483)
 
-![Fastest-Growing](./random_comic.png)
+![Quotative Like](./random_comic.png)
 
-I lead a small but extraordinarily persuasive religion whose only members are door-to-door proselytizers from other faiths.
+God was like, "Let there be light," and there was light.
 
