@@ -1,6 +1,6 @@
-[Hottest Editors](https://xkcd.com/1823)
+[Astronomy](https://xkcd.com/1522)
 
-![Hottest Editors](./random_comic.png)
+![Astronomy](./random_comic.png)
 
-Elon Musk finally blocked me from the internal Tesla repository because I wouldn't stop sending pull requests for my code supporting steering via vim keybindings.
+Astrobiology is held back by the fact that we're all too nervous to try to balance on the ladder while holding an expensive microscope.
 
