@@ -1,6 +1,6 @@
-[Astronomy](https://xkcd.com/1522)
+[Newton and Leibniz](https://xkcd.com/626)
 
-![Astronomy](./random_comic.png)
+![Newton and Leibniz](./random_comic.png)
 
-Astrobiology is held back by the fact that we're all too nervous to try to balance on the ladder while holding an expensive microscope.
+YEEEEEEAAAAAAHHHHHH!
 
