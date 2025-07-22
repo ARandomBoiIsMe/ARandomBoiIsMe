@@ -1,6 +1,6 @@
-[Unfulfilling Toys](https://xkcd.com/2049)
+[Unstoppable Force and Immovable Object](https://xkcd.com/3084)
 
-![Unfulfilling Toys](./random_comic.png)
+![Unstoppable Force and Immovable Object](./random_comic.png)
 
-We were going to do a falling-apart Rubik's cube that was just 27 independent blocks stuck together with magnets, but then we realized it was actually really cool and even kind of worked, so we cut that one.
+Unstoppable force-carrying particles can't interact with immovable matter by definition.
 
