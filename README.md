@@ -1,6 +1,6 @@
-[Unstoppable Force and Immovable Object](https://xkcd.com/3084)
+[Hottest Editors](https://xkcd.com/1823)
 
-![Unstoppable Force and Immovable Object](./random_comic.png)
+![Hottest Editors](./random_comic.png)
 
-Unstoppable force-carrying particles can't interact with immovable matter by definition.
+Elon Musk finally blocked me from the internal Tesla repository because I wouldn't stop sending pull requests for my code supporting steering via vim keybindings.
 
