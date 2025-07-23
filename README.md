@@ -1,6 +1,6 @@
-[NP-Complete](https://xkcd.com/287)
+[Human Altitude](https://xkcd.com/3039)
 
-![NP-Complete](./random_comic.png)
+![Human Altitude](./random_comic.png)
 
-General solutions get you a 50% tip.
+I wonder what surviving human held the record before balloons (excluding edge cases like jumping gaps on a mountain bridge). Probably it was someone falling from a cliff into snow or water, but maybe it involved something weird like a gunpowder explosion or volcano.
 
