@@ -1,6 +1,6 @@
-[Commonly Mispronounced Equations](https://xkcd.com/2492)
+[NP-Complete](https://xkcd.com/287)
 
-![Commonly Mispronounced Equations](./random_comic.png)
+![NP-Complete](./random_comic.png)
 
-"Epsihootamoo doopsiquorps" --the Schrödinger equation for the hydrogen atom
+General solutions get you a 50% tip.
 
