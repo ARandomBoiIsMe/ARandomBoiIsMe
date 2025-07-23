@@ -1,6 +1,6 @@
-[Newton and Leibniz](https://xkcd.com/626)
+[Commonly Mispronounced Equations](https://xkcd.com/2492)
 
-![Newton and Leibniz](./random_comic.png)
+![Commonly Mispronounced Equations](./random_comic.png)
 
-YEEEEEEAAAAAAHHHHHH!
+"Epsihootamoo doopsiquorps" --the Schrödinger equation for the hydrogen atom
 
