@@ -1,6 +1,6 @@
-[Chess Notation](https://xkcd.com/1800)
+[My Sky](https://xkcd.com/1117)
 
-![Chess Notation](./random_comic.png)
+![My Sky](./random_comic.png)
 
-I've decided to score all my conversations using chess win-loss notation. (??)
+According to my mom, my first word was (looking up at the sky) 'Wow!'
 
