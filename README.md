@@ -1,6 +1,6 @@
-[People are Stupid](https://xkcd.com/1386)
+[Hug Count](https://xkcd.com/2419)
 
-![People are Stupid](./random_comic.png)
+![Hug Count](./random_comic.png)
 
-To everyone who responds to everything by saying they've 'lost their faith in humanity': Thanks--I'll let humanity know. I'm sure they'll be crushed.
+I've never been that big of a hug person, but it turns out I'm not quite this small of a hug person either.
 
