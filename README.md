@@ -1,6 +1,6 @@
-[Hug Count](https://xkcd.com/2419)
+[Chess Notation](https://xkcd.com/1800)
 
-![Hug Count](./random_comic.png)
+![Chess Notation](./random_comic.png)
 
-I've never been that big of a hug person, but it turns out I'm not quite this small of a hug person either.
+I've decided to score all my conversations using chess win-loss notation. (??)
 
