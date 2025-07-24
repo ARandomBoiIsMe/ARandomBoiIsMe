@@ -1,6 +1,6 @@
-[My Sky](https://xkcd.com/1117)
+[Scientific Field Prefixes](https://xkcd.com/2656)
 
-![My Sky](./random_comic.png)
+![Scientific Field Prefixes](./random_comic.png)
 
-According to my mom, my first word was (looking up at the sky) 'Wow!'
+Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)
 
