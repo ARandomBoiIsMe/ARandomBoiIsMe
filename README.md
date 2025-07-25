@@ -1,6 +1,6 @@
-[We Get It](https://xkcd.com/684)
+[YouTube](https://xkcd.com/202)
 
-![We Get It](./random_comic.png)
+![YouTube](./random_comic.png)
 
-The most brutal way I've ever seen someone handle this was 'Oh, you have a girlfriend. Are you going to get married?'  'I, uh, don't know--' 'Well, do you love her?' '...' 'Anyway, what were you saying about the movie?'
+I pray GunPistolMan never learns the word 'sheeple'.
 
