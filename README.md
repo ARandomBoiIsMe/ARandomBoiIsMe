@@ -1,6 +1,6 @@
-[Sierpinski Valentine](https://xkcd.com/543)
+[Modern OSI Model](https://xkcd.com/2105)
 
-![Sierpinski Valentine](./random_comic.png)
+![Modern OSI Model](./random_comic.png)
 
-Especially you mouseover-text readers.  You're the best.  <3
+In retrospect, I shouldn't have used each layer of the OSI model as one of my horcruxes.
 
