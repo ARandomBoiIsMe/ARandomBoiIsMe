@@ -1,6 +1,6 @@
-[Modern OSI Model](https://xkcd.com/2105)
+[We Get It](https://xkcd.com/684)
 
-![Modern OSI Model](./random_comic.png)
+![We Get It](./random_comic.png)
 
-In retrospect, I shouldn't have used each layer of the OSI model as one of my horcruxes.
+The most brutal way I've ever seen someone handle this was 'Oh, you have a girlfriend. Are you going to get married?'  'I, uh, don't know--' 'Well, do you love her?' '...' 'Anyway, what were you saying about the movie?'
 
