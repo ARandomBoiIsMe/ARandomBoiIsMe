@@ -1,6 +1,6 @@
-[Unsolved Chemistry Problems](https://xkcd.com/2943)
+[X Girls Y Cups](https://xkcd.com/467)
 
-![Unsolved Chemistry Problems](./random_comic.png)
+![X Girls Y Cups](./random_comic.png)
 
-I'm an H⁺ denier, in that I refuse to consider loose protons to be real hydrogen, so I personally believe it stands for 'pretend'.
+Also no results: 1girl10000cups, 2girls(5+3i)cups, 65536girls65536cups, or 3frenchhens2turtledoves1cup.
 
