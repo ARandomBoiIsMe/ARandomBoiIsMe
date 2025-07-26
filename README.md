@@ -1,6 +1,6 @@
-[X Girls Y Cups](https://xkcd.com/467)
+[2008 Christmas Special](https://xkcd.com/521)
 
-![X Girls Y Cups](./random_comic.png)
+![2008 Christmas Special](./random_comic.png)
 
-Also no results: 1girl10000cups, 2girls(5+3i)cups, 65536girls65536cups, or 3frenchhens2turtledoves1cup.
+'How could you possibly think typing 'import skynet' was a good idea?'
 
