@@ -1,6 +1,6 @@
-[2008 Christmas Special](https://xkcd.com/521)
+[Proof](https://xkcd.com/1153)
 
-![2008 Christmas Special](./random_comic.png)
+![Proof](./random_comic.png)
 
-'How could you possibly think typing 'import skynet' was a good idea?'
+The prosecution calls Gottfried Leibniz.
 
