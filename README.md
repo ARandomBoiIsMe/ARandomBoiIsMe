@@ -1,6 +1,6 @@
-[Scantron](https://xkcd.com/499)
+[Magic Tree](https://xkcd.com/1569)
 
-![Scantron](./random_comic.png)
+![Magic Tree](./random_comic.png)
 
-Also, after all the warnings about filling in the bubbles completely, I spent like 30 seconds on each one.
+Since people rarely try to cut down cell phone towers, after millions of years, as cell phone towers have gotten more treelike, trees have started growing fake cell phone tower attachments and shiny gray bark to protect themselves. This is a standard textbook example of convergent evolution.
 
