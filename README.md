@@ -1,6 +1,6 @@
-[Proof](https://xkcd.com/1153)
+[Substitute](https://xkcd.com/135)
 
-![Proof](./random_comic.png)
+![Substitute](./random_comic.png)
 
-The prosecution calls Gottfried Leibniz.
+YOU THINK THIS IS FUNNY?
 
