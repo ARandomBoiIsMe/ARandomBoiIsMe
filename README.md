@@ -1,6 +1,6 @@
-[Substitute](https://xkcd.com/135)
+[Scantron](https://xkcd.com/499)
 
-![Substitute](./random_comic.png)
+![Scantron](./random_comic.png)
 
-YOU THINK THIS IS FUNNY?
+Also, after all the warnings about filling in the bubbles completely, I spent like 30 seconds on each one.
 
