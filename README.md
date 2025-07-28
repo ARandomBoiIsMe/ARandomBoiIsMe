@@ -1,6 +1,6 @@
-[Alien Theories](https://xkcd.com/2953)
+[Voyager 1](https://xkcd.com/1189)
 
-![Alien Theories](./random_comic.png)
+![Voyager 1](./random_comic.png)
 
-They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.
+So far Voyager 1 has 'left the Solar System' by passing through the termination shock three times, the heliopause twice, and once each through the heliosheath, heliosphere, heliodrome, auroral discontinuity, Heaviside layer, trans-Neptunian panic zone, magnetogap, US Census Bureau Solar System statistical boundary, Kuiper gauntlet, Oort void, and crystal sphere holding the fixed stars.
 
