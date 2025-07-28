@@ -1,6 +1,6 @@
-[Map of the Internet](https://xkcd.com/195)
+[TV Problems](https://xkcd.com/1760)
 
-![Map of the Internet](./random_comic.png)
+![TV Problems](./random_comic.png)
 
-For the IPv6 map just imagine the XP default desktop picture.
+Certified skydiving instructors know way more about safely falling from planes than I do, and are way more likely to die that way.
 
