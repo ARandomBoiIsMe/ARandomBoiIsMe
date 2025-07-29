@@ -1,6 +1,6 @@
-[TV Problems](https://xkcd.com/1760)
+[Trolling](https://xkcd.com/351)
 
-![TV Problems](./random_comic.png)
+![Trolling](./random_comic.png)
 
-Certified skydiving instructors know way more about safely falling from planes than I do, and are way more likely to die that way.
+And I was really impressed with how they managed to shock the Goatse guy.
 
