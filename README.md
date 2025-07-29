@@ -1,6 +1,6 @@
-[Trolling](https://xkcd.com/351)
+[Sleet](https://xkcd.com/511)
 
-![Trolling](./random_comic.png)
+![Sleet](./random_comic.png)
 
-And I was really impressed with how they managed to shock the Goatse guy.
+I mean, I can barely hear myself complaining about Battlestar Galactica.
 
