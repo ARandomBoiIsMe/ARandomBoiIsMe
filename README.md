@@ -1,6 +1,6 @@
-[Sleet](https://xkcd.com/511)
+[Projection](https://xkcd.com/283)
 
-![Sleet](./random_comic.png)
+![Projection](./random_comic.png)
 
-I mean, I can barely hear myself complaining about Battlestar Galactica.
+Out in a field, not another car for miles, silence but for the rain drumming on the sunroof, warm thick folds of the blanket hiding wordless fingertip games ...
 
