@@ -1,6 +1,6 @@
-[Pronunciation](https://xkcd.com/2819)
+[Hardwood](https://xkcd.com/3051)
 
-![Pronunciation](./random_comic.png)
+![Hardwood](./random_comic.png)
 
-I pronounce the 'u' in 'pronunciation' like in 'putting' but the 'ou' in 'pronounce' like in 'wound'.
+They may technically have been softwoods at some point, but they definitely aren't now.
 
