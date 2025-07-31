@@ -1,6 +1,6 @@
-[Urn](https://xkcd.com/1374)
+[.NORM Normal File Format](https://xkcd.com/2116)
 
-![Urn](./random_comic.png)
+![.NORM Normal File Format](./random_comic.png)
 
-Can this PLEASE be drawing with replacement?
+At some point, compression becomes an  aesthetic design choice. Luckily, SVG is a really flexible format, so there's no reason it can't support vector JPEG artifacts.
 
