@@ -1,6 +1,6 @@
-[Bad Timing](https://xkcd.com/427)
+[Urn](https://xkcd.com/1374)
 
-![Bad Timing](./random_comic.png)
+![Urn](./random_comic.png)
 
-Protip: Even without the red spiders, never have that conversation halfway through a balloon ride.
+Can this PLEASE be drawing with replacement?
 
