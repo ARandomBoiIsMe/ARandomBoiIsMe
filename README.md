@@ -1,6 +1,6 @@
-[Update Notes](https://xkcd.com/2010)
+[Bad Timing](https://xkcd.com/427)
 
-![Update Notes](./random_comic.png)
+![Bad Timing](./random_comic.png)
 
-v3.0.2: Hey, if anyone still using this app is headed to the beach, can you stop at 4th and River St and grab the sunscreen from my car? Trunk should be unlocked. Thanks!
+Protip: Even without the red spiders, never have that conversation halfway through a balloon ride.
 
