@@ -1,6 +1,6 @@
-[Lane Change Highway](https://xkcd.com/2728)
+[Guest Week: Bill Amend (FoxTrot)](https://xkcd.com/824)
 
-![Lane Change Highway](./random_comic.png)
+![Guest Week: Bill Amend (FoxTrot)](./random_comic.png)
 
-I just think lane markers should follow the local magnetic declination.
+Guest comic by Bill Amend of FoxTrot, an inspiration to all us nerdy-physics-majors-turned-cartoonists, of which there are an oddly large number.
 
