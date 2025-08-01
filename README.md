@@ -1,6 +1,6 @@
-[Black Hole](https://xkcd.com/1680)
+[Lane Change Highway](https://xkcd.com/2728)
 
-![Black Hole](./random_comic.png)
+![Lane Change Highway](./random_comic.png)
 
-It also brings all the boys, and everything else, to the yard.
+I just think lane markers should follow the local magnetic declination.
 
