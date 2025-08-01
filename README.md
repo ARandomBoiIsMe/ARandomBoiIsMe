@@ -1,6 +1,6 @@
-[Guest Week: Bill Amend (FoxTrot)](https://xkcd.com/824)
+[The Economic Argument](https://xkcd.com/808)
 
-![Guest Week: Bill Amend (FoxTrot)](./random_comic.png)
+![The Economic Argument](./random_comic.png)
 
-Guest comic by Bill Amend of FoxTrot, an inspiration to all us nerdy-physics-majors-turned-cartoonists, of which there are an oddly large number.
+Not to be confused with 'making money selling this stuff to OTHER people who think it works', which corporate accountants and actuaries have zero problems with.
 
