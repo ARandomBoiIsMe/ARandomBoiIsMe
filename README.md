@@ -1,6 +1,6 @@
-[.NORM Normal File Format](https://xkcd.com/2116)
+[Black Hole](https://xkcd.com/1680)
 
-![.NORM Normal File Format](./random_comic.png)
+![Black Hole](./random_comic.png)
 
-At some point, compression becomes an  aesthetic design choice. Luckily, SVG is a really flexible format, so there's no reason it can't support vector JPEG artifacts.
+It also brings all the boys, and everything else, to the yard.
 
