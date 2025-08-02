@@ -1,6 +1,6 @@
-[Terry Pratchett](https://xkcd.com/1498)
+[Converting to Metric](https://xkcd.com/526)
 
-![Terry Pratchett](./random_comic.png)
+![Converting to Metric](./random_comic.png)
 
-Thank you for teaching us how big our world is by sharing so many of your own.
+According to River, 'adequate' vacuuming systems drain the human body at about half a liter per second.
 
