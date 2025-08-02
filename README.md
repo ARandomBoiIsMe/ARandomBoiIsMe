@@ -1,6 +1,6 @@
-[Converting to Metric](https://xkcd.com/526)
+[October 30th](https://xkcd.com/656)
 
-![Converting to Metric](./random_comic.png)
+![October 30th](./random_comic.png)
 
-According to River, 'adequate' vacuuming systems drain the human body at about half a liter per second.
+Not enough houses on your block?  Just hit them at 30-year intervals from here to 2300 and get 10x the candy.
 
