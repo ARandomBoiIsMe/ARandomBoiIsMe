@@ -1,6 +1,6 @@
-[Opportunity](https://xkcd.com/1504)
+[xkcd Phone 6](https://xkcd.com/1889)
 
-![Opportunity](./random_comic.png)
+![xkcd Phone 6](./random_comic.png)
 
-We all remember those famous first words spoken by an astronaut on the surface of Mars: "That's one small step fo- HOLY SHIT LOOK OUT IT'S GOT SOME KIND OF DRILL! Get back to the ... [unintelligible] ... [signal lost]"
+We understand your privacy concerns; be assured that our phones will never store or transmit images of your face.
 
