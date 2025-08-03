@@ -1,6 +1,6 @@
-[xkcd Phone 6](https://xkcd.com/1889)
+[Repairs](https://xkcd.com/1994)
 
-![xkcd Phone 6](./random_comic.png)
+![Repairs](./random_comic.png)
 
-We understand your privacy concerns; be assured that our phones will never store or transmit images of your face.
+I was just disassembling it over the course of five hours so it would fit in the trash more efficiently.
 
