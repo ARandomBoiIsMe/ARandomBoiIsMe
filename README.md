@@ -1,6 +1,6 @@
-[Improvised](https://xkcd.com/469)
+[Pressures](https://xkcd.com/1067)
 
-![Improvised](./random_comic.png)
+![Pressures](./random_comic.png)
 
-Oh, your brother is Luke.  Sorry, should've mentioned that first.
+Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.
 
