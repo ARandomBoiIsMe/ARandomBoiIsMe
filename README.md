@@ -1,6 +1,6 @@
-[Pressures](https://xkcd.com/1067)
+[Opportunity](https://xkcd.com/1504)
 
-![Pressures](./random_comic.png)
+![Opportunity](./random_comic.png)
 
-Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.
+We all remember those famous first words spoken by an astronaut on the surface of Mars: "That's one small step fo- HOLY SHIT LOOK OUT IT'S GOT SOME KIND OF DRILL! Get back to the ... [unintelligible] ... [signal lost]"
 
