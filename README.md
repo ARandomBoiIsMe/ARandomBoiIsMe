@@ -1,6 +1,6 @@
-[Bubblegum](https://xkcd.com/1560)
+[Electoral Precedent](https://xkcd.com/1122)
 
-![Bubblegum](./random_comic.png)
+![Electoral Precedent](./random_comic.png)
 
-I came here to chew bubblegum and say no more than eighteen words ... and I'm all out of
+No white guy who's been mentioned on Twitter has gone on to win.
 
