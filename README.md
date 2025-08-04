@@ -1,6 +1,6 @@
-[Electoral Precedent](https://xkcd.com/1122)
+[Haskell](https://xkcd.com/1312)
 
-![Electoral Precedent](./random_comic.png)
+![Haskell](./random_comic.png)
 
-No white guy who's been mentioned on Twitter has gone on to win.
+The problem with Haskell is that it's a language built on lazy evaluation and nobody's actually called for it.
 
