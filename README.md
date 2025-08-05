@@ -1,6 +1,6 @@
-[Haskell](https://xkcd.com/1312)
+[Transformers](https://xkcd.com/1336)
 
-![Haskell](./random_comic.png)
+![Transformers](./random_comic.png)
 
-The problem with Haskell is that it's a language built on lazy evaluation and nobody's actually called for it.
+A helicopter bursts from a chrysalis and alights on a rock, rotors still damp.
 
