@@ -1,6 +1,6 @@
-[The Race: Part 1](https://xkcd.com/577)
+[Daylight Saving Choice](https://xkcd.com/2846)
 
-![The Race: Part 1](./random_comic.png)
+![Daylight Saving Choice](./random_comic.png)
 
-Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.
+I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.
 
