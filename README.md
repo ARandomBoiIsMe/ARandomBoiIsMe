@@ -1,6 +1,6 @@
-[Transformers](https://xkcd.com/1336)
+[The Race: Part 1](https://xkcd.com/577)
 
-![Transformers](./random_comic.png)
+![The Race: Part 1](./random_comic.png)
 
-A helicopter bursts from a chrysalis and alights on a rock, rotors still damp.
+Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.
 
