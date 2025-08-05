@@ -1,6 +1,6 @@
-[Daylight Saving Choice](https://xkcd.com/2846)
+[Morning](https://xkcd.com/395)
 
-![Daylight Saving Choice](./random_comic.png)
+![Morning](./random_comic.png)
 
-I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.
+I'd press on them to try to unstick them, but I can't reach.  Can we try cycling day and night really fast?
 
