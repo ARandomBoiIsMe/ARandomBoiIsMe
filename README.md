@@ -1,6 +1,6 @@
-[Brontosaurus](https://xkcd.com/636)
+[Keynote](https://xkcd.com/527)
 
-![Brontosaurus](./random_comic.png)
+![Keynote](./random_comic.png)
 
-Well, sex is like a velociraptor: despite your movie-fueled lifelong neurotic obsession, unlikely to be found in your house.
+He should be better soon -- now that the Apple Store is getting rid of DRM, Cory Doctorow will get rid of his Steve Jobs voodoo doll.
 
