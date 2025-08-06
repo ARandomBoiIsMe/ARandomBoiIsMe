@@ -1,6 +1,6 @@
-[Tony Hawk](https://xkcd.com/296)
+[Brontosaurus](https://xkcd.com/636)
 
-![Tony Hawk](./random_comic.png)
+![Brontosaurus](./random_comic.png)
 
-Bad idea #271: Dropping into the half-pipe on a Segway.
+Well, sex is like a velociraptor: despite your movie-fueled lifelong neurotic obsession, unlikely to be found in your house.
 
