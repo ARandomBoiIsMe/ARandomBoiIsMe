@@ -1,6 +1,6 @@
-[Morning](https://xkcd.com/395)
+[Conjunction](https://xkcd.com/2401)
 
-![Morning](./random_comic.png)
+![Conjunction](./random_comic.png)
 
-I'd press on them to try to unstick them, but I can't reach.  Can we try cycling day and night really fast?
+The IAU is sad to announce that at 00:39 UTC on December 22nd, Jupiter and Saturn did unfortunately come into contact, and appear to have blooped together.
 
