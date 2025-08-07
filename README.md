@@ -1,6 +1,6 @@
-[Keynote](https://xkcd.com/527)
+[No, The Other One](https://xkcd.com/2480)
 
-![Keynote](./random_comic.png)
+![No, The Other One](./random_comic.png)
 
-He should be better soon -- now that the Apple Store is getting rid of DRM, Cory Doctorow will get rid of his Steve Jobs voodoo doll.
+Key West, Virginia is not to be confused with Key, West Virginia.
 
