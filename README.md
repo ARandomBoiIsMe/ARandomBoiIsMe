@@ -1,6 +1,6 @@
-[No, The Other One](https://xkcd.com/2480)
+[Mars Landing Video](https://xkcd.com/2428)
 
-![No, The Other One](./random_comic.png)
+![Mars Landing Video](./random_comic.png)
 
-Key West, Virginia is not to be confused with Key, West Virginia.
+The best part of crashing a Mars briefing is you can get in a full 11 minutes of questions before they can start to respond.
 
