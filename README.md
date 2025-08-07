@@ -1,6 +1,6 @@
-[Stove Ownership](https://xkcd.com/418)
+[Chess Notation](https://xkcd.com/1800)
 
-![Stove Ownership](./random_comic.png)
+![Chess Notation](./random_comic.png)
 
-Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.
+I've decided to score all my conversations using chess win-loss notation. (??)
 
