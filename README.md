@@ -1,6 +1,6 @@
-[Chess Notation](https://xkcd.com/1800)
+[Astronaut Guests](https://xkcd.com/2883)
 
-![Chess Notation](./random_comic.png)
+![Astronaut Guests](./random_comic.png)
 
-I've decided to score all my conversations using chess win-loss notation. (??)
+They didn't bring us a gift, but considering the kinetic energy of a bottle of wine at orbital speed, that's probably for the best.
 
