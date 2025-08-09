@@ -1,6 +1,6 @@
-[New Nobel Prizes](https://xkcd.com/2527)
+[Neutrinos](https://xkcd.com/955)
 
-![New Nobel Prizes](./random_comic.png)
+![Neutrinos](./random_comic.png)
 
-They've endowed a separate prize in Physiology or Medicine or Stopping Dr. Adams.
+I can't speak to the paper's scientific merits, but it's really cool how on page 10 you can see that their reference GPS beacon is sensitive enough to pick up continential drift under the detector (interrupted halfway through by an earthquake).
 
