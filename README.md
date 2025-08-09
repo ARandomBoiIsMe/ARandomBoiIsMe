@@ -1,6 +1,6 @@
-[Easy or Hard](https://xkcd.com/2682)
+[65 Years](https://xkcd.com/893)
 
-![Easy or Hard](./random_comic.png)
+![65 Years](./random_comic.png)
 
-"Friction-driven static electrification is familiar and fundamental in daily life, industry, and technology, but its basics have long been unknown and have continually perplexed scientists from ancient Greece to the high-tech era. [...] To date, no single theory can satisfactorily explain this mysterious but fundamental phenomenon." --Eui-Cheol Shin et. al. (2022)
+The universe is probably littered with the one-planet graves of cultures which made the sensible economic decision that there's no good reason to go into space--each discovered, studied, and remembered by the ones who made the irrational decision.
 
