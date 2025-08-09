@@ -1,6 +1,6 @@
-[Neutrinos](https://xkcd.com/955)
+[Easy or Hard](https://xkcd.com/2682)
 
-![Neutrinos](./random_comic.png)
+![Easy or Hard](./random_comic.png)
 
-I can't speak to the paper's scientific merits, but it's really cool how on page 10 you can see that their reference GPS beacon is sensitive enough to pick up continential drift under the detector (interrupted halfway through by an earthquake).
+"Friction-driven static electrification is familiar and fundamental in daily life, industry, and technology, but its basics have long been unknown and have continually perplexed scientists from ancient Greece to the high-tech era. [...] To date, no single theory can satisfactorily explain this mysterious but fundamental phenomenon." --Eui-Cheol Shin et. al. (2022)
 
