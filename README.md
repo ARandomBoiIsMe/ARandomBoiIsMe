@@ -1,6 +1,6 @@
-[65 Years](https://xkcd.com/893)
+[Desert Golfing](https://xkcd.com/1936)
 
-![65 Years](./random_comic.png)
+![Desert Golfing](./random_comic.png)
 
-The universe is probably littered with the one-planet graves of cultures which made the sensible economic decision that there's no good reason to go into space--each discovered, studied, and remembered by the ones who made the irrational decision.
+I just want to stay up long enough to watch the ball drop into the hole number 2018.
 
