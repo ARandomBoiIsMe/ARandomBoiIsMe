@@ -1,6 +1,6 @@
-[Twitter Bot](https://xkcd.com/1646)
+[Cells](https://xkcd.com/1217)
 
-![Twitter Bot](./random_comic.png)
+![Cells](./random_comic.png)
 
-PYTHON FLAG ENABLE THREE LAWS
+Now, if it selectively kills cancer cells in a petri dish, you can be sure it's at least a great breakthrough for everyone suffering from petri dish cancer.
 
