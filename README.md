@@ -1,6 +1,6 @@
-[Picking Bad Stocks](https://xkcd.com/2270)
+[Typical Seating Chart](https://xkcd.com/2862)
 
-![Picking Bad Stocks](./random_comic.png)
+![Typical Seating Chart](./random_comic.png)
 
-On the news a few days later: "Buzz is building around the so-called 'camping Roomba' after a big investment. Preorders have spiked, and..."
+Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole.
 
