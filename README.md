@@ -1,6 +1,6 @@
-[Cells](https://xkcd.com/1217)
+[Picking Bad Stocks](https://xkcd.com/2270)
 
-![Cells](./random_comic.png)
+![Picking Bad Stocks](./random_comic.png)
 
-Now, if it selectively kills cancer cells in a petri dish, you can be sure it's at least a great breakthrough for everyone suffering from petri dish cancer.
+On the news a few days later: "Buzz is building around the so-called 'camping Roomba' after a big investment. Preorders have spiked, and..."
 
