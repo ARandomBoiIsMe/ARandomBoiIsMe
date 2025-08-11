@@ -1,6 +1,6 @@
-[Urn](https://xkcd.com/1374)
+[Trig Identities](https://xkcd.com/2070)
 
-![Urn](./random_comic.png)
+![Trig Identities](./random_comic.png)
 
-Can this PLEASE be drawing with replacement?
+ARCTANGENT THETA = ENCHANT AT TARGET
 
