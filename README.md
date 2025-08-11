@@ -1,6 +1,6 @@
-[Schrodinger](https://xkcd.com/45)
+[Urn](https://xkcd.com/1374)
 
-![Schrodinger](./random_comic.png)
+![Urn](./random_comic.png)
 
-There was no alt-text until you moused over
+Can this PLEASE be drawing with replacement?
 
