@@ -1,6 +1,6 @@
-[Typical Seating Chart](https://xkcd.com/2862)
+[Schrodinger](https://xkcd.com/45)
 
-![Typical Seating Chart](./random_comic.png)
+![Schrodinger](./random_comic.png)
 
-Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole.
+There was no alt-text until you moused over
 
