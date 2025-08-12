@@ -1,6 +1,6 @@
-[Doors of Durin](https://xkcd.com/1218)
+[Alternate Currency](https://xkcd.com/512)
 
-![Doors of Durin](./random_comic.png)
+![Alternate Currency](./random_comic.png)
 
-If we get the doors open and plug up the dam on the Sirannon so the water rises a little, the pool will start draining into Moria. How do you think the Watcher would fare against a drenched Balrog?
+For the first time ever, the phrase 'I'd like to thank everyone at 4chan for making me successful and happy' is uttered.
 
