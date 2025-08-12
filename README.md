@@ -1,6 +1,6 @@
-[Old Days 2](https://xkcd.com/2324)
+[Doors of Durin](https://xkcd.com/1218)
 
-![Old Days 2](./random_comic.png)
+![Doors of Durin](./random_comic.png)
 
-The git vehicle fleet eventually pivoted to selling ice cream, but some holdovers remain. If you flag down an ice cream truck and hand the driver a floppy disk, a few hours later you'll get an invite to a git repo.
+If we get the doors open and plug up the dam on the Sirannon so the water rises a little, the pool will start draining into Moria. How do you think the Watcher would fare against a drenched Balrog?
 
