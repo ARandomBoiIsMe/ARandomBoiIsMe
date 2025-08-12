@@ -1,6 +1,6 @@
-[Astronaut Vandalism](https://xkcd.com/1375)
+[Sun and Earth](https://xkcd.com/2004)
 
-![Astronaut Vandalism](./random_comic.png)
+![Sun and Earth](./random_comic.png)
 
-That night, retired USAF pilots covertly replaced the '62' with '50'.
+But we don't need to worry about the boiling masses sandwiching the thin layer in which we live, since we're so fragile and short-lived that it's unlikely to kill us before something else does! Wait, why doesn't that sound reassuring?
 
