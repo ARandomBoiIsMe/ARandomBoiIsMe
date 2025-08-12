@@ -1,6 +1,6 @@
-[Alternate Currency](https://xkcd.com/512)
+[Astronaut Vandalism](https://xkcd.com/1375)
 
-![Alternate Currency](./random_comic.png)
+![Astronaut Vandalism](./random_comic.png)
 
-For the first time ever, the phrase 'I'd like to thank everyone at 4chan for making me successful and happy' is uttered.
+That night, retired USAF pilots covertly replaced the '62' with '50'.
 
