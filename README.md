@@ -1,6 +1,6 @@
-[Sun and Earth](https://xkcd.com/2004)
+[Going West](https://xkcd.com/489)
 
-![Sun and Earth](./random_comic.png)
+![Going West](./random_comic.png)
 
-But we don't need to worry about the boiling masses sandwiching the thin layer in which we live, since we're so fragile and short-lived that it's unlikely to kill us before something else does! Wait, why doesn't that sound reassuring?
+Listen, they request that you stop submitting a listing for your house labeled 'WHERE YOU BROKE MY HEART'.
 
