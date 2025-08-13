@@ -1,6 +1,6 @@
-[Robots](https://xkcd.com/1955)
+[Degrees](https://xkcd.com/1643)
 
-![Robots](./random_comic.png)
+![Degrees](./random_comic.png)
 
-Don't be nervous about the robots, be nervous about the people with the resources to build them.
+"Radians Fahrenheit or radians Celsius?" "Uh, sorry, gotta go!"
 
