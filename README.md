@@ -1,6 +1,6 @@
-[Going West](https://xkcd.com/489)
+[Robots](https://xkcd.com/1955)
 
-![Going West](./random_comic.png)
+![Robots](./random_comic.png)
 
-Listen, they request that you stop submitting a listing for your house labeled 'WHERE YOU BROKE MY HEART'.
+Don't be nervous about the robots, be nervous about the people with the resources to build them.
 
