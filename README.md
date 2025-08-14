@@ -1,6 +1,6 @@
-[Picture a Grassy Field](https://xkcd.com/1582)
+[Visual Field](https://xkcd.com/1080)
 
-![Picture a Grassy Field](./random_comic.png)
+![Visual Field](./random_comic.png)
 
-Wait, I can fix this. Picture another field. In the middle sits the only creature the first creature is afraid of. Now just-- wait, where did THAT one go?
+I recently learned something that solved a mystery that had bugged me since childhood--why, when I looked at an analog clock, the hand would sometimes seem to take a couple seconds to start ticking. Google "stopped clock illusion".
 
