@@ -1,6 +1,6 @@
-[Suckville](https://xkcd.com/1008)
+[Picture a Grassy Field](https://xkcd.com/1582)
 
-![Suckville](./random_comic.png)
+![Picture a Grassy Field](./random_comic.png)
 
-Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.
+Wait, I can fix this. Picture another field. In the middle sits the only creature the first creature is afraid of. Now just-- wait, where did THAT one go?
 
