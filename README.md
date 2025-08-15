@@ -1,6 +1,6 @@
-[The Raven](https://xkcd.com/133)
+[Inside Joke](https://xkcd.com/794)
 
-![The Raven](./random_comic.png)
+![Inside Joke](./random_comic.png)
 
-Yes, Eminem is wearing a sleeveless hoodie.  What of it?
+I've looked through a few annotated versions of classic books, and it's shocking how much of what's in there is basically pop-culture references totally lost on us now.
 
