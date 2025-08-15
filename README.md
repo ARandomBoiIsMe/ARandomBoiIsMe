@@ -1,6 +1,6 @@
-[Natural Parenting](https://xkcd.com/674)
+[Timeline of Bicycle Design](https://xkcd.com/1673)
 
-![Natural Parenting](./random_comic.png)
+![Timeline of Bicycle Design](./random_comic.png)
 
-On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that's the mother of all sampling biases.
+I'll be honest--the 1950s were a rough time for cycling.
 
