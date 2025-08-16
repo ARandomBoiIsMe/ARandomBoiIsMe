@@ -1,6 +1,6 @@
-[Inside Joke](https://xkcd.com/794)
+[Outdated Periodic Table](https://xkcd.com/2723)
 
-![Inside Joke](./random_comic.png)
+![Outdated Periodic Table](./random_comic.png)
 
-I've looked through a few annotated versions of classic books, and it's shocking how much of what's in there is basically pop-culture references totally lost on us now.
+Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.
 
