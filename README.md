@@ -1,6 +1,6 @@
-[Outdated Periodic Table](https://xkcd.com/2723)
+[Predictive Models](https://xkcd.com/2169)
 
-![Outdated Periodic Table](./random_comic.png)
+![Predictive Models](./random_comic.png)
 
-Researchers claim to have synthesized six additional elements in the second row, temporarily named 'pentium' through 'unnilium'.
+WE WILL ARREST THE REVOLUTION MEMBERS [AT THE JULY 28TH MEETING][tab] "Cancel the meeting! Our cover is blown."
 
