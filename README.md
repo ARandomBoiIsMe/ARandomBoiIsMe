@@ -1,6 +1,6 @@
-[Advent](https://xkcd.com/1577)
+[The True Name of the Bear](https://xkcd.com/2381)
 
-![Advent](./random_comic.png)
+![The True Name of the Bear](./random_comic.png)
 
-The few dozen doors that have little Christmas trees on them are a nice touch.
+Thank you to Gretchen McCulloch for fielding this question, and sorry that as a result the world's foremost internet linguist has been devoured by the brown one. She will be missed.
 
