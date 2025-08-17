@@ -1,6 +1,6 @@
-[Voice](https://xkcd.com/1541)
+[Advent](https://xkcd.com/1577)
 
-![Voice](./random_comic.png)
+![Advent](./random_comic.png)
 
-Anyway, we should totally go watch a video story or put some food in our normal mouths!
+The few dozen doors that have little Christmas trees on them are a nice touch.
 
