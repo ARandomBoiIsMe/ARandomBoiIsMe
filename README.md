@@ -1,6 +1,6 @@
-[Fresh Pears](https://xkcd.com/2209)
+[The Martian](https://xkcd.com/1536)
 
-![Fresh Pears](./random_comic.png)
+![The Martian](./random_comic.png)
 
-I want to sell apples but I'm still working on getting the machine to do the cutting and grafting.
+I have never seen a work of fiction so perfectly capture the out-of-nowhere shock of discovering that you've just bricked something important because you didn't pay enough attention to a loose wire.
 
