@@ -1,6 +1,6 @@
-[Katamari](https://xkcd.com/83)
+[Next Slide Please](https://xkcd.com/2470)
 
-![Katamari](./random_comic.png)
+![Next Slide Please](./random_comic.png)
 
-As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'
+"I have nothing to offer but blood--next slide, please--toil--next slide, please--tears, and--next slide, please--sweat."
 
