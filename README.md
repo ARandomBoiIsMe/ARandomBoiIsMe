@@ -1,6 +1,6 @@
-[Mattress](https://xkcd.com/335)
+[Katamari](https://xkcd.com/83)
 
-![Mattress](./random_comic.png)
+![Katamari](./random_comic.png)
 
-The TempurPedic wineglass guy broke his ankle.
+As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'
 
