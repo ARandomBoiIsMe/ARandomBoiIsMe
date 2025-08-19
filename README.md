@@ -1,6 +1,6 @@
-[Ears](https://xkcd.com/1899)
+[Household Tips](https://xkcd.com/1715)
 
-![Ears](./random_comic.png)
+![Household Tips](./random_comic.png)
 
-My theory is that most humans have been colonized with alien mind-control slugs that hold the earbuds for them, and the ones who can't wear earbuds are the only surviving free ones.
+To make your shoes feel more comfortable, smell better, and last longer, try taking them off before you shower.
 
