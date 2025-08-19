@@ -1,6 +1,6 @@
-[Networking Problems](https://xkcd.com/2259)
+[Ears](https://xkcd.com/1899)
 
-![Networking Problems](./random_comic.png)
+![Ears](./random_comic.png)
 
-LOOK, THE LATENCY FALLS EVERY TIME YOU CLAP YOUR HANDS AND SAY YOU BELIEVE
+My theory is that most humans have been colonized with alien mind-control slugs that hold the earbuds for them, and the ones who can't wear earbuds are the only surviving free ones.
 
