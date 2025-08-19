@@ -1,6 +1,6 @@
-[Household Tips](https://xkcd.com/1715)
+[Form](https://xkcd.com/608)
 
-![Household Tips](./random_comic.png)
+![Form](./random_comic.png)
 
-To make your shoes feel more comfortable, smell better, and last longer, try taking them off before you shower.
+'This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.
 
