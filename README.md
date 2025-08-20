@@ -1,6 +1,6 @@
-[Bad Map Projection: Exterior Kansas](https://xkcd.com/2951)
+[Quantum Mechanics](https://xkcd.com/1240)
 
-![Bad Map Projection: Exterior Kansas](./random_comic.png)
+![Quantum Mechanics](./random_comic.png)
 
-Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it's actually their outer edge.
+You can also just ignore any science assertion where 'quantum mechanics' is the most complicated phrase in it.
 
