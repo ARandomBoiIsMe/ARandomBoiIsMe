@@ -1,6 +1,6 @@
-[Form](https://xkcd.com/608)
+[Actually](https://xkcd.com/1318)
 
-![Form](./random_comic.png)
+![Actually](./random_comic.png)
 
-'This space intentionally left blank' is less immediately provocative but more Hofstadterially confusing.
+Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.
 
