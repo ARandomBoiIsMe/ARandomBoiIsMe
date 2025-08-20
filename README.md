@@ -1,6 +1,6 @@
-[Actually](https://xkcd.com/1318)
+[Bad Map Projection: Exterior Kansas](https://xkcd.com/2951)
 
-![Actually](./random_comic.png)
+![Bad Map Projection: Exterior Kansas](./random_comic.png)
 
-Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.
+Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it's actually their outer edge.
 
