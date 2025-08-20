@@ -1,6 +1,6 @@
-[Quantum Mechanics](https://xkcd.com/1240)
+[Air Force Museum](https://xkcd.com/1850)
 
-![Quantum Mechanics](./random_comic.png)
+![Air Force Museum](./random_comic.png)
 
-You can also just ignore any science assertion where 'quantum mechanics' is the most complicated phrase in it.
+I had fun visiting the museum at Dover Air Force Base, unless they don't have a museum, in which case I've never been to Delaware in my life.
 
