@@ -1,6 +1,6 @@
-[Small Moon](https://xkcd.com/1458)
+[Bun](https://xkcd.com/1682)
 
-![Small Moon](./random_comic.png)
+![Bun](./random_comic.png)
 
-GENERAL JAN DODONNA: An analysis of the plans provided by Princess Leia has reinvigorated the arguments of the 'artificial moonlet' and 'rogue planet-station' camps. I fear this question is fracturing the Rebellion.
+If a wild bun is sighted, a nice gesture of respect is to send a 'BUN ALERT' message to friends and family, with photographs documenting the bun's location and rank. If no photographs are possible, emoji may be substituted.
 
