@@ -1,6 +1,6 @@
-[Prairie](https://xkcd.com/967)
+[Small Moon](https://xkcd.com/1458)
 
-![Prairie](./random_comic.png)
+![Small Moon](./random_comic.png)
 
-Colorado is working to develop coherent amber waves, which would allow them to finally destroy Kansas and Nebraska with a devastating but majestic grain laser.
+GENERAL JAN DODONNA: An analysis of the plans provided by Princess Leia has reinvigorated the arguments of the 'artificial moonlet' and 'rogue planet-station' camps. I fear this question is fracturing the Rebellion.
 
