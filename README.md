@@ -1,6 +1,6 @@
-[Right Click](https://xkcd.com/1975)
+[Machine Learning](https://xkcd.com/1838)
 
-![Right Click](./random_comic.png)
+![Machine Learning](./random_comic.png)
 
-Right-click or long press (where supported) to save!
+The pile gets soaked with data and starts to get mushy over time, so it's technically recurrent.
 
