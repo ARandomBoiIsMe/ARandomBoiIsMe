@@ -1,6 +1,6 @@
-[Machine Learning](https://xkcd.com/1838)
+[My Friend Catherine](https://xkcd.com/1689)
 
-![Machine Learning](./random_comic.png)
+![My Friend Catherine](./random_comic.png)
 
-The pile gets soaked with data and starts to get mushy over time, so it's technically recurrent.
+I can't get any work done because my friend Catherine is sitting on my keyboard.
 
