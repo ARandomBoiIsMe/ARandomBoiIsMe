@@ -1,6 +1,6 @@
-[My Friend Catherine](https://xkcd.com/1689)
+[Like I'm Five](https://xkcd.com/1364)
 
-![My Friend Catherine](./random_comic.png)
+![Like I'm Five](./random_comic.png)
 
-I can't get any work done because my friend Catherine is sitting on my keyboard.
+'Am I taking care of you? I have a thesis to write!' 'My parents are at their house; you visited last--' 'No, no, explain like you're five.'
 
