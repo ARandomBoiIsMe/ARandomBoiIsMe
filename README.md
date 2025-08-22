@@ -1,6 +1,6 @@
-[SMFW](https://xkcd.com/1460)
+[Right Click](https://xkcd.com/1975)
 
-![SMFW](./random_comic.png)
+![Right Click](./random_comic.png)
 
-wtfw it's like smho tbfh, imdb.
+Right-click or long press (where supported) to save!
 
