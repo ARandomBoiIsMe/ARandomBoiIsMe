@@ -1,6 +1,6 @@
-[Chemical Formulas](https://xkcd.com/3040)
+[Color Codes](https://xkcd.com/227)
 
-![Chemical Formulas](./random_comic.png)
+![Color Codes](./random_comic.png)
 
-Can you pass the nackle?
+(It's the TMBG Dial-a-Song line, to save you some time.)
 
