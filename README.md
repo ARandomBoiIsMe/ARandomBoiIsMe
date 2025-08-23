@@ -1,6 +1,6 @@
-[Location Sharing](https://xkcd.com/1473)
+[DFS](https://xkcd.com/761)
 
-![Location Sharing](./random_comic.png)
+![DFS](./random_comic.png)
 
-Our phones must have great angular momentum sensors because the compasses really suck.
+A breadth-first search makes a lot of sense for dating in general, actually; it suggests dating a bunch of people casually before getting serious, rather than having a series of five-year relationships one after the other.
 
