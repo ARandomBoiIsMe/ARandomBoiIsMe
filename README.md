@@ -1,6 +1,6 @@
-[Color Codes](https://xkcd.com/227)
+[Location Sharing](https://xkcd.com/1473)
 
-![Color Codes](./random_comic.png)
+![Location Sharing](./random_comic.png)
 
-(It's the TMBG Dial-a-Song line, to save you some time.)
+Our phones must have great angular momentum sensors because the compasses really suck.
 
