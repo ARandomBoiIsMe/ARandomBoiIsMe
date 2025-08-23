@@ -1,6 +1,6 @@
-[Like I'm Five](https://xkcd.com/1364)
+[Chemical Formulas](https://xkcd.com/3040)
 
-![Like I'm Five](./random_comic.png)
+![Chemical Formulas](./random_comic.png)
 
-'Am I taking care of you? I have a thesis to write!' 'My parents are at their house; you visited last--' 'No, no, explain like you're five.'
+Can you pass the nackle?
 
