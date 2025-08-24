@@ -1,6 +1,6 @@
-[Car Model Names](https://xkcd.com/1571)
+[Internal Monologues](https://xkcd.com/2057)
 
-![Car Model Names](./random_comic.png)
+![Internal Monologues](./random_comic.png)
 
-CLIMAX is good, but SEXCLIMAX is even better.
+Haha, just kidding, everyone's already been hacked. I wonder if today's the day we find out about it.
 
