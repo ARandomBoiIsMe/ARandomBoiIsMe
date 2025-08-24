@@ -1,6 +1,6 @@
-[Internal Monologues](https://xkcd.com/2057)
+[2038](https://xkcd.com/607)
 
-![Internal Monologues](./random_comic.png)
+![2038](./random_comic.png)
 
-Haha, just kidding, everyone's already been hacked. I wonder if today's the day we find out about it.
+If only we'd chosen 1944-12-02 08:45:52 as the Unix epoch, we could've combined two doomsday scenarios into one and added a really boring scene to that Roland Emmerich movie.
 
