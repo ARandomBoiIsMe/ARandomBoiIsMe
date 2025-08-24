@@ -1,6 +1,6 @@
-[DFS](https://xkcd.com/761)
+[Car Model Names](https://xkcd.com/1571)
 
-![DFS](./random_comic.png)
+![Car Model Names](./random_comic.png)
 
-A breadth-first search makes a lot of sense for dating in general, actually; it suggests dating a bunch of people casually before getting serious, rather than having a series of five-year relationships one after the other.
+CLIMAX is good, but SEXCLIMAX is even better.
 
