@@ -1,6 +1,6 @@
-[Napoleon](https://xkcd.com/1510)
+[Computer Problems](https://xkcd.com/722)
 
-![Napoleon](./random_comic.png)
+![Computer Problems](./random_comic.png)
 
-"Mr. President, what if the unthinkable happens? What if the launch goes wrong, and Napoleon is not stranded on the Moon?" "Have Safire write up a speech."
+This is how I explain computer problems to my cat. My cat usually seems happier than me.
 
