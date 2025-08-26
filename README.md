@@ -1,6 +1,6 @@
-[Garden Path Sentence](https://xkcd.com/2793)
+[Snow](https://xkcd.com/2866)
 
-![Garden Path Sentence](./random_comic.png)
+![Snow](./random_comic.png)
 
-Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing
+For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.
 
