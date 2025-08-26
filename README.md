@@ -1,6 +1,6 @@
-[Stargazing](https://xkcd.com/1644)
+[Garden Path Sentence](https://xkcd.com/2793)
 
-![Stargazing](./random_comic.png)
+![Garden Path Sentence](./random_comic.png)
 
-Some of you may be thinking, 'But wait, isn't the brightest star in our sky the Sun?' I think that's a great question and you should totally ask it. On the infinite tree of possible conversations spread out before us, I think that's definitely the most promising branch.
+Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing
 
