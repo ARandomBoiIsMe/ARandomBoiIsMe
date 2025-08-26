@@ -1,6 +1,6 @@
-[Efficiency](https://xkcd.com/1445)
+[Rewiring](https://xkcd.com/454)
 
-![Efficiency](./random_comic.png)
+![Rewiring](./random_comic.png)
 
-I need an extension for my research project because I spent all month trying to figure out whether learning Dvorak would help me type it faster.
+My friend Finn tried to mail one end of the cable to me and thread the mail system.
 
