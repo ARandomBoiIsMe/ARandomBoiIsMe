@@ -1,6 +1,6 @@
-[Rewiring](https://xkcd.com/454)
+[Stargazing](https://xkcd.com/1644)
 
-![Rewiring](./random_comic.png)
+![Stargazing](./random_comic.png)
 
-My friend Finn tried to mail one end of the cable to me and thread the mail system.
+Some of you may be thinking, 'But wait, isn't the brightest star in our sky the Sun?' I think that's a great question and you should totally ask it. On the infinite tree of possible conversations spread out before us, I think that's definitely the most promising branch.
 
