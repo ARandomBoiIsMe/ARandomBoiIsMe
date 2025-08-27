@@ -1,6 +1,6 @@
-[Marsiforming](https://xkcd.com/2095)
+[Screensaver](https://xkcd.com/1229)
 
-![Marsiforming](./random_comic.png)
+![Screensaver](./random_comic.png)
 
-It has so many advantages--it preserves Martian life, requires fewer interplanetary launches, and makes it much easier to field-test Mars rovers.
+I'm entering my 24th year of spending eight hours a day firing the Duck Hunt gun at the flying toasters. I'm sure I'll hit one soon.
 
