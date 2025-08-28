@@ -1,6 +1,6 @@
-[Cron Mail](https://xkcd.com/1728)
+[Well 2](https://xkcd.com/568)
 
-![Cron Mail](./random_comic.png)
+![Well 2](./random_comic.png)
 
-Take THAT, piece of 1980s-era infrastructure I've inexplicably maintained on my systems for 15 years despite never really learning how it works.
+But I've made $13.72 already today!  Ow, stop throwing pennies.
 
