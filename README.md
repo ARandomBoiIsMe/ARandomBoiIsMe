@@ -1,6 +1,6 @@
-[Well 2](https://xkcd.com/568)
+[The Carriage](https://xkcd.com/788)
 
-![Well 2](./random_comic.png)
+![The Carriage](./random_comic.png)
 
-But I've made $13.72 already today!  Ow, stop throwing pennies.
+I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.
 
