@@ -1,6 +1,6 @@
-[Missed Connections](https://xkcd.com/935)
+[Cron Mail](https://xkcd.com/1728)
 
-![Missed Connections](./random_comic.png)
+![Cron Mail](./random_comic.png)
 
-The Street View van isn't going to find out anything Google won't already know from reading my email.
+Take THAT, piece of 1980s-era infrastructure I've inexplicably maintained on my systems for 15 years despite never really learning how it works.
 
