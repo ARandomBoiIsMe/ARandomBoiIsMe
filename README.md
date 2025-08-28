@@ -1,6 +1,6 @@
-[Screensaver](https://xkcd.com/1229)
+[Missed Connections](https://xkcd.com/935)
 
-![Screensaver](./random_comic.png)
+![Missed Connections](./random_comic.png)
 
-I'm entering my 24th year of spending eight hours a day firing the Duck Hunt gun at the flying toasters. I'm sure I'll hit one soon.
+The Street View van isn't going to find out anything Google won't already know from reading my email.
 
