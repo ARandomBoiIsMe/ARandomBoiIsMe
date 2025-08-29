@@ -1,6 +1,6 @@
-[The Carriage](https://xkcd.com/788)
+[Regular Expressions](https://xkcd.com/208)
 
-![The Carriage](./random_comic.png)
+![Regular Expressions](./random_comic.png)
 
-I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.
+Wait, forgot to escape a space.  Wheeeeee[taptaptap]eeeeee.
 
