@@ -1,6 +1,6 @@
-[Hipsters](https://xkcd.com/1220)
+[Wirecutter](https://xkcd.com/2536)
 
-![Hipsters](./random_comic.png)
+![Wirecutter](./random_comic.png)
 
-You may point out that this very retreat into ironic detachment while still clearly participating in the thing in question is the very definition of contemporary hipsterdom. But on the other hand, wait, you're in an empty room. Who are you talking to?
+This was always going to be a controversial Wirecutter post, but what really got them in trouble were their 'budget' and 'upgrade' picks.
 
