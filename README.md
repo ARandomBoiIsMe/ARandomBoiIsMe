@@ -1,6 +1,6 @@
-[Wirecutter](https://xkcd.com/2536)
+[Rewiring](https://xkcd.com/454)
 
-![Wirecutter](./random_comic.png)
+![Rewiring](./random_comic.png)
 
-This was always going to be a controversial Wirecutter post, but what really got them in trouble were their 'budget' and 'upgrade' picks.
+My friend Finn tried to mail one end of the cable to me and thread the mail system.
 
