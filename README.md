@@ -1,6 +1,6 @@
-[Regular Expressions](https://xkcd.com/208)
+[Hipsters](https://xkcd.com/1220)
 
-![Regular Expressions](./random_comic.png)
+![Hipsters](./random_comic.png)
 
-Wait, forgot to escape a space.  Wheeeeee[taptaptap]eeeeee.
+You may point out that this very retreat into ironic detachment while still clearly participating in the thing in question is the very definition of contemporary hipsterdom. But on the other hand, wait, you're in an empty room. Who are you talking to?
 
