@@ -1,6 +1,6 @@
-[Secretary: Part 4](https://xkcd.com/497)
+[Rule 34](https://xkcd.com/305)
 
-![Secretary: Part 4](./random_comic.png)
+![Rule 34](./random_comic.png)
 
-It's time to draw the line.
+Okay, Lance.  For entry into the college bowl, spell 'Throbbing'
 
