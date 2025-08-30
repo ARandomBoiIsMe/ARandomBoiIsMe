@@ -1,6 +1,6 @@
-[Rule 34](https://xkcd.com/305)
+[Bookshelf](https://xkcd.com/1049)
 
-![Rule 34](./random_comic.png)
+![Bookshelf](./random_comic.png)
 
-Okay, Lance.  For entry into the college bowl, spell 'Throbbing'
+I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'
 
