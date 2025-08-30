@@ -1,6 +1,6 @@
-[Rewiring](https://xkcd.com/454)
+[Secretary: Part 4](https://xkcd.com/497)
 
-![Rewiring](./random_comic.png)
+![Secretary: Part 4](./random_comic.png)
 
-My friend Finn tried to mail one end of the cable to me and thread the mail system.
+It's time to draw the line.
 
