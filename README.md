@@ -1,6 +1,6 @@
-[Bookshelf](https://xkcd.com/1049)
+[Unread](https://xkcd.com/2389)
 
-![Bookshelf](./random_comic.png)
+![Unread](./random_comic.png)
 
-I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'
+I'll never install a smart home smoke detector. It's not that I don't trust the software--it's that all software eventually becomes email, and I know how I am with email.
 
