@@ -1,6 +1,6 @@
-[Tukey](https://xkcd.com/3104)
+[Blockchain](https://xkcd.com/2267)
 
-![Tukey](./random_comic.png)
+![Blockchain](./random_comic.png)
 
-Numbers can be tricky. On the day of my 110th birthday, I'll be one day younger than John Tukey was on his.
+Blockchains are like grappling hooks, in that it's extremely cool when you encounter a problem for which they're the right solution, but it happens way too rarely in real life.
 
