@@ -1,6 +1,6 @@
-[Blockchain](https://xkcd.com/2267)
+[Parenthetical Names](https://xkcd.com/2252)
 
-![Blockchain](./random_comic.png)
+![Parenthetical Names](./random_comic.png)
 
-Blockchains are like grappling hooks, in that it's extremely cool when you encounter a problem for which they're the right solution, but it happens way too rarely in real life.
+I never got around to seeing that movie about the battle (of Midway).
 
