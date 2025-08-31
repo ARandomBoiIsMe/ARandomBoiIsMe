@@ -1,6 +1,6 @@
-[Parenthetical Names](https://xkcd.com/2252)
+[With Apologies to The Who](https://xkcd.com/274)
 
-![Parenthetical Names](./random_comic.png)
+![With Apologies to The Who](./random_comic.png)
 
-I never got around to seeing that movie about the battle (of Midway).
+Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.
 
