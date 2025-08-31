@@ -1,6 +1,6 @@
-[Unread](https://xkcd.com/2389)
+[Tukey](https://xkcd.com/3104)
 
-![Unread](./random_comic.png)
+![Tukey](./random_comic.png)
 
-I'll never install a smart home smoke detector. It's not that I don't trust the software--it's that all software eventually becomes email, and I know how I am with email.
+Numbers can be tricky. On the day of my 110th birthday, I'll be one day younger than John Tukey was on his.
 
