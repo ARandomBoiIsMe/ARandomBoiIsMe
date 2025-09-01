@@ -1,6 +1,6 @@
-[With Apologies to The Who](https://xkcd.com/274)
+[Electric vs Gas](https://xkcd.com/2948)
 
-![With Apologies to The Who](./random_comic.png)
+![Electric vs Gas](./random_comic.png)
 
-Trivia: Roger Daltry originally wrote 'Don't try an' Digg what we all say' but erased the second 'g' when he moved to reddit.
+An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill.
 
