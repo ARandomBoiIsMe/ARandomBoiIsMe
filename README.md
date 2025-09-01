@@ -1,6 +1,6 @@
-[Electric vs Gas](https://xkcd.com/2948)
+[So It Has Come To This](https://xkcd.com/1022)
 
-![Electric vs Gas](./random_comic.png)
+![So It Has Come To This](./random_comic.png)
 
-An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill.
+'Come to what?' 'You. Me. This moment.'
 
