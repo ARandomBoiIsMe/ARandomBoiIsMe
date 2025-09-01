@@ -1,6 +1,6 @@
-[Tire Swing](https://xkcd.com/1659)
+[Empiricism](https://xkcd.com/2855)
 
-![Tire Swing](./random_comic.png)
+![Empiricism](./random_comic.png)
 
-If we find one of those tire dumps, the next time he tries to get his truck back we can just retreat and let him have it.
+The problems started with my resolution next year to reject temporal causality.
 
