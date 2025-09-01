@@ -1,6 +1,6 @@
-[So It Has Come To This](https://xkcd.com/1022)
+[Tire Swing](https://xkcd.com/1659)
 
-![So It Has Come To This](./random_comic.png)
+![Tire Swing](./random_comic.png)
 
-'Come to what?' 'You. Me. This moment.'
+If we find one of those tire dumps, the next time he tries to get his truck back we can just retreat and let him have it.
 
