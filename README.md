@@ -1,6 +1,6 @@
-[Glass Trolling](https://xkcd.com/1304)
+[Driving Cars](https://xkcd.com/1990)
 
-![Glass Trolling](./random_comic.png)
+![Driving Cars](./random_comic.png)
 
-Plus, when someone finally grabs your glasses and stomps on them, it costs way less than $1,500 to replace them.
+It's probably just me. If driving were as dangerous as it seems, hundreds of people would be dying every day!
 
