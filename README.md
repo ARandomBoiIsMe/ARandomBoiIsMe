@@ -1,6 +1,6 @@
-[Empiricism](https://xkcd.com/2855)
+[A Crossword Puzzle](https://xkcd.com/2957)
 
-![Empiricism](./random_comic.png)
+![A Crossword Puzzle](./random_comic.png)
 
-The problems started with my resolution next year to reject temporal causality.
+Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality].
 
