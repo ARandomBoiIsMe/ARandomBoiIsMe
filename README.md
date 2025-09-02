@@ -1,6 +1,6 @@
-[Coverage](https://xkcd.com/1142)
+[Glass Trolling](https://xkcd.com/1304)
 
-![Coverage](./random_comic.png)
+![Glass Trolling](./random_comic.png)
 
-My resonant tunneling diode phone has limited range but a short enough wavelength to penetrate even the densest cages. This gives me a major combat advantage, hopefully.
+Plus, when someone finally grabs your glasses and stomps on them, it costs way less than $1,500 to replace them.
 
