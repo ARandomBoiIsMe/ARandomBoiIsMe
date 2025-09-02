@@ -1,6 +1,6 @@
-[A Crossword Puzzle](https://xkcd.com/2957)
+[Coverage](https://xkcd.com/1142)
 
-![A Crossword Puzzle](./random_comic.png)
+![Coverage](./random_comic.png)
 
-Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality].
+My resonant tunneling diode phone has limited range but a short enough wavelength to penetrate even the densest cages. This gives me a major combat advantage, hopefully.
 
