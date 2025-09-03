@@ -1,6 +1,6 @@
-[What If](https://xkcd.com/17)
+[Mars Landing Video](https://xkcd.com/2428)
 
-![What If](./random_comic.png)
+![Mars Landing Video](./random_comic.png)
 
-I once made an anniversary card for my then-girlfriend with this layout.
+The best part of crashing a Mars briefing is you can get in a full 11 minutes of questions before they can start to respond.
 
