@@ -1,6 +1,6 @@
-[Parker Solar Probe](https://xkcd.com/2262)
+[Pods vs Bubbles](https://xkcd.com/2339)
 
-![Parker Solar Probe](./random_comic.png)
+![Pods vs Bubbles](./random_comic.png)
 
-It will get within 9 or 10 Sun-diameters of the "bottom" (the Sun's surface) which seems pretty far when you put it that way, but from up here on Earth it's practically all the way down.
+Canada's travel restrictions on the US are 99% about keeping out COVID and 1% about keeping out people who say 'pod.'
 
