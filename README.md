@@ -1,6 +1,6 @@
-[Pods vs Bubbles](https://xkcd.com/2339)
+[What If](https://xkcd.com/17)
 
-![Pods vs Bubbles](./random_comic.png)
+![What If](./random_comic.png)
 
-Canada's travel restrictions on the US are 99% about keeping out COVID and 1% about keeping out people who say 'pod.'
+I once made an anniversary card for my then-girlfriend with this layout.
 
