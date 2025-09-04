@@ -1,6 +1,6 @@
-[Mars Landing Video](https://xkcd.com/2428)
+[Screensaver](https://xkcd.com/1229)
 
-![Mars Landing Video](./random_comic.png)
+![Screensaver](./random_comic.png)
 
-The best part of crashing a Mars briefing is you can get in a full 11 minutes of questions before they can start to respond.
+I'm entering my 24th year of spending eight hours a day firing the Duck Hunt gun at the flying toasters. I'm sure I'll hit one soon.
 
