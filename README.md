@@ -1,6 +1,6 @@
-[Screensaver](https://xkcd.com/1229)
+[Exposure Notification](https://xkcd.com/2342)
 
-![Screensaver](./random_comic.png)
+![Exposure Notification](./random_comic.png)
 
-I'm entering my 24th year of spending eight hours a day firing the Duck Hunt gun at the flying toasters. I'm sure I'll hit one soon.
+I don't see why everyone is so hungry for BAD news, but fine, I'll give in to feedback and add a dark mode.
 
