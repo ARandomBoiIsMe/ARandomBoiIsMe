@@ -1,6 +1,6 @@
-[Exposure Notification](https://xkcd.com/2342)
+[Natural Parenting](https://xkcd.com/674)
 
-![Exposure Notification](./random_comic.png)
+![Natural Parenting](./random_comic.png)
 
-I don't see why everyone is so hungry for BAD news, but fine, I'll give in to feedback and add a dark mode.
+On one hand, every single one of my ancestors going back billions of years has managed to figure it out.  On the other hand, that's the mother of all sampling biases.
 
