@@ -1,6 +1,6 @@
-[‮LTR](https://xkcd.com/1137)
+[Infrastructures](https://xkcd.com/743)
 
-![‮LTR](./random_comic.png)
+![Infrastructures](./random_comic.png)
 
-Collaborative editing can quickly become a textual rap battle fought with increasingly convoluted invocations of U+202a to U+202e.
+The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.
 
