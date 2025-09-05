@@ -1,6 +1,6 @@
-[Organ Meanings](https://xkcd.com/2960)
+[‮LTR](https://xkcd.com/1137)
 
-![Organ Meanings](./random_comic.png)
+![‮LTR](./random_comic.png)
 
-IMO the thymus is one of the coolest organs and we should really use it in metaphors more.
+Collaborative editing can quickly become a textual rap battle fought with increasingly convoluted invocations of U+202a to U+202e.
 
