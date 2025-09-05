@@ -1,6 +1,6 @@
-[Animal Songs](https://xkcd.com/2426)
+[Summer Solstice](https://xkcd.com/2792)
 
-![Animal Songs](./random_comic.png)
+![Summer Solstice](./random_comic.png)
 
-Dr. Fauci is not permitted to have a cat, because as director of the National Institute of Allergy and Infectious Diseases, his petting one would be considered giving aid and comfort to an allergen.
+Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)
 
