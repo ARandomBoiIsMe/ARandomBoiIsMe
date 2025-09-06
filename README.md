@@ -1,6 +1,6 @@
-[Instructions](https://xkcd.com/2601)
+[Collecting Double-Takes](https://xkcd.com/236)
 
-![Instructions](./random_comic.png)
+![Collecting Double-Takes](./random_comic.png)
 
-Happy little turtles
+Fun game: find a combination of two items that most freaks out the cashier.  Winner: pregnancy test and single coat hanger.
 
