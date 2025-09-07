@@ -1,6 +1,6 @@
-[Shopping Teams](https://xkcd.com/309)
+[Catcalling](https://xkcd.com/1763)
 
-![Shopping Teams](./random_comic.png)
+![Catcalling](./random_comic.png)
 
-I am never going out to buy an air conditioner with my sysadmin again.
+Effect strength => [unstoppable] | Effect range => [2 miles] | Effect duration => [1 year]
 
