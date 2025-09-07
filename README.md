@@ -1,6 +1,6 @@
-[Hallucinations](https://xkcd.com/203)
+[Shopping Teams](https://xkcd.com/309)
 
-![Hallucinations](./random_comic.png)
+![Shopping Teams](./random_comic.png)
 
-And the possibility of lucid dreaming just makes it that much more fascinating.
+I am never going out to buy an air conditioner with my sysadmin again.
 
