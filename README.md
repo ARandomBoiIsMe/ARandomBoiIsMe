@@ -1,6 +1,6 @@
-[Local g](https://xkcd.com/852)
+[Moments of Inspiration](https://xkcd.com/1584)
 
-![Local g](./random_comic.png)
+![Moments of Inspiration](./random_comic.png)
 
-In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.
+Charles, I just talked to John and Mildred, who run that company selling seeds and nuts, and their kids with MOUTHS are starving!
 
