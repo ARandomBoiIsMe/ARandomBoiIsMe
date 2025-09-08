@@ -1,6 +1,6 @@
-[Headlines](https://xkcd.com/1283)
+[Local g](https://xkcd.com/852)
 
-![Headlines](./random_comic.png)
+![Local g](./random_comic.png)
 
-1916: 'PHYSICIST DAD' TURNS HIS ATTENTION TO GRAVITY, AND YOU WON'T BELIEVE WHAT HE FINDS. [PICS] [NSFW]
+In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.
 
