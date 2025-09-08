@@ -1,6 +1,6 @@
-[Moments of Inspiration](https://xkcd.com/1584)
+[Easily Confused Acronyms](https://xkcd.com/2759)
 
-![Moments of Inspiration](./random_comic.png)
+![Easily Confused Acronyms](./random_comic.png)
 
-Charles, I just talked to John and Mildred, who run that company selling seeds and nuts, and their kids with MOUTHS are starving!
+'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.
 
