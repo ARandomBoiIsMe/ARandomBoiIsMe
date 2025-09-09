@@ -1,6 +1,6 @@
-[Actually](https://xkcd.com/1318)
+[Under the Stars](https://xkcd.com/2849)
 
-![Actually](./random_comic.png)
+![Under the Stars](./random_comic.png)
 
-Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.
+If you live in Los Angeles (around 33°52'N, roughly the latitude of Hermosa Beach) the black hole in V404 Cygni passes over you each day. On Christmas Day it will be directly overhead around 2pm.
 
