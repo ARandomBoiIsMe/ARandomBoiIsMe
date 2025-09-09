@@ -1,6 +1,6 @@
-[Easily Confused Acronyms](https://xkcd.com/2759)
+[Five Thirty](https://xkcd.com/68)
 
-![Easily Confused Acronyms](./random_comic.png)
+![Five Thirty](./random_comic.png)
 
-'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation.
+The 8th panel is my favorite
 
