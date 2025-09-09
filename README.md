@@ -1,6 +1,6 @@
-[Under the Stars](https://xkcd.com/2849)
+[Indecision](https://xkcd.com/330)
 
-![Under the Stars](./random_comic.png)
+![Indecision](./random_comic.png)
 
-If you live in Los Angeles (around 33°52'N, roughly the latitude of Hermosa Beach) the black hole in V404 Cygni passes over you each day. On Christmas Day it will be directly overhead around 2pm.
+Hey, I don't make the rules.  It's in the book.
 
