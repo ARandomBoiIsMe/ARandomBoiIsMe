@@ -1,6 +1,6 @@
-[Jurassic World](https://xkcd.com/1452)
+[Power Cord](https://xkcd.com/1395)
 
-![Jurassic World](./random_comic.png)
+![Power Cord](./random_comic.png)
 
-Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.
+In this situation, gzip /dev/inside to deflate, then pipe the compressed air to /dev/input to clean your keyboard. Avert your eyes when you do.
 
