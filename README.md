@@ -1,6 +1,6 @@
-[Power Cord](https://xkcd.com/1395)
+[College Athletes](https://xkcd.com/2210)
 
-![Power Cord](./random_comic.png)
+![College Athletes](./random_comic.png)
 
-In this situation, gzip /dev/inside to deflate, then pipe the compressed air to /dev/input to clean your keyboard. Avert your eyes when you do.
+Their signature play is the three-point combinator, a recursive offense which is guaranteed not to halt and continues accumulating points until the buzzer.
 
