@@ -1,6 +1,6 @@
-[Indecision](https://xkcd.com/330)
+[Jurassic World](https://xkcd.com/1452)
 
-![Indecision](./random_comic.png)
+![Jurassic World](./random_comic.png)
 
-Hey, I don't make the rules.  It's in the book.
+Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.
 
