@@ -1,6 +1,6 @@
-[College Athletes](https://xkcd.com/2210)
+[Convincing Pickup Line](https://xkcd.com/403)
 
-![College Athletes](./random_comic.png)
+![Convincing Pickup Line](./random_comic.png)
 
-Their signature play is the three-point combinator, a recursive offense which is guaranteed not to halt and continues accumulating points until the buzzer.
+Check it out; I've had sex with someone who's had sex with someone who's written a paper with Paul Erdős!
 
