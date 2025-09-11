@@ -1,6 +1,6 @@
-[Convincing Pickup Line](https://xkcd.com/403)
+[Chasing](https://xkcd.com/2931)
 
-![Convincing Pickup Line](./random_comic.png)
+![Chasing](./random_comic.png)
 
-Check it out; I've had sex with someone who's had sex with someone who's written a paper with Paul Erdős!
+Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley.
 
