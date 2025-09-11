@@ -1,6 +1,6 @@
-[Caroling](https://xkcd.com/959)
+[Julia Stiles](https://xkcd.com/130)
 
-![Caroling](./random_comic.png)
+![Julia Stiles](./random_comic.png)
 
-For a thousand generations we vowed never to forget how his soldiers feasted on our brother Stephen.
+I found an old tape of this episode in my family's closet.  Check the news section of the forums to see the clip!
 
