@@ -1,6 +1,6 @@
-[Chasing](https://xkcd.com/2931)
+[A Halloween Carol](https://xkcd.com/2836)
 
-![Chasing](./random_comic.png)
+![A Halloween Carol](./random_comic.png)
 
-Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley.
+[after a minute] "Okay, I think I've got it, thanks. Can I--" "oOOOooOOooo!"
 
