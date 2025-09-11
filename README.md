@@ -1,6 +1,6 @@
-[A Halloween Carol](https://xkcd.com/2836)
+[Caroling](https://xkcd.com/959)
 
-![A Halloween Carol](./random_comic.png)
+![Caroling](./random_comic.png)
 
-[after a minute] "Okay, I think I've got it, thanks. Can I--" "oOOOooOOooo!"
+For a thousand generations we vowed never to forget how his soldiers feasted on our brother Stephen.
 
