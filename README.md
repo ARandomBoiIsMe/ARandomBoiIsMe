@@ -1,6 +1,6 @@
-[Julia Stiles](https://xkcd.com/130)
+[Sports Cheat Sheet](https://xkcd.com/1107)
 
-![Julia Stiles](./random_comic.png)
+![Sports Cheat Sheet](./random_comic.png)
 
-I found an old tape of this episode in my family's closet.  Check the news section of the forums to see the clip!
+I would subscribe to a Twitter feed that supplied you with one reasonable sports opinion per day, like 'The Red Sox can't make the playoffs (championship games), but in last night's game their win seriously damaged the chances of the Yankees (longstanding rival team).'
 
