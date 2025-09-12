@@ -1,6 +1,6 @@
-[Sports Cheat Sheet](https://xkcd.com/1107)
+[Universal Rating Scale](https://xkcd.com/2329)
 
-![Sports Cheat Sheet](./random_comic.png)
+![Universal Rating Scale](./random_comic.png)
 
-I would subscribe to a Twitter feed that supplied you with one reasonable sports opinion per day, like 'The Red Sox can't make the playoffs (championship games), but in last night's game their win seriously damaged the chances of the Yankees (longstanding rival team).'
+There are plenty of finer gradations. I got 'critically endangered/extinct in the wild' on my exam, although the curve bumped it all the way up to 'venti.'
 
