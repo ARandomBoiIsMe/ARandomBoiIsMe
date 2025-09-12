@@ -1,6 +1,6 @@
-[Universal Rating Scale](https://xkcd.com/2329)
+[Irony](https://xkcd.com/6)
 
-![Universal Rating Scale](./random_comic.png)
+![Irony](./random_comic.png)
 
-There are plenty of finer gradations. I got 'critically endangered/extinct in the wild' on my exam, although the curve bumped it all the way up to 'venti.'
+It's commonly known that too much perspective can be a downer.
 
