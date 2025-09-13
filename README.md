@@ -1,6 +1,6 @@
-[Neutrinos](https://xkcd.com/955)
+[Margin](https://xkcd.com/1381)
 
-![Neutrinos](./random_comic.png)
+![Margin](./random_comic.png)
 
-I can't speak to the paper's scientific merits, but it's really cool how on page 10 you can see that their reference GPS beacon is sensitive enough to pick up continential drift under the detector (interrupted halfway through by an earthquake).
+PROTIP: You can get around the Shannon-Hartley limit by setting your font size to 0.
 
