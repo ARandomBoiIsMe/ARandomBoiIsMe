@@ -1,6 +1,6 @@
-[Margin](https://xkcd.com/1381)
+[Volcano Types](https://xkcd.com/1714)
 
-![Margin](./random_comic.png)
+![Volcano Types](./random_comic.png)
 
-PROTIP: You can get around the Shannon-Hartley limit by setting your font size to 0.
+It's hard living somewhere with antlions, because every time you find one of their traps, you feel compelled to spend all day constructing a tiny model of Jabba's sail barge next to it.
 
