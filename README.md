@@ -1,6 +1,6 @@
-[Hydrogen Isotopes](https://xkcd.com/2719)
+[Five-Minute Comics: Part 1](https://xkcd.com/819)
 
-![Hydrogen Isotopes](./random_comic.png)
+![Five-Minute Comics: Part 1](./random_comic.png)
 
-Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.
+The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.
 
