@@ -1,6 +1,6 @@
-[Five-Minute Comics: Part 1](https://xkcd.com/819)
+[Walking Into Things](https://xkcd.com/1710)
 
-![Five-Minute Comics: Part 1](./random_comic.png)
+![Walking Into Things](./random_comic.png)
 
-The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.
+A childhood spent walking while reading books has prepared me unexpectedly well for today's world.
 
