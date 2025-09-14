@@ -1,6 +1,6 @@
-[Psychic](https://xkcd.com/628)
+[Blair Witch](https://xkcd.com/2387)
 
-![Psychic](./random_comic.png)
+![Blair Witch](./random_comic.png)
 
-You can do a lot better than 1% if you start keeping track of the patterns in what numbers people pick.
+"Are you concerned the witches won't breed in captivity?" "Honestly, we're more concerned that they WILL. We don't know what it involves, but our biologists theorize that it's 'harrowing.'"
 
