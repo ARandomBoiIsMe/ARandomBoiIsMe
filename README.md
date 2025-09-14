@@ -1,6 +1,6 @@
-[Walking Into Things](https://xkcd.com/1710)
+[Woodpecker](https://xkcd.com/614)
 
-![Walking Into Things](./random_comic.png)
+![Woodpecker](./random_comic.png)
 
-A childhood spent walking while reading books has prepared me unexpectedly well for today's world.
+If you don't have an extension cord I can get that too.  Because we're friends!  Right?
 
