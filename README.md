@@ -1,6 +1,6 @@
-[Woodpecker](https://xkcd.com/614)
+[Psychic](https://xkcd.com/628)
 
-![Woodpecker](./random_comic.png)
+![Psychic](./random_comic.png)
 
-If you don't have an extension cord I can get that too.  Because we're friends!  Right?
+You can do a lot better than 1% if you start keeping track of the patterns in what numbers people pick.
 
