@@ -1,6 +1,6 @@
-[Optimization](https://xkcd.com/1691)
+[Sign Combo](https://xkcd.com/2841)
 
-![Optimization](./random_comic.png)
+![Sign Combo](./random_comic.png)
 
-Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not.
+Speed Limit: 45 MPH / Minimum: 65 MPH
 
