@@ -1,6 +1,6 @@
-[Sign Combo](https://xkcd.com/2841)
+[Temperature](https://xkcd.com/901)
 
-![Sign Combo](./random_comic.png)
+![Temperature](./random_comic.png)
 
-Speed Limit: 45 MPH / Minimum: 65 MPH
+And the baby has a fever.
 
