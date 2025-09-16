@@ -1,6 +1,6 @@
-[Explorers](https://xkcd.com/839)
+[Change in Slope](https://xkcd.com/2701)
 
-![Explorers](./random_comic.png)
+![Change in Slope](./random_comic.png)
 
-We're going to have to work together to get over our hangups if we're going to learn to move on Catan's hexagonal grid. It's bad enough that we lost our crew of pawns when we passed within firing range of Battleship.
+Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.
 
