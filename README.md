@@ -1,6 +1,6 @@
-[Change in Slope](https://xkcd.com/2701)
+[Election Map](https://xkcd.com/1852)
 
-![Change in Slope](./random_comic.png)
+![Election Map](./random_comic.png)
 
-Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.
+Luckily for my interpretation, no precincts were won by the Green Party.
 
