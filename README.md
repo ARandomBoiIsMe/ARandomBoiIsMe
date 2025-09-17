@@ -1,6 +1,6 @@
-[Sharing Options](https://xkcd.com/2106)
+[Man Page](https://xkcd.com/1692)
 
-![Sharing Options](./random_comic.png)
+![Man Page](./random_comic.png)
 
-How about posts that are public, but every time a company accesses a bunch of them, the API makes their CEO's account click 'like' on one of them at random so you get a notification.
+For even more info, see blarbl(2)(3) and birb(3ahhaha I'm kidding, just Google it like a normal person.
 
