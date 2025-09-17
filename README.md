@@ -1,6 +1,6 @@
-[RBA](https://xkcd.com/464)
+[Defensive Profile](https://xkcd.com/1911)
 
-![RBA](./random_comic.png)
+![Defensive Profile](./random_comic.png)
 
-This is a story all about how I started drinking.
+NO DRAMA ZONE -> If I've made you sad, you'd better not tell me, because I am TERRIFIED of that situation and have NO IDEA how to handle it.
 
