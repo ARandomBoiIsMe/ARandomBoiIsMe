@@ -1,6 +1,6 @@
-[Election Map](https://xkcd.com/1852)
+[Sharing Options](https://xkcd.com/2106)
 
-![Election Map](./random_comic.png)
+![Sharing Options](./random_comic.png)
 
-Luckily for my interpretation, no precincts were won by the Green Party.
+How about posts that are public, but every time a company accesses a bunch of them, the API makes their CEO's account click 'like' on one of them at random so you get a notification.
 
