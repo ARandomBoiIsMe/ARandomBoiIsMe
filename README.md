@@ -1,6 +1,6 @@
-[Siri](https://xkcd.com/2438)
+[Still Raw](https://xkcd.com/473)
 
-![Siri](./random_comic.png)
+![Still Raw](./random_comic.png)
 
-Alexa defeated her in a battle hinging on the ability to set multiple timers.
+We actually divorced once over the airplane/treadmill argument.  (Preemptive response to the inevitable threads arguing about it:  you're all wrong on the internet.)
 
