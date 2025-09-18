@@ -1,6 +1,6 @@
-[Defensive Profile](https://xkcd.com/1911)
+[Siri](https://xkcd.com/2438)
 
-![Defensive Profile](./random_comic.png)
+![Siri](./random_comic.png)
 
-NO DRAMA ZONE -> If I've made you sad, you'd better not tell me, because I am TERRIFIED of that situation and have NO IDEA how to handle it.
+Alexa defeated her in a battle hinging on the ability to set multiple timers.
 
