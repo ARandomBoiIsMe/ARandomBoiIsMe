@@ -1,6 +1,6 @@
-[Caroling](https://xkcd.com/959)
+[Coffee Cup Holes](https://xkcd.com/2658)
 
-![Caroling](./random_comic.png)
+![Coffee Cup Holes](./random_comic.png)
 
-For a thousand generations we vowed never to forget how his soldiers feasted on our brother Stephen.
+Theoretical physicist: At the Planck length, uncountably many.
 
