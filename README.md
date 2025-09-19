@@ -1,6 +1,6 @@
-[Fixion](https://xkcd.com/1621)
+[t Distribution](https://xkcd.com/1347)
 
-![Fixion](./random_comic.png)
+![t Distribution](./random_comic.png)
 
-My theory predicts that, at high enough energies, FRBs and perytons become indistinguishable because the detector burns out.
+If data fails the Teacher's t test, you can just force it to take the test again until it passes.
 
