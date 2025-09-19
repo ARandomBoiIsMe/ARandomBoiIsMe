@@ -1,6 +1,6 @@
-[t Distribution](https://xkcd.com/1347)
+[Caroling](https://xkcd.com/959)
 
-![t Distribution](./random_comic.png)
+![Caroling](./random_comic.png)
 
-If data fails the Teacher's t test, you can just force it to take the test again until it passes.
+For a thousand generations we vowed never to forget how his soldiers feasted on our brother Stephen.
 
