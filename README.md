@@ -1,6 +1,6 @@
-[Coffee Cup Holes](https://xkcd.com/2658)
+[Alien Theories](https://xkcd.com/2953)
 
-![Coffee Cup Holes](./random_comic.png)
+![Alien Theories](./random_comic.png)
 
-Theoretical physicist: At the Planck length, uncountably many.
+They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.
 
