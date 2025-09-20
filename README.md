@@ -1,6 +1,6 @@
-[Fast Radio Bursts](https://xkcd.com/2886)
+[How to Send a File](https://xkcd.com/2194)
 
-![Fast Radio Bursts](./random_comic.png)
+![How to Send a File](./random_comic.png)
 
-Dr. Petroff has also shown that the Higgs boson signal was actually sparks from someone microwaving grapes, the EHT black hole photo was a frozen bagel someone left in too long, and the LIGO detection was just someone slamming the microwave door too hard.
+Note: How To will teach you lots of cool stuff about technology, data storage, butterfly migration, and more. Also you will never see your files again.
 
