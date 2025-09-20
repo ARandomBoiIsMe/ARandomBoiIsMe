@@ -1,6 +1,6 @@
-[Beverages](https://xkcd.com/2047)
+[Pwned](https://xkcd.com/91)
 
-![Beverages](./random_comic.png)
+![Pwned](./random_comic.png)
 
-If I wait a while, it's not so bad, because then it's just shaped like me, plus some pipes and tanks and probably eventually all of Earth's oceans.
+I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
 
