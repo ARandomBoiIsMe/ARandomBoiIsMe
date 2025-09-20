@@ -1,6 +1,6 @@
-[Pwned](https://xkcd.com/91)
+[Fast Radio Bursts](https://xkcd.com/2886)
 
-![Pwned](./random_comic.png)
+![Fast Radio Bursts](./random_comic.png)
 
-I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
+Dr. Petroff has also shown that the Higgs boson signal was actually sparks from someone microwaving grapes, the EHT black hole photo was a frozen bagel someone left in too long, and the LIGO detection was just someone slamming the microwave door too hard.
 
