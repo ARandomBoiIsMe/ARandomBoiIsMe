@@ -1,6 +1,6 @@
-[Alien Theories](https://xkcd.com/2953)
+[Beverages](https://xkcd.com/2047)
 
-![Alien Theories](./random_comic.png)
+![Beverages](./random_comic.png)
 
-They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.
+If I wait a while, it's not so bad, because then it's just shaped like me, plus some pipes and tanks and probably eventually all of Earth's oceans.
 
