@@ -1,6 +1,6 @@
-[Spider Paleontology](https://xkcd.com/1747)
+[Stratigraphic Record](https://xkcd.com/1194)
 
-![Spider Paleontology](./random_comic.png)
+![Stratigraphic Record](./random_comic.png)
 
-Whenever you see a video of birds doing something weird, remember: Birds are a small subset of dinosaurs, so the weirdness of birds is a small subset of the weirdness of dinosaurs.
+All we have are these stupid tantalizing zircons and the scars on the face of the Moon.
 
