@@ -1,6 +1,6 @@
-[Air Gap](https://xkcd.com/2651)
+[D.B. Cooper](https://xkcd.com/1400)
 
-![Air Gap](./random_comic.png)
+![D.B. Cooper](./random_comic.png)
 
-You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay.
+'Why on Earth would someone commit air piracy just to finance a terrible movie decades later?' 'People are very strange these days.'
 
