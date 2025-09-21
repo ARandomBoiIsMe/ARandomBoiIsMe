@@ -1,6 +1,6 @@
-[How to Send a File](https://xkcd.com/2194)
+[Spider Paleontology](https://xkcd.com/1747)
 
-![How to Send a File](./random_comic.png)
+![Spider Paleontology](./random_comic.png)
 
-Note: How To will teach you lots of cool stuff about technology, data storage, butterfly migration, and more. Also you will never see your files again.
+Whenever you see a video of birds doing something weird, remember: Birds are a small subset of dinosaurs, so the weirdness of birds is a small subset of the weirdness of dinosaurs.
 
