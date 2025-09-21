@@ -1,6 +1,6 @@
-[Stratigraphic Record](https://xkcd.com/1194)
+[Air Gap](https://xkcd.com/2651)
 
-![Stratigraphic Record](./random_comic.png)
+![Air Gap](./random_comic.png)
 
-All we have are these stupid tantalizing zircons and the scars on the face of the Moon.
+You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay.
 
