@@ -1,6 +1,6 @@
-[Recipes](https://xkcd.com/720)
+[Moria](https://xkcd.com/760)
 
-![Recipes](./random_comic.png)
+![Moria](./random_comic.png)
 
-To be fair, the braised and confused newt on a bed of crushed Doritos turned out to be delicious.
+Someone should really bring them a ladder and remind them to build the Endless Stair *first* next time.
 
