@@ -1,6 +1,6 @@
-[Star Ratings](https://xkcd.com/1098)
+[Cloud Swirls](https://xkcd.com/2664)
 
-![Star Ratings](./random_comic.png)
+![Cloud Swirls](./random_comic.png)
 
-I got lost and wandered into the world's creepiest cemetery, where the headstones just had names and star ratings. Freaked me out. When I got home I tried to leave the cemetery a bad review on Yelp, but as my hand hovered over the 'one star' button I felt this distant chill ...
+'Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'
 
