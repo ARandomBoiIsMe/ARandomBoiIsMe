@@ -1,6 +1,6 @@
-[Podium](https://xkcd.com/1661)
+[Censored Vaccine Card](https://xkcd.com/2532)
 
-![Podium](./random_comic.png)
+![Censored Vaccine Card](./random_comic.png)
 
-BREAKING: Senator's bold pro-podium stand leads to primary challenge from prescriptivist base.
+CVS's pharmacies are fine, but I much prefer their [censored]s.
 
