@@ -1,6 +1,6 @@
-[Cloud Swirls](https://xkcd.com/2664)
+[Podium](https://xkcd.com/1661)
 
-![Cloud Swirls](./random_comic.png)
+![Podium](./random_comic.png)
 
-'Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'
+BREAKING: Senator's bold pro-podium stand leads to primary challenge from prescriptivist base.
 
