@@ -1,6 +1,6 @@
-[Secretary: Part 4](https://xkcd.com/497)
+[Computational Linguists](https://xkcd.com/114)
 
-![Secretary: Part 4](./random_comic.png)
+![Computational Linguists](./random_comic.png)
 
-It's time to draw the line.
+Chomskyists, generative linguists, and Ryan North, your days are numbered.
 
