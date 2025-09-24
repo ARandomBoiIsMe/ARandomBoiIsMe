@@ -1,6 +1,6 @@
-[Censored Vaccine Card](https://xkcd.com/2532)
+[I'm An Idiot](https://xkcd.com/530)
 
-![Censored Vaccine Card](./random_comic.png)
+![I'm An Idiot](./random_comic.png)
 
-CVS's pharmacies are fine, but I much prefer their [censored]s.
+Sadly, this is a true story.  At least I learned about the OS X 'say' command.
 
