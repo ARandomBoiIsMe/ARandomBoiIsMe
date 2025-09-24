@@ -1,6 +1,6 @@
-[I'm An Idiot](https://xkcd.com/530)
+[Parody Week: Dinosaur Comics](https://xkcd.com/145)
 
-![I'm An Idiot](./random_comic.png)
+![Parody Week: Dinosaur Comics](./random_comic.png)
 
-Sadly, this is a true story.  At least I learned about the OS X 'say' command.
+Guys: while I was writing this, I accidentally swallowed a table-sized slab of drywall.  I know!  Wacky.
 
