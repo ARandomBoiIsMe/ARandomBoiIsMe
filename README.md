@@ -1,6 +1,6 @@
-[Computational Linguists](https://xkcd.com/114)
+[Mycology](https://xkcd.com/1664)
 
-![Computational Linguists](./random_comic.png)
+![Mycology](./random_comic.png)
 
-Chomskyists, generative linguists, and Ryan North, your days are numbered.
+Conspiracy theory: There's no such thing as corn. Those fields you see are just the stalks of a fungus that's controlling our brains to make us want to spread it.
 
