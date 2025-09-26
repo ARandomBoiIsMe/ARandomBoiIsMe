@@ -1,6 +1,6 @@
-[Landing](https://xkcd.com/1446)
+[Coronavirus Charts](https://xkcd.com/2294)
 
-![Landing](./random_comic.png)
+![Coronavirus Charts](./random_comic.png)
 
-[LIVE]
+Adding data for South Korea but with their cases scaled to match the population of Japan and the land area of Australia, and vice versa.
 
