@@ -1,6 +1,6 @@
-[Super Bowl](https://xkcd.com/1480)
+[s/keyboard/leopard/](https://xkcd.com/1031)
 
-![Super Bowl](./random_comic.png)
+![s/keyboard/leopard/](./random_comic.png)
 
-My hobby: Pretending to miss the sarcasm when people show off their lack of interest in football by talking about 'sportsball' and acting excited to find someone else who's interested, then acting confused when they try to clarify.
+Problem Exists Between Leopard And Chair
 
