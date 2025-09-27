@@ -1,6 +1,6 @@
-[Five-Day Forecast](https://xkcd.com/1606)
+[Drone Training](https://xkcd.com/1881)
 
-![Five-Day Forecast](./random_comic.png)
+![Drone Training](./random_comic.png)
 
-You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.
+The joke will be on him in a few weeks when animal control shows up and takes custody of his Roomba.
 
