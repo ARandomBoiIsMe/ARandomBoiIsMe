@@ -1,6 +1,6 @@
-[s/keyboard/leopard/](https://xkcd.com/1031)
+[Five-Day Forecast](https://xkcd.com/1606)
 
-![s/keyboard/leopard/](./random_comic.png)
+![Five-Day Forecast](./random_comic.png)
 
-Problem Exists Between Leopard And Chair
+You know what they say--if you don't like the weather here in the Solar System, just wait five billion years.
 
