@@ -1,6 +1,6 @@
-[Drone Training](https://xkcd.com/1881)
+[Exam Numbers](https://xkcd.com/2966)
 
-![Drone Training](./random_comic.png)
+![Exam Numbers](./random_comic.png)
 
-The joke will be on him in a few weeks when animal control shows up and takes custody of his Roomba.
+Calligraphy exam: Write down the number 37, spelled out, nicely.
 
