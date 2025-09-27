@@ -1,6 +1,6 @@
-[Exam Numbers](https://xkcd.com/2966)
+[Exploits of a Mom](https://xkcd.com/327)
 
-![Exam Numbers](./random_comic.png)
+![Exploits of a Mom](./random_comic.png)
 
-Calligraphy exam: Write down the number 37, spelled out, nicely.
+Her daughter is named Help I'm trapped in a driver's license factory.
 
