@@ -1,6 +1,6 @@
-[Exploits of a Mom](https://xkcd.com/327)
+[Qualifications](https://xkcd.com/2756)
 
-![Exploits of a Mom](./random_comic.png)
+![Qualifications](./random_comic.png)
 
-Her daughter is named Help I'm trapped in a driver's license factory.
+'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'
 
