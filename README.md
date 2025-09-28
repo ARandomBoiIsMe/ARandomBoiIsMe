@@ -1,6 +1,6 @@
-[Rosetta](https://xkcd.com/1740)
+[Models of the Atom](https://xkcd.com/2100)
 
-![Rosetta](./random_comic.png)
+![Models of the Atom](./random_comic.png)
 
-I WONDERED why he kept asking whether we thought the impact speed was too low.
+J.J. Thompson won a Nobel Prize for his work in electricity in gases, but was unfairly passed over for his "An atom is plum pudding, and plum pudding is MADE of atoms! Duuuuude." theory.
 
