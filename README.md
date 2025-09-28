@@ -1,6 +1,6 @@
-[Models of the Atom](https://xkcd.com/2100)
+[Red Rover](https://xkcd.com/1449)
 
-![Models of the Atom](./random_comic.png)
+![Red Rover](./random_comic.png)
 
-J.J. Thompson won a Nobel Prize for his work in electricity in gases, but was unfairly passed over for his "An atom is plum pudding, and plum pudding is MADE of atoms! Duuuuude." theory.
+I just learned about the Slide Mountain Ocean, which I like because it's three nouns that sound like they can't possibly all refer to the same thing.
 
