@@ -1,6 +1,6 @@
-[Qualifications](https://xkcd.com/2756)
+[Rosetta](https://xkcd.com/1740)
 
-![Qualifications](./random_comic.png)
+![Rosetta](./random_comic.png)
 
-'So how DID you go from working at the employment records office to becoming president of MIT and CEO of IBM?' 'I guess I just have an eye for opportunities.'
+I WONDERED why he kept asking whether we thought the impact speed was too low.
 
