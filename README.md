@@ -1,6 +1,6 @@
-[P-Values](https://xkcd.com/1478)
+[Soda Sugar Comparisons](https://xkcd.com/1793)
 
-![P-Values](./random_comic.png)
+![Soda Sugar Comparisons](./random_comic.png)
 
-If all else fails, use "significant at a p>0.05 level" and hope no one notices.
+The key is portion control, which is why I've switched to eating smaller cans of frosting instead of full bottles.
 
