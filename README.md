@@ -1,6 +1,6 @@
-[Digital Data](https://xkcd.com/1683)
+[P-Values](https://xkcd.com/1478)
 
-![Digital Data](./random_comic.png)
+![P-Values](./random_comic.png)
 
-â€œIf you can read this, congratulationsâ€”the archive youâ€™re using still knows about the mouseover textâ€!
+If all else fails, use "significant at a p>0.05 level" and hope no one notices.
 
