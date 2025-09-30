@@ -1,6 +1,6 @@
-[Excessive Quotation](https://xkcd.com/307)
+[Unpickable](https://xkcd.com/916)
 
-![Excessive Quotation](./random_comic.png)
+![Unpickable](./random_comic.png)
 
-Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.
+The safe is empty except for an unsolved 5x5 Rubik's cube.
 
