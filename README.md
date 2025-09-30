@@ -1,6 +1,6 @@
-[Swimsuit Issue](https://xkcd.com/751)
+[Ferret](https://xkcd.com/20)
 
-![Swimsuit Issue](./random_comic.png)
+![Ferret](./random_comic.png)
 
-Parents: talk to your kids about popup blockers. Also, at some point, sex. But crucial fundamentals first!
+My brother had a ferret he loved which died since I drew this strip.  RIP.
 
