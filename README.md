@@ -1,6 +1,6 @@
-[Academia vs. Business](https://xkcd.com/664)
+[Excessive Quotation](https://xkcd.com/307)
 
-![Academia vs. Business](./random_comic.png)
+![Excessive Quotation](./random_comic.png)
 
-Some engineer out there has solved P=NP and it's locked up in an electric eggbeater calibration routine.  For every 0x5f375a86 we learn about, there are thousands we never see.
+Unfortunately for her, real Star Wars fans are attracted to a gal with a good force choke.
 
