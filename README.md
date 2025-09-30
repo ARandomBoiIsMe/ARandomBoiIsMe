@@ -1,6 +1,6 @@
-[Unpickable](https://xkcd.com/916)
+[Swimsuit Issue](https://xkcd.com/751)
 
-![Unpickable](./random_comic.png)
+![Swimsuit Issue](./random_comic.png)
 
-The safe is empty except for an unsolved 5x5 Rubik's cube.
+Parents: talk to your kids about popup blockers. Also, at some point, sex. But crucial fundamentals first!
 
