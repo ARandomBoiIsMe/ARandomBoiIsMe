@@ -1,6 +1,6 @@
-[Ferret](https://xkcd.com/20)
+[Clumsy Foreshadowing](https://xkcd.com/1387)
 
-![Ferret](./random_comic.png)
+![Clumsy Foreshadowing](./random_comic.png)
 
-My brother had a ferret he loved which died since I drew this strip.  RIP.
+'... hosts were unexpectedly fired from ABC's 'The View' today. ABC will likely announce new ...'
 
