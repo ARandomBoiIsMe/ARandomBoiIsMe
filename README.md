@@ -1,6 +1,6 @@
-[Food Combinations](https://xkcd.com/1609)
+[Seismograph](https://xkcd.com/711)
 
-![Food Combinations](./random_comic.png)
+![Seismograph](./random_comic.png)
 
-If anyone tries this on you, the best reply is a deadpan "Oh yeah, that's a common potato chip flavor in Canada."
+The reverse only works if the subject has a nervous twitch.
 
