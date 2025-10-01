@@ -1,6 +1,6 @@
-[Seismograph](https://xkcd.com/711)
+[Alert Sound](https://xkcd.com/3100)
 
-![Seismograph](./random_comic.png)
+![Alert Sound](./random_comic.png)
 
-The reverse only works if the subject has a nervous twitch.
+With a good battery, the device can easily last for 5 or 10 years, although the walls probably won't.
 
