@@ -1,6 +1,6 @@
-[Clumsy Foreshadowing](https://xkcd.com/1387)
+[Food Combinations](https://xkcd.com/1609)
 
-![Clumsy Foreshadowing](./random_comic.png)
+![Food Combinations](./random_comic.png)
 
-'... hosts were unexpectedly fired from ABC's 'The View' today. ABC will likely announce new ...'
+If anyone tries this on you, the best reply is a deadpan "Oh yeah, that's a common potato chip flavor in Canada."
 
