@@ -1,6 +1,6 @@
-[Weather](https://xkcd.com/1324)
+[Sandwich Helix](https://xkcd.com/3003)
 
-![Weather](./random_comic.png)
+![Sandwich Helix](./random_comic.png)
 
-At least if you're really into, like, Turkish archaeology, store clerks aren't like 'hey, how 'bout those Derinkuyu underground cities!' when they're trying to be polite.
+The number one rule of string manipulation is that youâ€™ve got to specify your encodings.
 
