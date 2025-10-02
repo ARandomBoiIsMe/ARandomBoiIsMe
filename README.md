@@ -1,6 +1,6 @@
-[More Accurate](https://xkcd.com/652)
+[Covid Precaution Level](https://xkcd.com/2395)
 
-![More Accurate](./random_comic.png)
+![Covid Precaution Level](./random_comic.png)
 
-We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.
+It's frustrating to calibrate your precautions when there's only one kind of really definitive feedback you can get, you can only get it once, and when you do it's too late.
 
