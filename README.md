@@ -1,6 +1,6 @@
-[Alert Sound](https://xkcd.com/3100)
+[More Accurate](https://xkcd.com/652)
 
-![Alert Sound](./random_comic.png)
+![More Accurate](./random_comic.png)
 
-With a good battery, the device can easily last for 5 or 10 years, although the walls probably won't.
+We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.
 
