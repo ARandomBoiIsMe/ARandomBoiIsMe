@@ -1,6 +1,6 @@
-[Covid Precaution Level](https://xkcd.com/2395)
+[Weather](https://xkcd.com/1324)
 
-![Covid Precaution Level](./random_comic.png)
+![Weather](./random_comic.png)
 
-It's frustrating to calibrate your precautions when there's only one kind of really definitive feedback you can get, you can only get it once, and when you do it's too late.
+At least if you're really into, like, Turkish archaeology, store clerks aren't like 'hey, how 'bout those Derinkuyu underground cities!' when they're trying to be polite.
 
