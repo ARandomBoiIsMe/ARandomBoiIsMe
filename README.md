@@ -1,6 +1,6 @@
-[Seventies](https://xkcd.com/1072)
+[Food Combinations](https://xkcd.com/1609)
 
-![Seventies](./random_comic.png)
+![Food Combinations](./random_comic.png)
 
-Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"
+If anyone tries this on you, the best reply is a deadpan "Oh yeah, that's a common potato chip flavor in Canada."
 
