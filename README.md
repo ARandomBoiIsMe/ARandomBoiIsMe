@@ -1,6 +1,6 @@
-[Alphabet Notes](https://xkcd.com/2794)
+[Metabolism](https://xkcd.com/1744)
 
-![Alphabet Notes](./random_comic.png)
+![Metabolism](./random_comic.png)
 
-Listen, you're very cute, but if you rearrange the alphabet to put U and I together it will RUIN the spacing!
+I have this weird thing where if I don't drink enough water, I start feeling bad and then die of dehydration.
 
