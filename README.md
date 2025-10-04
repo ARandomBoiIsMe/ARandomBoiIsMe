@@ -1,6 +1,6 @@
-[Sierpinski Valentine](https://xkcd.com/543)
+[Alphabet Notes](https://xkcd.com/2794)
 
-![Sierpinski Valentine](./random_comic.png)
+![Alphabet Notes](./random_comic.png)
 
-Especially you mouseover-text readers.  You're the best.  <3
+Listen, you're very cute, but if you rearrange the alphabet to put U and I together it will RUIN the spacing!
 
