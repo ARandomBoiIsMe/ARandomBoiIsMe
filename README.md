@@ -1,6 +1,6 @@
-[Metabolism](https://xkcd.com/1744)
+[SkiFree](https://xkcd.com/667)
 
-![Metabolism](./random_comic.png)
+![SkiFree](./random_comic.png)
 
-I have this weird thing where if I don't drink enough water, I start feeling bad and then die of dehydration.
+And from that day on, I wore this little 'F' key pendant everywhere I went.
 
