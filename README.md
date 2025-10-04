@@ -1,6 +1,6 @@
-[SkiFree](https://xkcd.com/667)
+[Eggs](https://xkcd.com/328)
 
-![SkiFree](./random_comic.png)
+![Eggs](./random_comic.png)
 
-And from that day on, I wore this little 'F' key pendant everywhere I went.
+Oh, yeah, we get tons of them at these casual sex bars.
 
