@@ -1,6 +1,6 @@
-[Eggs](https://xkcd.com/328)
+[Workflow](https://xkcd.com/1172)
 
-![Eggs](./random_comic.png)
+![Workflow](./random_comic.png)
 
-Oh, yeah, we get tons of them at these casual sex bars.
+There are probably children out there holding down spacebar to stay warm in the winter! YOUR UPDATE MURDERS CHILDREN.
 
