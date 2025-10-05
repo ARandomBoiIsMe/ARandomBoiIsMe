@@ -1,6 +1,6 @@
-[Workflow](https://xkcd.com/1172)
+[Set Theory](https://xkcd.com/982)
 
-![Workflow](./random_comic.png)
+![Set Theory](./random_comic.png)
 
-There are probably children out there holding down spacebar to stay warm in the winter! YOUR UPDATE MURDERS CHILDREN.
+Proof of Zermelo's well-ordering theorem given the Axiom of Choice: 1: Take S to be any set. 2: When I reach step three, if S hasn't managed to find a well-ordering relation for itself, I'll feed it into this wood chipper. 3: Hey, look, S is well-ordered.
 
