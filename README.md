@@ -1,6 +1,6 @@
-[Pressures](https://xkcd.com/1067)
+[Back to the Future](https://xkcd.com/102)
 
-![Pressures](./random_comic.png)
+![Back to the Future](./random_comic.png)
 
-Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.
+He's kind of an asshole, when you think about it
 
