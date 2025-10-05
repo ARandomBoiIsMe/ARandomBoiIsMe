@@ -1,6 +1,6 @@
-[Set Theory](https://xkcd.com/982)
+[Pressures](https://xkcd.com/1067)
 
-![Set Theory](./random_comic.png)
+![Pressures](./random_comic.png)
 
-Proof of Zermelo's well-ordering theorem given the Axiom of Choice: 1: Take S to be any set. 2: When I reach step three, if S hasn't managed to find a well-ordering relation for itself, I'll feed it into this wood chipper. 3: Hey, look, S is well-ordered.
+Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.
 
