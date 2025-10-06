@@ -1,6 +1,6 @@
-[Back to the Future](https://xkcd.com/102)
+[Hack](https://xkcd.com/1337)
 
-![Back to the Future](./random_comic.png)
+![Hack](./random_comic.png)
 
-He's kind of an asshole, when you think about it
+HACK THE STARS
 
