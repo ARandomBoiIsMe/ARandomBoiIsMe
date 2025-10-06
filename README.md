@@ -1,6 +1,6 @@
-[Dwarf Fortress](https://xkcd.com/1223)
+[Phase Change](https://xkcd.com/3025)
 
-![Dwarf Fortress](./random_comic.png)
+![Phase Change](./random_comic.png)
 
-I may be the kind of person who wastes a year implementing a Turing-complete computer in Dwarf Fortress, but that makes you the kind of person who wastes ten more getting that computer to run Minecraft.
+Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation.
 
