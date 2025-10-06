@@ -1,6 +1,6 @@
-[Hack](https://xkcd.com/1337)
+[Dwarf Fortress](https://xkcd.com/1223)
 
-![Hack](./random_comic.png)
+![Dwarf Fortress](./random_comic.png)
 
-HACK THE STARS
+I may be the kind of person who wastes a year implementing a Turing-complete computer in Dwarf Fortress, but that makes you the kind of person who wastes ten more getting that computer to run Minecraft.
 
