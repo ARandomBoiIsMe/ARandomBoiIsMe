@@ -1,6 +1,6 @@
-[Phase Change](https://xkcd.com/3025)
+[Etymonline](https://xkcd.com/2722)
 
-![Phase Change](./random_comic.png)
+![Etymonline](./random_comic.png)
 
-Even when you try to make nice, smooth ice cubes in a freezer, sometimes one of them will shoot out a random ice spike, which physicists ascribe to kiki conservation.
+NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology.
 
