@@ -1,6 +1,6 @@
-[Messaging Systems](https://xkcd.com/2365)
+[Baking Soda and Vinegar](https://xkcd.com/1611)
 
-![Messaging Systems](./random_comic.png)
+![Baking Soda and Vinegar](./random_comic.png)
 
-SMS is just the worst, but I'm having trouble convincing people to adopt my preferred system, TLS IRC with a local server and a patched DOSBox gateway running in my mobile browser.
+Sure, it may not meet science fair standards, but I want credit for getting my baking soda and vinegar mountain added to the Decade Volcanoes list.
 
