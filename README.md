@@ -1,6 +1,6 @@
-[Baking Soda and Vinegar](https://xkcd.com/1611)
+[Astronaut Vandalism](https://xkcd.com/1375)
 
-![Baking Soda and Vinegar](./random_comic.png)
+![Astronaut Vandalism](./random_comic.png)
 
-Sure, it may not meet science fair standards, but I want credit for getting my baking soda and vinegar mountain added to the Decade Volcanoes list.
+That night, retired USAF pilots covertly replaced the '62' with '50'.
 
