@@ -1,6 +1,6 @@
-[Astronaut Vandalism](https://xkcd.com/1375)
+[Kindle](https://xkcd.com/548)
 
-![Astronaut Vandalism](./random_comic.png)
+![Kindle](./random_comic.png)
 
-That night, retired USAF pilots covertly replaced the '62' with '50'.
+I'm happy with my Kindle 2 so far, but if they cut off the free Wikipedia browsing, I plan to show up drunk on Jeff Bezos's lawn and refuse to leave.
 
