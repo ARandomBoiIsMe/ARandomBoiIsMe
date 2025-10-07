@@ -1,6 +1,6 @@
-[Etymonline](https://xkcd.com/2722)
+[Messaging Systems](https://xkcd.com/2365)
 
-![Etymonline](./random_comic.png)
+![Messaging Systems](./random_comic.png)
 
-NOTE TO FUTURE ETYMONLINGUISTS: Our best guess is that 'blimp' is onomatopoeia. The 'B-Limp' thing is a folk etymology.
+SMS is just the worst, but I'm having trouble convincing people to adopt my preferred system, TLS IRC with a local server and a patched DOSBox gateway running in my mobile browser.
 
