@@ -1,6 +1,6 @@
-[Linguistics Degree](https://xkcd.com/2602)
+[Gold](https://xkcd.com/2826)
 
-![Linguistics Degree](./random_comic.png)
+![Gold](./random_comic.png)
 
-You'd think 'linguistics' would go to someone important in the field, but it's actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.
+It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.
 
