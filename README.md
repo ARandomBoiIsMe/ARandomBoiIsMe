@@ -1,6 +1,6 @@
-[Gold](https://xkcd.com/2826)
+[Ahead Stop](https://xkcd.com/781)
 
-![Gold](./random_comic.png)
+![Ahead Stop](./random_comic.png)
 
-It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.
+They actually started the reversed-text practice in 1977 -- not for ease-of-reading reasons, but because too many people were driving backward down the highway blasting the Star Wars opening theme.
 
