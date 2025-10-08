@@ -1,6 +1,6 @@
-[Kindle](https://xkcd.com/548)
+[Crime Scene](https://xkcd.com/587)
 
-![Kindle](./random_comic.png)
+![Crime Scene](./random_comic.png)
 
-I'm happy with my Kindle 2 so far, but if they cut off the free Wikipedia browsing, I plan to show up drunk on Jeff Bezos's lawn and refuse to leave.
+I think I see a Mandelbrot set! No, that's just blood splatters. Golly.
 
