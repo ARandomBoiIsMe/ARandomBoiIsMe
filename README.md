@@ -1,6 +1,6 @@
-[Crime Scene](https://xkcd.com/587)
+[Linguistics Degree](https://xkcd.com/2602)
 
-![Crime Scene](./random_comic.png)
+![Linguistics Degree](./random_comic.png)
 
-I think I see a Mandelbrot set! No, that's just blood splatters. Golly.
+You'd think 'linguistics' would go to someone important in the field, but it's actually assigned to a random student in Ohio who barely graduated and then went into automotive marketing.
 
