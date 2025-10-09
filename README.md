@@ -1,6 +1,6 @@
-[Reading a Big Number](https://xkcd.com/3102)
+[Guest Week: Jeffrey Rowland (Overcompensating)](https://xkcd.com/825)
 
-![Reading a Big Number](./random_comic.png)
+![Guest Week: Jeffrey Rowland (Overcompensating)](./random_comic.png)
 
-[desperately] Maybe this is from some country where they use commas as decimal points, and also as digit separators after the decimal, and also use random other characters for decoration???
+Guest comic by Jeffrey Rowland of Overcompensating/Wigu.  Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.
 
