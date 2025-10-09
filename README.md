@@ -1,6 +1,6 @@
-[Ahead Stop](https://xkcd.com/781)
+[Snapple](https://xkcd.com/18)
 
-![Ahead Stop](./random_comic.png)
+![Snapple](./random_comic.png)
 
-They actually started the reversed-text practice in 1977 -- not for ease-of-reading reasons, but because too many people were driving backward down the highway blasting the Star Wars opening theme.
+Sn = tin
 
