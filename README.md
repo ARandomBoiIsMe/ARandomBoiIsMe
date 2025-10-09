@@ -1,6 +1,6 @@
-[Guest Week: Jeffrey Rowland (Overcompensating)](https://xkcd.com/825)
+[Sloppier Than Fiction](https://xkcd.com/1006)
 
-![Guest Week: Jeffrey Rowland (Overcompensating)](./random_comic.png)
+![Sloppier Than Fiction](./random_comic.png)
 
-Guest comic by Jeffrey Rowland of Overcompensating/Wigu.  Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.
+Roger Ebert once called you directionless and unwatchable.
 
