@@ -1,6 +1,6 @@
-[Snapple](https://xkcd.com/18)
+[Reading a Big Number](https://xkcd.com/3102)
 
-![Snapple](./random_comic.png)
+![Reading a Big Number](./random_comic.png)
 
-Sn = tin
+[desperately] Maybe this is from some country where they use commas as decimal points, and also as digit separators after the decimal, and also use random other characters for decoration???
 
