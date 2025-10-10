@@ -1,6 +1,6 @@
-[Starlight](https://xkcd.com/811)
+[AlphaMove](https://xkcd.com/3045)
 
-![Starlight](./random_comic.png)
+![AlphaMove](./random_comic.png)
 
-Don't worry! From the light's point of view, home and your eye are in the same place, and the journey takes no time at all! Relativity saves the day again.
+It struggles a little with complex positions, like when there are an even number of moves and it has to round down, but when run against itself it's capable of finding some novelties. At one point I saw six knights on the board at once; Stockfish rarely exceeds four.
 
