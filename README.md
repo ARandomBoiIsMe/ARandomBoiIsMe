@@ -1,6 +1,6 @@
-[Existence Proof](https://xkcd.com/1856)
+[Barge](https://xkcd.com/1788)
 
-![Existence Proof](./random_comic.png)
+![Barge](./random_comic.png)
 
-Real analysis is way realer than I expected.
+My life goal is to launch a barge into the air and have it land on one of Elon Musk's rockets.
 
