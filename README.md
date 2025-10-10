@@ -1,6 +1,6 @@
-[Sloppier Than Fiction](https://xkcd.com/1006)
+[Existence Proof](https://xkcd.com/1856)
 
-![Sloppier Than Fiction](./random_comic.png)
+![Existence Proof](./random_comic.png)
 
-Roger Ebert once called you directionless and unwatchable.
+Real analysis is way realer than I expected.
 
