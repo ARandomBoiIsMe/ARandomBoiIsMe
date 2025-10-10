@@ -1,6 +1,6 @@
-[Barge](https://xkcd.com/1788)
+[Starlight](https://xkcd.com/811)
 
-![Barge](./random_comic.png)
+![Starlight](./random_comic.png)
 
-My life goal is to launch a barge into the air and have it land on one of Elon Musk's rockets.
+Don't worry! From the light's point of view, home and your eye are in the same place, and the journey takes no time at all! Relativity saves the day again.
 
