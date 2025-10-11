@@ -1,6 +1,6 @@
-[Toothpaste](https://xkcd.com/2521)
+[Turnabout](https://xkcd.com/1441)
 
-![Toothpaste](./random_comic.png)
+![Turnabout](./random_comic.png)
 
-"9 out of 10 dentists have banned me from their offices."
+Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.
 
