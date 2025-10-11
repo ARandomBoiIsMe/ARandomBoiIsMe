@@ -1,6 +1,6 @@
-[Recent Searches](https://xkcd.com/1678)
+[Toothpaste](https://xkcd.com/2521)
 
-![Recent Searches](./random_comic.png)
+![Toothpaste](./random_comic.png)
 
-autoexec code posted by verified twitter users
+"9 out of 10 dentists have banned me from their offices."
 
