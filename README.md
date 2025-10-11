@@ -1,6 +1,6 @@
-[Turnabout](https://xkcd.com/1441)
+[METAR](https://xkcd.com/3024)
 
-![Turnabout](./random_comic.png)
+![METAR](./random_comic.png)
 
-Whenever I miss a shot with a sci-fi weapon, I say 'Apollo retroreflector' really fast, just in case.
+In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM.
 
