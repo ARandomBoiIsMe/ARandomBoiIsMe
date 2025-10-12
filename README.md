@@ -1,6 +1,6 @@
-[90's Kid Space Program](https://xkcd.com/2461)
+[2012](https://xkcd.com/998)
 
-![90's Kid Space Program](./random_comic.png)
+![2012](./random_comic.png)
 
-NASA may not want to admit it, but at this point they ARE the 90's Kid Space Program.
+To compensate for this, I plan to spend 2013 doing nothing but talking about Mayans. My relationships with my friends and family may not fare well.
 
