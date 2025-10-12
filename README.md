@@ -1,6 +1,6 @@
-[2012](https://xkcd.com/998)
+[Frustration](https://xkcd.com/457)
 
-![2012](./random_comic.png)
+![Frustration](./random_comic.png)
 
-To compensate for this, I plan to spend 2013 doing nothing but talking about Mayans. My relationships with my friends and family may not fare well.
+'Don't worry, I can do it in under a minute.' 'Yes, I've noticed.'
 
