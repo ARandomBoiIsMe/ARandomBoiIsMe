@@ -1,6 +1,6 @@
-[METAR](https://xkcd.com/3024)
+[90's Kid Space Program](https://xkcd.com/2461)
 
-![METAR](./random_comic.png)
+![90's Kid Space Program](./random_comic.png)
 
-In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM.
+NASA may not want to admit it, but at this point they ARE the 90's Kid Space Program.
 
