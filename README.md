@@ -1,6 +1,6 @@
-[Post Vaccine Social Scheduling](https://xkcd.com/2450)
+[Helium Reserve](https://xkcd.com/2766)
 
-![Post Vaccine Social Scheduling](./random_comic.png)
+![Helium Reserve](./random_comic.png)
 
-As if these problems weren't NP-hard enough.
+The government has been trying to sell off the Federal Helium Reserve for a few years now, but the sale has been on hold while they try to figure out how to explain this situation to buyers.
 
