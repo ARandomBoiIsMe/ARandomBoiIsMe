@@ -1,6 +1,6 @@
-[Helium Reserve](https://xkcd.com/2766)
+[Thanksgiving Arguments](https://xkcd.com/2858)
 
-![Helium Reserve](./random_comic.png)
+![Thanksgiving Arguments](./random_comic.png)
 
-The government has been trying to sell off the Federal Helium Reserve for a few years now, but the sale has been on hold while they try to figure out how to explain this situation to buyers.
+An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it.
 
