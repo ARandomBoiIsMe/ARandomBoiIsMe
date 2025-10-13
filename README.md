@@ -1,6 +1,6 @@
-[Tractor Beam](https://xkcd.com/2579)
+[Super Bowl Context](https://xkcd.com/1640)
 
-![Tractor Beam](./random_comic.png)
+![Super Bowl Context](./random_comic.png)
 
-Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?
+Why did the chicken cross the road? It begins over five thousand years ago with the domestication of the red junglefowl in southeast Asia and the development of paved roads in the Sumerian city of Ur.
 
