@@ -1,6 +1,6 @@
-[Thanksgiving Arguments](https://xkcd.com/2858)
+[Tractor Beam](https://xkcd.com/2579)
 
-![Thanksgiving Arguments](./random_comic.png)
+![Tractor Beam](./random_comic.png)
 
-An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it.
+Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?
 
