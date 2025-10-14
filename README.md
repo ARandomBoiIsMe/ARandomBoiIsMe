@@ -1,6 +1,6 @@
-[Software Updates](https://xkcd.com/2224)
+[Thor Tools](https://xkcd.com/2097)
 
-![Software Updates](./random_comic.png)
+![Thor Tools](./random_comic.png)
 
-Everything is a cloud application; the ping times just vary a lot.
+CORRECTION: After careful evaluation, we have determined that the axis label on this chart was printed backward.
 
