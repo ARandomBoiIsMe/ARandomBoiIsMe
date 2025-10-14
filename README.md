@@ -1,6 +1,6 @@
-[Super Bowl Context](https://xkcd.com/1640)
+[Stingray Nebula](https://xkcd.com/847)
 
-![Super Bowl Context](./random_comic.png)
+![Stingray Nebula](./random_comic.png)
 
-Why did the chicken cross the road? It begins over five thousand years ago with the domestication of the red junglefowl in southeast Asia and the development of paved roads in the Sumerian city of Ur.
+Eärendil will patrol the walls of night only until the sun reaches red giant stage, engulfing the Morning Star on his brow. Light and high beauty are passing things as well.
 
