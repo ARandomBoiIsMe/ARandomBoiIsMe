@@ -1,6 +1,6 @@
-[Feathered Dinosaur Venn Diagram](https://xkcd.com/2090)
+[Paths](https://xkcd.com/85)
 
-![Feathered Dinosaur Venn Diagram](./random_comic.png)
+![Paths](./random_comic.png)
 
-My pet theory is that in real life, the kid at the beginning of Jurassic Park who made fun of the 'six-foot turkey' never got a talking-to from Dr. Grant, and grew up to produce several of the movie's sequels.
+It's true, I think about this all the time.
 
