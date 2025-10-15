@@ -1,6 +1,6 @@
-[Paths](https://xkcd.com/85)
+[Hofstadter](https://xkcd.com/917)
 
-![Paths](./random_comic.png)
+![Hofstadter](./random_comic.png)
 
-It's true, I think about this all the time.
+"This is the reference implementation of the self-referential joke."
 
