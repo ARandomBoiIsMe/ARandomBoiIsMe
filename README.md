@@ -1,6 +1,6 @@
-[Front Door](https://xkcd.com/1064)
+[Word Puzzles](https://xkcd.com/2032)
 
-![Front Door](./random_comic.png)
+![Word Puzzles](./random_comic.png)
 
-FYI: I'll be releasing a wolf into a randomly-chosen front yard sometime in the next 30 years. Now your fear is reasonable, and you don't need to feel embarrassed anymore. Problem solved!
+Eno's storied aria was once soloed by Judge Lance Ito on the alto oboe at Ohio's AirAsia Arena.
 
