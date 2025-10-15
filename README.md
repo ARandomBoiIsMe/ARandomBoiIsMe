@@ -1,6 +1,6 @@
-[Word Puzzles](https://xkcd.com/2032)
+[Feathered Dinosaur Venn Diagram](https://xkcd.com/2090)
 
-![Word Puzzles](./random_comic.png)
+![Feathered Dinosaur Venn Diagram](./random_comic.png)
 
-Eno's storied aria was once soloed by Judge Lance Ito on the alto oboe at Ohio's AirAsia Arena.
+My pet theory is that in real life, the kid at the beginning of Jurassic Park who made fun of the 'six-foot turkey' never got a talking-to from Dr. Grant, and grew up to produce several of the movie's sequels.
 
