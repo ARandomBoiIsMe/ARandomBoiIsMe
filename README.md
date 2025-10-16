@@ -1,6 +1,6 @@
-[Manuals](https://xkcd.com/1343)
+[Unsolved Math Problems](https://xkcd.com/2529)
 
-![Manuals](./random_comic.png)
+![Unsolved Math Problems](./random_comic.png)
 
-The most ridiculous offender of all is the sudoers man page, which for 15 years has started with a 'quick guide' to EBNF, a system for defining the grammar of a language. 'Don't despair', it says, 'the definitions below are annotated.'
+After decades of studying the curve and the procedure that generates it, the consensus explanation is "it's just like that."
 
