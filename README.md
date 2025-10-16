@@ -1,6 +1,6 @@
-[Hofstadter](https://xkcd.com/917)
+[Heartbleed Explanation](https://xkcd.com/1354)
 
-![Hofstadter](./random_comic.png)
+![Heartbleed Explanation](./random_comic.png)
 
-"This is the reference implementation of the self-referential joke."
+Are you still there, server? It's me, Margaret.
 
