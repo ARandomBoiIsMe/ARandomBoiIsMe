@@ -1,6 +1,6 @@
-[Unsolved Math Problems](https://xkcd.com/2529)
+[Update](https://xkcd.com/1328)
 
-![Unsolved Math Problems](./random_comic.png)
+![Update](./random_comic.png)
 
-After decades of studying the curve and the procedure that generates it, the consensus explanation is "it's just like that."
+I have a bunch of things open right now.
 
