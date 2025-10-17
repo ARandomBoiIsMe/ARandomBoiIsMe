@@ -1,6 +1,6 @@
-[Prescience](https://xkcd.com/2203)
+[Thanksgiving Arguments](https://xkcd.com/2858)
 
-![Prescience](./random_comic.png)
+![Thanksgiving Arguments](./random_comic.png)
 
-Lots of people called their ships unsinkable before the Titanic. Voicing your hubris doesn't make failure more likely, just more memorable.
+An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it.
 
