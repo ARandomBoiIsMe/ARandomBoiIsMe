@@ -1,6 +1,6 @@
-[Update](https://xkcd.com/1328)
+[Prescience](https://xkcd.com/2203)
 
-![Update](./random_comic.png)
+![Prescience](./random_comic.png)
 
-I have a bunch of things open right now.
+Lots of people called their ships unsinkable before the Titanic. Voicing your hubris doesn't make failure more likely, just more memorable.
 
