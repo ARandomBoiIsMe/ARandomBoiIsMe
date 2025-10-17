@@ -1,6 +1,6 @@
-[Superm*n](https://xkcd.com/1394)
+[GDPR](https://xkcd.com/1998)
 
-![Superm*n](./random_comic.png)
+![GDPR](./random_comic.png)
 
-See also: Spider-Man reboot in which he can produce several inches of web, doesn't need as much chalk powder on his hands when he goes rock climbing, and occasionally feels vaguely uneasy about situations.
+By clicking anywhere, scrolling, or closing this notification, you agree to be legally bound by the witch Sycorax within a cloven pine.
 
