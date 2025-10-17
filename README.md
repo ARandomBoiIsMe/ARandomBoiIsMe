@@ -1,6 +1,6 @@
-[Thanksgiving Arguments](https://xkcd.com/2858)
+[Superm*n](https://xkcd.com/1394)
 
-![Thanksgiving Arguments](./random_comic.png)
+![Superm*n](./random_comic.png)
 
-An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it.
+See also: Spider-Man reboot in which he can produce several inches of web, doesn't need as much chalk powder on his hands when he goes rock climbing, and occasionally feels vaguely uneasy about situations.
 
