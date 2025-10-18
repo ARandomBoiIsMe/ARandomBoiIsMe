@@ -1,6 +1,6 @@
-[Judgment Day](https://xkcd.com/1626)
+[Phone Checking](https://xkcd.com/1466)
 
-![Judgment Day](./random_comic.png)
+![Phone Checking](./random_comic.png)
 
-It took a lot of booster rockets, but luckily Amazon had recently built thousands of them to bring Amazon Prime same-day delivery to the Moon colony.
+'Where were you when you learned you'd won?' 'I was actually asleep; I woke up when I refreshed the webite and saw the news.'
 
