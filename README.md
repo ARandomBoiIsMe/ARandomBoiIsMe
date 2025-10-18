@@ -1,6 +1,6 @@
-[Fourier](https://xkcd.com/26)
+[Judgment Day](https://xkcd.com/1626)
 
-![Fourier](./random_comic.png)
+![Judgment Day](./random_comic.png)
 
-That cat has some serious periodic components
+It took a lot of booster rockets, but luckily Amazon had recently built thousands of them to bring Amazon Prime same-day delivery to the Moon colony.
 
