@@ -1,6 +1,6 @@
-[Infinite Armada Chess](https://xkcd.com/3020)
+[Omniknot](https://xkcd.com/2738)
 
-![Infinite Armada Chess](./random_comic.png)
+![Omniknot](./random_comic.png)
 
-Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access
+The Gordian knot is an omniknot tied using every bend in the Ashley Book of Knots, and then for extra security the upper rope at every crossing is connected to the lower with a randomly-chosen hitch.
 
