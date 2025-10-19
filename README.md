@@ -1,6 +1,6 @@
-[Exercise Progression](https://xkcd.com/2631)
+[Infinite Armada Chess](https://xkcd.com/3020)
 
-![Exercise Progression](./random_comic.png)
+![Infinite Armada Chess](./random_comic.png)
 
-They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!
+Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access
 
