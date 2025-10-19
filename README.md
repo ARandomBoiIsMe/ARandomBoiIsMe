@@ -1,6 +1,6 @@
-[Precision vs Accuracy](https://xkcd.com/2696)
+[Meta Collecting](https://xkcd.com/2123)
 
-![Precision vs Accuracy](./random_comic.png)
+![Meta Collecting](./random_comic.png)
 
-'Barack Obama is much less likely than the average cat to jump in and out of cardboard boxes for fun' is low precision, but I'm not sure about the accuracy.
+I'm trying to get the page locked because some jerk keeps adding "Yachts".
 
