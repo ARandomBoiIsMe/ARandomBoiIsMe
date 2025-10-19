@@ -1,6 +1,6 @@
-[Omniknot](https://xkcd.com/2738)
+[Precision vs Accuracy](https://xkcd.com/2696)
 
-![Omniknot](./random_comic.png)
+![Precision vs Accuracy](./random_comic.png)
 
-The Gordian knot is an omniknot tied using every bend in the Ashley Book of Knots, and then for extra security the upper rope at every crossing is connected to the lower with a randomly-chosen hitch.
+'Barack Obama is much less likely than the average cat to jump in and out of cardboard boxes for fun' is low precision, but I'm not sure about the accuracy.
 
