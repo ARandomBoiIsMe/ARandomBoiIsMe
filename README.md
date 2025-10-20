@@ -1,6 +1,6 @@
-[Chess Notation](https://xkcd.com/1800)
+[Understocked](https://xkcd.com/617)
 
-![Chess Notation](./random_comic.png)
+![Understocked](./random_comic.png)
 
-I've decided to score all my conversations using chess win-loss notation. (??)
+My biology grad student friends tell me that different types of alcohol don't actually have different effects. I trust their expertise, not because of the 'biology' part, but because of the 'grad student'.
 
