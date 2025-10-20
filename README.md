@@ -1,6 +1,6 @@
-[Malaria](https://xkcd.com/51)
+[Chess Notation](https://xkcd.com/1800)
 
-![Malaria](./random_comic.png)
+![Chess Notation](./random_comic.png)
 
-The malaria party was David's idea
+I've decided to score all my conversations using chess win-loss notation. (??)
 
