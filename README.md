@@ -1,6 +1,6 @@
-[Meta Collecting](https://xkcd.com/2123)
+[The Moon and the Great Wall](https://xkcd.com/1921)
 
-![Meta Collecting](./random_comic.png)
+![The Moon and the Great Wall](./random_comic.png)
 
-I'm trying to get the page locked because some jerk keeps adding "Yachts".
+And arguably sunspots, on rare occasions. But even if they count, it takes ideal conditions and you might hurt your eyes.
 
