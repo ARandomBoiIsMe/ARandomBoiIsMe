@@ -1,6 +1,6 @@
-[The Moon and the Great Wall](https://xkcd.com/1921)
+[Malaria](https://xkcd.com/51)
 
-![The Moon and the Great Wall](./random_comic.png)
+![Malaria](./random_comic.png)
 
-And arguably sunspots, on rare occasions. But even if they count, it takes ideal conditions and you might hurt your eyes.
+The malaria party was David's idea
 
