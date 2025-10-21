@@ -1,6 +1,6 @@
-[Salt Dome](https://xkcd.com/2752)
+[Security](https://xkcd.com/538)
 
-![Salt Dome](./random_comic.png)
+![Security](./random_comic.png)
 
-The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.
+Actual actual reality: nobody cares about his secrets.  (Also, I would be hard-pressed to find that wrench for $5.)
 
