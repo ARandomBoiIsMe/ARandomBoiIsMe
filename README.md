@@ -1,6 +1,6 @@
-[Understocked](https://xkcd.com/617)
+[Math Work](https://xkcd.com/2207)
 
-![Understocked](./random_comic.png)
+![Math Work](./random_comic.png)
 
-My biology grad student friends tell me that different types of alcohol don't actually have different effects. I trust their expertise, not because of the 'biology' part, but because of the 'grad student'.
+I could type this into a solver, which MIGHT help, but would also mean I have to get a lot of parentheses right...
 
