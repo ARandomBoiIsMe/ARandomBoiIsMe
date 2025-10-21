@@ -1,6 +1,6 @@
-[Math Work](https://xkcd.com/2207)
+[Salt Dome](https://xkcd.com/2752)
 
-![Math Work](./random_comic.png)
+![Salt Dome](./random_comic.png)
 
-I could type this into a solver, which MIGHT help, but would also mean I have to get a lot of parentheses right...
+The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve.
 
