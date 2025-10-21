@@ -1,6 +1,6 @@
-[Security](https://xkcd.com/538)
+[Thermometer](https://xkcd.com/2292)
 
-![Security](./random_comic.png)
+![Thermometer](./random_comic.png)
 
-Actual actual reality: nobody cares about his secrets.  (Also, I would be hard-pressed to find that wrench for $5.)
+I hate how many times you have to press it to get to the system normal people use, degrees Rømer.
 
