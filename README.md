@@ -1,6 +1,6 @@
-[Illness](https://xkcd.com/818)
+[Lorenz](https://xkcd.com/1350)
 
-![Illness](./random_comic.png)
+![Lorenz](./random_comic.png)
 
-<3 If there's anything you can do, I'll let you know. For the moment, any simple distracting online games sent to sick@xkcd.com will not go unappreciated [EDIT: Holy crap 2,700 games before noon. I love you guys; thank you. They will be passed along and played by us all.]
+Every choice, no matter how small, begins a new story.
 
