@@ -1,6 +1,6 @@
-[Imagine Going Back in Time](https://xkcd.com/2220)
+[Reindeer](https://xkcd.com/1776)
 
-![Imagine Going Back in Time](./random_comic.png)
+![Reindeer](./random_comic.png)
 
-I wonder what the trendy adults in 2019 who are too cool for Pokemon will be into. Probably Digimon!
+And then in a twinkling, a sound gave me pause / From the roof came the scratching of eight tarsal claws.
 
