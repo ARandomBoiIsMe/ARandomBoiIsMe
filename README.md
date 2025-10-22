@@ -1,6 +1,6 @@
-[Lorenz](https://xkcd.com/1350)
+[Imagine Going Back in Time](https://xkcd.com/2220)
 
-![Lorenz](./random_comic.png)
+![Imagine Going Back in Time](./random_comic.png)
 
-Every choice, no matter how small, begins a new story.
+I wonder what the trendy adults in 2019 who are too cool for Pokemon will be into. Probably Digimon!
 
