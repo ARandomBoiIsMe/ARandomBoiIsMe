@@ -1,6 +1,6 @@
-[Spike Proteins](https://xkcd.com/2446)
+[Useless](https://xkcd.com/55)
 
-![Spike Proteins](./random_comic.png)
+![Useless](./random_comic.png)
 
-Ugh, it's stuck to my laptop. It must have bound to the ACER-2 receptor.
+Even the identity matrix doesn't work normally
 
