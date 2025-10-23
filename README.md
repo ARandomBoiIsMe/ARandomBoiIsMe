@@ -1,6 +1,6 @@
-[Connoisseur](https://xkcd.com/915)
+[Eclipse Flights](https://xkcd.com/1868)
 
-![Connoisseur](./random_comic.png)
+![Eclipse Flights](./random_comic.png)
 
-Our brains have just one scale, and we resize our experiences to fit.
+The captain has turned on the 'fasten seat belt' sign.
 
