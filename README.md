@@ -1,6 +1,6 @@
-[Useless](https://xkcd.com/55)
+[Connoisseur](https://xkcd.com/915)
 
-![Useless](./random_comic.png)
+![Connoisseur](./random_comic.png)
 
-Even the identity matrix doesn't work normally
+Our brains have just one scale, and we resize our experiences to fit.
 
