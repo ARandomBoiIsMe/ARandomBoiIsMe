@@ -1,6 +1,6 @@
-[Reindeer](https://xkcd.com/1776)
+[Spike Proteins](https://xkcd.com/2446)
 
-![Reindeer](./random_comic.png)
+![Spike Proteins](./random_comic.png)
 
-And then in a twinkling, a sound gave me pause / From the roof came the scratching of eight tarsal claws.
+Ugh, it's stuck to my laptop. It must have bound to the ACER-2 receptor.
 
