@@ -1,6 +1,6 @@
-[Daylight Calendar](https://xkcd.com/2542)
+[Background Apps](https://xkcd.com/1965)
 
-![Daylight Calendar](./random_comic.png)
+![Background Apps](./random_comic.png)
 
-Could be worse. In some towns north of here, it's already December, and the 21st will last for nearly a week.
+My plane banner company gets business by flying around with a banner showing a <div> tag, waiting for a web developer to get frustrated enough to order a matching </div>.
 
