@@ -1,6 +1,6 @@
-[Eclipse Flights](https://xkcd.com/1868)
+[Daylight Calendar](https://xkcd.com/2542)
 
-![Eclipse Flights](./random_comic.png)
+![Daylight Calendar](./random_comic.png)
 
-The captain has turned on the 'fasten seat belt' sign.
+Could be worse. In some towns north of here, it's already December, and the 21st will last for nearly a week.
 
