@@ -1,6 +1,6 @@
-[Pickup Artists](https://xkcd.com/1178)
+[6-Foot Zone](https://xkcd.com/2286)
 
-![Pickup Artists](./random_comic.png)
+![6-Foot Zone](./random_comic.png)
 
-It sounds like a great way to make friends! Is it near that Friend Zone you keep talking about? I wanna go!
+Technically now it's a 34-foot zone.
 
