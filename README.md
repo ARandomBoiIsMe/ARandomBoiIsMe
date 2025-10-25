@@ -1,6 +1,6 @@
-[6-Foot Zone](https://xkcd.com/2286)
+[Actual Progress](https://xkcd.com/2797)
 
-![6-Foot Zone](./random_comic.png)
+![Actual Progress](./random_comic.png)
 
-Technically now it's a 34-foot zone.
+Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'
 
