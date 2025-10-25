@@ -1,6 +1,6 @@
-[Goodhart's Law](https://xkcd.com/2899)
+[Intervocalic Fortition](https://xkcd.com/1697)
 
-![Goodhart's Law](./random_comic.png)
+![Intervocalic Fortition](./random_comic.png)
 
-[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour.
+These pranks happen all the time. English doesn't allow one-syllable words to end in a lax vowel, so writers on The Simpsons decided to mess with future linguists by introducing the word "meh."
 
