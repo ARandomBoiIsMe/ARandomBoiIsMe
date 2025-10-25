@@ -1,6 +1,6 @@
-[Intervocalic Fortition](https://xkcd.com/1697)
+[Pickup Artists](https://xkcd.com/1178)
 
-![Intervocalic Fortition](./random_comic.png)
+![Pickup Artists](./random_comic.png)
 
-These pranks happen all the time. English doesn't allow one-syllable words to end in a lax vowel, so writers on The Simpsons decided to mess with future linguists by introducing the word "meh."
+It sounds like a great way to make friends! Is it near that Friend Zone you keep talking about? I wanna go!
 
