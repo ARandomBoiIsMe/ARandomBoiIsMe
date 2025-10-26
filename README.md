@@ -1,6 +1,6 @@
-[Actual Progress](https://xkcd.com/2797)
+[Chicken Pox and Name Statistics](https://xkcd.com/1950)
 
-![Actual Progress](./random_comic.png)
+![Chicken Pox and Name Statistics](./random_comic.png)
 
-Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'
+People with all six of those names agree that it's weird that we have teeth, when you think about it for too long. Just about everyone agrees on that, except—in a still-unexplained statistical anomaly—people named "Trevor."
 
