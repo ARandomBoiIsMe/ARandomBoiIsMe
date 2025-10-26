@@ -1,6 +1,6 @@
-[The bacon](https://xkcd.com/1054)
+[Morning](https://xkcd.com/395)
 
-![The bacon](./random_comic.png)
+![Morning](./random_comic.png)
 
-Normally pronounced 'THEH-buh-kon', I assume.
+I'd press on them to try to unstick them, but I can't reach.  Can we try cycling day and night really fast?
 
