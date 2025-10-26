@@ -1,6 +1,6 @@
-[Morning](https://xkcd.com/395)
+[Profile Info](https://xkcd.com/1303)
 
-![Morning](./random_comic.png)
+![Profile Info](./random_comic.png)
 
-I'd press on them to try to unstick them, but I can't reach.  Can we try cycling day and night really fast?
+It's ok, they'll always let you opt out! Like they did with the YouTube real name profile thing.
 
