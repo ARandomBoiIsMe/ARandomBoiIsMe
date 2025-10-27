@@ -1,6 +1,6 @@
-[Two Key System](https://xkcd.com/2677)
+[Supreme Court](https://xkcd.com/1607)
 
-![Two Key System](./random_comic.png)
+![Supreme Court](./random_comic.png)
 
-Our company can be your one-stop shop for decentralization.
+Writing for the majority, Justice Kennedy called the man's arguments that he could be either Alito or Ginsburg "surprisingly compelling, but ultimately unconvincing."
 
