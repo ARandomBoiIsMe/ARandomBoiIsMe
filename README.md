@@ -1,6 +1,6 @@
-[Kindle](https://xkcd.com/548)
+[Two Key System](https://xkcd.com/2677)
 
-![Kindle](./random_comic.png)
+![Two Key System](./random_comic.png)
 
-I'm happy with my Kindle 2 so far, but if they cut off the free Wikipedia browsing, I plan to show up drunk on Jeff Bezos's lawn and refuse to leave.
+Our company can be your one-stop shop for decentralization.
 
