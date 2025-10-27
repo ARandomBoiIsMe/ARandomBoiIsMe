@@ -1,6 +1,6 @@
-[Rock Wall](https://xkcd.com/2058)
+[Kindle](https://xkcd.com/548)
 
-![Rock Wall](./random_comic.png)
+![Kindle](./random_comic.png)
 
-I don't trust mantle/core geologists because I suspect that, if they ever get a chance to peel away the Earth's crust, they'll do it in a heartbeat.
+I'm happy with my Kindle 2 so far, but if they cut off the free Wikipedia browsing, I plan to show up drunk on Jeff Bezos's lawn and refuse to leave.
 
