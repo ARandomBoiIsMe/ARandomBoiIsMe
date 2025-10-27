@@ -1,6 +1,6 @@
-[Profile Info](https://xkcd.com/1303)
+[Rock Wall](https://xkcd.com/2058)
 
-![Profile Info](./random_comic.png)
+![Rock Wall](./random_comic.png)
 
-It's ok, they'll always let you opt out! Like they did with the YouTube real name profile thing.
+I don't trust mantle/core geologists because I suspect that, if they ever get a chance to peel away the Earth's crust, they'll do it in a heartbeat.
 
