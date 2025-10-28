@@ -1,6 +1,6 @@
-[Supreme Court](https://xkcd.com/1607)
+[Helping](https://xkcd.com/383)
 
-![Supreme Court](./random_comic.png)
+![Helping](./random_comic.png)
 
-Writing for the majority, Justice Kennedy called the man's arguments that he could be either Alito or Ginsburg "surprisingly compelling, but ultimately unconvincing."
+Oh, look, the 'make everything better' button was here behind the bookshelf all along.
 
