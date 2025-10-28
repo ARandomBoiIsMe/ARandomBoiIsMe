@@ -1,6 +1,6 @@
-[Life Before the Pandemic](https://xkcd.com/2391)
+[JWST Delays](https://xkcd.com/2014)
 
-![Life Before the Pandemic](./random_comic.png)
+![JWST Delays](./random_comic.png)
 
-I can't wait until this is all over and I can go back to riding my horse through the mall.
+Since delays should get less likely closer to the launch, most astronomers in 2018 believed the expansion of the schedule was slowing, but by early 2020 new measurements indicated that it was actually accelerating.
 
