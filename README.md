@@ -1,6 +1,6 @@
-[Helping](https://xkcd.com/383)
+[Life Before the Pandemic](https://xkcd.com/2391)
 
-![Helping](./random_comic.png)
+![Life Before the Pandemic](./random_comic.png)
 
-Oh, look, the 'make everything better' button was here behind the bookshelf all along.
+I can't wait until this is all over and I can go back to riding my horse through the mall.
 
