@@ -1,6 +1,6 @@
-[Gold](https://xkcd.com/2826)
+[Comic Fragment](https://xkcd.com/254)
 
-![Gold](./random_comic.png)
+![Comic Fragment](./random_comic.png)
 
-It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it.
+No one wants an explanation more than us.  Except Ms. Garofalo.
 
