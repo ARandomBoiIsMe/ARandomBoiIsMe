@@ -1,6 +1,6 @@
-[Machine](https://xkcd.com/2916)
+[Stephen and Me](https://xkcd.com/671)
 
-![Machine](./random_comic.png)
+![Stephen and Me](./random_comic.png)
 
-The Credible Machine
+Hey, let go! We were all thinking it! Someone had to speak truth to power!
 
