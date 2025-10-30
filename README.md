@@ -1,6 +1,6 @@
-[Comic Fragment](https://xkcd.com/254)
+[Machine](https://xkcd.com/2916)
 
-![Comic Fragment](./random_comic.png)
+![Machine](./random_comic.png)
 
-No one wants an explanation more than us.  Except Ms. Garofalo.
+The Credible Machine
 
