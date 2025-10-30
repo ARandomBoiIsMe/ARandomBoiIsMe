@@ -1,6 +1,6 @@
-[TCMP](https://xkcd.com/269)
+[Dorm Poster](https://xkcd.com/964)
 
-![TCMP](./random_comic.png)
+![Dorm Poster](./random_comic.png)
 
-A big obstacle in experimenting with the mind's dream-simulation-engine is holding onto the details as you wake up.  With TCMP you can bring back any information you want.
+I was going to record an album with that cover under the name "PINK FTFY", so it'd come after them on the store CD rack. But at this point music stores are just rooms where CDs are set out to age before they're thrown away, so probably nobody would see it.
 
