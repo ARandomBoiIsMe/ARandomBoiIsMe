@@ -1,6 +1,6 @@
-[Stephen and Me](https://xkcd.com/671)
+[TCMP](https://xkcd.com/269)
 
-![Stephen and Me](./random_comic.png)
+![TCMP](./random_comic.png)
 
-Hey, let go! We were all thinking it! Someone had to speak truth to power!
+A big obstacle in experimenting with the mind's dream-simulation-engine is holding onto the details as you wake up.  With TCMP you can bring back any information you want.
 
