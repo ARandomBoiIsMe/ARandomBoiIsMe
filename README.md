@@ -1,6 +1,6 @@
-[Refrigerator](https://xkcd.com/1109)
+[COVID Risk Chart](https://xkcd.com/2333)
 
-![Refrigerator](./random_comic.png)
+![COVID Risk Chart](./random_comic.png)
 
-I want this engraved on my tombstone like the Epitaph of Stevinus.
+First prize is a free ticket to the kissing booth.
 
