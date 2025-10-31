@@ -1,6 +1,6 @@
-[IMHO](https://xkcd.com/1989)
+[Human Altitude](https://xkcd.com/3039)
 
-![IMHO](./random_comic.png)
+![Human Altitude](./random_comic.png)
 
-"Ugh, TMI." "Yeah, that's some tantalizing meat info."
+I wonder what surviving human held the record before balloons (excluding edge cases like jumping gaps on a mountain bridge). Probably it was someone falling from a cliff into snow or water, but maybe it involved something weird like a gunpowder explosion or volcano.
 
