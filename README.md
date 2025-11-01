@@ -1,6 +1,6 @@
-[COVID Risk Chart](https://xkcd.com/2333)
+[Drawing Stars](https://xkcd.com/1029)
 
-![COVID Risk Chart](./random_comic.png)
+![Drawing Stars](./random_comic.png)
 
-First prize is a free ticket to the kissing booth.
+Screw these 36-degree angles. I'm converting to Judaism.
 
