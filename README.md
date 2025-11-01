@@ -1,6 +1,6 @@
-[Drawing Stars](https://xkcd.com/1029)
+[Supersymmetry](https://xkcd.com/2873)
 
-![Drawing Stars](./random_comic.png)
+![Supersymmetry](./random_comic.png)
 
-Screw these 36-degree angles. I'm converting to Judaism.
+High-speed collisions at the Baby Park track may support the hypothesis that Daisy is her own evil twin, a theory first suggested by Nintendo in the game Majorana's Mask.
 
