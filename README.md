@@ -1,6 +1,6 @@
-[Supersymmetry](https://xkcd.com/2873)
+[Lunar Cycles](https://xkcd.com/2172)
 
-![Supersymmetry](./random_comic.png)
+![Lunar Cycles](./random_comic.png)
 
-High-speed collisions at the Baby Park track may support the hypothesis that Daisy is her own evil twin, a theory first suggested by Nintendo in the game Majorana's Mask.
+The Antikythera mechanism had a whole set of gears specifically to track the cyclic popularity of skinny jeans and low-rise waists.
 
