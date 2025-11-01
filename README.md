@@ -1,6 +1,6 @@
-[Lunar Cycles](https://xkcd.com/2172)
+[Iceberg](https://xkcd.com/2787)
 
-![Lunar Cycles](./random_comic.png)
+![Iceberg](./random_comic.png)
 
-The Antikythera mechanism had a whole set of gears specifically to track the cyclic popularity of skinny jeans and low-rise waists.
+90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%.
 
