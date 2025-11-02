@@ -1,6 +1,6 @@
-[ISO Paper Size Golden Spiral](https://xkcd.com/2322)
+[Electoral Precedent 2020](https://xkcd.com/2383)
 
-![ISO Paper Size Golden Spiral](./random_comic.png)
+![Electoral Precedent 2020](./random_comic.png)
 
-The ISO 216 standard ratio is cos(45°), but American letter paper is 8.5x11 because it uses radians, and 8.5/11 = pi/4.
+He also broke the streak that incumbents with websites are unbeatable and Delawareans can't win, creating a new precedent: Only someone from Delaware can defeat an incumbent with a website.
 
