@@ -1,6 +1,6 @@
-[Iceberg](https://xkcd.com/2787)
+[Higgs Boson](https://xkcd.com/1437)
 
-![Iceberg](./random_comic.png)
+![Higgs Boson](./random_comic.png)
 
-90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%.
+'Can't you just use the LHC you already built to find it again?' 'We MAY have disassembled it to build a death ray.' 'Just one, though.' 'Nothing you should worry about.' 'The death isn't even very serious.'
 
