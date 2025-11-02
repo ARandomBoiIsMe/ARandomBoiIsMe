@@ -1,6 +1,6 @@
-[Higgs Boson](https://xkcd.com/1437)
+[ISO Paper Size Golden Spiral](https://xkcd.com/2322)
 
-![Higgs Boson](./random_comic.png)
+![ISO Paper Size Golden Spiral](./random_comic.png)
 
-'Can't you just use the LHC you already built to find it again?' 'We MAY have disassembled it to build a death ray.' 'Just one, though.' 'Nothing you should worry about.' 'The death isn't even very serious.'
+The ISO 216 standard ratio is cos(45°), but American letter paper is 8.5x11 because it uses radians, and 8.5/11 = pi/4.
 
