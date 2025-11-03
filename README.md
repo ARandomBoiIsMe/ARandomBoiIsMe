@@ -1,6 +1,6 @@
-[Who?](https://xkcd.com/1841)
+[Telephoto](https://xkcd.com/1855)
 
-![Who?](./random_comic.png)
+![Telephoto](./random_comic.png)
 
-Gonna feel even dumber when I realize that all this time he's been talking into a bluetooth thingy and we're not actually friends.
+I was banned from the airliners.net photography forum by concerned moderators after the end of my lens started brushing against planes as they flew by.
 
