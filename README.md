@@ -1,6 +1,6 @@
-[Insight](https://xkcd.com/1215)
+[The Problem with Wikipedia](https://xkcd.com/214)
 
-![Insight](./random_comic.png)
+![The Problem with Wikipedia](./random_comic.png)
 
-The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.
+'Taft in a wet t-shirt contest' is the key image here.
 
