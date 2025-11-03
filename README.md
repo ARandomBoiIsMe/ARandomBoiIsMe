@@ -1,6 +1,6 @@
-[Telephoto](https://xkcd.com/1855)
+[Insight](https://xkcd.com/1215)
 
-![Telephoto](./random_comic.png)
+![Insight](./random_comic.png)
 
-I was banned from the airliners.net photography forum by concerned moderators after the end of my lens started brushing against planes as they flew by.
+The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.
 
