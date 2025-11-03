@@ -1,6 +1,6 @@
-[Delivery Notification](https://xkcd.com/921)
+[Who?](https://xkcd.com/1841)
 
-![Delivery Notification](./random_comic.png)
+![Who?](./random_comic.png)
 
-You can arrange a pickup of your sword in Rivendell between the hours of noon and 7:00 PM.
+Gonna feel even dumber when I realize that all this time he's been talking into a bluetooth thingy and we're not actually friends.
 
