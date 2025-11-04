@@ -1,6 +1,6 @@
-[The Problem with Wikipedia](https://xkcd.com/214)
+[Grandpa Jason and Grandpa Chad](https://xkcd.com/2271)
 
-![The Problem with Wikipedia](./random_comic.png)
+![Grandpa Jason and Grandpa Chad](./random_comic.png)
 
-'Taft in a wet t-shirt contest' is the key image here.
+The AARP puts the average age of a first-time grandparent close to 50, and the CDC has some data. But I don't have first-parent age distributions for specific names, or generational first-child age correlations, so the dotted line is just a guess. Still, let's be honest: No further research is really *needed.*
 
