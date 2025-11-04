@@ -1,6 +1,6 @@
-[Physics vs. Magic](https://xkcd.com/2904)
+[Drainage Basins](https://xkcd.com/2784)
 
-![Physics vs. Magic](./random_comic.png)
+![Drainage Basins](./random_comic.png)
 
-'At the stroke of midnight, your brother will be hurtling sideways at an altitude of 150 meters' is a regular physics prediction about your nonmagical trebuchet, whereas 'you are cursed to build a brother-launching trebuchet' falls out of the Lagrangian.
+After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume.
 
