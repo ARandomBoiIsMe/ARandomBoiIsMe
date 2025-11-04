@@ -1,6 +1,6 @@
-[Grandpa Jason and Grandpa Chad](https://xkcd.com/2271)
+[Physics vs. Magic](https://xkcd.com/2904)
 
-![Grandpa Jason and Grandpa Chad](./random_comic.png)
+![Physics vs. Magic](./random_comic.png)
 
-The AARP puts the average age of a first-time grandparent close to 50, and the CDC has some data. But I don't have first-parent age distributions for specific names, or generational first-child age correlations, so the dotted line is just a guess. Still, let's be honest: No further research is really *needed.*
+'At the stroke of midnight, your brother will be hurtling sideways at an altitude of 150 meters' is a regular physics prediction about your nonmagical trebuchet, whereas 'you are cursed to build a brother-launching trebuchet' falls out of the Lagrangian.
 
