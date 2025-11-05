@@ -1,6 +1,6 @@
-[Star Wars Spoiler Generator](https://xkcd.com/2243)
+[Correlation](https://xkcd.com/552)
 
-![Star Wars Spoiler Generator](./random_comic.png)
+![Correlation](./random_comic.png)
 
-The heroes seem to be gaining the upper hand until Darth Juul manages to flip the switch on the car wash control panel from 'REGULAR' to 'PREMIUM.'
+Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.
 
