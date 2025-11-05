@@ -1,6 +1,6 @@
-[Base Rate](https://xkcd.com/2476)
+[Local Group](https://xkcd.com/2938)
 
-![Base Rate](./random_comic.png)
+![Local Group](./random_comic.png)
 
-Sure, you can talk about per-capita adjustment, but if you want to solve the problem, it's obvious that this is the group you need to focus on.
+Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter.
 
