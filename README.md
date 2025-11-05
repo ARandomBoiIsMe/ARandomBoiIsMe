@@ -1,6 +1,6 @@
-[Local Group](https://xkcd.com/2938)
+[Star Wars Spoiler Generator](https://xkcd.com/2243)
 
-![Local Group](./random_comic.png)
+![Star Wars Spoiler Generator](./random_comic.png)
 
-Cosmologists estimate the spaghetti strand to be about 200 septillion calories, though it could be higher depending on the nutritional value of dark matter.
+The heroes seem to be gaining the upper hand until Darth Juul manages to flip the switch on the car wash control panel from 'REGULAR' to 'PREMIUM.'
 
