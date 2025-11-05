@@ -1,6 +1,6 @@
-[Correlation](https://xkcd.com/552)
+[Legal Hacks](https://xkcd.com/504)
 
-![Correlation](./random_comic.png)
+![Legal Hacks](./random_comic.png)
 
-Correlation doesn't imply causation, but it does waggle its eyebrows suggestively and gesture furtively while mouthing 'look over there'.
+It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.
 
