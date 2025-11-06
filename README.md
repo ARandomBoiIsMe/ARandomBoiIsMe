@@ -1,6 +1,6 @@
-[Legal Hacks](https://xkcd.com/504)
+[Namespace Land Rush](https://xkcd.com/1963)
 
-![Legal Hacks](./random_comic.png)
+![Namespace Land Rush](./random_comic.png)
 
-It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.
+You can also just mash the keyboard at random, but you might end up with a gibberish name no one can pronounce.
 
