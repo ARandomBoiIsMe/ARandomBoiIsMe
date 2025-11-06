@@ -1,6 +1,6 @@
-[Evaluating Tech Things](https://xkcd.com/2072)
+[Calendar of Meaningful Dates](https://xkcd.com/1140)
 
-![Evaluating Tech Things](./random_comic.png)
+![Calendar of Meaningful Dates](./random_comic.png)
 
-Also known as the Black Mirror-Mythbusters scale.
+In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.
 
