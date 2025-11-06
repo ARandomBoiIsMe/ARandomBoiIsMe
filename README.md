@@ -1,6 +1,6 @@
-[Namespace Land Rush](https://xkcd.com/1963)
+[Matrix Revisited](https://xkcd.com/566)
 
-![Namespace Land Rush](./random_comic.png)
+![Matrix Revisited](./random_comic.png)
 
-You can also just mash the keyboard at random, but you might end up with a gibberish name no one can pronounce.
+I actually remember being entertained by both the sequels while in the theater.  They just don't hold up nearly as well in later comparison.
 
