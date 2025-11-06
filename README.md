@@ -1,6 +1,6 @@
-[Matrix Revisited](https://xkcd.com/566)
+[Evaluating Tech Things](https://xkcd.com/2072)
 
-![Matrix Revisited](./random_comic.png)
+![Evaluating Tech Things](./random_comic.png)
 
-I actually remember being entertained by both the sequels while in the theater.  They just don't hold up nearly as well in later comparison.
+Also known as the Black Mirror-Mythbusters scale.
 
