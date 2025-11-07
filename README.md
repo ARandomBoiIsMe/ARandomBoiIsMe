@@ -1,6 +1,6 @@
-[Exercise](https://xkcd.com/189)
+[Wifi](https://xkcd.com/1785)
 
-![Exercise](./random_comic.png)
+![Wifi](./random_comic.png)
 
-I haven't had the patience for RPGs in a long time.
+Further out to the right, it works correctly, but the reason it works still involves the word 'firmware.'
 
