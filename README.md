@@ -1,6 +1,6 @@
-[Calendar of Meaningful Dates](https://xkcd.com/1140)
+[Tattoo Ideas](https://xkcd.com/2255)
 
-![Calendar of Meaningful Dates](./random_comic.png)
+![Tattoo Ideas](./random_comic.png)
 
-In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.
+The text ALL YOUR BASE ARE BELONG TO US with a lengthy footnote explaining that I got this tattoo in 2020 and not, as you may assume, 2001, but offering no further clarification.
 
