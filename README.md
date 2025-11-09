@@ -1,6 +1,6 @@
-[Real Programmers](https://xkcd.com/378)
+[Strengths and Weaknesses](https://xkcd.com/1545)
 
-![Real Programmers](./random_comic.png)
+![Strengths and Weaknesses](./random_comic.png)
 
-Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.
+Do you need me to do a quicksort on the whiteboard or produce a generation of offspring or something? It might take me a bit, but I can do it.
 
