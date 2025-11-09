@@ -1,6 +1,6 @@
-[Compass and Straightedge](https://xkcd.com/866)
+[Real Programmers](https://xkcd.com/378)
 
-![Compass and Straightedge](./random_comic.png)
+![Real Programmers](./random_comic.png)
 
-The Greeks long suspected this, but it wasn't until April 12th of 1882 that Ferdinand von Lindemann conclusively proved it when he constructed himself the most awesome birthday party possible and nobody showed up.
+Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.
 
