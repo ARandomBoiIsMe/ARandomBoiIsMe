@@ -1,6 +1,6 @@
-[Strengths and Weaknesses](https://xkcd.com/1545)
+[Worst Hurricane](https://xkcd.com/1407)
 
-![Strengths and Weaknesses](./random_comic.png)
+![Worst Hurricane](./random_comic.png)
 
-Do you need me to do a quicksort on the whiteboard or produce a generation of offspring or something? It might take me a bit, but I can do it.
+'Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.
 
