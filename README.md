@@ -1,6 +1,6 @@
-[Election Impact Score Sheet](https://xkcd.com/2380)
+[Compass and Straightedge](https://xkcd.com/866)
 
-![Election Impact Score Sheet](./random_comic.png)
+![Compass and Straightedge](./random_comic.png)
 
-You might think most people you know are reliable voters, or that your nudge won't convince them, and you will usually be right. But some small but significant percentage of the time, you'll be wrong, and that's why this works.
+The Greeks long suspected this, but it wasn't until April 12th of 1882 that Ferdinand von Lindemann conclusively proved it when he constructed himself the most awesome birthday party possible and nobody showed up.
 
