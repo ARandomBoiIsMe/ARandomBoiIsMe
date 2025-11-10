@@ -1,6 +1,6 @@
-[Coronavirus Polling](https://xkcd.com/2305)
+[One Two](https://xkcd.com/764)
 
-![Coronavirus Polling](./random_comic.png)
+![One Two](./random_comic.png)
 
-If you want to see the polling questions we agree on MOST, you can check out Chapter 24 of my book How To, where I got the Roper Center on Public Opinion Research to help me design the world's least electable political campaign platform.
+Cue letters from anthropology majors complaining that this view of numerolinguistic development perpetuates a widespread myth. They get to write letters like that because when you're not getting a real science degree you have a lot of free time. Zing!
 
