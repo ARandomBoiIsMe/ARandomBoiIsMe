@@ -1,6 +1,6 @@
-[Worst Hurricane](https://xkcd.com/1407)
+[Seventies](https://xkcd.com/1072)
 
-![Worst Hurricane](./random_comic.png)
+![Seventies](./random_comic.png)
 
-'Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.
+Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"
 
