@@ -1,6 +1,6 @@
-[Seventies](https://xkcd.com/1072)
+[Single Ladies](https://xkcd.com/712)
 
-![Seventies](./random_comic.png)
+![Single Ladies](./random_comic.png)
 
-Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"
+Using a ring to bind someone you covet into your dark and twisted world? Wow, just got the subtext there. Also, the apparently eager Beyoncé would've made one badass Nazgȗl.
 
