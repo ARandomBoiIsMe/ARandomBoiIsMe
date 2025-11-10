@@ -1,6 +1,6 @@
-[Single Ladies](https://xkcd.com/712)
+[Coronavirus Polling](https://xkcd.com/2305)
 
-![Single Ladies](./random_comic.png)
+![Coronavirus Polling](./random_comic.png)
 
-Using a ring to bind someone you covet into your dark and twisted world? Wow, just got the subtext there. Also, the apparently eager Beyoncé would've made one badass Nazgȗl.
+If you want to see the polling questions we agree on MOST, you can check out Chapter 24 of my book How To, where I got the Roper Center on Public Opinion Research to help me design the world's least electable political campaign platform.
 
