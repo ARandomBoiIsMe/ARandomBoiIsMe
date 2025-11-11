@@ -1,6 +1,6 @@
-[Wikifriends](https://xkcd.com/185)
+[Bad Map Projection: The Greenland Special](https://xkcd.com/2489)
 
-![Wikifriends](./random_comic.png)
+![Bad Map Projection: The Greenland Special](./random_comic.png)
 
-It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.
+The projection for those who think the Mercator projection gives people a distorted idea of how big Greenland is, but a very accurate idea of how big it SHOULD be.
 
