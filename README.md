@@ -1,6 +1,6 @@
-[One Two](https://xkcd.com/764)
+[Bad Map Projection: Interrupted Spheres](https://xkcd.com/3122)
 
-![One Two](./random_comic.png)
+![Bad Map Projection: Interrupted Spheres](./random_comic.png)
 
-Cue letters from anthropology majors complaining that this view of numerolinguistic development perpetuates a widespread myth. They get to write letters like that because when you're not getting a real science degree you have a lot of free time. Zing!
+During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together.
 
