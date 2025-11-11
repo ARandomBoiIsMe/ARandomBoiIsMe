@@ -1,6 +1,6 @@
-[Bad Map Projection: Interrupted Spheres](https://xkcd.com/3122)
+[Starwatching](https://xkcd.com/428)
 
-![Bad Map Projection: Interrupted Spheres](./random_comic.png)
+![Starwatching](./random_comic.png)
 
-During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together.
+I always figured the word 'blog' would sound *less* silly as the years went by.
 
