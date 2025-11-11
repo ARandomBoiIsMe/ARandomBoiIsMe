@@ -1,6 +1,6 @@
-[Starwatching](https://xkcd.com/428)
+[Wikifriends](https://xkcd.com/185)
 
-![Starwatching](./random_comic.png)
+![Wikifriends](./random_comic.png)
 
-I always figured the word 'blog' would sound *less* silly as the years went by.
+It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.
 
