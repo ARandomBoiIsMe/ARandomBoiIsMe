@@ -1,6 +1,6 @@
-[API](https://xkcd.com/1481)
+[Chemicals](https://xkcd.com/2648)
 
-![API](./random_comic.png)
+![Chemicals](./random_comic.png)
 
-ACCESS LIMITS: Clients may maintain connections to the server for no more than 86,400 seconds per day. If you need additional time, you may contact IERS to file a request for up to one additional second.
+It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.
 
