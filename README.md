@@ -1,6 +1,6 @@
-[Paleontology Museum](https://xkcd.com/2760)
+[API](https://xkcd.com/1481)
 
-![Paleontology Museum](./random_comic.png)
+![API](./random_comic.png)
 
-Nowadays the only ones left that do anything are turtles.
+ACCESS LIMITS: Clients may maintain connections to the server for no more than 86,400 seconds per day. If you need additional time, you may contact IERS to file a request for up to one additional second.
 
