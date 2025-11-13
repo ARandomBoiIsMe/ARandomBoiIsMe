@@ -1,6 +1,6 @@
-[Moria](https://xkcd.com/760)
+[Artifacts](https://xkcd.com/1781)
 
-![Moria](./random_comic.png)
+![Artifacts](./random_comic.png)
 
-Someone should really bring them a ladder and remind them to build the Endless Stair *first* next time.
+I didn't even realize you could HAVE a data set made up entirely of outliers.
 
