@@ -1,6 +1,6 @@
-[Chemicals](https://xkcd.com/2648)
+[Seventies](https://xkcd.com/1072)
 
-![Chemicals](./random_comic.png)
+![Seventies](./random_comic.png)
 
-It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.
+Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"
 
