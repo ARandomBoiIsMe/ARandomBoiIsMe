@@ -1,6 +1,6 @@
-[Kitchen Tips](https://xkcd.com/1567)
+[Moria](https://xkcd.com/760)
 
-![Kitchen Tips](./random_comic.png)
+![Moria](./random_comic.png)
 
-Household tip: Tired of buying so much toilet paper? Try unspooling the paper from the roll before using it. A single roll can last for multiple days that way, and it's much easier on your plumbing.
+Someone should really bring them a ladder and remind them to build the Endless Stair *first* next time.
 
