@@ -1,6 +1,6 @@
-[Seventies](https://xkcd.com/1072)
+[Kitchen Tips](https://xkcd.com/1567)
 
-![Seventies](./random_comic.png)
+![Kitchen Tips](./random_comic.png)
 
-Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"
+Household tip: Tired of buying so much toilet paper? Try unspooling the paper from the roll before using it. A single roll can last for multiple days that way, and it's much easier on your plumbing.
 
