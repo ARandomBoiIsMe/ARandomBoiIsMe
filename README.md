@@ -1,6 +1,6 @@
-[Eclipse Review](https://xkcd.com/1880)
+[Penny Arcade Parody](https://xkcd.com/160)
 
-![Eclipse Review](./random_comic.png)
+![Penny Arcade Parody](./random_comic.png)
 
-I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.
+No one show this to Tycho's wife, okay?
 
