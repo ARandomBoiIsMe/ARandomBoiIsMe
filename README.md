@@ -1,6 +1,6 @@
-[Artifacts](https://xkcd.com/1781)
+[Formal Logic](https://xkcd.com/1033)
 
-![Artifacts](./random_comic.png)
+![Formal Logic](./random_comic.png)
 
-I didn't even realize you could HAVE a data set made up entirely of outliers.
+Note that this implies you should NOT honk solely because I stopped for a pedestrian and you're behind me.
 
