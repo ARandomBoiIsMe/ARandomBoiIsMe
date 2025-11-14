@@ -1,6 +1,6 @@
-[Formal Logic](https://xkcd.com/1033)
+[Eclipse Review](https://xkcd.com/1880)
 
-![Formal Logic](./random_comic.png)
+![Eclipse Review](./random_comic.png)
 
-Note that this implies you should NOT honk solely because I stopped for a pedestrian and you're behind me.
+I watched from a beautiful nature reserve in central Missouri, and it was--without exaggeration--the coolest thing I've ever seen.
 
