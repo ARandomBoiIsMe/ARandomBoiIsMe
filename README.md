@@ -1,6 +1,6 @@
-[Penny Arcade Parody](https://xkcd.com/160)
+[Experimental Astrophysics](https://xkcd.com/3000)
 
-![Penny Arcade Parody](./random_comic.png)
+![Experimental Astrophysics](./random_comic.png)
 
-No one show this to Tycho's wife, okay?
+Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle.
 
