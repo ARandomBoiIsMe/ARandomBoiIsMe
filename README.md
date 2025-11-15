@@ -1,6 +1,6 @@
-[Experimental Astrophysics](https://xkcd.com/3000)
+[Text Entry](https://xkcd.com/2137)
 
-![Experimental Astrophysics](./random_comic.png)
+![Text Entry](./random_comic.png)
 
-Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle.
+I like to think that somewhere out there, there's someone whose personal quest is lobbying TV providers to add an option to switch their on-screen keyboards to Dvorak.
 
