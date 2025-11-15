@@ -1,6 +1,6 @@
-[Farads](https://xkcd.com/3106)
+[You Hang Up First](https://xkcd.com/698)
 
-![Farads](./random_comic.png)
+![You Hang Up First](./random_comic.png)
 
-'This HAZMAT container contains radioactive material with activity of one becquerel.' 'So, like, a single banana slice?'
+No, YOU stumble past a series of post-breakup hookups in a daze as you slowly realize what you've lost and how unlikely you are ever to get it back first.
 
