@@ -1,6 +1,6 @@
-[Video Orientation](https://xkcd.com/2119)
+[Phantom Menace](https://xkcd.com/991)
 
-![Video Orientation](./random_comic.png)
+![Phantom Menace](./random_comic.png)
 
-CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle.
+We could go to the theater across town and see if it's opened THERE yet, but we don't want to lose our place in line.
 
