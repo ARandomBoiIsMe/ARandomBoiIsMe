@@ -1,6 +1,6 @@
-[Y2K and 2038](https://xkcd.com/2697)
+[Video Orientation](https://xkcd.com/2119)
 
-![Y2K and 2038](./random_comic.png)
+![Video Orientation](./random_comic.png)
 
-It's taken me 20 years, but I've finally finished rebuilding all my software to use 33-bit signed ints.
+CIRCULAR VIDEO - PROS: Solves aspect ratio problem. CONS: Never trust anyone who talks to you from inside a circle.
 
