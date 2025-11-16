@@ -1,6 +1,6 @@
-[Noise Filter](https://xkcd.com/2777)
+[Y2K and 2038](https://xkcd.com/2697)
 
-![Noise Filter](./random_comic.png)
+![Y2K and 2038](./random_comic.png)
 
-Party Mode also enables the feature, but reverses the slider.
+It's taken me 20 years, but I've finally finished rebuilding all my software to use 33-bit signed ints.
 
