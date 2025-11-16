@@ -1,6 +1,6 @@
-[Phantom Menace](https://xkcd.com/991)
+[Hammer Incident](https://xkcd.com/2447)
 
-![Phantom Menace](./random_comic.png)
+![Hammer Incident](./random_comic.png)
 
-We could go to the theater across town and see if it's opened THERE yet, but we don't want to lose our place in line.
+I still think the Cold Stone Creamery partnership was a good idea, but I should have asked before doing the first market trials during the cryogenic mirror tests.
 
