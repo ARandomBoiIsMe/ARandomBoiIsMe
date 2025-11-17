@@ -1,6 +1,6 @@
-[Party Quadrants](https://xkcd.com/2588)
+[The Man Who Fell Sideways](https://xkcd.com/417)
 
-![Party Quadrants](./random_comic.png)
+![The Man Who Fell Sideways](./random_comic.png)
 
-Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner.
+Strip originally conceived in conversation with Jeph Jacques.  Soon to be a major motion picture.
 
