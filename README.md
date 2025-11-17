@@ -1,6 +1,6 @@
-[Hammer Incident](https://xkcd.com/2447)
+[Party Quadrants](https://xkcd.com/2588)
 
-![Hammer Incident](./random_comic.png)
+![Party Quadrants](./random_comic.png)
 
-I still think the Cold Stone Creamery partnership was a good idea, but I should have asked before doing the first market trials during the cryogenic mirror tests.
+Single-elimination might provide more drama, but I think we can all agree that a comprehensive numerical scoring system will let us better judge the party's winner.
 
