@@ -1,6 +1,6 @@
-[Unpickable](https://xkcd.com/916)
+[Truck Proximity](https://xkcd.com/2273)
 
-![Unpickable](./random_comic.png)
+![Truck Proximity](./random_comic.png)
 
-The safe is empty except for an unsolved 5x5 Rubik's cube.
+See also: Farm animals and dinosaurs. I am so confident that there exists children's media that involves dinosaurs driving trucks on a farm that I'm writing this without even Googling to check.
 
