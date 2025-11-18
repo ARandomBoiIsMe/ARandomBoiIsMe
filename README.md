@@ -1,6 +1,6 @@
-[Scream Cipher](https://xkcd.com/3054)
+[TV Problems](https://xkcd.com/1760)
 
-![Scream Cipher](./random_comic.png)
+![TV Problems](./random_comic.png)
 
-AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!
+Certified skydiving instructors know way more about safely falling from planes than I do, and are way more likely to die that way.
 
