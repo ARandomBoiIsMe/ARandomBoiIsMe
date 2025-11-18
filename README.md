@@ -1,6 +1,6 @@
-[TV Problems](https://xkcd.com/1760)
+[Noise Filter](https://xkcd.com/2777)
 
-![TV Problems](./random_comic.png)
+![Noise Filter](./random_comic.png)
 
-Certified skydiving instructors know way more about safely falling from planes than I do, and are way more likely to die that way.
+Party Mode also enables the feature, but reverses the slider.
 
