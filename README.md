@@ -1,6 +1,6 @@
-[Truck Proximity](https://xkcd.com/2273)
+[Scream Cipher](https://xkcd.com/3054)
 
-![Truck Proximity](./random_comic.png)
+![Scream Cipher](./random_comic.png)
 
-See also: Farm animals and dinosaurs. I am so confident that there exists children's media that involves dinosaurs driving trucks on a farm that I'm writing this without even Googling to check.
+AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!
 
