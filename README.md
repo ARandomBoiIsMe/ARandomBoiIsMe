@@ -1,6 +1,6 @@
-[Noise Filter](https://xkcd.com/2777)
+[FIRST Design](https://xkcd.com/689)
 
-![Noise Filter](./random_comic.png)
+![FIRST Design](./random_comic.png)
 
-Party Mode also enables the feature, but reverses the slider.
+Pool on the roof must've sprung a leak.
 
