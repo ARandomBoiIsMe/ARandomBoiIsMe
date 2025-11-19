@@ -1,6 +1,6 @@
-[Data](https://xkcd.com/1429)
+[Daylight Saving Choice](https://xkcd.com/2846)
 
-![Data](./random_comic.png)
+![Daylight Saving Choice](./random_comic.png)
 
-If you want to have more fun at the expense of language pedants, try developing an hypercorrection habit.
+I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round.
 
