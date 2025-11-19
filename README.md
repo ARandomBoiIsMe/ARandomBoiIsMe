@@ -1,6 +1,6 @@
-[FIRST Design](https://xkcd.com/689)
+[Bass](https://xkcd.com/368)
 
-![FIRST Design](./random_comic.png)
+![Bass](./random_comic.png)
 
-Pool on the roof must've sprung a leak.
+And sometimes I use it to retaliate against the guy upstairs with the loud girlfriend and the elliptical dish.
 
