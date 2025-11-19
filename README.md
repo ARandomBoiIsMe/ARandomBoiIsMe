@@ -1,6 +1,6 @@
-[Bass](https://xkcd.com/368)
+[Data](https://xkcd.com/1429)
 
-![Bass](./random_comic.png)
+![Data](./random_comic.png)
 
-And sometimes I use it to retaliate against the guy upstairs with the loud girlfriend and the elliptical dish.
+If you want to have more fun at the expense of language pedants, try developing an hypercorrection habit.
 
