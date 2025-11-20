@@ -1,6 +1,6 @@
-[Terry Pratchett](https://xkcd.com/1498)
+[Types of Editors](https://xkcd.com/1341)
 
-![Terry Pratchett](./random_comic.png)
+![Types of Editors](./random_comic.png)
 
-Thank you for teaching us how big our world is by sharing so many of your own.
+m-x machineofdeath-mode
 
