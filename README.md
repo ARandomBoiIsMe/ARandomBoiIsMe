@@ -1,6 +1,6 @@
-[Demons](https://xkcd.com/3006)
+[Cryptic Wifi Networks](https://xkcd.com/2199)
 
-![Demons](./random_comic.png)
+![Cryptic Wifi Networks](./random_comic.png)
 
-Though they do appreciate how much he improved the heating system for the flame pit.
+They actually showed up on the first scan by the first WiFi-capable device.
 
