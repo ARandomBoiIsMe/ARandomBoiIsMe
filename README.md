@@ -1,6 +1,6 @@
-[Silent Hammer](https://xkcd.com/666)
+[Terry Pratchett](https://xkcd.com/1498)
 
-![Silent Hammer](./random_comic.png)
+![Terry Pratchett](./random_comic.png)
 
-I bet he'll keep quiet for a couple weeks and then-- wait, did you nail a piece of scrap wood to my antique table a moment ago?
+Thank you for teaching us how big our world is by sharing so many of your own.
 
