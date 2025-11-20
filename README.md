@@ -1,6 +1,6 @@
-[Cryptic Wifi Networks](https://xkcd.com/2199)
+[Silent Hammer](https://xkcd.com/666)
 
-![Cryptic Wifi Networks](./random_comic.png)
+![Silent Hammer](./random_comic.png)
 
-They actually showed up on the first scan by the first WiFi-capable device.
+I bet he'll keep quiet for a couple weeks and then-- wait, did you nail a piece of scrap wood to my antique table a moment ago?
 
