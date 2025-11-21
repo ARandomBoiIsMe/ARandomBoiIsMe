@@ -1,6 +1,6 @@
-[Stratigraphic Record](https://xkcd.com/1194)
+[xkcd Phone 5](https://xkcd.com/1809)
 
-![Stratigraphic Record](./random_comic.png)
+![xkcd Phone 5](./random_comic.png)
 
-All we have are these stupid tantalizing zircons and the scars on the face of the Moon.
+The phone will be collected by the toll operators and mailed back to you within 4-6 weeks.
 
