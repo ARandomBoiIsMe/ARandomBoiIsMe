@@ -1,6 +1,6 @@
-[Types of Editors](https://xkcd.com/1341)
+[Stargazing 2](https://xkcd.com/2017)
 
-![Types of Editors](./random_comic.png)
+![Stargazing 2](./random_comic.png)
 
-m-x machineofdeath-mode
+I mean, it wasn't exactly MY thesis. When the FAA came to shut down our observatory for using the telescope mirror to shine light at airplanes, I took a thesis and a bunch of doctorates from the supply cabinet on my way out.
 
