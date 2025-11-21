@@ -1,6 +1,6 @@
-[xkcd Phone 5](https://xkcd.com/1809)
+[A/B](https://xkcd.com/2151)
 
-![xkcd Phone 5](./random_comic.png)
+![A/B](./random_comic.png)
 
-The phone will be collected by the toll operators and mailed back to you within 4-6 weeks.
+We wrote our site in Linear A rather than Aksara Kawi because browser testing showed that Crete script rendered faster than Java script.
 
