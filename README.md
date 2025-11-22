@@ -1,6 +1,6 @@
-[Driving](https://xkcd.com/1559)
+[Desert Golfing](https://xkcd.com/1936)
 
-![Driving](./random_comic.png)
+![Desert Golfing](./random_comic.png)
 
-Sadly, it probably won't even have enough gas to make it to the first border crossing.
+I just want to stay up long enough to watch the ball drop into the hole number 2018.
 
