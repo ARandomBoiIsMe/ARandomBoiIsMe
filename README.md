@@ -1,6 +1,6 @@
-[Desert Golfing](https://xkcd.com/1936)
+[Drainage Basins](https://xkcd.com/2784)
 
-![Desert Golfing](./random_comic.png)
+![Drainage Basins](./random_comic.png)
 
-I just want to stay up long enough to watch the ball drop into the hole number 2018.
+After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume.
 
