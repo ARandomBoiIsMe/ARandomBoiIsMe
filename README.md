@@ -1,6 +1,6 @@
-[A/B](https://xkcd.com/2151)
+[Sword Pull](https://xkcd.com/2578)
 
-![A/B](./random_comic.png)
+![Sword Pull](./random_comic.png)
 
-We wrote our site in Linear A rather than Aksara Kawi because browser testing showed that Crete script rendered faster than Java script.
+Merlin really shouldn't leave his dirt bike lying around.
 
