@@ -1,6 +1,6 @@
-[Sword Pull](https://xkcd.com/2578)
+[Driving](https://xkcd.com/1559)
 
-![Sword Pull](./random_comic.png)
+![Driving](./random_comic.png)
 
-Merlin really shouldn't leave his dirt bike lying around.
+Sadly, it probably won't even have enough gas to make it to the first border crossing.
 
