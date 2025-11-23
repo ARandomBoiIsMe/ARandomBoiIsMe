@@ -1,6 +1,6 @@
-[Customer Rewards](https://xkcd.com/2006)
+[Kill Hitler](https://xkcd.com/1063)
 
-![Customer Rewards](./random_comic.png)
+![Kill Hitler](./random_comic.png)
 
-We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards.
+Revised directive: It is forbidden for you to interfere with human history until you've at least taken a class on it.
 
