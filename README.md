@@ -1,6 +1,6 @@
-[Los Alamos](https://xkcd.com/809)
+[Customer Rewards](https://xkcd.com/2006)
 
-![Los Alamos](./random_comic.png)
+![Customer Rewards](./random_comic.png)
 
-The test didn't (spoiler alert) destroy the world, but the fact that they were even doing those calculations makes theirs the coolest jobs ever.
+We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards.
 
