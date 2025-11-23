@@ -1,6 +1,6 @@
-[Drainage Basins](https://xkcd.com/2784)
+[Los Alamos](https://xkcd.com/809)
 
-![Drainage Basins](./random_comic.png)
+![Los Alamos](./random_comic.png)
 
-After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume.
+The test didn't (spoiler alert) destroy the world, but the fact that they were even doing those calculations makes theirs the coolest jobs ever.
 
