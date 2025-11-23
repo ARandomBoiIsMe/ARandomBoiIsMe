@@ -1,6 +1,6 @@
-[Kill Hitler](https://xkcd.com/1063)
+[Voice](https://xkcd.com/1541)
 
-![Kill Hitler](./random_comic.png)
+![Voice](./random_comic.png)
 
-Revised directive: It is forbidden for you to interfere with human history until you've at least taken a class on it.
+Anyway, we should totally go watch a video story or put some food in our normal mouths!
 
