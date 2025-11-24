@@ -1,6 +1,6 @@
-[How to Send a File](https://xkcd.com/2194)
+[A/B](https://xkcd.com/2151)
 
-![How to Send a File](./random_comic.png)
+![A/B](./random_comic.png)
 
-Note: How To will teach you lots of cool stuff about technology, data storage, butterfly migration, and more. Also you will never see your files again.
+We wrote our site in Linear A rather than Aksara Kawi because browser testing showed that Crete script rendered faster than Java script.
 
