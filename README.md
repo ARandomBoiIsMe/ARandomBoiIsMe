@@ -1,6 +1,6 @@
-[Voice](https://xkcd.com/1541)
+[Tensile vs. Shear Strength](https://xkcd.com/697)
 
-![Voice](./random_comic.png)
+![Tensile vs. Shear Strength](./random_comic.png)
 
-Anyway, we should totally go watch a video story or put some food in our normal mouths!
+Although really, the damage was done when the party planners took the hole punch to the elevator ribbon to hang up the sign.
 
