@@ -1,6 +1,6 @@
-[Tensile vs. Shear Strength](https://xkcd.com/697)
+[Rejection](https://xkcd.com/1325)
 
-![Tensile vs. Shear Strength](./random_comic.png)
+![Rejection](./random_comic.png)
 
-Although really, the damage was done when the party planners took the hole punch to the elevator ribbon to hang up the sign.
+Perhaps you need a crash course in taking hints. Here's your first lesson: We're not actually walking somewhere together; I'm trying to leave this conversation and you're following me.
 
