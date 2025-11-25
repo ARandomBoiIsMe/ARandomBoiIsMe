@@ -1,6 +1,6 @@
-[Meta-Alternating Current](https://xkcd.com/2642)
+[Revelation](https://xkcd.com/2512)
 
-![Meta-Alternating Current](./random_comic.png)
+![Revelation](./random_comic.png)
 
-It's always bothered me that you can't cancel out an inverter by putting a second inverter after it.
+And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.
 
