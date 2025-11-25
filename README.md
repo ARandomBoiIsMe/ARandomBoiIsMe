@@ -1,6 +1,6 @@
-[A/B](https://xkcd.com/2151)
+[Meta-Alternating Current](https://xkcd.com/2642)
 
-![A/B](./random_comic.png)
+![Meta-Alternating Current](./random_comic.png)
 
-We wrote our site in Linear A rather than Aksara Kawi because browser testing showed that Crete script rendered faster than Java script.
+It's always bothered me that you can't cancel out an inverter by putting a second inverter after it.
 
