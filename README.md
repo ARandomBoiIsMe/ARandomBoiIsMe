@@ -1,6 +1,6 @@
-[Insight](https://xkcd.com/1215)
+[Party](https://xkcd.com/524)
 
-![Insight](./random_comic.png)
+![Party](./random_comic.png)
 
-The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.
+I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008.  I Accidentally <noun>?  Yo dawg?  Place your bets now!
 
