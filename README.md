@@ -1,6 +1,6 @@
-[Revelation](https://xkcd.com/2512)
+[Insight](https://xkcd.com/1215)
 
-![Revelation](./random_comic.png)
+![Insight](./random_comic.png)
 
-And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.
+The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.
 
