@@ -1,6 +1,6 @@
-[Find You](https://xkcd.com/104)
+[Sledding Discussion](https://xkcd.com/529)
 
-![Find You](./random_comic.png)
+![Sledding Discussion](./random_comic.png)
 
-I'm like the Terminator, except with love!
+If you get your hands on that one, it's the worst place to have a breaking-up conversation.
 
