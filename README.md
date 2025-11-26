@@ -1,6 +1,6 @@
-[Physics Suppression](https://xkcd.com/2113)
+[Find You](https://xkcd.com/104)
 
-![Physics Suppression](./random_comic.png)
+![Find You](./random_comic.png)
 
-If physics had a mafia, I'm pretty sure the BICEP2 mess would have ended in bloodshed.
+I'm like the Terminator, except with love!
 
