@@ -1,6 +1,6 @@
-[Party](https://xkcd.com/524)
+[Physics Suppression](https://xkcd.com/2113)
 
-![Party](./random_comic.png)
+![Physics Suppression](./random_comic.png)
 
-I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008.  I Accidentally <noun>?  Yo dawg?  Place your bets now!
+If physics had a mafia, I'm pretty sure the BICEP2 mess would have ended in bloodshed.
 
