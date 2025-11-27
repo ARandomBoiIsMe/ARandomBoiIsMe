@@ -1,6 +1,6 @@
-[Juno](https://xkcd.com/1703)
+[Fissile Raspberry Isotopes](https://xkcd.com/2504)
 
-![Juno](./random_comic.png)
+![Fissile Raspberry Isotopes](./random_comic.png)
 
-"The name wasn't a tip-off?" "Honestly, at first I thought you were saying 'Juneau'. A gravity assist seemed like a weird way to get to Alaska, but I figured it must be more efficient or something."
+Grandma's shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.
 
