@@ -1,6 +1,6 @@
-[Luna 2](https://xkcd.com/2125)
+[Sphere](https://xkcd.com/1248)
 
-![Luna 2](./random_comic.png)
+![Sphere](./random_comic.png)
 
-The flags were probably vaporized on impact, because we launched it before we had finished figuring out how to land. That makes sense from an engineering standpoint, but also feels like a metaphor.
+This message brought to you by the Society of Astronomers Trapped on the Surface of a Sphere.
 
