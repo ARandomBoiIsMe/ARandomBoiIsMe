@@ -1,6 +1,6 @@
-[Fissile Raspberry Isotopes](https://xkcd.com/2504)
+[Insight](https://xkcd.com/1215)
 
-![Fissile Raspberry Isotopes](./random_comic.png)
+![Insight](./random_comic.png)
 
-Grandma's shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.
+The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.
 
