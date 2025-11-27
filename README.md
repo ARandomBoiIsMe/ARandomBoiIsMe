@@ -1,6 +1,6 @@
-[Sphere](https://xkcd.com/1248)
+[Juno](https://xkcd.com/1703)
 
-![Sphere](./random_comic.png)
+![Juno](./random_comic.png)
 
-This message brought to you by the Society of Astronomers Trapped on the Surface of a Sphere.
+"The name wasn't a tip-off?" "Honestly, at first I thought you were saying 'Juneau'. A gravity assist seemed like a weird way to get to Alaska, but I figured it must be more efficient or something."
 
