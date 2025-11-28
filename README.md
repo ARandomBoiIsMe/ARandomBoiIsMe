@@ -1,6 +1,6 @@
-[Insight](https://xkcd.com/1215)
+[Geothmetic Meandian](https://xkcd.com/2435)
 
-![Insight](./random_comic.png)
+![Geothmetic Meandian](./random_comic.png)
 
-The great thing is, the sentence is really just a reminder to the listener to worry about whatever aspects of the technology they're already feeling alarmist about, which in their mind gives you credit for addressing their biggest anxieties.
+Pythagorean means are nice and all, but throwing the median in the pot is really what turns this into random forest statistics: applying every function you can think of, and then gradually dropping the ones that make the result worse.
 
