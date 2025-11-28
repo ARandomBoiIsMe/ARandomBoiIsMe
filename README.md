@@ -1,6 +1,6 @@
-[Geothmetic Meandian](https://xkcd.com/2435)
+[Couple](https://xkcd.com/355)
 
-![Geothmetic Meandian](./random_comic.png)
+![Couple](./random_comic.png)
 
-Pythagorean means are nice and all, but throwing the median in the pot is really what turns this into random forest statistics: applying every function you can think of, and then gradually dropping the ones that make the result worse.
+Facebook defines relationships.  'Yeah, we would have broken up last night, but the net connection was down.'
 
