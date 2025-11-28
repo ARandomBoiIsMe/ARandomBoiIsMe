@@ -1,6 +1,6 @@
-[Couple](https://xkcd.com/355)
+[Time Traveler Causes of Death](https://xkcd.com/2976)
 
-![Couple](./random_comic.png)
+![Time Traveler Causes of Death](./random_comic.png)
 
-Facebook defines relationships.  'Yeah, we would have broken up last night, but the net connection was down.'
+Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician.
 
