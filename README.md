@@ -1,6 +1,6 @@
-[Time Traveler Causes of Death](https://xkcd.com/2976)
+[Chess Enlightenment](https://xkcd.com/232)
 
-![Time Traveler Causes of Death](./random_comic.png)
+![Chess Enlightenment](./random_comic.png)
 
-Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician.
+You know that 'sweep the pieces off the board and see it in your mind' thing?  Doesn't work.
 
