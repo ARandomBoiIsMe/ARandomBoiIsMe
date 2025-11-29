@@ -1,6 +1,6 @@
-[Spider Paleontology](https://xkcd.com/1747)
+[Backup Batteries](https://xkcd.com/1872)
 
-![Spider Paleontology](./random_comic.png)
+![Backup Batteries](./random_comic.png)
 
-Whenever you see a video of birds doing something weird, remember: Birds are a small subset of dinosaurs, so the weirdness of birds is a small subset of the weirdness of dinosaurs.
+If it falls below 20% full, my bag turns red and I start to panic.
 
