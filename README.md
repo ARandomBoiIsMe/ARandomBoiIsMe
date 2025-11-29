@@ -1,6 +1,6 @@
-[Chess Enlightenment](https://xkcd.com/232)
+[Mushrooms](https://xkcd.com/1749)
 
-![Chess Enlightenment](./random_comic.png)
+![Mushrooms](./random_comic.png)
 
-You know that 'sweep the pieces off the board and see it in your mind' thing?  Doesn't work.
+Evolutionarily speaking, mushrooms are technically a type of ghost.
 
