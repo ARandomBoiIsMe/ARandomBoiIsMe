@@ -1,6 +1,6 @@
-[Mushrooms](https://xkcd.com/1749)
+[Spider Paleontology](https://xkcd.com/1747)
 
-![Mushrooms](./random_comic.png)
+![Spider Paleontology](./random_comic.png)
 
-Evolutionarily speaking, mushrooms are technically a type of ghost.
+Whenever you see a video of birds doing something weird, remember: Birds are a small subset of dinosaurs, so the weirdness of birds is a small subset of the weirdness of dinosaurs.
 
