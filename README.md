@@ -1,6 +1,6 @@
-[Lisp](https://xkcd.com/224)
+[Sky Spotters](https://xkcd.com/1910)
 
-![Lisp](./random_comic.png)
+![Sky Spotters](./random_comic.png)
 
-We lost the documentation on quantum mechanics.  You'll have to decode the regexes yourself.
+Where I live, one of the most common categories of sky object without a weird obsessive spotting community is "lost birthday party balloons," so that might be a good choice—although you risk angering the marine wildlife people, and they have sharks.
 
