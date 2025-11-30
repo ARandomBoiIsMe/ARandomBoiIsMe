@@ -1,6 +1,6 @@
-[Sky Spotters](https://xkcd.com/1910)
+[Incoming Calls](https://xkcd.com/2053)
 
-![Sky Spotters](./random_comic.png)
+![Incoming Calls](./random_comic.png)
 
-Where I live, one of the most common categories of sky object without a weird obsessive spotting community is "lost birthday party balloons," so that might be a good choice—although you risk angering the marine wildlife people, and they have sharks.
+I wonder if that friendly lady ever fixed the problem she was having with her headset.
 
