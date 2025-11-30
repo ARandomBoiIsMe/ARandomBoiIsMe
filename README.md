@@ -1,6 +1,6 @@
-[Secrets](https://xkcd.com/46)
+[Free Speech](https://xkcd.com/1357)
 
-![Secrets](./random_comic.png)
+![Free Speech](./random_comic.png)
 
-I'm a big fan of Kurt Halsey
+I can't remember where I heard this, but someone once said that defending a position by citing free speech is sort of the ultimate concession; you're saying that the most compelling thing you can say for your position is that it's not literally illegal to express.
 
