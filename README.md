@@ -1,6 +1,6 @@
-[Free Speech](https://xkcd.com/1357)
+[Lisp](https://xkcd.com/224)
 
-![Free Speech](./random_comic.png)
+![Lisp](./random_comic.png)
 
-I can't remember where I heard this, but someone once said that defending a position by citing free speech is sort of the ultimate concession; you're saying that the most compelling thing you can say for your position is that it's not literally illegal to express.
+We lost the documentation on quantum mechanics.  You'll have to decode the regexes yourself.
 
