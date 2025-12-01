@@ -1,6 +1,6 @@
-[Meltdown and Spectre](https://xkcd.com/1938)
+[Cubesat Launch](https://xkcd.com/2148)
 
-![Meltdown and Spectre](./random_comic.png)
+![Cubesat Launch](./random_comic.png)
 
-New zero-day vulnerability: In addition to rowhammer, it turns out lots of servers are vulnerable to regular hammers, too.
+Luckily, the damages were partly offset by the prize money we got from accidentally winning the nearby water skiing championship tournament.
 
