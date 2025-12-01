@@ -1,6 +1,6 @@
-[Bad Map Projection: Liquid Resize](https://xkcd.com/1784)
+[Meltdown and Spectre](https://xkcd.com/1938)
 
-![Bad Map Projection: Liquid Resize](./random_comic.png)
+![Meltdown and Spectre](./random_comic.png)
 
-This map preserves the shapes of Tissot's indicatrices pretty well, as long as you draw them in before running the resize.
+New zero-day vulnerability: In addition to rowhammer, it turns out lots of servers are vulnerable to regular hammers, too.
 
