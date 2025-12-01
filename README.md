@@ -1,6 +1,6 @@
-[Hotel Room Party](https://xkcd.com/2232)
+[Bad Map Projection: Liquid Resize](https://xkcd.com/1784)
 
-![Hotel Room Party](./random_comic.png)
+![Bad Map Projection: Liquid Resize](./random_comic.png)
 
-[proudly greeting the hotel manager at the door] "Did I do a good job?"
+This map preserves the shapes of Tissot's indicatrices pretty well, as long as you draw them in before running the resize.
 
