@@ -1,6 +1,6 @@
-[Incoming Calls](https://xkcd.com/2053)
+[Hotel Room Party](https://xkcd.com/2232)
 
-![Incoming Calls](./random_comic.png)
+![Hotel Room Party](./random_comic.png)
 
-I wonder if that friendly lady ever fixed the problem she was having with her headset.
+[proudly greeting the hotel manager at the door] "Did I do a good job?"
 
