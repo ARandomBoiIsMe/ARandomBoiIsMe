@@ -1,6 +1,6 @@
-[Meteorite Identification](https://xkcd.com/1723)
+[Proteins](https://xkcd.com/1430)
 
-![Meteorite Identification](./random_comic.png)
+![Proteins](./random_comic.png)
 
-Click for an actual flowchart for identifying a meteorite. My favorite part is how 'Did someone see it fall? -> Yes' points to 'NOT A METEORITE.' This is not a mistake.
+Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!
 
