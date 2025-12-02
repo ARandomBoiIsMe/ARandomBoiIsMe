@@ -1,6 +1,6 @@
-[Vows](https://xkcd.com/1100)
+[Meteorite Identification](https://xkcd.com/1723)
 
-![Vows](./random_comic.png)
+![Meteorite Identification](./random_comic.png)
 
-So, um. Do you want to get a drink after the game?
+Click for an actual flowchart for identifying a meteorite. My favorite part is how 'Did someone see it fall? -> Yes' points to 'NOT A METEORITE.' This is not a mistake.
 
