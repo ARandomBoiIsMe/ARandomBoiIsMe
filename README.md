@@ -1,6 +1,6 @@
-[Cubesat Launch](https://xkcd.com/2148)
+[Vows](https://xkcd.com/1100)
 
-![Cubesat Launch](./random_comic.png)
+![Vows](./random_comic.png)
 
-Luckily, the damages were partly offset by the prize money we got from accidentally winning the nearby water skiing championship tournament.
+So, um. Do you want to get a drink after the game?
 
