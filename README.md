@@ -1,6 +1,6 @@
-[Kites](https://xkcd.com/1614)
+[Emojic 8 Ball](https://xkcd.com/1525)
 
-![Kites](./random_comic.png)
+![Emojic 8 Ball](./random_comic.png)
 
-[Dog returns with the end of a string in its mouth] [Voice drifts down from the sky] Kites are fun!
+
 
