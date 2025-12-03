@@ -1,6 +1,6 @@
-[ContextBot](https://xkcd.com/1085)
+[Doors of Durin](https://xkcd.com/1218)
 
-![ContextBot](./random_comic.png)
+![Doors of Durin](./random_comic.png)
 
-If you read all vaguebooking/vaguetweeting with the assumption that they're saying everything they can without revealing classified military information, the internet gets way more exciting.
+If we get the doors open and plug up the dam on the Sirannon so the water rises a little, the pool will start draining into Moria. How do you think the Watcher would fare against a drenched Balrog?
 
