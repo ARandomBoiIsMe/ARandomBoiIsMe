@@ -1,6 +1,6 @@
-[Simple](https://xkcd.com/547)
+[Santa Facts](https://xkcd.com/1933)
 
-![Simple](./random_comic.png)
+![Santa Facts](./random_comic.png)
 
-Actually, I think if all higher math professors had to write for the Simple English Wikipedia for a year, we'd be in much better shape academically.
+We've gotten him up to 20% milk and cookies through an aggressive public campaign, but that seems to be his dietary limit. Anything above that and he starts developing nutritional deficiencies.
 
