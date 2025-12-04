@@ -1,6 +1,6 @@
-[Success](https://xkcd.com/349)
+[Simple](https://xkcd.com/547)
 
-![Success](./random_comic.png)
+![Simple](./random_comic.png)
 
-40% of OpenBSD installs lead to shark attacks.  It's their only standing security issue.
+Actually, I think if all higher math professors had to write for the Simple English Wikipedia for a year, we'd be in much better shape academically.
 
