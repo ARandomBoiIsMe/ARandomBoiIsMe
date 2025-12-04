@@ -1,6 +1,6 @@
-[Making Things Difficult](https://xkcd.com/996)
+[Success](https://xkcd.com/349)
 
-![Making Things Difficult](./random_comic.png)
+![Success](./random_comic.png)
 
-Favorite mastectomy breast prosthesis idea: a fake boob containing a spare rechargable battery, accessed via a nipple USB port. Complete with a ring of LED charge indicators in the areola!
+40% of OpenBSD installs lead to shark attacks.  It's their only standing security issue.
 
