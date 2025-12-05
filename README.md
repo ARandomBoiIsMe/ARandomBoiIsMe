@@ -1,6 +1,6 @@
-[Santa Facts](https://xkcd.com/1933)
+[Awful People](https://xkcd.com/2548)
 
-![Santa Facts](./random_comic.png)
+![Awful People](./random_comic.png)
 
-We've gotten him up to 20% milk and cookies through an aggressive public campaign, but that seems to be his dietary limit. Anything above that and he starts developing nutritional deficiencies.
+Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.
 
