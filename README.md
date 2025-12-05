@@ -1,6 +1,6 @@
-[News Story Reaction](https://xkcd.com/2505)
+[Revolutionary](https://xkcd.com/675)
 
-![News Story Reaction](./random_comic.png)
+![Revolutionary](./random_comic.png)
 
-Unless the next line is, "After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph."
+I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.
 
