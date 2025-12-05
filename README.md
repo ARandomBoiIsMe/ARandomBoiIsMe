@@ -1,6 +1,6 @@
-[Awful People](https://xkcd.com/2548)
+[News Story Reaction](https://xkcd.com/2505)
 
-![Awful People](./random_comic.png)
+![News Story Reaction](./random_comic.png)
 
-Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.
+Unless the next line is, "After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph."
 
