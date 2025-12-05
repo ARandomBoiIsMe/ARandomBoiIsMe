@@ -1,6 +1,6 @@
-[Revolutionary](https://xkcd.com/675)
+[Pressures](https://xkcd.com/1067)
 
-![Revolutionary](./random_comic.png)
+![Pressures](./random_comic.png)
 
-I mean, what's more likely -- that I have uncovered fundamental flaws in this field that no one in it has ever thought about, or that I need to read a little more?  Hint: it's the one that involves less work.
+Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.
 
