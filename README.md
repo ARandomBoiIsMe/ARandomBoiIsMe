@@ -1,6 +1,6 @@
-[Sleet](https://xkcd.com/511)
+[Bad Code](https://xkcd.com/1926)
 
-![Sleet](./random_comic.png)
+![Bad Code](./random_comic.png)
 
-I mean, I can barely hear myself complaining about Battlestar Galactica.
+"Oh my God, why did you scotch-tape a bunch of hammers together?" "It's ok! Nothing depends on this wall being destroyed efficiently."
 
