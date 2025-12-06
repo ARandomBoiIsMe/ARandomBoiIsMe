@@ -1,6 +1,6 @@
-[Pressures](https://xkcd.com/1067)
+[Sleet](https://xkcd.com/511)
 
-![Pressures](./random_comic.png)
+![Sleet](./random_comic.png)
 
-Everyone's caught by surprise when a theory of quantum gravity is developed by a sound technician wearing patent leather shoes while editing Clerks II.
+I mean, I can barely hear myself complaining about Battlestar Galactica.
 
