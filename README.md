@@ -1,6 +1,6 @@
-[Bad Code](https://xkcd.com/1926)
+[xkcd Phone 2000](https://xkcd.com/2000)
 
-![Bad Code](./random_comic.png)
+![xkcd Phone 2000](./random_comic.png)
 
-"Oh my God, why did you scotch-tape a bunch of hammers together?" "It's ok! Nothing depends on this wall being destroyed efficiently."
+Our retina display features hundreds of pixels per inch in the central fovea region.
 
