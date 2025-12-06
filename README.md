@@ -1,6 +1,6 @@
-[xkcd Phone 2000](https://xkcd.com/2000)
+[Wirecutter](https://xkcd.com/2536)
 
-![xkcd Phone 2000](./random_comic.png)
+![Wirecutter](./random_comic.png)
 
-Our retina display features hundreds of pixels per inch in the central fovea region.
+This was always going to be a controversial Wirecutter post, but what really got them in trouble were their 'budget' and 'upgrade' picks.
 
