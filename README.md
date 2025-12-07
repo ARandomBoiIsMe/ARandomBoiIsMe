@@ -1,6 +1,6 @@
-[Wirecutter](https://xkcd.com/2536)
+[Pinouts](https://xkcd.com/2317)
 
-![Wirecutter](./random_comic.png)
+![Pinouts](./random_comic.png)
 
-This was always going to be a controversial Wirecutter post, but what really got them in trouble were their 'budget' and 'upgrade' picks.
+The other side of USB-C is rotationally symmetric except that the 3rd pin from the top is designated FIREWIRE TRIBUTE PIN.
 
