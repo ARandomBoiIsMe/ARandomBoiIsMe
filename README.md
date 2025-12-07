@@ -1,6 +1,6 @@
-[Job Interview](https://xkcd.com/1293)
+[Right-Hand Rule](https://xkcd.com/199)
 
-![Job Interview](./random_comic.png)
+![Right-Hand Rule](./random_comic.png)
 
-When you talk about the job experience you'll give me, why do you pronounce 'job' with a long 'o'?
+To really expand your mind try some noncartesian porn.  Edwin Abbot Abbott has nothing on 'Girls on Girls in Tightly Closed Nonorientable Spaces'.
 
