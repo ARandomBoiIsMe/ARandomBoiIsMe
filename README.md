@@ -1,6 +1,6 @@
-[Right-Hand Rule](https://xkcd.com/199)
+[Laser Danger](https://xkcd.com/3108)
 
-![Right-Hand Rule](./random_comic.png)
+![Laser Danger](./random_comic.png)
 
-To really expand your mind try some noncartesian porn.  Edwin Abbot Abbott has nothing on 'Girls on Girls in Tightly Closed Nonorientable Spaces'.
+To combat the threat, many airlines are installing wing-mounted spray bottles.
 
