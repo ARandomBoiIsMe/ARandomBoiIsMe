@@ -1,6 +1,6 @@
-[Pinouts](https://xkcd.com/2317)
+[Job Interview](https://xkcd.com/1293)
 
-![Pinouts](./random_comic.png)
+![Job Interview](./random_comic.png)
 
-The other side of USB-C is rotationally symmetric except that the 3rd pin from the top is designated FIREWIRE TRIBUTE PIN.
+When you talk about the job experience you'll give me, why do you pronounce 'job' with a long 'o'?
 
