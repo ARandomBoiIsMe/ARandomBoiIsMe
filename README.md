@@ -1,6 +1,6 @@
-[Laser Danger](https://xkcd.com/3108)
+[1337: Part 4](https://xkcd.com/344)
 
-![Laser Danger](./random_comic.png)
+![1337: Part 4](./random_comic.png)
 
-To combat the threat, many airlines are installing wing-mounted spray bottles.
+Mrs. Roberts would have gotten up sooner, of course, but she was busy piping find ~ and find ~nomad into xargs shred, just in case.
 
