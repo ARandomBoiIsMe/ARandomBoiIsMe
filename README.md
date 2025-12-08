@@ -1,6 +1,6 @@
-[1337: Part 4](https://xkcd.com/344)
+[Surface Area](https://xkcd.com/1389)
 
-![1337: Part 4](./random_comic.png)
+![Surface Area](./random_comic.png)
 
-Mrs. Roberts would have gotten up sooner, of course, but she was busy piping find ~ and find ~nomad into xargs shred, just in case.
+This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle.
 
