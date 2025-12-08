@@ -1,6 +1,6 @@
-[Surface Area](https://xkcd.com/1389)
+[Heat Index](https://xkcd.com/2026)
 
-![Surface Area](./random_comic.png)
+![Heat Index](./random_comic.png)
 
-This isn't an informational illustration; this is a thing I think we should do. First, we'll need a gigantic spool of thread. Next, we'll need some kind of ... hmm, time to head to Seattle.
+The heat index is calculated via looking up the "effective temperature" in a table of air temperature and humidity values, and then adding a bunch more degrees because it feels WAY hotter than that.
 
