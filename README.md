@@ -1,6 +1,6 @@
-[Heat Index](https://xkcd.com/2026)
+[Love Songs](https://xkcd.com/2870)
 
-![Heat Index](./random_comic.png)
+![Love Songs](./random_comic.png)
 
-The heat index is calculated via looking up the "effective temperature" in a table of air temperature and humidity values, and then adding a bunch more degrees because it feels WAY hotter than that.
+The Piña Colada song carves a trajectory across the chart over the course of the song.
 
