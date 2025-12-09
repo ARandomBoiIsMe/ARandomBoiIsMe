@@ -1,6 +1,6 @@
-[Mine Captcha](https://xkcd.com/2496)
+[Battle Room](https://xkcd.com/241)
 
-![Mine Captcha](./random_comic.png)
+![Battle Room](./random_comic.png)
 
-This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.
+Bean actually sabotaged it just to give Dink the excuse to make that joke.
 
