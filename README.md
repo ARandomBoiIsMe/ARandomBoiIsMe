@@ -1,6 +1,6 @@
-[Goodhart's Law](https://xkcd.com/2899)
+[Social Media](https://xkcd.com/1239)
 
-![Goodhart's Law](./random_comic.png)
+![Social Media](./random_comic.png)
 
-[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour.
+The social media reaction to this asteroid announcement has been sharply negative. Care to respond?
 
