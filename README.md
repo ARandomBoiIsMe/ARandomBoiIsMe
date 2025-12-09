@@ -1,6 +1,6 @@
-[Battle Room](https://xkcd.com/241)
+[Goodhart's Law](https://xkcd.com/2899)
 
-![Battle Room](./random_comic.png)
+![Goodhart's Law](./random_comic.png)
 
-Bean actually sabotaged it just to give Dink the excuse to make that joke.
+[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour.
 
