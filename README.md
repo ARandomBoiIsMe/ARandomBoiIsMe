@@ -1,6 +1,6 @@
-[Love Songs](https://xkcd.com/2870)
+[Mine Captcha](https://xkcd.com/2496)
 
-![Love Songs](./random_comic.png)
+![Mine Captcha](./random_comic.png)
 
-The Piña Colada song carves a trajectory across the chart over the course of the song.
+This data is actually going into improving our self-driving car project, so hurry up--it's almost at the minefield.
 
