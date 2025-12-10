@@ -1,6 +1,6 @@
-[Play-By-Play](https://xkcd.com/1593)
+[90's Kid Space Program](https://xkcd.com/2461)
 
-![Play-By-Play](./random_comic.png)
+![90's Kid Space Program](./random_comic.png)
 
-The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail.
+NASA may not want to admit it, but at this point they ARE the 90's Kid Space Program.
 
