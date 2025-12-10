@@ -1,6 +1,6 @@
-[Social Media](https://xkcd.com/1239)
+[Anti-Drone Eagles](https://xkcd.com/1842)
 
-![Social Media](./random_comic.png)
+![Anti-Drone Eagles](./random_comic.png)
 
-The social media reaction to this asteroid announcement has been sharply negative. Care to respond?
+It's cool, it's totally ethical--they're all programmed to hunt whichever bird of prey is most numerous at the moment, so they leave the endangered ones alone until near the end.
 
