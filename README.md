@@ -1,6 +1,6 @@
-[Artemis Quote](https://xkcd.com/2668)
+[Play-By-Play](https://xkcd.com/1593)
 
-![Artemis Quote](./random_comic.png)
+![Play-By-Play](./random_comic.png)
 
-Another option: "It is an honor to be the first human to set foot on the moon."
+The thrower started hitting the bats too much, so the king of the game told him to leave and brought out another thrower from thrower jail.
 
