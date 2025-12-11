@@ -1,6 +1,6 @@
-[Green Flash](https://xkcd.com/766)
+[2](https://xkcd.com/2614)
 
-![Green Flash](./random_comic.png)
+![2](./random_comic.png)
 
-The exact cause of the phenomenon is unknown, but it's thought to be linked to atmospheric refraction and you getting a really cool car.
+It's like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.
 
