@@ -1,6 +1,6 @@
-[2](https://xkcd.com/2614)
+[Earth Temperature Timeline](https://xkcd.com/1732)
 
-![2](./random_comic.png)
+![Earth Temperature Timeline](./random_comic.png)
 
-It's like sigma summation notation, except instead of summing the argument over all values of i, you 2 the argument over all values of 2.
+[After setting your car on fire] Listen, your car's temperature has changed before.
 
