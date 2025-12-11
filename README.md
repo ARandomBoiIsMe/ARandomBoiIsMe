@@ -1,6 +1,6 @@
-[90's Kid Space Program](https://xkcd.com/2461)
+[Green Flash](https://xkcd.com/766)
 
-![90's Kid Space Program](./random_comic.png)
+![Green Flash](./random_comic.png)
 
-NASA may not want to admit it, but at this point they ARE the 90's Kid Space Program.
+The exact cause of the phenomenon is unknown, but it's thought to be linked to atmospheric refraction and you getting a really cool car.
 
