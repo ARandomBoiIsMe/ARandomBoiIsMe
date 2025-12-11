@@ -1,6 +1,6 @@
-[Earth Temperature Timeline](https://xkcd.com/1732)
+[Unscientific](https://xkcd.com/397)
 
-![Earth Temperature Timeline](./random_comic.png)
+![Unscientific](./random_comic.png)
 
-[After setting your car on fire] Listen, your car's temperature has changed before.
+Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism.  We'll also examine the existence of God and whether true love exists.
 
