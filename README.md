@@ -1,6 +1,6 @@
-[Automation](https://xkcd.com/1319)
+[Sagan-Man](https://xkcd.com/663)
 
-![Automation](./random_comic.png)
+![Sagan-Man](./random_comic.png)
 
-'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.
+They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.
 
