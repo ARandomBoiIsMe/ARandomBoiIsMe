@@ -1,6 +1,6 @@
-[Sagan-Man](https://xkcd.com/663)
+[Accident](https://xkcd.com/161)
 
-![Sagan-Man](./random_comic.png)
+![Accident](./random_comic.png)
 
-They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.
+As far as treachery-as-driving-music goes, Katamari music is matched only by Guitar Hero music.
 
