@@ -1,6 +1,6 @@
-[Accident](https://xkcd.com/161)
+[Complexion](https://xkcd.com/700)
 
-![Accident](./random_comic.png)
+![Complexion](./random_comic.png)
 
-As far as treachery-as-driving-music goes, Katamari music is matched only by Guitar Hero music.
+Why do all my attempts at science end with me being punched by Batman?  (P.S. benzoyl peroxide soap works great.)
 
