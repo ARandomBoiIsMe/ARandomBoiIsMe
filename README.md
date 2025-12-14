@@ -1,6 +1,6 @@
-[Mispronunciation](https://xkcd.com/1816)
+[Twitter](https://xkcd.com/491)
 
-![Mispronunciation](./random_comic.png)
+![Twitter](./random_comic.png)
 
-I pronounce epitome "EPPY-tome", but EpiPen "uh-PIE-pen".
+If long tooltips / cut off for you / then upgrade from / Firefox 2 / Burma Shave
 
