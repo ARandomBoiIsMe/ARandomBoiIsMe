@@ -1,6 +1,6 @@
-[Diacritics](https://xkcd.com/1647)
+[Mispronunciation](https://xkcd.com/1816)
 
-![Diacritics](./random_comic.png)
+![Mispronunciation](./random_comic.png)
 
-Using diacritics correctly is not my forté.
+I pronounce epitome "EPPY-tome", but EpiPen "uh-PIE-pen".
 
