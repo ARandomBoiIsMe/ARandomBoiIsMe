@@ -1,6 +1,6 @@
-[Clutter](https://xkcd.com/1983)
+[Diacritics](https://xkcd.com/1647)
 
-![Clutter](./random_comic.png)
+![Diacritics](./random_comic.png)
 
-I found a copy of The Life-Changing Magic of Tidying Up, but the idea of reading it didn't spark joy, so I gave it away.
+Using diacritics correctly is not my forté.
 
