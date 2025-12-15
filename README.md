@@ -1,6 +1,6 @@
-[Color Models](https://xkcd.com/1882)
+[Thanksgiving Arguments](https://xkcd.com/2858)
 
-![Color Models](./random_comic.png)
+![Thanksgiving Arguments](./random_comic.png)
 
-What if what *I* see as blue, *you* see as a slightly different blue because you're using Chrome instead of Firefox and despite a decade of messing with profiles we STILL can't get this right somehow.
+An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it.
 
