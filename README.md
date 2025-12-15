@@ -1,6 +1,6 @@
-[Cautionary Ghost](https://xkcd.com/1108)
+[Tumblr](https://xkcd.com/1025)
 
-![Cautionary Ghost](./random_comic.png)
+![Tumblr](./random_comic.png)
 
-But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.
+Dot Tumblr Dot Com, on the other hand, would be an awful name for a band, if only because of how hard it would be to direct people to your band's website.
 
