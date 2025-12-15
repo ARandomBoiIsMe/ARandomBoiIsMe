@@ -1,6 +1,6 @@
-[Cicadas](https://xkcd.com/2263)
+[Color Models](https://xkcd.com/1882)
 
-![Cicadas](./random_comic.png)
+![Color Models](./random_comic.png)
 
-After a while you adjust to the new cicadian rhythm.
+What if what *I* see as blue, *you* see as a slightly different blue because you're using Chrome instead of Firefox and despite a decade of messing with profiles we STILL can't get this right somehow.
 
