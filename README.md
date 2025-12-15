@@ -1,6 +1,6 @@
-[Thanksgiving Arguments](https://xkcd.com/2858)
+[Cautionary Ghost](https://xkcd.com/1108)
 
-![Thanksgiving Arguments](./random_comic.png)
+![Cautionary Ghost](./random_comic.png)
 
-An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it.
+But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.
 
