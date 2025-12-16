@@ -1,6 +1,6 @@
-[Photoshops](https://xkcd.com/331)
+[Orbitals](https://xkcd.com/658)
 
-![Photoshops](./random_comic.png)
+![Orbitals](./random_comic.png)
 
-When I look into your eyes, I see JPEG artifacts.  I can tell by the pixels that we're wrong for each other.
+Except the people filtering in late are the partiers, so you end up with drunken makeouts in the living room and the next roommate to return home has to sleep in the hall lounge orbital.
 
