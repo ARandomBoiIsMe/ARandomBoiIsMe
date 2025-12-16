@@ -1,6 +1,6 @@
-[Engineer Syllogism](https://xkcd.com/1570)
+[Photoshops](https://xkcd.com/331)
 
-![Engineer Syllogism](./random_comic.png)
+![Photoshops](./random_comic.png)
 
-The less common, even worse outcome: "3: [everyone in the financial system] WOW, where did all my money just go?"
+When I look into your eyes, I see JPEG artifacts.  I can tell by the pixels that we're wrong for each other.
 
