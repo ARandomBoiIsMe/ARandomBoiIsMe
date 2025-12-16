@@ -1,6 +1,6 @@
-[Orbitals](https://xkcd.com/658)
+[Commented](https://xkcd.com/156)
 
-![Orbitals](./random_comic.png)
+![Commented](./random_comic.png)
 
-Except the people filtering in late are the partiers, so you end up with drunken makeouts in the living room and the next roommate to return home has to sleep in the hall lounge orbital.
+Your IDE's color may vary.
 
