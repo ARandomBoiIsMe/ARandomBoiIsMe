@@ -1,6 +1,6 @@
-[Tumblr](https://xkcd.com/1025)
+[Engineer Syllogism](https://xkcd.com/1570)
 
-![Tumblr](./random_comic.png)
+![Engineer Syllogism](./random_comic.png)
 
-Dot Tumblr Dot Com, on the other hand, would be an awful name for a band, if only because of how hard it would be to direct people to your band's website.
+The less common, even worse outcome: "3: [everyone in the financial system] WOW, where did all my money just go?"
 
