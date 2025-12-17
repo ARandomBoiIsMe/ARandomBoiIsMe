@@ -1,6 +1,6 @@
-[Astrophysics](https://xkcd.com/1758)
+[Weather Station](https://xkcd.com/2737)
 
-![Astrophysics](./random_comic.png)
+![Weather Station](./random_comic.png)
 
-DEPARTMENT OF NEUROSCIENCE / Motto: "If I hear the phrase 'mirror neurons' I swear to God I will flip this table."
+'Pour one out for precipitation data integrity,' I say, solemnly upending the glass into the rain gauge.
 
