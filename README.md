@@ -1,6 +1,6 @@
-[Weather Station](https://xkcd.com/2737)
+[Modern OSI Model](https://xkcd.com/2105)
 
-![Weather Station](./random_comic.png)
+![Modern OSI Model](./random_comic.png)
 
-'Pour one out for precipitation data integrity,' I say, solemnly upending the glass into the rain gauge.
+In retrospect, I shouldn't have used each layer of the OSI model as one of my horcruxes.
 
