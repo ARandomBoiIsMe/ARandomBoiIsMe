@@ -1,6 +1,6 @@
-[Commented](https://xkcd.com/156)
+[Nintendo Surgeon](https://xkcd.com/218)
 
-![Commented](./random_comic.png)
+![Nintendo Surgeon](./random_comic.png)
 
-Your IDE's color may vary.
+Scary thought #138: Raptors coming down the waterslide behind me.
 
