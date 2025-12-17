@@ -1,6 +1,6 @@
-[Nintendo Surgeon](https://xkcd.com/218)
+[Astrophysics](https://xkcd.com/1758)
 
-![Nintendo Surgeon](./random_comic.png)
+![Astrophysics](./random_comic.png)
 
-Scary thought #138: Raptors coming down the waterslide behind me.
+DEPARTMENT OF NEUROSCIENCE / Motto: "If I hear the phrase 'mirror neurons' I swear to God I will flip this table."
 
