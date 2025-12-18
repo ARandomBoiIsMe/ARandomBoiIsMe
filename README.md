@@ -1,6 +1,6 @@
-[Modern OSI Model](https://xkcd.com/2105)
+[Virtual Assistant](https://xkcd.com/1931)
 
-![Modern OSI Model](./random_comic.png)
+![Virtual Assistant](./random_comic.png)
 
-In retrospect, I shouldn't have used each layer of the OSI model as one of my horcruxes.
+If you ask it to please turn off that feature, it apologizes a whole bunch and promises to try to be quieter, then switches to a slightly lower-volume version of the clip with "sorry!" after the louder sounds.
 
