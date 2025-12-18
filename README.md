@@ -1,6 +1,6 @@
-[Fuzzy Blob](https://xkcd.com/2472)
+[Time Machine](https://xkcd.com/716)
 
-![Fuzzy Blob](./random_comic.png)
+![Time Machine](./random_comic.png)
 
-If there's no dome, how do you explain the irregularities the board discovered in the zoning permits issued in that area!?
+We never see any time travelers because they all discover it's a huge mistake. This is also why your friend at the lab suddenly looked about a year older recently.
 
