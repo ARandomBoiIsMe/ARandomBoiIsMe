@@ -1,6 +1,6 @@
-[Time Machine](https://xkcd.com/716)
+[Fermat's First Theorem](https://xkcd.com/2689)
 
-![Time Machine](./random_comic.png)
+![Fermat's First Theorem](./random_comic.png)
 
-We never see any time travelers because they all discover it's a huge mistake. This is also why your friend at the lab suddenly looked about a year older recently.
+Mathematicians quickly determined that it spells ANT BNECN, an unusual theoretical dish which was not successfully cooked until Andrew Wiles made it for breakfast in the 1990s.
 
