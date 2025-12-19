@@ -1,6 +1,6 @@
-[Life Goals](https://xkcd.com/1750)
+[Snare](https://xkcd.com/1243)
 
-![Life Goals](./random_comic.png)
+![Snare](./random_comic.png)
 
-I got to check off 'Make something called xkcd' early.
+It's going in A collection of satellites skewered with pins and mounted in display boxes. Not necessarily MY collection.
 
