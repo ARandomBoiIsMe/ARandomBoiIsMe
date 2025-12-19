@@ -1,6 +1,6 @@
-[Flow Charts](https://xkcd.com/518)
+[Life Goals](https://xkcd.com/1750)
 
-![Flow Charts](./random_comic.png)
+![Life Goals](./random_comic.png)
 
-At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!
+I got to check off 'Make something called xkcd' early.
 
