@@ -1,6 +1,6 @@
-[Fermat's First Theorem](https://xkcd.com/2689)
+[Mouse Turbines](https://xkcd.com/2641)
 
-![Fermat's First Theorem](./random_comic.png)
+![Mouse Turbines](./random_comic.png)
 
-Mathematicians quickly determined that it spells ANT BNECN, an unusual theoretical dish which was not successfully cooked until Andrew Wiles made it for breakfast in the 1990s.
+It's sad seeing those videos of turbine blade being torn apart in high winds, but it's the only way they can disperse their seeds.
 
