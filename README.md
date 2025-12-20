@@ -1,6 +1,6 @@
-[Coupon Code](https://xkcd.com/837)
+[The Search](https://xkcd.com/638)
 
-![Coupon Code](./random_comic.png)
+![The Search](./random_comic.png)
 
-This also guarantees he won't be one of the ones to get a bobcat.
+I am so excited about the Kepler mission. This is the second most important thing our species has ever done, right behind inventing the concept of delivery pizza.
 
