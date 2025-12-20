@@ -1,6 +1,6 @@
-[The Search](https://xkcd.com/638)
+[Universal Dreams](https://xkcd.com/1943)
 
-![The Search](./random_comic.png)
+![Universal Dreams](./random_comic.png)
 
-I am so excited about the Kepler mission. This is the second most important thing our species has ever done, right behind inventing the concept of delivery pizza.
+"That's ... unsettling." "Yeah, those definitely don't sound like the normal drea– ＬＡＴＩＴＵＤＥ ＴＨＲＥＥ ＦＩＶＥ ＰＯＩＮＴ..." 
 
