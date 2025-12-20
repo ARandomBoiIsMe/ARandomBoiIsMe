@@ -1,6 +1,6 @@
-[Snare](https://xkcd.com/1243)
+[Coupon Code](https://xkcd.com/837)
 
-![Snare](./random_comic.png)
+![Coupon Code](./random_comic.png)
 
-It's going in A collection of satellites skewered with pins and mounted in display boxes. Not necessarily MY collection.
+This also guarantees he won't be one of the ones to get a bobcat.
 
