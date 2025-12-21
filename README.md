@@ -1,6 +1,6 @@
-[Ice Core](https://xkcd.com/2902)
+[US Survey Foot](https://xkcd.com/2888)
 
-![Ice Core](./random_comic.png)
+![US Survey Foot](./random_comic.png)
 
-If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.
+Subway refuses to answer my questions about whether it's an International Footlong or a US Survey Footlong. A milligram of sandwich is at stake!
 
