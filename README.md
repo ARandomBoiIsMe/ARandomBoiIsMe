@@ -1,6 +1,6 @@
-[US Survey Foot](https://xkcd.com/2888)
+[Spice Girl](https://xkcd.com/1511)
 
-![US Survey Foot](./random_comic.png)
+![Spice Girl](./random_comic.png)
 
-Subway refuses to answer my questions about whether it's an International Footlong or a US Survey Footlong. A milligram of sandwich is at stake!
+Haha, you'll see!
 
