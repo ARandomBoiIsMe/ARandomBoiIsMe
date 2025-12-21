@@ -1,6 +1,6 @@
-[Parallel Universe](https://xkcd.com/105)
+[Game AIs](https://xkcd.com/1002)
 
-![Parallel Universe](./random_comic.png)
+![Game AIs](./random_comic.png)
 
-It's possible.  Better to be on the safe side.
+The top computer champion at Seven Minutes in Heaven is a Honda-built Realdoll, but to date it has been unable to outperform the human Seven Minutes in Heaven champion, Ken Jennings.
 
