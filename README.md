@@ -1,6 +1,6 @@
-[Spice Girl](https://xkcd.com/1511)
+[Parallel Universe](https://xkcd.com/105)
 
-![Spice Girl](./random_comic.png)
+![Parallel Universe](./random_comic.png)
 
-Haha, you'll see!
+It's possible.  Better to be on the safe side.
 
