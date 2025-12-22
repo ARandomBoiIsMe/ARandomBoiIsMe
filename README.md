@@ -1,6 +1,6 @@
-[Brain](https://xkcd.com/212)
+[Gnome Ann](https://xkcd.com/1704)
 
-![Brain](./random_comic.png)
+![Gnome Ann](./random_comic.png)
 
-The rest is fear of raptors.
+President Andrew Johnson once said, "If I am to be shot at, I want Gnome Ann to be in the way of the bullet."
 
