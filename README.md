@@ -1,6 +1,6 @@
-[Two-Factor Security Key](https://xkcd.com/2522)
+[The Sky](https://xkcd.com/1556)
 
-![Two-Factor Security Key](./random_comic.png)
+![The Sky](./random_comic.png)
 
-The bruises on my fingertips are my proof of work.
+The other half has some cool shipwrecks, rocks, and snakes, but if you move those out of the way, it also has more sky.
 
