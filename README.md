@@ -1,6 +1,6 @@
-[Experiment](https://xkcd.com/669)
+[New Study](https://xkcd.com/1295)
 
-![Experiment](./random_comic.png)
+![New Study](./random_comic.png)
 
-The other two are still lost on the infinite plane of uniform density.
+When the results are published, no one will be sure whether to report on them again.
 
