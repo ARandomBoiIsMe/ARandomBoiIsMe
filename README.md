@@ -1,6 +1,6 @@
-[Gnome Ann](https://xkcd.com/1704)
+[Experiment](https://xkcd.com/669)
 
-![Gnome Ann](./random_comic.png)
+![Experiment](./random_comic.png)
 
-President Andrew Johnson once said, "If I am to be shot at, I want Gnome Ann to be in the way of the bullet."
+The other two are still lost on the infinite plane of uniform density.
 
