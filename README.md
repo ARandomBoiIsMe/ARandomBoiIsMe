@@ -1,6 +1,6 @@
-[The Glass Necklace](https://xkcd.com/260)
+[Focus Knob](https://xkcd.com/1796)
 
-![The Glass Necklace](./random_comic.png)
+![Focus Knob](./random_comic.png)
 
-Well, for some value of 'actually work'.
+Maybe if I spin it back and forth really fast I can do some kind of pulse-width modulation.
 
