@@ -1,6 +1,6 @@
-[Down](https://xkcd.com/2800)
+[Call My Cell](https://xkcd.com/2900)
 
-![Down](./random_comic.png)
+![Call My Cell](./random_comic.png)
 
-It's just that I get nervous about heights.
+'Hey, can you call my cell?' '...I'm trying, but it says this number is blocked?' 'Ok, thanks, just checking.'
 
