@@ -1,6 +1,6 @@
-[Backups](https://xkcd.com/1718)
+[Launch Risk](https://xkcd.com/2107)
 
-![Backups](./random_comic.png)
+![Launch Risk](./random_comic.png)
 
-Maybe you should keep FEWER backups; it sounds like throwing away everything you've done and starting from scratch might not be the worst idea.
+Don't worry--you're less likely to die from a space launch than from a shark attack. The survival rate is pretty high for both!
 
