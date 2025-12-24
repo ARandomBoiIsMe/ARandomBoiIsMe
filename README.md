@@ -1,6 +1,6 @@
-[Call My Cell](https://xkcd.com/2900)
+[Backups](https://xkcd.com/1718)
 
-![Call My Cell](./random_comic.png)
+![Backups](./random_comic.png)
 
-'Hey, can you call my cell?' '...I'm trying, but it says this number is blocked?' 'Ok, thanks, just checking.'
+Maybe you should keep FEWER backups; it sounds like throwing away everything you've done and starting from scratch might not be the worst idea.
 
