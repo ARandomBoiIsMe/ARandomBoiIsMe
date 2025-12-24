@@ -1,6 +1,6 @@
-[Focus Knob](https://xkcd.com/1796)
+[Down](https://xkcd.com/2800)
 
-![Focus Knob](./random_comic.png)
+![Down](./random_comic.png)
 
-Maybe if I spin it back and forth really fast I can do some kind of pulse-width modulation.
+It's just that I get nervous about heights.
 
