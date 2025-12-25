@@ -1,6 +1,6 @@
-[Rey and Kylo](https://xkcd.com/2229)
+[Tween Bromance](https://xkcd.com/919)
 
-![Rey and Kylo](./random_comic.png)
+![Tween Bromance](./random_comic.png)
 
-We're like 10+ movies in and the focus has been almost entirely on the WARS half.
+Verbiage. Va-jay-jay. Irregardless.
 
