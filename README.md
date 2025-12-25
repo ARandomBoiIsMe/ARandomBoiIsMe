@@ -1,6 +1,6 @@
-[Launch Risk](https://xkcd.com/2107)
+[Rey and Kylo](https://xkcd.com/2229)
 
-![Launch Risk](./random_comic.png)
+![Rey and Kylo](./random_comic.png)
 
-Don't worry--you're less likely to die from a space launch than from a shark attack. The survival rate is pretty high for both!
+We're like 10+ movies in and the focus has been almost entirely on the WARS half.
 
