@@ -1,6 +1,6 @@
-[Tween Bromance](https://xkcd.com/919)
+[Hypothesis Generation](https://xkcd.com/2569)
 
-![Tween Bromance](./random_comic.png)
+![Hypothesis Generation](./random_comic.png)
 
-Verbiage. Va-jay-jay. Irregardless.
+Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog.
 
