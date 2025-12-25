@@ -1,6 +1,6 @@
-[Hypothesis Generation](https://xkcd.com/2569)
+[Walking Into Things](https://xkcd.com/1710)
 
-![Hypothesis Generation](./random_comic.png)
+![Walking Into Things](./random_comic.png)
 
-Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog.
+A childhood spent walking while reading books has prepared me unexpectedly well for today's world.
 
