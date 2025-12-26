@@ -1,6 +1,6 @@
-[Blade Runner](https://xkcd.com/362)
+[Will It Work](https://xkcd.com/1742)
 
-![Blade Runner](./random_comic.png)
+![Will It Work](./random_comic.png)
 
-Blade Runner: Classic, but incredibly slow.
+'Copy and paste from a random thread on a website' is the hardest to predict, and depends on the specific website, programming language, tone of the description, and current phase of the moon.
 
