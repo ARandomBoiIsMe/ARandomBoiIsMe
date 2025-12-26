@@ -1,6 +1,6 @@
-[MTV Generation](https://xkcd.com/973)
+[Blade Runner](https://xkcd.com/362)
 
-![MTV Generation](./random_comic.png)
+![Blade Runner](./random_comic.png)
 
-If you identified with the kids from The Breakfast Club when it came out, you're now much closer to the age of Principal Vernon.
+Blade Runner: Classic, but incredibly slow.
 
