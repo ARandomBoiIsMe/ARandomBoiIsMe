@@ -1,6 +1,6 @@
-[Walking Into Things](https://xkcd.com/1710)
+[MTV Generation](https://xkcd.com/973)
 
-![Walking Into Things](./random_comic.png)
+![MTV Generation](./random_comic.png)
 
-A childhood spent walking while reading books has prepared me unexpectedly well for today's world.
+If you identified with the kids from The Breakfast Club when it came out, you're now much closer to the age of Principal Vernon.
 
