@@ -1,6 +1,6 @@
-[Mushrooms](https://xkcd.com/1749)
+[COVID Risk Chart](https://xkcd.com/2333)
 
-![Mushrooms](./random_comic.png)
+![COVID Risk Chart](./random_comic.png)
 
-Evolutionarily speaking, mushrooms are technically a type of ghost.
+First prize is a free ticket to the kissing booth.
 
