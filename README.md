@@ -1,6 +1,6 @@
-[11th Grade](https://xkcd.com/519)
+[Mushrooms](https://xkcd.com/1749)
 
-![11th Grade](./random_comic.png)
+![Mushrooms](./random_comic.png)
 
-And the ten minutes striking up a conversation with that strange kid in homeroom sometimes matters more than every other part of high school combined.
+Evolutionarily speaking, mushrooms are technically a type of ghost.
 
