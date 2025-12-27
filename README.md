@@ -1,6 +1,6 @@
-[Backward in Time](https://xkcd.com/1017)
+[11th Grade](https://xkcd.com/519)
 
-![Backward in Time](./random_comic.png)
+![11th Grade](./random_comic.png)
 
-People tell me I have too much time on my hands, but really the problem is that there's too much time, PERIOD.
+And the ten minutes striking up a conversation with that strange kid in homeroom sometimes matters more than every other part of high school combined.
 
