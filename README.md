@@ -1,6 +1,6 @@
-[Ensemble Model](https://xkcd.com/1885)
+[d65536](https://xkcd.com/2626)
 
-![Ensemble Model](./random_comic.png)
+![d65536](./random_comic.png)
 
-I'm in talks with Netflix to produce an alternate-universe crime drama about the world where sliced bread was never re-legalized, but it's going slowly because they keep changing their phone numbers and the door lock codes at their headquarters.
+They're robust against quantum attacks because it's hard to make a quantum system that large.
 
