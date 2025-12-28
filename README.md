@@ -1,6 +1,6 @@
-[Parallel Universe](https://xkcd.com/105)
+[int(pi)](https://xkcd.com/1275)
 
-![Parallel Universe](./random_comic.png)
+![int(pi)](./random_comic.png)
 
-It's possible.  Better to be on the safe side.
+If replacing all the '3's doesn't fix your code, remove the 4s, too, with 'ceiling(pi) / floor(pi) * pi * r^floor(pi)'. Mmm, floor pie.
 
