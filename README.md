@@ -1,6 +1,6 @@
-[String Theory](https://xkcd.com/171)
+[Parallel Universe](https://xkcd.com/105)
 
-![String Theory](./random_comic.png)
+![Parallel Universe](./random_comic.png)
 
-This works on pretty much every level.
+It's possible.  Better to be on the safe side.
 
