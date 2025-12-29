@@ -1,6 +1,6 @@
-[Blanket Fort](https://xkcd.com/219)
+[Fall Back](https://xkcd.com/2378)
 
-![Blanket Fort](./random_comic.png)
+![Fall Back](./random_comic.png)
 
-Also, we have a fort out in the woods where we stashed that hooker's body.
+Doing great here in the sixth and hopefully final year of the 2016 election.
 
