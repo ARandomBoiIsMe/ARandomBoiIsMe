@@ -1,6 +1,6 @@
-[int(pi)](https://xkcd.com/1275)
+[Google Trends Maps](https://xkcd.com/2126)
 
-![int(pi)](./random_comic.png)
+![Google Trends Maps](./random_comic.png)
 
-If replacing all the '3's doesn't fix your code, remove the 4s, too, with 'ceiling(pi) / floor(pi) * pi * r^floor(pi)'. Mmm, floor pie.
+It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.
 
