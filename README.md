@@ -1,6 +1,6 @@
-[Google Trends Maps](https://xkcd.com/2126)
+[Working for Google](https://xkcd.com/192)
 
-![Google Trends Maps](./random_comic.png)
+![Working for Google](./random_comic.png)
 
-It's early 2020. The entire country is gripped with Marco Rubio fever except for Alaska, which is freaking out. You're frantically studying up on etiquette and/or sexting.
+I hear once you've worked there for 256 days they teach you the secret of levitation.
 
