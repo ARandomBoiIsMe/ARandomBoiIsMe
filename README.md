@@ -1,6 +1,6 @@
-[Fall Back](https://xkcd.com/2378)
+[Etymology](https://xkcd.com/890)
 
-![Fall Back](./random_comic.png)
+![Etymology](./random_comic.png)
 
-Doing great here in the sixth and hopefully final year of the 2016 election.
+For some reason, my childhood suspension of disbelief had no problem with the fact that this ancient galaxy is full of humans, but was derailed by language. There's no Asia OR Europe there, so where'd they get all the Indo-European roots?
 
