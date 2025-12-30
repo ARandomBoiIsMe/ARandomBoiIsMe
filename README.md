@@ -1,6 +1,6 @@
-[Trochee Fixation](https://xkcd.com/856)
+[Expiration Date High Score](https://xkcd.com/2178)
 
-![Trochee Fixation](./random_comic.png)
+![Expiration Date High Score](./random_comic.png)
 
-If you Huffman-coded all the 'random' things everyone on the internet has said over the years, you'd wind up with, like, 30 or 40 bytes *tops*.
+"Wait, we've MOVED since 2010. How on Earth did--" "Look, some of us were just born to be champions."
 
