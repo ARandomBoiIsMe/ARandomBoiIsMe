@@ -1,6 +1,6 @@
-[Techno](https://xkcd.com/411)
+[Trochee Fixation](https://xkcd.com/856)
 
-![Techno](./random_comic.png)
+![Trochee Fixation](./random_comic.png)
 
-I don't know what's worse -- that there exists broken-hard-drive-sound techno, or that it's not half bad.
+If you Huffman-coded all the 'random' things everyone on the internet has said over the years, you'd wind up with, like, 30 or 40 bytes *tops*.
 
