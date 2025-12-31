@@ -1,6 +1,6 @@
-[Geometriphylogenetics](https://xkcd.com/3010)
+[Final Exam](https://xkcd.com/2385)
 
-![Geometriphylogenetics](./random_comic.png)
+![Final Exam](./random_comic.png)
 
-There's a maximum likelihood that I'm doing phylogenetics wrong.
+For those of you also taking Game Theory, your grade in that class will be based on how close your grade on this exam is to 80% of the average.
 
