@@ -1,6 +1,6 @@
-[Paleontology](https://xkcd.com/460)
+[Geometriphylogenetics](https://xkcd.com/3010)
 
-![Paleontology](./random_comic.png)
+![Geometriphylogenetics](./random_comic.png)
 
-Dinosaurs totally jumped the ichthyosaur when they got rid of Brontosaurus.
+There's a maximum likelihood that I'm doing phylogenetics wrong.
 
