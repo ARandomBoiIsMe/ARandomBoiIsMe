@@ -1,6 +1,6 @@
-[Window Screen](https://xkcd.com/3151)
+[Paleontology](https://xkcd.com/460)
 
-![Window Screen](./random_comic.png)
+![Paleontology](./random_comic.png)
 
-The Nobel Prize in Physiology or Medicine or Home Improvement or DIY
+Dinosaurs totally jumped the ichthyosaur when they got rid of Brontosaurus.
 
