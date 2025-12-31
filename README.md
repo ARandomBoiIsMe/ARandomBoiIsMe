@@ -1,6 +1,6 @@
-[Expiration Date High Score](https://xkcd.com/2178)
+[Window Screen](https://xkcd.com/3151)
 
-![Expiration Date High Score](./random_comic.png)
+![Window Screen](./random_comic.png)
 
-"Wait, we've MOVED since 2010. How on Earth did--" "Look, some of us were just born to be champions."
+The Nobel Prize in Physiology or Medicine or Home Improvement or DIY
 
