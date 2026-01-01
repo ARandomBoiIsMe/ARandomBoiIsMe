@@ -1,6 +1,6 @@
-[Echo Chamber](https://xkcd.com/3116)
+[Trapped](https://xkcd.com/876)
 
-![Echo Chamber](./random_comic.png)
+![Trapped](./random_comic.png)
 
-This is almost as bad as the time I signed up for a purely partisan fishing expedition.
+Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.
 
