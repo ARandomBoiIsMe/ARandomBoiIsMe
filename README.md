@@ -1,6 +1,6 @@
-[Final Exam](https://xkcd.com/2385)
+[Dying Gift](https://xkcd.com/1941)
 
-![Final Exam](./random_comic.png)
+![Dying Gift](./random_comic.png)
 
-For those of you also taking Game Theory, your grade in that class will be based on how close your grade on this exam is to 80% of the average.
+And to you, I leave my life-sized ice sculpture replica of the Pietà which was blessed by the Pope. You must never let it melt! Now, remember, all gifts must be removed from my estate within 24 hours.
 
