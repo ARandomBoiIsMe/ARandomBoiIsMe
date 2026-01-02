@@ -1,6 +1,6 @@
-[Apple Jacks](https://xkcd.com/38)
+[Oily House Index](https://xkcd.com/2327)
 
-![Apple Jacks](./random_comic.png)
+![Oily House Index](./random_comic.png)
 
-There used to be these ads, see . . .
+We're underwater on our mortgage thanks to the low price of water.
 
