@@ -1,6 +1,6 @@
-[Lymphocytes](https://xkcd.com/2749)
+[Time Machine](https://xkcd.com/716)
 
-![Lymphocytes](./random_comic.png)
+![Time Machine](./random_comic.png)
 
-It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'
+We never see any time travelers because they all discover it's a huge mistake. This is also why your friend at the lab suddenly looked about a year older recently.
 
