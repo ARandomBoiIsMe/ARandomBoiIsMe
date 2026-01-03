@@ -1,6 +1,6 @@
-[Ensemble Model](https://xkcd.com/1885)
+[Overthinking](https://xkcd.com/1592)
 
-![Ensemble Model](./random_comic.png)
+![Overthinking](./random_comic.png)
 
-I'm in talks with Netflix to produce an alternate-universe crime drama about the world where sliced bread was never re-legalized, but it's going slowly because they keep changing their phone numbers and the door lock codes at their headquarters.
+On the other hand, it took us embarrassingly long to clue in to the lung cancer/cigarette thing, so I guess the real lesson is "figuring out which ideas are true is hard."
 
