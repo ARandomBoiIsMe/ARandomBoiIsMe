@@ -1,6 +1,6 @@
-[Overthinking](https://xkcd.com/1592)
+[MicroSD](https://xkcd.com/691)
 
-![Overthinking](./random_comic.png)
+![MicroSD](./random_comic.png)
 
-On the other hand, it took us embarrassingly long to clue in to the lung cancer/cigarette thing, so I guess the real lesson is "figuring out which ideas are true is hard."
+That card holds a refrigerator carton's worth of floppy discs, and a soda can full of those cards could hold the entire iTunes store's music library. Mmmm.
 
