@@ -1,6 +1,6 @@
-[Time Machine](https://xkcd.com/716)
+[The Important Field](https://xkcd.com/970)
 
-![Time Machine](./random_comic.png)
+![The Important Field](./random_comic.png)
 
-We never see any time travelers because they all discover it's a huge mistake. This is also why your friend at the lab suddenly looked about a year older recently.
+I hear in some places, you need one form of ID to buy a gun, but two to pay for it by check. It's interesting who has what incentives to care about what mistakes.
 
