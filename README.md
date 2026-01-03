@@ -1,6 +1,6 @@
-[The Important Field](https://xkcd.com/970)
+[Ensemble Model](https://xkcd.com/1885)
 
-![The Important Field](./random_comic.png)
+![Ensemble Model](./random_comic.png)
 
-I hear in some places, you need one form of ID to buy a gun, but two to pay for it by check. It's interesting who has what incentives to care about what mistakes.
+I'm in talks with Netflix to produce an alternate-universe crime drama about the world where sliced bread was never re-legalized, but it's going slowly because they keep changing their phone numbers and the door lock codes at their headquarters.
 
