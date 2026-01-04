@@ -1,6 +1,6 @@
-[Future Archaeology](https://xkcd.com/1748)
+[Westerns](https://xkcd.com/2152)
 
-![Future Archaeology](./random_comic.png)
+![Westerns](./random_comic.png)
 
-"The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."
+Sitting here idly trying to figure out how the population of the Old West in the late 1800s compares to the number of Red Dead Redemption 2 players.
 
