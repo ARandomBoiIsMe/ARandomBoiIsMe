@@ -1,6 +1,6 @@
-[MicroSD](https://xkcd.com/691)
+[Future Archaeology](https://xkcd.com/1748)
 
-![MicroSD](./random_comic.png)
+![Future Archaeology](./random_comic.png)
 
-That card holds a refrigerator carton's worth of floppy discs, and a soda can full of those cards could hold the entire iTunes store's music library. Mmmm.
+"The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."
 
