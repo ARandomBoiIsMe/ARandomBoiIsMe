@@ -1,6 +1,6 @@
-[Weird Hill](https://xkcd.com/2247)
+[Five-Minute Comics: Part 1](https://xkcd.com/819)
 
-![Weird Hill](./random_comic.png)
+![Five-Minute Comics: Part 1](./random_comic.png)
 
-I'm compromising by picking a weird hill to lie on.
+The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.
 
