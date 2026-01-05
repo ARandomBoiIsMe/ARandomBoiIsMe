@@ -1,6 +1,6 @@
-[Cautionary Ghost](https://xkcd.com/1108)
+[Proteins](https://xkcd.com/1430)
 
-![Cautionary Ghost](./random_comic.png)
+![Proteins](./random_comic.png)
 
-But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.
+Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!
 
