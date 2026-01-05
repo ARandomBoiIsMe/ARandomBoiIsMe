@@ -1,6 +1,6 @@
-[Five-Minute Comics: Part 1](https://xkcd.com/819)
+[Cautionary Ghost](https://xkcd.com/1108)
 
-![Five-Minute Comics: Part 1](./random_comic.png)
+![Cautionary Ghost](./random_comic.png)
 
-The wolves thin the RAID arrays, removing the slowest and weakest disks to keep the average seek speed high.
+But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.
 
