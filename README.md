@@ -1,6 +1,6 @@
-[Gravity](https://xkcd.com/2712)
+[Size Comparisons](https://xkcd.com/2733)
 
-![Gravity](./random_comic.png)
+![Size Comparisons](./random_comic.png)
 
-It's a long way down.
+If you shrank the Solar System to the size of Texas, the Houston metro area would be smaller than a grasshopper in Dallas.
 
