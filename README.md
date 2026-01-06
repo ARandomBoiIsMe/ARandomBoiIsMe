@@ -1,6 +1,6 @@
-[Polar/Cartesian](https://xkcd.com/1230)
+[Admin Mourning](https://xkcd.com/686)
 
-![Polar/Cartesian](./random_comic.png)
+![Admin Mourning](./random_comic.png)
 
-Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.
+And every day it gets harder to fight the urge to su to the user and freak people out.
 
