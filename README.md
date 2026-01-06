@@ -1,6 +1,6 @@
-[Size Comparisons](https://xkcd.com/2733)
+[Polar/Cartesian](https://xkcd.com/1230)
 
-![Size Comparisons](./random_comic.png)
+![Polar/Cartesian](./random_comic.png)
 
-If you shrank the Solar System to the size of Texas, the Houston metro area would be smaller than a grasshopper in Dallas.
+Protip: Any two-axis graph can be re-labeled 'coordinates of the ants crawling across my screen as a function of time'.
 
