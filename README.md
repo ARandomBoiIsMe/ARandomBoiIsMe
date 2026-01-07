@@ -1,6 +1,6 @@
-[Understocked](https://xkcd.com/617)
+[Laser Pointer](https://xkcd.com/729)
 
-![Understocked](./random_comic.png)
+![Laser Pointer](./random_comic.png)
 
-My biology grad student friends tell me that different types of alcohol don't actually have different effects. I trust their expertise, not because of the 'biology' part, but because of the 'grad student'.
+It's a lasing cat-vity!
 
