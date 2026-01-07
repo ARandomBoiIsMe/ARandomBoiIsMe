@@ -1,6 +1,6 @@
-[Admin Mourning](https://xkcd.com/686)
+[Understocked](https://xkcd.com/617)
 
-![Admin Mourning](./random_comic.png)
+![Understocked](./random_comic.png)
 
-And every day it gets harder to fight the urge to su to the user and freak people out.
+My biology grad student friends tell me that different types of alcohol don't actually have different effects. I trust their expertise, not because of the 'biology' part, but because of the 'grad student'.
 
