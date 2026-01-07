@@ -1,6 +1,6 @@
-[Laser Pointer](https://xkcd.com/729)
+[Musical Scales](https://xkcd.com/2788)
 
-![Laser Pointer](./random_comic.png)
+![Musical Scales](./random_comic.png)
 
-It's a lasing cat-vity!
+In the Hall of the Mountain King was accidentally composed on log/log paper.
 
