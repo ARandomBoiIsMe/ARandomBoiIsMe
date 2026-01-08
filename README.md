@@ -1,6 +1,6 @@
-[Penny Arcade Parody](https://xkcd.com/160)
+[Clark Gable](https://xkcd.com/110)
 
-![Penny Arcade Parody](./random_comic.png)
+![Clark Gable](./random_comic.png)
 
-No one show this to Tycho's wife, okay?
+Frankly, my dear, I don't give a BITCH ASS SHIT FUCK DAMN
 
