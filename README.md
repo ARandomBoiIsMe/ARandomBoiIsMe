@@ -1,6 +1,6 @@
-[Clark Gable](https://xkcd.com/110)
+[Background Screens](https://xkcd.com/1451)
 
-![Clark Gable](./random_comic.png)
+![Background Screens](./random_comic.png)
 
-Frankly, my dear, I don't give a BITCH ASS SHIT FUCK DAMN
+No way, we gotta rewind and cross-reference this map with the list of coordinates we saw on the other screen. This Greenland thing could be big.
 
