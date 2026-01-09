@@ -1,6 +1,6 @@
-[Wood Chips](https://xkcd.com/516)
+[Morning](https://xkcd.com/395)
 
-![Wood Chips](./random_comic.png)
+![Morning](./random_comic.png)
 
-You didn't run a chemical analysis against the Shroud of Turin?  Man, all that work for NOTHING.
+I'd press on them to try to unstick them, but I can't reach.  Can we try cycling day and night really fast?
 
