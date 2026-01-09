@@ -1,6 +1,6 @@
-[Flies](https://xkcd.com/357)
+[News Story Reaction](https://xkcd.com/2505)
 
-![Flies](./random_comic.png)
+![News Story Reaction](./random_comic.png)
 
-I don't know about houseflies, but we definitely caught a lot of fruit flies with our vinegar bowl.  Hooray science!
+Unless the next line is, "After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph."
 
