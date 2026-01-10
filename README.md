@@ -1,6 +1,6 @@
-[News Story Reaction](https://xkcd.com/2505)
+[Twitter](https://xkcd.com/491)
 
-![News Story Reaction](./random_comic.png)
+![Twitter](./random_comic.png)
 
-Unless the next line is, "After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph."
+If long tooltips / cut off for you / then upgrade from / Firefox 2 / Burma Shave
 
