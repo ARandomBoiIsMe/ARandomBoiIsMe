@@ -1,6 +1,6 @@
-[Eclipse Searches](https://xkcd.com/1876)
+[Hippo Attacks](https://xkcd.com/2471)
 
-![Eclipse Searches](./random_comic.png)
+![Hippo Attacks](./random_comic.png)
 
-There were traffic jams for the eclipses in 1970 and 1979, and that was *before* we had the potential for overnight viral social media frenzies.
+It's cool how, when there's a number lots of people are curious about, but which isn't easy to measure, some random guess will get cited everywhere and become the universally quoted value. Unrelatedly, did you know there are 850 trillion waves in the ocean?
 
