@@ -1,6 +1,6 @@
-[Geeks and Nerds](https://xkcd.com/747)
+[Email Settings](https://xkcd.com/2139)
 
-![Geeks and Nerds](./random_comic.png)
+![Email Settings](./random_comic.png)
 
-The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.
+What are all these less-than signs? What's an HREF? Look, we know you live in a fancy futuristic tech world, but not all of us have upgraded to the latest from Sun Microsystems.
 
