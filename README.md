@@ -1,6 +1,6 @@
-[Starwatching](https://xkcd.com/428)
+[Average Familiarity](https://xkcd.com/2501)
 
-![Starwatching](./random_comic.png)
+![Average Familiarity](./random_comic.png)
 
-I always figured the word 'blog' would sound *less* silly as the years went by.
+How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!
 
