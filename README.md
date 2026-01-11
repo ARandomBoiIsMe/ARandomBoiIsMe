@@ -1,6 +1,6 @@
-[Email Settings](https://xkcd.com/2139)
+[Understocked](https://xkcd.com/617)
 
-![Email Settings](./random_comic.png)
+![Understocked](./random_comic.png)
 
-What are all these less-than signs? What's an HREF? Look, we know you live in a fancy futuristic tech world, but not all of us have upgraded to the latest from Sun Microsystems.
+My biology grad student friends tell me that different types of alcohol don't actually have different effects. I trust their expertise, not because of the 'biology' part, but because of the 'grad student'.
 
