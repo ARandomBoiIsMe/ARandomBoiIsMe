@@ -1,6 +1,6 @@
-[Understocked](https://xkcd.com/617)
+[Starwatching](https://xkcd.com/428)
 
-![Understocked](./random_comic.png)
+![Starwatching](./random_comic.png)
 
-My biology grad student friends tell me that different types of alcohol don't actually have different effects. I trust their expertise, not because of the 'biology' part, but because of the 'grad student'.
+I always figured the word 'blog' would sound *less* silly as the years went by.
 
