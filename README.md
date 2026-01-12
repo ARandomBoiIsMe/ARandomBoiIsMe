@@ -1,6 +1,6 @@
-[Average Familiarity](https://xkcd.com/2501)
+[Check Engine](https://xkcd.com/3096)
 
-![Average Familiarity](./random_comic.png)
+![Check Engine](./random_comic.png)
 
-How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!
+They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.
 
