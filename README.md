@@ -1,6 +1,6 @@
-[Check Engine](https://xkcd.com/3096)
+[Experimental Astrophysics](https://xkcd.com/3000)
 
-![Check Engine](./random_comic.png)
+![Experimental Astrophysics](./random_comic.png)
 
-They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.
+Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle.
 
