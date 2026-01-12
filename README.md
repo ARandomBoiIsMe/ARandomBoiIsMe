@@ -1,6 +1,6 @@
-[Minifigs](https://xkcd.com/1281)
+[Mess](https://xkcd.com/1267)
 
-![Minifigs](./random_comic.png)
+![Mess](./random_comic.png)
 
-The LEGO Group is already the world's largest tire manufacturer.
+'Sorry, I left out my glass of water from last night.' OH GOD I APPARENTLY LIVE IN A GARBAGE PIT.
 
