@@ -1,6 +1,6 @@
-[Experimental Astrophysics](https://xkcd.com/3000)
+[Minifigs](https://xkcd.com/1281)
 
-![Experimental Astrophysics](./random_comic.png)
+![Minifigs](./random_comic.png)
 
-Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle.
+The LEGO Group is already the world's largest tire manufacturer.
 
