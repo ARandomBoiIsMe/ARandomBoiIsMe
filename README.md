@@ -1,6 +1,6 @@
-[Mess](https://xkcd.com/1267)
+[1337: Part 3](https://xkcd.com/343)
 
-![Mess](./random_comic.png)
+![1337: Part 3](./random_comic.png)
 
-'Sorry, I left out my glass of water from last night.' OH GOD I APPARENTLY LIVE IN A GARBAGE PIT.
+I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.
 
