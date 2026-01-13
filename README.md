@@ -1,6 +1,6 @@
-[Flying Cars](https://xkcd.com/864)
+[Dehumidifier](https://xkcd.com/3109)
 
-![Flying Cars](./random_comic.png)
+![Dehumidifier](./random_comic.png)
 
-It's hard to fit in the backseat of my flying car with my android Realdoll when we're both wearing jetpacks.
+It's important for devices to have internet connectivity so the manufacturer can patch remote exploits.
 
