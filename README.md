@@ -1,6 +1,6 @@
-[1337: Part 3](https://xkcd.com/343)
+[Baring My Heart](https://xkcd.com/112)
 
-![1337: Part 3](./random_comic.png)
+![Baring My Heart](./random_comic.png)
 
-I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.
+I'm just trying to explain, please don't be jealous!  Man, why are all my relationships ruined by early 90's rappers?
 
