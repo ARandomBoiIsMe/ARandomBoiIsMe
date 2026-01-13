@@ -1,6 +1,6 @@
-[Baring My Heart](https://xkcd.com/112)
+[Flying Cars](https://xkcd.com/864)
 
-![Baring My Heart](./random_comic.png)
+![Flying Cars](./random_comic.png)
 
-I'm just trying to explain, please don't be jealous!  Man, why are all my relationships ruined by early 90's rappers?
+It's hard to fit in the backseat of my flying car with my android Realdoll when we're both wearing jetpacks.
 
