@@ -1,6 +1,6 @@
-[Rubber Sheet](https://xkcd.com/1158)
+[Neutrinos](https://xkcd.com/955)
 
-![Rubber Sheet](./random_comic.png)
+![Neutrinos](./random_comic.png)
 
-It IS about physics. It ALL is.
+I can't speak to the paper's scientific merits, but it's really cool how on page 10 you can see that their reference GPS beacon is sensitive enough to pick up continential drift under the detector (interrupted halfway through by an earthquake).
 
