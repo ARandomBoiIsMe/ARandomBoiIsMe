@@ -1,6 +1,6 @@
-[Dehumidifier](https://xkcd.com/3109)
+[The Wrong Stuff](https://xkcd.com/2865)
 
-![Dehumidifier](./random_comic.png)
+![The Wrong Stuff](./random_comic.png)
 
-It's important for devices to have internet connectivity so the manufacturer can patch remote exploits.
+The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.
 
