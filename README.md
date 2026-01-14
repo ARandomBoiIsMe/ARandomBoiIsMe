@@ -1,6 +1,6 @@
-[The Wrong Stuff](https://xkcd.com/2865)
+[Reinvent the Wheel](https://xkcd.com/2140)
 
-![The Wrong Stuff](./random_comic.png)
+![Reinvent the Wheel](./random_comic.png)
 
-The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.
+Right now it's a bicycle wheel, so we've had to move to lighter vehicles, but the reduced overhead is worth it. There was one week when a wheel of cheese got dangerously close to the first page, though.
 
