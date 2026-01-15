@@ -1,6 +1,6 @@
-[Neutrinos](https://xkcd.com/955)
+[Hardware Reductionism](https://xkcd.com/1588)
 
-![Neutrinos](./random_comic.png)
+![Hardware Reductionism](./random_comic.png)
 
-I can't speak to the paper's scientific merits, but it's really cool how on page 10 you can see that their reference GPS beacon is sensitive enough to pick up continential drift under the detector (interrupted halfway through by an earthquake).
+My MRI research shows a clear correlation between the size of the parietal lobe--the part of the brain that handles spatial reasoning--and enjoyment of 3D Doritos®.
 
