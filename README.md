@@ -1,6 +1,6 @@
-[Hardware Reductionism](https://xkcd.com/1588)
+[World According to Americans](https://xkcd.com/850)
 
-![Hardware Reductionism](./random_comic.png)
+![World According to Americans](./random_comic.png)
 
-My MRI research shows a clear correlation between the size of the parietal lobe--the part of the brain that handles spatial reasoning--and enjoyment of 3D Doritos®.
+It's not our fault we caught a group on their way home from a geography bee. And they taught us that Uzbekistan is one of the world's two doubly-landlocked countries!
 
