@@ -1,6 +1,6 @@
-[Poisson](https://xkcd.com/12)
+[Proxy Variable](https://xkcd.com/2652)
 
-![Poisson](./random_comic.png)
+![Proxy Variable](./random_comic.png)
 
-Poisson distributions have no value over negative numbers
+Our work has produced great answers. Now someone just needs to figure out which questions they go with.
 
