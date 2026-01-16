@@ -1,6 +1,6 @@
-[How it Works](https://xkcd.com/385)
+[Poisson](https://xkcd.com/12)
 
-![How it Works](./random_comic.png)
+![Poisson](./random_comic.png)
 
-It's pi plus C, of course.
+Poisson distributions have no value over negative numbers
 
