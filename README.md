@@ -1,6 +1,6 @@
-[Skynet](https://xkcd.com/1046)
+[How it Works](https://xkcd.com/385)
 
-![Skynet](./random_comic.png)
+![How it Works](./random_comic.png)
 
-'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'
+It's pi plus C, of course.
 
