@@ -1,6 +1,6 @@
-[E Scooters](https://xkcd.com/2188)
+[Skynet](https://xkcd.com/1046)
 
-![E Scooters](./random_comic.png)
+![Skynet](./random_comic.png)
 
-Obviously battery technology and prices have driven a lot of the scooter explosion, but I feel like Dean Kamen must be at least a little grumpy about how much people laughed at the idea of the Segway.
+'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'
 
