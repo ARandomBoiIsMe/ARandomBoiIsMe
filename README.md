@@ -1,6 +1,6 @@
-[Tabletop Roleplaying](https://xkcd.com/244)
+[Hypothesis Generation](https://xkcd.com/2569)
 
-![Tabletop Roleplaying](./random_comic.png)
+![Hypothesis Generation](./random_comic.png)
 
-I may have also tossed one of a pair of teleportation rings into the ocean, with interesting results.
+Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog.
 
