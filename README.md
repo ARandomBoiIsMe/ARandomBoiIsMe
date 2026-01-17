@@ -1,6 +1,6 @@
-[CIDABM](https://xkcd.com/2996)
+[The Pace of Modern Life](https://xkcd.com/1227)
 
-![CIDABM](./random_comic.png)
+![The Pace of Modern Life](./random_comic.png)
 
-There's a heated debate over whether the big island of Tierra del Fuego should qualify for membership.
+'Unfortunately, the notion of marriage which prevails ... at the present time ... regards the institution as simply a convenient arrangement or formal contract ... This disregard of the sanctity of marriage and contempt for its restrictions is one of the most alarming tendencies of the present age.' --John Harvey Kellogg, Ladies' guide in health and disease (1883)
 
