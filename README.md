@@ -1,6 +1,6 @@
-[Proxy Variable](https://xkcd.com/2652)
+[CIDABM](https://xkcd.com/2996)
 
-![Proxy Variable](./random_comic.png)
+![CIDABM](./random_comic.png)
 
-Our work has produced great answers. Now someone just needs to figure out which questions they go with.
+There's a heated debate over whether the big island of Tierra del Fuego should qualify for membership.
 
