@@ -1,6 +1,6 @@
-[Cold Medicine](https://xkcd.com/1618)
+[Getting Out of Hand](https://xkcd.com/333)
 
-![Cold Medicine](./random_comic.png)
+![Getting Out of Hand](./random_comic.png)
 
-Seriously considering buying some illegal drugs to try to turn them back into cold medicine.
+Wikipedia's role as brain-extension, while a little troubling, is also really cool.
 
