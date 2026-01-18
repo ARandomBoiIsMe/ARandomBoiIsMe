@@ -1,6 +1,6 @@
-[Getting Out of Hand](https://xkcd.com/333)
+[Stranded](https://xkcd.com/2978)
 
-![Getting Out of Hand](./random_comic.png)
+![Stranded](./random_comic.png)
 
-Wikipedia's role as brain-extension, while a little troubling, is also really cool.
+At least they're not alone down there.
 
