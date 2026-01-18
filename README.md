@@ -1,6 +1,6 @@
-[Hypothesis Generation](https://xkcd.com/2569)
+[Unique Date](https://xkcd.com/1340)
 
-![Hypothesis Generation](./random_comic.png)
+![Unique Date](./random_comic.png)
 
-Frazzled scientists are requesting that everyone please stop generating hypotheses for a little bit while they work through the backlog.
+If our current civilization lasts another 8,000 years, it's probably fair to assume the Long Now Foundation got things right, and at some point we started listening to them and switched to five-digit years.
 
