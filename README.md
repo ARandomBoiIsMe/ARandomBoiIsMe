@@ -1,6 +1,6 @@
-[Stranded](https://xkcd.com/2978)
+[Horses](https://xkcd.com/1720)
 
-![Stranded](./random_comic.png)
+![Horses](./random_comic.png)
 
-At least they're not alone down there.
+This car has 240% of a horse's decision-making ability and produces only 30% as much poop.
 
