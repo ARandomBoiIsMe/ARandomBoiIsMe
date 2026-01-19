@@ -1,6 +1,6 @@
-[Horses](https://xkcd.com/1720)
+[Visited](https://xkcd.com/1051)
 
-![Horses](./random_comic.png)
+![Visited](./random_comic.png)
 
-This car has 240% of a horse's decision-making ability and produces only 30% as much poop.
+I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.
 
