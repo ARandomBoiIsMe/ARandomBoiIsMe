@@ -1,6 +1,6 @@
-[A New CAPTCHA Approach](https://xkcd.com/233)
+[Backward in Time](https://xkcd.com/1017)
 
-![A New CAPTCHA Approach](./random_comic.png)
+![Backward in Time](./random_comic.png)
 
-They'd use that Futurama episode with Fry's dog, but even spambots cry at that.
+People tell me I have too much time on my hands, but really the problem is that there's too much time, PERIOD.
 
