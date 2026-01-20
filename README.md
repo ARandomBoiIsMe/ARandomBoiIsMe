@@ -1,6 +1,6 @@
-[Literally](https://xkcd.com/725)
+[Helping](https://xkcd.com/383)
 
-![Literally](./random_comic.png)
+![Helping](./random_comic.png)
 
-The chemistry experiment had me figuratively -- and then shortly thereafter literally -- glued to my seat.
+Oh, look, the 'make everything better' button was here behind the bookshelf all along.
 
