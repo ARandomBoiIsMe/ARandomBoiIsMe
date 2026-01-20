@@ -1,6 +1,6 @@
-[Helping](https://xkcd.com/383)
+[Nothing to Offer](https://xkcd.com/1148)
 
-![Helping](./random_comic.png)
+![Nothing to Offer](./random_comic.png)
 
-Oh, look, the 'make everything better' button was here behind the bookshelf all along.
+cerebrospinal fluid, pericardial fluid, sputum, aqueous humor, perilymph, chyme, hydatid fluid, interstitial fluid, rheum, and gin.
 
