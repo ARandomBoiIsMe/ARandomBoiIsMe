@@ -1,6 +1,6 @@
-[Backward in Time](https://xkcd.com/1017)
+[Literally](https://xkcd.com/725)
 
-![Backward in Time](./random_comic.png)
+![Literally](./random_comic.png)
 
-People tell me I have too much time on my hands, but really the problem is that there's too much time, PERIOD.
+The chemistry experiment had me figuratively -- and then shortly thereafter literally -- glued to my seat.
 
