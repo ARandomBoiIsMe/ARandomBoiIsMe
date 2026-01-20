@@ -1,6 +1,6 @@
-[Nothing to Offer](https://xkcd.com/1148)
+[Mess](https://xkcd.com/1267)
 
-![Nothing to Offer](./random_comic.png)
+![Mess](./random_comic.png)
 
-cerebrospinal fluid, pericardial fluid, sputum, aqueous humor, perilymph, chyme, hydatid fluid, interstitial fluid, rheum, and gin.
+'Sorry, I left out my glass of water from last night.' OH GOD I APPARENTLY LIVE IN A GARBAGE PIT.
 
