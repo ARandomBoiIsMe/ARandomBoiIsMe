@@ -1,6 +1,6 @@
-[Garbage Math](https://xkcd.com/2295)
+[Parallel Universe](https://xkcd.com/105)
 
-![Garbage Math](./random_comic.png)
+![Parallel Universe](./random_comic.png)
 
-'Garbage In, Garbage Out' should not be taken to imply any sort of conservation law limiting the amount of garbage produced.
+It's possible.  Better to be on the safe side.
 
