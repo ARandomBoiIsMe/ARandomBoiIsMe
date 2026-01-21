@@ -1,6 +1,6 @@
-[Parallel Universe](https://xkcd.com/105)
+[Call My Cell](https://xkcd.com/2900)
 
-![Parallel Universe](./random_comic.png)
+![Call My Cell](./random_comic.png)
 
-It's possible.  Better to be on the safe side.
+'Hey, can you call my cell?' '...I'm trying, but it says this number is blocked?' 'Ok, thanks, just checking.'
 
