@@ -1,6 +1,6 @@
-[Mess](https://xkcd.com/1267)
+[Space Basketball](https://xkcd.com/2328)
 
-![Mess](./random_comic.png)
+![Space Basketball](./random_comic.png)
 
-'Sorry, I left out my glass of water from last night.' OH GOD I APPARENTLY LIVE IN A GARBAGE PIT.
+My shooting will improve over the short term, but over the long term the universe will take more shots.
 
