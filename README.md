@@ -1,6 +1,6 @@
-[Space Basketball](https://xkcd.com/2328)
+[Garbage Math](https://xkcd.com/2295)
 
-![Space Basketball](./random_comic.png)
+![Garbage Math](./random_comic.png)
 
-My shooting will improve over the short term, but over the long term the universe will take more shots.
+'Garbage In, Garbage Out' should not be taken to imply any sort of conservation law limiting the amount of garbage produced.
 
