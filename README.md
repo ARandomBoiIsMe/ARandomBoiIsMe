@@ -1,6 +1,6 @@
-[Packages](https://xkcd.com/576)
+[Cautionary Ghost](https://xkcd.com/1108)
 
-![Packages](./random_comic.png)
+![Cautionary Ghost](./random_comic.png)
 
-Day six: 'The hell?  Who mails a bobcat?'
+But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.
 
