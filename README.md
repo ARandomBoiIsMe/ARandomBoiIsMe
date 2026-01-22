@@ -1,6 +1,6 @@
-[Inflation](https://xkcd.com/1365)
+[Packages](https://xkcd.com/576)
 
-![Inflation](./random_comic.png)
+![Packages](./random_comic.png)
 
-Wait till they notice the faint reflection of Michael Jordan and Bugs Bunny in the E-mode.
+Day six: 'The hell?  Who mails a bobcat?'
 
