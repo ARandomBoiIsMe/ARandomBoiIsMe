@@ -1,6 +1,6 @@
-[Cautionary Ghost](https://xkcd.com/1108)
+[Microsoft](https://xkcd.com/1118)
 
-![Cautionary Ghost](./random_comic.png)
+![Microsoft](./random_comic.png)
 
-But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.
+Facebook, Apple, and Google all got away with their monopolist power grabs because they don't have any 'S's in their names for critics to snarkily replace with '$'s.
 
