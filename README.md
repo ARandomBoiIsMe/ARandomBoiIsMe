@@ -1,6 +1,6 @@
-[Call My Cell](https://xkcd.com/2900)
+[Inflation](https://xkcd.com/1365)
 
-![Call My Cell](./random_comic.png)
+![Inflation](./random_comic.png)
 
-'Hey, can you call my cell?' '...I'm trying, but it says this number is blocked?' 'Ok, thanks, just checking.'
+Wait till they notice the faint reflection of Michael Jordan and Bugs Bunny in the E-mode.
 
