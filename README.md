@@ -1,6 +1,6 @@
-[Microsoft](https://xkcd.com/1118)
+[Craigslist Apartments](https://xkcd.com/886)
 
-![Microsoft](./random_comic.png)
+![Craigslist Apartments](./random_comic.png)
 
-Facebook, Apple, and Google all got away with their monopolist power grabs because they don't have any 'S's in their names for critics to snarkily replace with '$'s.
+$1600 / 1386153BR 3BATH, MODERN SLIDING DOORS, GUEST ROOMS, GARBAGE DISPOSAL. FREE MANDATORY PARKING (ENFORCED). CONVENIENT TO ALDERAAN.
 
