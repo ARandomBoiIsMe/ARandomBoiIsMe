@@ -1,6 +1,6 @@
-[Craigslist Apartments](https://xkcd.com/886)
+[Chin-Up Bar](https://xkcd.com/954)
 
-![Craigslist Apartments](./random_comic.png)
+![Chin-Up Bar](./random_comic.png)
 
-$1600 / 1386153BR 3BATH, MODERN SLIDING DOORS, GUEST ROOMS, GARBAGE DISPOSAL. FREE MANDATORY PARKING (ENFORCED). CONVENIENT TO ALDERAAN.
+Those few who escaped found the emergency cutoff box disabled. The stampede lasted two hours and reached the bottom three times.
 
