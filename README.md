@@ -1,6 +1,6 @@
-[Travel Ghost](https://xkcd.com/1580)
+[Exoplanet System](https://xkcd.com/3103)
 
-![Travel Ghost](./random_comic.png)
+![Exoplanet System](./random_comic.png)
 
-And a different ghost has replaced me in the bedroom.
+Sure, this exoplanet we discovered may seem hostile to life, but our calculations suggest it's actually in the accretion disc's habitable zone.
 
