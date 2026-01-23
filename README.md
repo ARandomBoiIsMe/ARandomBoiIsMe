@@ -1,6 +1,6 @@
-[Chin-Up Bar](https://xkcd.com/954)
+[Travel Ghost](https://xkcd.com/1580)
 
-![Chin-Up Bar](./random_comic.png)
+![Travel Ghost](./random_comic.png)
 
-Those few who escaped found the emergency cutoff box disabled. The stampede lasted two hours and reached the bottom three times.
+And a different ghost has replaced me in the bedroom.
 
