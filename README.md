@@ -1,6 +1,6 @@
-[Exoplanet System](https://xkcd.com/3103)
+[Eventual Consistency](https://xkcd.com/2315)
 
-![Exoplanet System](./random_comic.png)
+![Eventual Consistency](./random_comic.png)
 
-Sure, this exoplanet we discovered may seem hostile to life, but our calculations suggest it's actually in the accretion disc's habitable zone.
+Later I'm going to get a head start on the heat bath.
 
