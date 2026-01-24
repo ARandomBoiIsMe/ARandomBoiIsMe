@@ -1,6 +1,6 @@
-[Eventual Consistency](https://xkcd.com/2315)
+[Eternal Flame](https://xkcd.com/961)
 
-![Eventual Consistency](./random_comic.png)
+![Eternal Flame](./random_comic.png)
 
-Later I'm going to get a head start on the heat bath.
+There's always the hope that if you sit and watch for long enough, the beachball will vanish and the thing it interrupted will return.
 
