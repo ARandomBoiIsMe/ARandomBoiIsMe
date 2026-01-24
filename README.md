@@ -1,6 +1,6 @@
-[Eternal Flame](https://xkcd.com/961)
+[Alphabet](https://xkcd.com/1069)
 
-![Eternal Flame](./random_comic.png)
+![Alphabet](./random_comic.png)
 
-There's always the hope that if you sit and watch for long enough, the beachball will vanish and the thing it interrupted will return.
+Do I get to remove letters entirely? Or just rearrange them? Because the 'k/c' situation is ridiculous. Look, we can make out whenever. This is *immortality*!
 
