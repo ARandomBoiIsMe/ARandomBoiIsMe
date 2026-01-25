@@ -1,6 +1,6 @@
-[I'm With Her](https://xkcd.com/1756)
+[Kayak](https://xkcd.com/209)
 
-![I'm With Her](./random_comic.png)
+![Kayak](./random_comic.png)
 
-We can do this.
+Man, there's future *everywhere*.
 
