@@ -1,6 +1,6 @@
-[What If 2 Gift Guide](https://xkcd.com/2702)
+[I'm With Her](https://xkcd.com/1756)
 
-![What If 2 Gift Guide](./random_comic.png)
+![I'm With Her](./random_comic.png)
 
-BABIES OR LITERATURE BUT NOT BOTH: Baby shoes
+We can do this.
 
