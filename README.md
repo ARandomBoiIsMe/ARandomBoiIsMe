@@ -1,6 +1,6 @@
-[Letting Go](https://xkcd.com/215)
+[What If 2 Gift Guide](https://xkcd.com/2702)
 
-![Letting Go](./random_comic.png)
+![What If 2 Gift Guide](./random_comic.png)
 
-At least I never gave her the root password.
+BABIES OR LITERATURE BUT NOT BOTH: Baby shoes
 
