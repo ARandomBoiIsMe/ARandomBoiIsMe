@@ -1,6 +1,6 @@
-[fMRI](https://xkcd.com/1453)
+[Classhole](https://xkcd.com/72)
 
-![fMRI](./random_comic.png)
+![Classhole](./random_comic.png)
 
-They also showed activation in the parts of the brain associated with exposure to dubious study methodology, concern about unremoved piercings, and exasperation with fMRI techs who won't stop talking about Warped Tour.
+A term coined by my friend Beth
 
