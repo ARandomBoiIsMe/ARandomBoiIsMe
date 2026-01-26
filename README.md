@@ -1,6 +1,6 @@
-[Kayak](https://xkcd.com/209)
+[Onboarding](https://xkcd.com/1812)
 
-![Kayak](./random_comic.png)
+![Onboarding](./random_comic.png)
 
-Man, there's future *everywhere*.
+'So we just have a steady flow of metal piling up in our server room? Isn't that a problem?' 'Yeah, you should bring that up at our next bismuth meeting.'
 
