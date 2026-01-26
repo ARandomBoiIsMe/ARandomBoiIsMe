@@ -1,6 +1,6 @@
-[Classhole](https://xkcd.com/72)
+[Cautionary](https://xkcd.com/456)
 
-![Classhole](./random_comic.png)
+![Cautionary](./random_comic.png)
 
-A term coined by my friend Beth
+This really is a true story, and she doesn't know I put it in my comic because her wifi hasn't worked for weeks.
 
