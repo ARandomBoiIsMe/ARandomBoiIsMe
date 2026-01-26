@@ -1,6 +1,6 @@
-[Onboarding](https://xkcd.com/1812)
+[fMRI](https://xkcd.com/1453)
 
-![Onboarding](./random_comic.png)
+![fMRI](./random_comic.png)
 
-'So we just have a steady flow of metal piling up in our server room? Isn't that a problem?' 'Yeah, you should bring that up at our next bismuth meeting.'
+They also showed activation in the parts of the brain associated with exposure to dubious study methodology, concern about unremoved piercings, and exasperation with fMRI techs who won't stop talking about Warped Tour.
 
