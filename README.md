@@ -1,6 +1,6 @@
-[Cautionary](https://xkcd.com/456)
+[More Accurate](https://xkcd.com/652)
 
-![Cautionary](./random_comic.png)
+![More Accurate](./random_comic.png)
 
-This really is a true story, and she doesn't know I put it in my comic because her wifi hasn't worked for weeks.
+We live in a world where there are actual fleets of robot assassins patrolling the skies. At some point there, we left the present and entered the future.
 
