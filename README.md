@@ -1,6 +1,6 @@
-[Abstract Pickup](https://xkcd.com/2824)
+[What If? 2 Flowchart](https://xkcd.com/2672)
 
-![Abstract Pickup](./random_comic.png)
+![What If? 2 Flowchart](./random_comic.png)
 
-Escape Artist Frees Self From Conversation With Pickup Artist
+Don't worry, the dogs are all fine. That's actually kind of the problem.
 
