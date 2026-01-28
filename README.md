@@ -1,6 +1,6 @@
-[Train](https://xkcd.com/1366)
+[Privacy Opinions](https://xkcd.com/1269)
 
-![Train](./random_comic.png)
+![Privacy Opinions](./random_comic.png)
 
-Trains rotate the Earth around various axes while elevators shift its position in space.
+I'm the Philosopher until someone hands me a burrito.
 
