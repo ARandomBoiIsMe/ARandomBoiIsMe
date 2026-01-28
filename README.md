@@ -1,6 +1,6 @@
-[What If? 2 Flowchart](https://xkcd.com/2672)
+[Train](https://xkcd.com/1366)
 
-![What If? 2 Flowchart](./random_comic.png)
+![Train](./random_comic.png)
 
-Don't worry, the dogs are all fine. That's actually kind of the problem.
+Trains rotate the Earth around various axes while elevators shift its position in space.
 
