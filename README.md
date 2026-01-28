@@ -1,6 +1,6 @@
-[Privacy Opinions](https://xkcd.com/1269)
+[Progeny](https://xkcd.com/894)
 
-![Privacy Opinions](./random_comic.png)
+![Progeny](./random_comic.png)
 
-I'm the Philosopher until someone hands me a burrito.
+I tell my children 'it's not whether you win or lose, it's how you play the game.' I'm trying to take the edge off their competitive drive to ensure that I can always beat them.
 
