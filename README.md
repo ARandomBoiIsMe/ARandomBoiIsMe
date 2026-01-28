@@ -1,6 +1,6 @@
-[Progeny](https://xkcd.com/894)
+[Snapchat](https://xkcd.com/1711)
 
-![Progeny](./random_comic.png)
+![Snapchat](./random_comic.png)
 
-I tell my children 'it's not whether you win or lose, it's how you play the game.' I'm trying to take the edge off their competitive drive to ensure that I can always beat them.
+For obvious reasons, the prize is awarded at a different time of year from the others, while it's still fresh in the committee's memory.
 
