@@ -1,6 +1,6 @@
-[Network](https://xkcd.com/350)
+[Sample](https://xkcd.com/780)
 
-![Network](./random_comic.png)
+![Sample](./random_comic.png)
 
-Viruses so far have been really disappointing on the 'disable the internet' front, and time is running out.  When Linux/Mac win in a decade or so the game will be over.
+There are two or three songs out there with beeps in the chorus that sound exactly like the clock radio alarm I had in high school, and hearing it makes me think my life since junior year has been a dream I'm about to wake up from.
 
