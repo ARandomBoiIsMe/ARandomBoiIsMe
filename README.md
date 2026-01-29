@@ -1,6 +1,6 @@
-[Suggestions](https://xkcd.com/672)
+[Solar Panels](https://xkcd.com/1924)
 
-![Suggestions](./random_comic.png)
+![Solar Panels](./random_comic.png)
 
-An hour later: SUGGESTION: LICK HER NIPPLE MORE.
+This works for a surprising range of sunlit things, including rooftops (sure), highway surfaces (probably not), sailboats (maybe), and jets, cars, and wild deer (haha good luck).
 
