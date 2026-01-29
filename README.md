@@ -1,6 +1,6 @@
-[Snapchat](https://xkcd.com/1711)
+[Network](https://xkcd.com/350)
 
-![Snapchat](./random_comic.png)
+![Network](./random_comic.png)
 
-For obvious reasons, the prize is awarded at a different time of year from the others, while it's still fresh in the committee's memory.
+Viruses so far have been really disappointing on the 'disable the internet' front, and time is running out.  When Linux/Mac win in a decade or so the game will be over.
 
