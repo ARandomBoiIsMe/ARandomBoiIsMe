@@ -1,6 +1,6 @@
-[Solar Panels](https://xkcd.com/1924)
+[Faucet](https://xkcd.com/2704)
 
-![Solar Panels](./random_comic.png)
+![Faucet](./random_comic.png)
 
-This works for a surprising range of sunlit things, including rooftops (sure), highway surfaces (probably not), sailboats (maybe), and jets, cars, and wild deer (haha good luck).
+It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag.
 
