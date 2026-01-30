@@ -1,6 +1,6 @@
-[Monty Python -- Enough](https://xkcd.com/16)
+[Worst Thing That Could Happen](https://xkcd.com/2261)
 
-![Monty Python -- Enough](./random_comic.png)
+![Worst Thing That Could Happen](./random_comic.png)
 
-I went to a dinner where there was a full 10 minutes of Holy Grail quotes exchanged, with no context, in lieu of conversation.  It depressed me badly.
+Before I install any patch, I always open the patch notes and Ctrl-F for 'supervolcano', 'seagull', and 'garbage disposal', just to be safe.
 
