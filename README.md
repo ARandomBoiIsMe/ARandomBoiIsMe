@@ -1,6 +1,6 @@
-[Faucet](https://xkcd.com/2704)
+[Monty Python -- Enough](https://xkcd.com/16)
 
-![Faucet](./random_comic.png)
+![Monty Python -- Enough](./random_comic.png)
 
-It's okay, they can figure out which control positions produce scalding water via a trial-and-error feedback loop with a barely-perceptible 10-second lag.
+I went to a dinner where there was a full 10 minutes of Holy Grail quotes exchanged, with no context, in lieu of conversation.  It depressed me badly.
 
