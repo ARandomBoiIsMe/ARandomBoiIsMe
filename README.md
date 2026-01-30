@@ -1,6 +1,6 @@
-[Worst Thing That Could Happen](https://xkcd.com/2261)
+[Flettner Rotor](https://xkcd.com/3119)
 
-![Worst Thing That Could Happen](./random_comic.png)
+![Flettner Rotor](./random_comic.png)
 
-Before I install any patch, I always open the patch notes and Ctrl-F for 'supervolcano', 'seagull', and 'garbage disposal', just to be safe.
+"And in maritime news, the Coast Guard is on the scene today after an apparent collision between two lighthouses."
 
