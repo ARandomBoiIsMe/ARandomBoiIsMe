@@ -1,6 +1,6 @@
-[KM3NeT](https://xkcd.com/3053)
+[2020 Election Map](https://xkcd.com/2399)
 
-![KM3NeT](./random_comic.png)
+![2020 Election Map](./random_comic.png)
 
-Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.
+There are more Trump voters in California than Texas, more Biden voters in Texas than New York, more Trump voters in New York than Ohio, more Biden voters in Ohio than Massachusetts, more Trump voters in Massachusetts than Mississippi, and more Biden voters in Mississippi than Vermont.
 
