@@ -1,6 +1,6 @@
-[2020 Election Map](https://xkcd.com/2399)
+[Beautiful Dream](https://xkcd.com/800)
 
-![2020 Election Map](./random_comic.png)
+![Beautiful Dream](./random_comic.png)
 
-There are more Trump voters in California than Texas, more Biden voters in Texas than New York, more Trump voters in New York than Ohio, more Biden voters in Ohio than Massachusetts, more Trump voters in Massachusetts than Mississippi, and more Biden voters in Mississippi than Vermont.
+Lucky. In MY dream, all the people who grew up loving The Giving Tree paired up with all the students who had weird dreams after reading The Metamorphosis. That one was more confusing.
 
