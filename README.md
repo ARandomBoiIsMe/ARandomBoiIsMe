@@ -1,6 +1,6 @@
-[Meat Cereals](https://xkcd.com/27)
+[The Corliss Resolution](https://xkcd.com/962)
 
-![Meat Cereals](./random_comic.png)
+![The Corliss Resolution](./random_comic.png)
 
-Disgusting
+And no avian society ever develops space travel because it's impossible to focus on calculus when you could be outside flying.
 
