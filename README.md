@@ -1,6 +1,6 @@
-[Beautiful Dream](https://xkcd.com/800)
+[IMDb Vaccines](https://xkcd.com/2441)
 
-![Beautiful Dream](./random_comic.png)
+![IMDb Vaccines](./random_comic.png)
 
-Lucky. In MY dream, all the people who grew up loving The Giving Tree paired up with all the students who had weird dreams after reading The Metamorphosis. That one was more confusing.
+I'm actually not sure if Vader and the Emperor count as a household or if Vader lives in that weird black egg thing or what.
 
