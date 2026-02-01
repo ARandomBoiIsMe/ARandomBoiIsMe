@@ -1,6 +1,6 @@
-[IMDb Vaccines](https://xkcd.com/2441)
+[Brontosaurus](https://xkcd.com/636)
 
-![IMDb Vaccines](./random_comic.png)
+![Brontosaurus](./random_comic.png)
 
-I'm actually not sure if Vader and the Emperor count as a household or if Vader lives in that weird black egg thing or what.
+Well, sex is like a velociraptor: despite your movie-fueled lifelong neurotic obsession, unlikely to be found in your house.
 
