@@ -1,6 +1,6 @@
-[Driving Cars](https://xkcd.com/1990)
+[Health Stats](https://xkcd.com/2581)
 
-![Driving Cars](./random_comic.png)
+![Health Stats](./random_comic.png)
 
-It's probably just me. If driving were as dangerous as it seems, hundreds of people would be dying every day!
+You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze.
 
