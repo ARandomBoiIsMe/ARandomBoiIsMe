@@ -1,6 +1,6 @@
-[The Corliss Resolution](https://xkcd.com/962)
+[Anti-Drone Eagles](https://xkcd.com/1842)
 
-![The Corliss Resolution](./random_comic.png)
+![Anti-Drone Eagles](./random_comic.png)
 
-And no avian society ever develops space travel because it's impossible to focus on calculus when you could be outside flying.
+It's cool, it's totally ethical--they're all programmed to hunt whichever bird of prey is most numerous at the moment, so they leave the endangered ones alone until near the end.
 
