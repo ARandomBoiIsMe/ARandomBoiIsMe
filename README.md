@@ -1,6 +1,6 @@
-[Spacecraft Debris Odds Ratio](https://xkcd.com/2599)
+[Driving Cars](https://xkcd.com/1990)
 
-![Spacecraft Debris Odds Ratio](./random_comic.png)
+![Driving Cars](./random_comic.png)
 
-You say this daily walk will reduce my risk of death from cardiovascular disease by 30%, but also increase my risk of death by bear attack by 300%? That's a 280% increased! I'm not a sucker; I'm staying inside.
+It's probably just me. If driving were as dangerous as it seems, hundreds of people would be dying every day!
 
