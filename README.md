@@ -1,6 +1,6 @@
-[Anti-Drone Eagles](https://xkcd.com/1842)
+[Spacecraft Debris Odds Ratio](https://xkcd.com/2599)
 
-![Anti-Drone Eagles](./random_comic.png)
+![Spacecraft Debris Odds Ratio](./random_comic.png)
 
-It's cool, it's totally ethical--they're all programmed to hunt whichever bird of prey is most numerous at the moment, so they leave the endangered ones alone until near the end.
+You say this daily walk will reduce my risk of death from cardiovascular disease by 30%, but also increase my risk of death by bear attack by 300%? That's a 280% increased! I'm not a sucker; I'm staying inside.
 
