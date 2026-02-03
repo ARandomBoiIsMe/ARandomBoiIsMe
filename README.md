@@ -1,6 +1,6 @@
-[Mattresses](https://xkcd.com/2096)
+[Washing Machine Settings](https://xkcd.com/2724)
 
-![Mattresses](./random_comic.png)
+![Washing Machine Settings](./random_comic.png)
 
-After reading that "The War To Sell You A Mattress Is An Internet Nightmare" article, I've decided it's safer and less complicated to just sleep on the floor. DISCLOSURE: THE AUTHOR OF THIS MOUSEOVER TEXT RECEIVED FINANCIAL COMPENSATION FROM THE FLOOR INDUSTRY FOR THIS MESSAGE.
+I guess the engineers who built my dishwasher MIGHT have some insight into how to load it, but instead of reading the booklet they gave me, it seems easier to experiment for years and then get in arguments so heated that I get banned from Quora.
 
