@@ -1,6 +1,6 @@
-[Margaret](https://xkcd.com/1544)
+[Astronomer Hotline](https://xkcd.com/2633)
 
-![Margaret](./random_comic.png)
+![Astronomer Hotline](./random_comic.png)
 
-Otherwise known as Margaret the Destroyer, I will bring pain to the the Great One. Then again, maybe I won't.
+Employment statistics have to correct for the fact that the Weird Bug Hotline hires on a bunch of extra temporary staff every 17 years.
 
