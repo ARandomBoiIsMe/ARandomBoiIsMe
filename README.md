@@ -1,6 +1,6 @@
-[Washing Machine Settings](https://xkcd.com/2724)
+[Margaret](https://xkcd.com/1544)
 
-![Washing Machine Settings](./random_comic.png)
+![Margaret](./random_comic.png)
 
-I guess the engineers who built my dishwasher MIGHT have some insight into how to load it, but instead of reading the booklet they gave me, it seems easier to experiment for years and then get in arguments so heated that I get banned from Quora.
+Otherwise known as Margaret the Destroyer, I will bring pain to the the Great One. Then again, maybe I won't.
 
