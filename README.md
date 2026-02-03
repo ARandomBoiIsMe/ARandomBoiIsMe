@@ -1,6 +1,6 @@
-[Health Stats](https://xkcd.com/2581)
+[Mattresses](https://xkcd.com/2096)
 
-![Health Stats](./random_comic.png)
+![Mattresses](./random_comic.png)
 
-You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze.
+After reading that "The War To Sell You A Mattress Is An Internet Nightmare" article, I've decided it's safer and less complicated to just sleep on the floor. DISCLOSURE: THE AUTHOR OF THIS MOUSEOVER TEXT RECEIVED FINANCIAL COMPENSATION FROM THE FLOOR INDUSTRY FOR THIS MESSAGE.
 
