@@ -1,6 +1,6 @@
-[Interoperability](https://xkcd.com/3105)
+[Star Wars](https://xkcd.com/1477)
 
-![Interoperability](./random_comic.png)
+![Star Wars](./random_comic.png)
 
-We're getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy.
+A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ...
 
