@@ -1,6 +1,6 @@
-[Star Wars](https://xkcd.com/1477)
+[Sharing](https://xkcd.com/956)
 
-![Star Wars](./random_comic.png)
+![Sharing](./random_comic.png)
 
-A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ...
+In the new edition of The Giving Tree, the tree uses social tools to share with its friend all the best places to buy things.
 
