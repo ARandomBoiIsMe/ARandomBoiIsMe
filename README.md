@@ -1,6 +1,6 @@
-[Astronomer Hotline](https://xkcd.com/2633)
+[Interoperability](https://xkcd.com/3105)
 
-![Astronomer Hotline](./random_comic.png)
+![Interoperability](./random_comic.png)
 
-Employment statistics have to correct for the fact that the Weird Bug Hotline hires on a bunch of extra temporary staff every 17 years.
+We're getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy.
 
