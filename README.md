@@ -1,6 +1,6 @@
-[Undocumented Feature](https://xkcd.com/1305)
+[ISO 8601](https://xkcd.com/1179)
 
-![Undocumented Feature](./random_comic.png)
+![ISO 8601](./random_comic.png)
 
-And it doesn't pop up a box every time asking you to use your real name. In fact, there's no way to set your name at all. You just have to keep reminding people who you are.
+ISO 8601 was published on 06/05/88 and most recently amended on 12/01/04.
 
