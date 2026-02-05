@@ -1,6 +1,6 @@
-[Machine](https://xkcd.com/2916)
+[Cuisine](https://xkcd.com/2778)
 
-![Machine](./random_comic.png)
+![Cuisine](./random_comic.png)
 
-The Credible Machine
+My connection to it goes way back, to my early days, when I was just a cloud of primordial hydrogen collapsing in the darkness of space.
 
