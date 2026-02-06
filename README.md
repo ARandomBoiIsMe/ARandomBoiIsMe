@@ -1,6 +1,6 @@
-[Fight](https://xkcd.com/340)
+[Election Commentary](https://xkcd.com/2136)
 
-![Fight](./random_comic.png)
+![Election Commentary](./random_comic.png)
 
-And she put sweet nothings in all my .conf files.  It'll take me forever to get X working again.
+This really validates Jones's strategy of getting several thousand more votes than Smith. In retrospect, that was a smart move; those votes were crucial.
 
