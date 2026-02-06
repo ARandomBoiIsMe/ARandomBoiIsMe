@@ -1,6 +1,6 @@
-[Turn Signals](https://xkcd.com/165)
+[Fight](https://xkcd.com/340)
 
-![Turn Signals](./random_comic.png)
+![Fight](./random_comic.png)
 
-I'm not very good at meeting people.
+And she put sweet nothings in all my .conf files.  It'll take me forever to get X working again.
 
