@@ -1,6 +1,6 @@
-[Thoughts](https://xkcd.com/275)
+[IMDb Vaccines](https://xkcd.com/2441)
 
-![Thoughts](./random_comic.png)
+![IMDb Vaccines](./random_comic.png)
 
-And now I might never get to again.
+I'm actually not sure if Vader and the Emperor count as a household or if Vader lives in that weird black egg thing or what.
 
