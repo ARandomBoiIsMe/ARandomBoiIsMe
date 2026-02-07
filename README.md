@@ -1,6 +1,6 @@
-[Fresh Pears](https://xkcd.com/2209)
+[Fiction Rule of Thumb](https://xkcd.com/483)
 
-![Fresh Pears](./random_comic.png)
+![Fiction Rule of Thumb](./random_comic.png)
 
-I want to sell apples but I'm still working on getting the machine to do the cutting and grafting.
+Except for anything by Lewis Carroll or Tolkien, you get five made-up words per story.  I'm looking at you, Anathem.
 
