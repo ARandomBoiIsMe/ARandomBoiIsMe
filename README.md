@@ -1,6 +1,6 @@
-[Fiction Rule of Thumb](https://xkcd.com/483)
+[Thoughts](https://xkcd.com/275)
 
-![Fiction Rule of Thumb](./random_comic.png)
+![Thoughts](./random_comic.png)
 
-Except for anything by Lewis Carroll or Tolkien, you get five made-up words per story.  I'm looking at you, Anathem.
+And now I might never get to again.
 
