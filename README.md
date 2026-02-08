@@ -1,6 +1,6 @@
-[Celestial Event](https://xkcd.com/2971)
+[Types of Approximation](https://xkcd.com/2205)
 
-![Celestial Event](./random_comic.png)
+![Types of Approximation](./random_comic.png)
 
-If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.
+It's not my fault I haven't had a chance to measure the curvature of this particular universe.
 
