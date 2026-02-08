@@ -1,6 +1,6 @@
-[IMDb Vaccines](https://xkcd.com/2441)
+[2008 Christmas Special](https://xkcd.com/521)
 
-![IMDb Vaccines](./random_comic.png)
+![2008 Christmas Special](./random_comic.png)
 
-I'm actually not sure if Vader and the Emperor count as a household or if Vader lives in that weird black egg thing or what.
+'How could you possibly think typing 'import skynet' was a good idea?'
 
