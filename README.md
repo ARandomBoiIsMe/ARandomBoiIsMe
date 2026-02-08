@@ -1,6 +1,6 @@
-[2008 Christmas Special](https://xkcd.com/521)
+[Celestial Event](https://xkcd.com/2971)
 
-![2008 Christmas Special](./random_comic.png)
+![Celestial Event](./random_comic.png)
 
-'How could you possibly think typing 'import skynet' was a good idea?'
+If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.
 
