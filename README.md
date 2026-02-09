@@ -1,6 +1,6 @@
-[Scientific Briefing](https://xkcd.com/2278)
+[Tree](https://xkcd.com/835)
 
-![Scientific Briefing](./random_comic.png)
+![Tree](./random_comic.png)
 
-"I actually came in in the middle so I don't know which topic we're briefing on; the same slides work for like half of them."
+Not only is that terrible in general, but you just KNOW Billy's going to open the root present first, and then everyone will have to wait while the heap is rebuilt.
 
