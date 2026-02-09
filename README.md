@@ -1,6 +1,6 @@
-[Tree](https://xkcd.com/835)
+[Loop](https://xkcd.com/1411)
 
-![Tree](./random_comic.png)
+![Loop](./random_comic.png)
 
-Not only is that terrible in general, but you just KNOW Billy's going to open the root present first, and then everyone will have to wait while the heap is rebuilt.
+Ugh, today's kids are forgetting the old-fashioned art of absentmindedly reading the same half-page of a book over and over and then letting your attention wander and picking up another book.
 
