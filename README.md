@@ -1,6 +1,6 @@
-[Solar Protons](https://xkcd.com/2997)
+[Scientific Briefing](https://xkcd.com/2278)
 
-![Solar Protons](./random_comic.png)
+![Scientific Briefing](./random_comic.png)
 
-If any of you want to meet some cool local oxygen atoms, I can introduce you!
+"I actually came in in the middle so I don't know which topic we're briefing on; the same slides work for like half of them."
 
