@@ -1,6 +1,6 @@
-[Venus](https://xkcd.com/1519)
+[Moonfall](https://xkcd.com/2561)
 
-![Venus](./random_comic.png)
+![Moonfall](./random_comic.png)
 
-The sudden introduction of Venusian flowers led to an explosive growth of unusual Earth pollinators, which became known as the "butterfly effect."
+Novel ideas and cool explosions are both good, but what I really want from a movie is novel ideas ABOUT cool explosions.
 
