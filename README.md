@@ -1,6 +1,6 @@
-[Moonfall](https://xkcd.com/2561)
+[Fortune Cookies](https://xkcd.com/425)
 
-![Moonfall](./random_comic.png)
+![Fortune Cookies](./random_comic.png)
 
-Novel ideas and cool explosions are both good, but what I really want from a movie is novel ideas ABOUT cool explosions.
+'You will have hot, steamy, sweaty sex ... IN BED!'
 
