@@ -1,6 +1,6 @@
-[Eclipse Birds](https://xkcd.com/1879)
+[Venus](https://xkcd.com/1519)
 
-![Eclipse Birds](./random_comic.png)
+![Venus](./random_comic.png)
 
-'Hey! Put her down!' 'No, it's ok! The next chance for me to be carried to a blood cauldron isn't until 2024!'
+The sudden introduction of Venusian flowers led to an explosive growth of unusual Earth pollinators, which became known as the "butterfly effect."
 
