@@ -1,6 +1,6 @@
-[Loop](https://xkcd.com/1411)
+[Eclipse Birds](https://xkcd.com/1879)
 
-![Loop](./random_comic.png)
+![Eclipse Birds](./random_comic.png)
 
-Ugh, today's kids are forgetting the old-fashioned art of absentmindedly reading the same half-page of a book over and over and then letting your attention wander and picking up another book.
+'Hey! Put her down!' 'No, it's ok! The next chance for me to be carried to a blood cauldron isn't until 2024!'
 
