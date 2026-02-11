@@ -1,6 +1,6 @@
-[Desecration](https://xkcd.com/782)
+[Thighs](https://xkcd.com/321)
 
-![Desecration](./random_comic.png)
+![Thighs](./random_comic.png)
 
-It gets worse! You know that wizened old monk with the gypsy wife whose voodoo shop we smash up every day after school?
+My thighs have seen the glory of the coming of the Lord?
 
