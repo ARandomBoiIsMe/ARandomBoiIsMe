@@ -1,6 +1,6 @@
-[Fortune Cookies](https://xkcd.com/425)
+[Desecration](https://xkcd.com/782)
 
-![Fortune Cookies](./random_comic.png)
+![Desecration](./random_comic.png)
 
-'You will have hot, steamy, sweaty sex ... IN BED!'
+It gets worse! You know that wizened old monk with the gypsy wife whose voodoo shop we smash up every day after school?
 
