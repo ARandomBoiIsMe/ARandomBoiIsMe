@@ -1,6 +1,6 @@
-[Thighs](https://xkcd.com/321)
+[Worst-Case Shopping](https://xkcd.com/909)
 
-![Thighs](./random_comic.png)
+![Worst-Case Shopping](./random_comic.png)
 
-My thighs have seen the glory of the coming of the Lord?
+Wait a minute. If I'm escaping from a submarine at 50 meters, then I'll *definitely* need a flashlight to find air pockets for gradual decompression on the way up. Time to start shopping professional dive lights.
 
