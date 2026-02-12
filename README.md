@@ -1,6 +1,6 @@
-[METAR](https://xkcd.com/3024)
+[Inheritance](https://xkcd.com/2468)
 
-![METAR](./random_comic.png)
+![Inheritance](./random_comic.png)
 
-In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM.
+People ask me whether I feel any moral qualms about the source of the points, but if he hadn't introduced factory farming to Agricola, someone else would have.
 
