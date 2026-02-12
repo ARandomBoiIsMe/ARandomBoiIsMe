@@ -1,6 +1,6 @@
-[Inheritance](https://xkcd.com/2468)
+[Flag Map Sabotage](https://xkcd.com/2528)
 
-![Inheritance](./random_comic.png)
+![Flag Map Sabotage](./random_comic.png)
 
-People ask me whether I feel any moral qualms about the source of the points, but if he hadn't introduced factory farming to Agricola, someone else would have.
+Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down.
 
