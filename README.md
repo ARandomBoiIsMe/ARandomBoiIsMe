@@ -1,6 +1,6 @@
-[Greenland Size](https://xkcd.com/2911)
+[METAR](https://xkcd.com/3024)
 
-![Greenland Size](./random_comic.png)
+![METAR](./random_comic.png)
 
-The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.
+In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM.
 
