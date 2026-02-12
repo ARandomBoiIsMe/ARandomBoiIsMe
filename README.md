@@ -1,6 +1,6 @@
-[Flag Map Sabotage](https://xkcd.com/2528)
+[Skateboarding is Not a Crime](https://xkcd.com/172)
 
-![Flag Map Sabotage](./random_comic.png)
+![Skateboarding is Not a Crime](./random_comic.png)
 
-Delaware hopes to explore the western edge of areas marked with the Belgian flag, once the tornadoes die down.
+'Arrest me, I'm a skateboarder' is an even more obnoxious variant.
 
