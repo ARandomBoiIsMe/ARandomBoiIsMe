@@ -1,6 +1,6 @@
-[L6 Lagrange Point](https://xkcd.com/2717)
+[Caroling](https://xkcd.com/959)
 
-![L6 Lagrange Point](./random_comic.png)
+![Caroling](./random_comic.png)
 
-It's difficult to orbit L6 stably due to gravitational perturbation from Akron and Toledo.
+For a thousand generations we vowed never to forget how his soldiers feasted on our brother Stephen.
 
