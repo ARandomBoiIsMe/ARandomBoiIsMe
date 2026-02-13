@@ -1,6 +1,6 @@
-[Rotary Tool](https://xkcd.com/3047)
+[L6 Lagrange Point](https://xkcd.com/2717)
 
-![Rotary Tool](./random_comic.png)
+![L6 Lagrange Point](./random_comic.png)
 
-It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.
+It's difficult to orbit L6 stably due to gravitational perturbation from Akron and Toledo.
 
