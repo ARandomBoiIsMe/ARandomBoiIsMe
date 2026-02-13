@@ -1,6 +1,6 @@
-[Caroling](https://xkcd.com/959)
+[Rule 34](https://xkcd.com/305)
 
-![Caroling](./random_comic.png)
+![Rule 34](./random_comic.png)
 
-For a thousand generations we vowed never to forget how his soldiers feasted on our brother Stephen.
+Okay, Lance.  For entry into the college bowl, spell 'Throbbing'
 
