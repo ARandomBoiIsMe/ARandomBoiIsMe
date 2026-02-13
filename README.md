@@ -1,6 +1,6 @@
-[Skateboarding is Not a Crime](https://xkcd.com/172)
+[Rotary Tool](https://xkcd.com/3047)
 
-![Skateboarding is Not a Crime](./random_comic.png)
+![Rotary Tool](./random_comic.png)
 
-'Arrest me, I'm a skateboarder' is an even more obnoxious variant.
+It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.
 
