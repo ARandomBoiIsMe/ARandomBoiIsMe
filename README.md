@@ -1,6 +1,6 @@
-[Super Bowl](https://xkcd.com/1480)
+[Types of Scientific Paper](https://xkcd.com/2456)
 
-![Super Bowl](./random_comic.png)
+![Types of Scientific Paper](./random_comic.png)
 
-My hobby: Pretending to miss the sarcasm when people show off their lack of interest in football by talking about 'sportsball' and acting excited to find someone else who's interested, then acting confused when they try to clarify.
+Others include "We've incrementally improved the estimate of this coefficient," "Maybe all these categories are wrong," and "We found a way to make student volunteers worse at tasks."
 
