@@ -1,6 +1,6 @@
-[Types of Scientific Paper](https://xkcd.com/2456)
+[Planning](https://xkcd.com/1539)
 
-![Types of Scientific Paper](./random_comic.png)
+![Planning](./random_comic.png)
 
-Others include "We've incrementally improved the estimate of this coefficient," "Maybe all these categories are wrong," and "We found a way to make student volunteers worse at tasks."
+[10 years later] Man, why are people so comfortable handing Google and Facebook control over our nuclear weapons?
 
