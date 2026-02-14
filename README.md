@@ -1,6 +1,6 @@
-[Rule 34](https://xkcd.com/305)
+[Super Bowl](https://xkcd.com/1480)
 
-![Rule 34](./random_comic.png)
+![Super Bowl](./random_comic.png)
 
-Okay, Lance.  For entry into the college bowl, spell 'Throbbing'
+My hobby: Pretending to miss the sarcasm when people show off their lack of interest in football by talking about 'sportsball' and acting excited to find someone else who's interested, then acting confused when they try to clarify.
 
