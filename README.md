@@ -1,6 +1,6 @@
-[Internet Argument](https://xkcd.com/438)
+[Use or Discard By](https://xkcd.com/2297)
 
-![Internet Argument](./random_comic.png)
+![Use or Discard By](./random_comic.png)
 
-It's easier to be an asshole to words than to people.
+One of the things of bear spray says that, and I'm not one to disobey safety instructions, but there are no bears around here. Guess it's time for a camping trip where we leave lots of food out!
 
