@@ -1,6 +1,6 @@
-[Audiophiles](https://xkcd.com/841)
+[Applied Math](https://xkcd.com/816)
 
-![Audiophiles](./random_comic.png)
+![Applied Math](./random_comic.png)
 
-For years, I took the wrong lesson from that Monster Cable experiment and only listened to my music through alligator-clipped coat hangers.
+Dear Reader: Enclosed is a check for ninety-eight cents. Using your work, I have proven that this equals the amount you requested.
 
