@@ -1,6 +1,6 @@
-[Worst Ladder](https://xkcd.com/2375)
+[Audiophiles](https://xkcd.com/841)
 
-![Worst Ladder](./random_comic.png)
+![Audiophiles](./random_comic.png)
 
-[Six months later] "Well, our 'worst ladder' subscription series was a surprisingly lucrative success, but was completely canceled out by the losses from the disastrous Home Depot merchandising tie-in."
+For years, I took the wrong lesson from that Monster Cable experiment and only listened to my music through alligator-clipped coat hangers.
 
