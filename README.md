@@ -1,6 +1,6 @@
-[Use or Discard By](https://xkcd.com/2297)
+[Worst Ladder](https://xkcd.com/2375)
 
-![Use or Discard By](./random_comic.png)
+![Worst Ladder](./random_comic.png)
 
-One of the things of bear spray says that, and I'm not one to disobey safety instructions, but there are no bears around here. Guess it's time for a camping trip where we leave lots of food out!
+[Six months later] "Well, our 'worst ladder' subscription series was a surprisingly lucrative success, but was completely canceled out by the losses from the disastrous Home Depot merchandising tie-in."
 
