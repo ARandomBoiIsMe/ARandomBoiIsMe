@@ -1,6 +1,6 @@
-[Applied Math](https://xkcd.com/816)
+[Time Travel Thesis](https://xkcd.com/1716)
 
-![Applied Math](./random_comic.png)
+![Time Travel Thesis](./random_comic.png)
 
-Dear Reader: Enclosed is a check for ninety-eight cents. Using your work, I have proven that this equals the amount you requested.
+'Hey, what are those futuristic goggles for, anyway?' 'Oh, this is just a broken Google Glass. It was 2010's night at the club.'
 
