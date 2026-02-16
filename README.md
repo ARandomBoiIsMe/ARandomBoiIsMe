@@ -1,6 +1,6 @@
-[Alignment Chart Alignment Chart](https://xkcd.com/2251)
+[Religions](https://xkcd.com/900)
 
-![Alignment Chart Alignment Chart](./random_comic.png)
+![Religions](./random_comic.png)
 
-I would describe my personal alignment as "lawful heterozygous silty liquid."
+But to us there is but one God, plus or minus one. --1 Corinthians 8:6±2.
 
