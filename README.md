@@ -1,6 +1,6 @@
-[Time Travel Thesis](https://xkcd.com/1716)
+[Alignment Chart Alignment Chart](https://xkcd.com/2251)
 
-![Time Travel Thesis](./random_comic.png)
+![Alignment Chart Alignment Chart](./random_comic.png)
 
-'Hey, what are those futuristic goggles for, anyway?' 'Oh, this is just a broken Google Glass. It was 2010's night at the club.'
+I would describe my personal alignment as "lawful heterozygous silty liquid."
 
