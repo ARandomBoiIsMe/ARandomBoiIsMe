@@ -1,6 +1,6 @@
-[Religions](https://xkcd.com/900)
+[1337: Part 5](https://xkcd.com/345)
 
-![Religions](./random_comic.png)
+![1337: Part 5](./random_comic.png)
 
-But to us there is but one God, plus or minus one. --1 Corinthians 8:6±2.
+This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times.
 
