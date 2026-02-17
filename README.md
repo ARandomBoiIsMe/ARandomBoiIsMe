@@ -1,6 +1,6 @@
-[1337: Part 5](https://xkcd.com/345)
+[Year in Review](https://xkcd.com/1302)
 
-![1337: Part 5](./random_comic.png)
+![Year in Review](./random_comic.png)
 
-This digital music thing will probably reach its endgame sometime in the next decade or so.  These are very exciting times.
+All in all, I give this year a C-. There were no aurora visible from my house and that comet evaporated. They'd better not cancel the 2017 eclipse.
 
