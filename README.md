@@ -1,6 +1,6 @@
-[Tools](https://xkcd.com/1629)
+[Power Cord](https://xkcd.com/1395)
 
-![Tools](./random_comic.png)
+![Power Cord](./random_comic.png)
 
-I make tools for managing job-hunting sites for people who make tools for managing job-hunting sites for people who make tools for ...
+In this situation, gzip /dev/inside to deflate, then pipe the compressed air to /dev/input to clean your keyboard. Avert your eyes when you do.
 
