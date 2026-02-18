@@ -1,6 +1,6 @@
-[Power Cord](https://xkcd.com/1395)
+[1991 and 2021](https://xkcd.com/2481)
 
-![Power Cord](./random_comic.png)
+![1991 and 2021](./random_comic.png)
 
-In this situation, gzip /dev/inside to deflate, then pipe the compressed air to /dev/input to clean your keyboard. Avert your eyes when you do.
+"Oh, and our computers all have cameras now, which is nice during the pandemic lockdowns." "The WHAT."
 
