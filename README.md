@@ -1,6 +1,6 @@
-[Worst Hurricane](https://xkcd.com/1407)
+[Odyssey](https://xkcd.com/2837)
 
-![Worst Hurricane](./random_comic.png)
+![Odyssey](./random_comic.png)
 
-'Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.
+Ugh, it says they attempted delivery but "Nobody was home."
 
