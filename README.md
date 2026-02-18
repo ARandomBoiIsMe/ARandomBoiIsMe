@@ -1,6 +1,6 @@
-[Artifacts](https://xkcd.com/1781)
+[Worst Hurricane](https://xkcd.com/1407)
 
-![Artifacts](./random_comic.png)
+![Worst Hurricane](./random_comic.png)
 
-I didn't even realize you could HAVE a data set made up entirely of outliers.
+'Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.
 
