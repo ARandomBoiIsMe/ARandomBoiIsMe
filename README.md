@@ -1,6 +1,6 @@
-[Odyssey](https://xkcd.com/2837)
+[Eclipse Flights](https://xkcd.com/1868)
 
-![Odyssey](./random_comic.png)
+![Eclipse Flights](./random_comic.png)
 
-Ugh, it says they attempted delivery but "Nobody was home."
+The captain has turned on the 'fasten seat belt' sign.
 
