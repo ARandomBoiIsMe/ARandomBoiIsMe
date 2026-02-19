@@ -1,6 +1,6 @@
-[TTSLTSWBD](https://xkcd.com/2540)
+[Local g](https://xkcd.com/852)
 
-![TTSLTSWBD](./random_comic.png)
+![Local g](./random_comic.png)
 
-Tomorrow's sessions will be entirely devoted to sewing machine rotary hooks.
+In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.
 
