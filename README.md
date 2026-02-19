@@ -1,6 +1,6 @@
-[Elementary Physics Paths](https://xkcd.com/2933)
+[TTSLTSWBD](https://xkcd.com/2540)
 
-![Elementary Physics Paths](./random_comic.png)
+![TTSLTSWBD](./random_comic.png)
 
-==COSMOLOGY==> 'Uhhh ... how sure are we that everything is made of these?'
+Tomorrow's sessions will be entirely devoted to sewing machine rotary hooks.
 
