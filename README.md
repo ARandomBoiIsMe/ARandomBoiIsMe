@@ -1,6 +1,6 @@
-[Eclipse Flights](https://xkcd.com/1868)
+[Elementary Physics Paths](https://xkcd.com/2933)
 
-![Eclipse Flights](./random_comic.png)
+![Elementary Physics Paths](./random_comic.png)
 
-The captain has turned on the 'fasten seat belt' sign.
+==COSMOLOGY==> 'Uhhh ... how sure are we that everything is made of these?'
 
