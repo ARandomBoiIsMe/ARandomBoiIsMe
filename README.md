@@ -1,6 +1,6 @@
-[Local g](https://xkcd.com/852)
+[Investing](https://xkcd.com/947)
 
-![Local g](./random_comic.png)
+![Investing](./random_comic.png)
 
-In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.
+But Einstein said it was the most powerful force in the universe, and I take all my investment advice from flippant remarks by theoretical physicists making small talk at parties.
 
