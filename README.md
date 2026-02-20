@@ -1,6 +1,6 @@
-[Investing](https://xkcd.com/947)
+[7 Eleven](https://xkcd.com/1825)
 
-![Investing](./random_comic.png)
+![7 Eleven](./random_comic.png)
 
-But Einstein said it was the most powerful force in the universe, and I take all my investment advice from flippant remarks by theoretical physicists making small talk at parties.
+Really, the only honest 24-hour stores are the ones in places like Arizona and Hawaii, and many of them are still wrong in certain years.
 
