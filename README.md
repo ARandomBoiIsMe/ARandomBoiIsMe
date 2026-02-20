@@ -1,6 +1,6 @@
-[The Carriage](https://xkcd.com/788)
+[D&D Combinatorics](https://xkcd.com/3015)
 
-![The Carriage](./random_comic.png)
+![D&D Combinatorics](./random_comic.png)
 
-I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.
+Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys.
 
