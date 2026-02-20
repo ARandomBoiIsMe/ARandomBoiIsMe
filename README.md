@@ -1,6 +1,6 @@
-[7 Eleven](https://xkcd.com/1825)
+[The Carriage](https://xkcd.com/788)
 
-![7 Eleven](./random_comic.png)
+![The Carriage](./random_comic.png)
 
-Really, the only honest 24-hour stores are the ones in places like Arizona and Hawaii, and many of them are still wrong in certain years.
+I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.
 
