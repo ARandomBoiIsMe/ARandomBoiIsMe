@@ -1,6 +1,6 @@
-[Single Ladies](https://xkcd.com/712)
+[Bad Date](https://xkcd.com/2698)
 
-![Single Ladies](./random_comic.png)
+![Bad Date](./random_comic.png)
 
-Using a ring to bind someone you covet into your dark and twisted world? Wow, just got the subtext there. Also, the apparently eager Beyoncé would've made one badass Nazgȗl.
+"Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with."
 
