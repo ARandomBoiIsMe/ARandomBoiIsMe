@@ -1,6 +1,6 @@
-[AAAAAA](https://xkcd.com/1001)
+[Oceanography Gift](https://xkcd.com/2859)
 
-![AAAAAA](./random_comic.png)
+![Oceanography Gift](./random_comic.png)
 
-'ARE YOU TURNED ON YET?' 'I DON'T THINK SO--ARE YOU?' 'MAYBE A LITTLE!' 'OK, FIVE MORE MINUTES.'
+Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents.
 
