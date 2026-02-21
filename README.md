@@ -1,6 +1,6 @@
-[D&D Combinatorics](https://xkcd.com/3015)
+[AAAAAA](https://xkcd.com/1001)
 
-![D&D Combinatorics](./random_comic.png)
+![AAAAAA](./random_comic.png)
 
-Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys.
+'ARE YOU TURNED ON YET?' 'I DON'T THINK SO--ARE YOU?' 'MAYBE A LITTLE!' 'OK, FIVE MORE MINUTES.'
 
