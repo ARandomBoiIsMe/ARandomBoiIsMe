@@ -1,6 +1,6 @@
-[Security](https://xkcd.com/538)
+[Trochee Fixation](https://xkcd.com/856)
 
-![Security](./random_comic.png)
+![Trochee Fixation](./random_comic.png)
 
-Actual actual reality: nobody cares about his secrets.  (Also, I would be hard-pressed to find that wrench for $5.)
+If you Huffman-coded all the 'random' things everyone on the internet has said over the years, you'd wind up with, like, 30 or 40 bytes *tops*.
 
