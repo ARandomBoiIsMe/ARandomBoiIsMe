@@ -1,6 +1,6 @@
-[United Shapes](https://xkcd.com/1079)
+[Suckville](https://xkcd.com/1008)
 
-![United Shapes](./random_comic.png)
+![Suckville](./random_comic.png)
 
-That eggplant is in something of a flaccid state.
+Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.
 
