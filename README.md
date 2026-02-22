@@ -1,6 +1,6 @@
-[Bad Date](https://xkcd.com/2698)
+[Security](https://xkcd.com/538)
 
-![Bad Date](./random_comic.png)
+![Security](./random_comic.png)
 
-"Even split between us, this will pay way better than the Jumanji sponsorship I came into the date with."
+Actual actual reality: nobody cares about his secrets.  (Also, I would be hard-pressed to find that wrench for $5.)
 
