@@ -1,6 +1,6 @@
-[Suckville](https://xkcd.com/1008)
+[Decorative Constants](https://xkcd.com/2566)
 
-![Suckville](./random_comic.png)
+![Decorative Constants](./random_comic.png)
 
-Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.
+Arguably, the '1/2' in the drag equation is purely decorative, since drag coefficients are already unitless and could just as easily be half as big. Some derivations give more justification for the extra 1/2 than others, but one textbook just calls it 'a traditional tribute to Euler and Bernoulli.'
 
