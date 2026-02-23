@@ -1,6 +1,6 @@
-[Voynich Manuscript](https://xkcd.com/593)
+[Heaven](https://xkcd.com/888)
 
-![Voynich Manuscript](./random_comic.png)
+![Heaven](./random_comic.png)
 
-Wait, is that the ORIGINAL voynich manuscript?  Where did you GET that?  Wanna try playing a round of Druids and Dicotyledons?
+If you've never had sex, this is what it feels like. Complete with the brief feeling of satisfaction, followed by ennui, followed by getting bored and trying to make it happen again.
 
