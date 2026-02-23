@@ -1,6 +1,6 @@
-[Decorative Constants](https://xkcd.com/2566)
+[Calendar of Meaningful Dates](https://xkcd.com/1140)
 
-![Decorative Constants](./random_comic.png)
+![Calendar of Meaningful Dates](./random_comic.png)
 
-Arguably, the '1/2' in the drag equation is purely decorative, since drag coefficients are already unitless and could just as easily be half as big. Some derivations give more justification for the extra 1/2 than others, but one textbook just calls it 'a traditional tribute to Euler and Bernoulli.'
+In months other than September, the 11th is mentioned substantially less often than any other date. It's been that way since long before 9/11 and I have no idea why.
 
