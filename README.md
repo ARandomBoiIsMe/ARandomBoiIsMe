@@ -1,6 +1,6 @@
-[Heaven](https://xkcd.com/888)
+[Sharing Options](https://xkcd.com/2106)
 
-![Heaven](./random_comic.png)
+![Sharing Options](./random_comic.png)
 
-If you've never had sex, this is what it feels like. Complete with the brief feeling of satisfaction, followed by ennui, followed by getting bored and trying to make it happen again.
+How about posts that are public, but every time a company accesses a bunch of them, the API makes their CEO's account click 'like' on one of them at random so you get a notification.
 
