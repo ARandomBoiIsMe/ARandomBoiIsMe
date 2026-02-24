@@ -1,6 +1,6 @@
-[Sharing Options](https://xkcd.com/2106)
+[TornadoGuard](https://xkcd.com/937)
 
-![Sharing Options](./random_comic.png)
+![TornadoGuard](./random_comic.png)
 
-How about posts that are public, but every time a company accesses a bunch of them, the API makes their CEO's account click 'like' on one of them at random so you get a notification.
+The bug report was marked 'could not reproduce'.
 
