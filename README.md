@@ -1,6 +1,6 @@
-[Real Estate](https://xkcd.com/1894)
+[Search History](https://xkcd.com/155)
 
-![Real Estate](./random_comic.png)
+![Search History](./random_comic.png)
 
-I tried converting the prices into pizzas, to put it in more familiar terms, and it just became a hard-to-think-about number of pizzas.
+SomethingAwful has a wonderful compilation of crazy AOL searches in their Weekend Web archives, 2006-08-13.
 
