@@ -1,6 +1,6 @@
-[Air Travel Packing List](https://xkcd.com/2525)
+[Friendly Questions](https://xkcd.com/1976)
 
-![Air Travel Packing List](./random_comic.png)
+![Friendly Questions](./random_comic.png)
 
-I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.
+Just tell me everything you're thinking about in order from most important to last, and then we'll be friends and we can eat apples together.
 
