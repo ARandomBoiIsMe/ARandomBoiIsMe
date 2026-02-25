@@ -1,6 +1,6 @@
-[Making Hash Browns](https://xkcd.com/421)
+[Hamster Ball Heist](https://xkcd.com/211)
 
-![Making Hash Browns](./random_comic.png)
+![Hamster Ball Heist](./random_comic.png)
 
-There are at least fourteen ways this could go badly (seventeen if that fork is a dangerous crossbreed.)
+First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.
 
