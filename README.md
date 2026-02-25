@@ -1,6 +1,6 @@
-[Hamster Ball Heist](https://xkcd.com/211)
+[Air Travel Packing List](https://xkcd.com/2525)
 
-![Hamster Ball Heist](./random_comic.png)
+![Air Travel Packing List](./random_comic.png)
 
-First person to bring me Wayne Coyne in a hamster ball gets a free t-shirt!  He gets one too.
+I know the etiquette is controversial, but I think it's rude when the person in front of me reclines their seat into the bell of my trumpet.
 
