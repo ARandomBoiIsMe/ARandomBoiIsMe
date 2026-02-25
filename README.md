@@ -1,6 +1,6 @@
-[Search History](https://xkcd.com/155)
+[Making Hash Browns](https://xkcd.com/421)
 
-![Search History](./random_comic.png)
+![Making Hash Browns](./random_comic.png)
 
-SomethingAwful has a wonderful compilation of crazy AOL searches in their Weekend Web archives, 2006-08-13.
+There are at least fourteen ways this could go badly (seventeen if that fork is a dangerous crossbreed.)
 
