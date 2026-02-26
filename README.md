@@ -1,6 +1,6 @@
-[Solar System Cartogram](https://xkcd.com/2439)
+[Lane Change Highway](https://xkcd.com/2728)
 
-![Solar System Cartogram](./random_comic.png)
+![Lane Change Highway](./random_comic.png)
 
-For sentimental reasons, every active Mars rover is counted as one person, although that's not enough to make Mars more than a dot.
+I just think lane markers should follow the local magnetic declination.
 
