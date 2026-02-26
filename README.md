@@ -1,6 +1,6 @@
-[Clinically Studied Ingredient](https://xkcd.com/1096)
+[Anyone Else Here](https://xkcd.com/3188)
 
-![Clinically Studied Ingredient](./random_comic.png)
+![Anyone Else Here](./random_comic.png)
 
-Blatantly banking on customers not understanding that it's like a Hollywood studio advertising that their new movie was 'watched by Roger Ebert'.
+Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.
 
