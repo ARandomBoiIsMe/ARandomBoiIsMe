@@ -1,6 +1,6 @@
-[Anyone Else Here](https://xkcd.com/3188)
+[Solar System Cartogram](https://xkcd.com/2439)
 
-![Anyone Else Here](./random_comic.png)
+![Solar System Cartogram](./random_comic.png)
 
-Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.
+For sentimental reasons, every active Mars rover is counted as one person, although that's not enough to make Mars more than a dot.
 
