@@ -1,6 +1,6 @@
-[Friendly Questions](https://xkcd.com/1976)
+[Clinically Studied Ingredient](https://xkcd.com/1096)
 
-![Friendly Questions](./random_comic.png)
+![Clinically Studied Ingredient](./random_comic.png)
 
-Just tell me everything you're thinking about in order from most important to last, and then we'll be friends and we can eat apples together.
+Blatantly banking on customers not understanding that it's like a Hollywood studio advertising that their new movie was 'watched by Roger Ebert'.
 
