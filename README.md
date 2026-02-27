@@ -1,6 +1,6 @@
-[Lane Change Highway](https://xkcd.com/2728)
+[Rainbow](https://xkcd.com/1684)
 
-![Lane Change Highway](./random_comic.png)
+![Rainbow](./random_comic.png)
 
-I just think lane markers should follow the local magnetic declination.
+Listen, in a few thousand years you'll invent a game called 'SimCity' which has a 'disaster' button, and then you'll understand.
 
