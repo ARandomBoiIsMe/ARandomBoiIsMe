@@ -1,6 +1,6 @@
-[Rainbow](https://xkcd.com/1684)
+[Neutrality Schmeutrality](https://xkcd.com/545)
 
-![Rainbow](./random_comic.png)
+![Neutrality Schmeutrality](./random_comic.png)
 
-Listen, in a few thousand years you'll invent a game called 'SimCity' which has a 'disaster' button, and then you'll understand.
+'Hey, everyone, you can totally trust that I didn't do a word count on MY edit!'
 
