@@ -1,6 +1,6 @@
-[Neutrality Schmeutrality](https://xkcd.com/545)
+[Kickstarter](https://xkcd.com/1055)
 
-![Neutrality Schmeutrality](./random_comic.png)
+![Kickstarter](./random_comic.png)
 
-'Hey, everyone, you can totally trust that I didn't do a word count on MY edit!'
+If you pledge more than $50 you'll get on the VIP list and have first dibs on a slot on ANY of the pledge levels in the actual campaign.
 
