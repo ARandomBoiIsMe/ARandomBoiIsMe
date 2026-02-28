@@ -1,6 +1,6 @@
-[*@gmail.com](https://xkcd.com/2822)
+[Launch Window](https://xkcd.com/2746)
 
-![*@gmail.com](./random_comic.png)
+![Launch Window](./random_comic.png)
 
-Hi all, just replying to loop in *@outlook.com and *@yahoo.com.
+"Confirmed, we have to scrub." "Ugh, okay. I'll get the bucket and sponge."
 
