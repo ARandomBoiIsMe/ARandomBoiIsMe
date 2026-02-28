@@ -1,6 +1,6 @@
-[Launch Window](https://xkcd.com/2746)
+[Exercise](https://xkcd.com/189)
 
-![Launch Window](./random_comic.png)
+![Exercise](./random_comic.png)
 
-"Confirmed, we have to scrub." "Ugh, okay. I'll get the bucket and sponge."
+I haven't had the patience for RPGs in a long time.
 
