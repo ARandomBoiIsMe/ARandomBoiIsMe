@@ -1,6 +1,6 @@
-[I'm a Car](https://xkcd.com/2064)
+[*@gmail.com](https://xkcd.com/2822)
 
-![I'm a Car](./random_comic.png)
+![*@gmail.com](./random_comic.png)
 
-I'm the proud parent of an honor student, and the person driving me is proud, too!
+Hi all, just replying to loop in *@outlook.com and *@yahoo.com.
 
