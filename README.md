@@ -1,6 +1,6 @@
-[Situation](https://xkcd.com/2950)
+[Universal Rating Scale](https://xkcd.com/2329)
 
-![Situation](./random_comic.png)
+![Universal Rating Scale](./random_comic.png)
 
-We're right under the flight path for the scheduled orbital launch, but don't worry--it's too cold out for the rockets to operate safely, so I'm sure they'll postpone.
+There are plenty of finer gradations. I got 'critically endangered/extinct in the wild' on my exam, although the curve bumped it all the way up to 'venti.'
 
