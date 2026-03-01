@@ -1,6 +1,6 @@
-[Exercise](https://xkcd.com/189)
+[Suggestions](https://xkcd.com/672)
 
-![Exercise](./random_comic.png)
+![Suggestions](./random_comic.png)
 
-I haven't had the patience for RPGs in a long time.
+An hour later: SUGGESTION: LICK HER NIPPLE MORE.
 
