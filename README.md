@@ -1,6 +1,6 @@
-[Food Combinations](https://xkcd.com/1609)
+[Pillar](https://xkcd.com/32)
 
-![Food Combinations](./random_comic.png)
+![Pillar](./random_comic.png)
 
-If anyone tries this on you, the best reply is a deadpan "Oh yeah, that's a common potato chip flavor in Canada."
+A comic by my brother Doug, redrawn and rewritten by me
 
