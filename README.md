@@ -1,6 +1,6 @@
-[Surgery](https://xkcd.com/644)
+[Food Combinations](https://xkcd.com/1609)
 
-![Surgery](./random_comic.png)
+![Food Combinations](./random_comic.png)
 
-Damn. Not only did he not install it, he sutured a 'Vista-Ready' sticker onto my arm.
+If anyone tries this on you, the best reply is a deadpan "Oh yeah, that's a common potato chip flavor in Canada."
 
