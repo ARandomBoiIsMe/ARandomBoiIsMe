@@ -1,6 +1,6 @@
-[Horror Movies 2](https://xkcd.com/2076)
+[Surgery](https://xkcd.com/644)
 
-![Horror Movies 2](./random_comic.png)
+![Surgery](./random_comic.png)
 
-When I was a kid, someone told me the end of The Giver was ambiguous, which surprised me. I had just assumed Jonah died--because the book had a medal on the cover, and I knew grown-ups liked stories where sad stuff happens at the end for no reason.
+Damn. Not only did he not install it, he sutured a 'Vista-Ready' sticker onto my arm.
 
