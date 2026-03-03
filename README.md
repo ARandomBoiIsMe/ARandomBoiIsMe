@@ -1,6 +1,6 @@
-[Local g](https://xkcd.com/852)
+[Transformers](https://xkcd.com/1336)
 
-![Local g](./random_comic.png)
+![Transformers](./random_comic.png)
 
-In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.
+A helicopter bursts from a chrysalis and alights on a rock, rotors still damp.
 
