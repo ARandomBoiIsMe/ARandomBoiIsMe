@@ -1,6 +1,6 @@
-[People are Stupid](https://xkcd.com/1386)
+[Local g](https://xkcd.com/852)
 
-![People are Stupid](./random_comic.png)
+![Local g](./random_comic.png)
 
-To everyone who responds to everything by saying they've 'lost their faith in humanity': Thanks--I'll let humanity know. I'm sure they'll be crushed.
+In Rio de Janeiro in 2016, the same jump will get an athlete 0.25% higher (>1cm) than in London four years prior.
 
