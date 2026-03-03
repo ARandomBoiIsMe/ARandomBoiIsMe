@@ -1,6 +1,6 @@
-[Old Files](https://xkcd.com/1360)
+[People are Stupid](https://xkcd.com/1386)
 
-![Old Files](./random_comic.png)
+![People are Stupid](./random_comic.png)
 
-Wow, ANIMORPHS-NOVEL.RTF? Just gonna, uh, go through and delete that from all my archives real quick.
+To everyone who responds to everything by saying they've 'lost their faith in humanity': Thanks--I'll let humanity know. I'm sure they'll be crushed.
 
