@@ -1,6 +1,6 @@
-[Pendulum Types](https://xkcd.com/2924)
+[Old Files](https://xkcd.com/1360)
 
-![Pendulum Types](./random_comic.png)
+![Old Files](./random_comic.png)
 
-The creepy fingers that grow from a vibrating cornstarch-water mix can be modeled as a chain of inverted vertical pendulums (DOI:10.1039/c4sm00265b) and are believed to be the fingers of Maxwell's Demon trying to push through into our universe.
+Wow, ANIMORPHS-NOVEL.RTF? Just gonna, uh, go through and delete that from all my archives real quick.
 
