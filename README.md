@@ -1,6 +1,6 @@
-[Chemist Eggs](https://xkcd.com/2373)
+[Done](https://xkcd.com/1454)
 
-![Chemist Eggs](./random_comic.png)
+![Done](./random_comic.png)
 
-Chemists actually find it simpler to define a general odor of rotten eggs as a baseline, and the LACK of rotten eggs as a distinct smell.
+I'm sorry, but the author of this Facebook comment clearly believes you were.
 
