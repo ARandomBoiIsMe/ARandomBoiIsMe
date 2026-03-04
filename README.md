@@ -1,6 +1,6 @@
-[Transformers](https://xkcd.com/1336)
+[In the Trees](https://xkcd.com/71)
 
-![Transformers](./random_comic.png)
+![In the Trees](./random_comic.png)
 
-A helicopter bursts from a chrysalis and alights on a rock, rotors still damp.
+It was tricky.
 
