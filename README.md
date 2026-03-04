@@ -1,6 +1,6 @@
-[Chin-Up Bar](https://xkcd.com/954)
+[Chemist Eggs](https://xkcd.com/2373)
 
-![Chin-Up Bar](./random_comic.png)
+![Chemist Eggs](./random_comic.png)
 
-Those few who escaped found the emergency cutoff box disabled. The stampede lasted two hours and reached the bottom three times.
+Chemists actually find it simpler to define a general odor of rotten eggs as a baseline, and the LACK of rotten eggs as a distinct smell.
 
