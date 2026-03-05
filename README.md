@@ -1,6 +1,6 @@
-[Sports](https://xkcd.com/904)
+[Wikileaks](https://xkcd.com/834)
 
-![Sports](./random_comic.png)
+![Wikileaks](./random_comic.png)
 
-Also, all financial analysis. And, more directly, D&D.
+STUDENTS ARE CALLING PRESIDENT JOHNSON EN MASSE TO PROTEST THE BOMBING AND IT'S JAMMED THE WHITE HOUSE SWITCHBOARD. COULD THEY COLLAPSE OUR CRITICAL PHONE SYSTEMS? HAS THE FIRST TELEPHONE WAR BEGUN? STAY TUNED FOR MORE ON THIS DANGEROUS NEW TECHNOLOGY.
 
