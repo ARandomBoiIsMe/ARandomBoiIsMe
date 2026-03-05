@@ -1,6 +1,6 @@
-[Done](https://xkcd.com/1454)
+[Advanced Techniques](https://xkcd.com/2595)
 
-![Done](./random_comic.png)
+![Advanced Techniques](./random_comic.png)
 
-I'm sorry, but the author of this Facebook comment clearly believes you were.
+A blow from Emmy's Cutlass of Variations will transport the dragon to a corresponding symmetric position in the Noetherworld.
 
