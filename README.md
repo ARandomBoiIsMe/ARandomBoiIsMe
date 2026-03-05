@@ -1,6 +1,6 @@
-[Wikileaks](https://xkcd.com/834)
+[Kilogram](https://xkcd.com/2073)
 
-![Wikileaks](./random_comic.png)
+![Kilogram](./random_comic.png)
 
-STUDENTS ARE CALLING PRESIDENT JOHNSON EN MASSE TO PROTEST THE BOMBING AND IT'S JAMMED THE WHITE HOUSE SWITCHBOARD. COULD THEY COLLAPSE OUR CRITICAL PHONE SYSTEMS? HAS THE FIRST TELEPHONE WAR BEGUN? STAY TUNED FOR MORE ON THIS DANGEROUS NEW TECHNOLOGY.
+I'm glad to hear they're finally redefining the meter to be exactly three feet.
 
