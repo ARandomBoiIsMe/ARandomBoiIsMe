@@ -1,6 +1,6 @@
-[Advanced Techniques](https://xkcd.com/2595)
+[Sports](https://xkcd.com/904)
 
-![Advanced Techniques](./random_comic.png)
+![Sports](./random_comic.png)
 
-A blow from Emmy's Cutlass of Variations will transport the dragon to a corresponding symmetric position in the Noetherworld.
+Also, all financial analysis. And, more directly, D&D.
 
