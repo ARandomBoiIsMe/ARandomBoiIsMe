@@ -1,6 +1,6 @@
-[Hydrogen Isotopes](https://xkcd.com/2719)
+[Human Subjects](https://xkcd.com/1594)
 
-![Hydrogen Isotopes](./random_comic.png)
+![Human Subjects](./random_comic.png)
 
-Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.
+After meeting with a few of the subjects, the IRB actually recommended that you stop stressing out so much about safety guidelines.
 
