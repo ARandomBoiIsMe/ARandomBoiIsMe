@@ -1,6 +1,6 @@
-[Kilogram](https://xkcd.com/2073)
+[Hydrogen Isotopes](https://xkcd.com/2719)
 
-![Kilogram](./random_comic.png)
+![Hydrogen Isotopes](./random_comic.png)
 
-I'm glad to hear they're finally redefining the meter to be exactly three feet.
+Oops, All Neutrons is also known as Neutral Quadrium, Nydnonen, and Goth Tritium.
 
