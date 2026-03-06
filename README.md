@@ -1,6 +1,6 @@
-[Human Subjects](https://xkcd.com/1594)
+[Building a Fire](https://xkcd.com/3114)
 
-![Human Subjects](./random_comic.png)
+![Building a Fire](./random_comic.png)
 
-After meeting with a few of the subjects, the IRB actually recommended that you stop stressing out so much about safety guidelines.
+That was quicker than usual! The cabin's sprinkler system often makes it really hard to keep anything lit.
 
