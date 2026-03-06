@@ -1,6 +1,6 @@
-[Building a Fire](https://xkcd.com/3114)
+[Twitter Verification](https://xkcd.com/1914)
 
-![Building a Fire](./random_comic.png)
+![Twitter Verification](./random_comic.png)
 
-That was quicker than usual! The cabin's sprinkler system often makes it really hard to keep anything lit.
+When we started distributing special status tokens that signify which people are important enough to join an elite group, we never could have imagined we might be creating some problems down the line.
 
