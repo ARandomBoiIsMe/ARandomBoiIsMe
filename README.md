@@ -1,6 +1,6 @@
-[Sheeple](https://xkcd.com/610)
+[PhD Timeline](https://xkcd.com/3081)
 
-![Sheeple](./random_comic.png)
+![PhD Timeline](./random_comic.png)
 
-Hey, what are the odds -- five Ayn Rand fans on the same train!  Must be going to a convention.
+Rümeysa Öztürk was grabbed off the street in my town one month ago.
 
