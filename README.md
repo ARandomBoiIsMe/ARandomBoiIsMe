@@ -1,6 +1,6 @@
-[Diploma Legal Notes](https://xkcd.com/2157)
+[Exposure Notification](https://xkcd.com/2342)
 
-![Diploma Legal Notes](./random_comic.png)
+![Exposure Notification](./random_comic.png)
 
-If you're planning to challenge the royal family, you should probably wait 6-8 weeks, since a number of the younger ones have diplomas and Kate was actually on the varsity lightsaber team at St Andrews.
+I don't see why everyone is so hungry for BAD news, but fine, I'll give in to feedback and add a dark mode.
 
