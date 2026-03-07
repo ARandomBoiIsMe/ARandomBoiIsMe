@@ -1,6 +1,6 @@
-[Twitter Verification](https://xkcd.com/1914)
+[Diploma Legal Notes](https://xkcd.com/2157)
 
-![Twitter Verification](./random_comic.png)
+![Diploma Legal Notes](./random_comic.png)
 
-When we started distributing special status tokens that signify which people are important enough to join an elite group, we never could have imagined we might be creating some problems down the line.
+If you're planning to challenge the royal family, you should probably wait 6-8 weeks, since a number of the younger ones have diplomas and Kate was actually on the varsity lightsaber team at St Andrews.
 
