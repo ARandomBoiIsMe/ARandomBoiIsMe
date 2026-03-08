@@ -1,6 +1,6 @@
-[Methodology Trial](https://xkcd.com/2726)
+[Emoji Movie Reviews](https://xkcd.com/1870)
 
-![Methodology Trial](./random_comic.png)
+![Emoji Movie Reviews](./random_comic.png)
 
-If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.
+There's this idea that emoji are bad for communication because they replace ambiguity and nuance with a limited set of preselected emotions, but it doesn't really survive a collision with real-world usage of the thinking face or upside-down smiley.
 
