@@ -1,6 +1,6 @@
-[Five Years](https://xkcd.com/1088)
+[Methodology Trial](https://xkcd.com/2726)
 
-![Five Years](./random_comic.png)
+![Methodology Trial](./random_comic.png)
 
-'Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'
+If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB.
 
