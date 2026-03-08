@@ -1,6 +1,6 @@
-[Emoji Movie Reviews](https://xkcd.com/1870)
+[Lasering Incidents](https://xkcd.com/3030)
 
-![Emoji Movie Reviews](./random_comic.png)
+![Lasering Incidents](./random_comic.png)
 
-There's this idea that emoji are bad for communication because they replace ambiguity and nuance with a limited set of preselected emotions, but it doesn't really survive a collision with real-world usage of the thinking face or upside-down smiley.
+I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.
 
