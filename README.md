@@ -1,6 +1,6 @@
-[PhD Timeline](https://xkcd.com/3081)
+[Five Years](https://xkcd.com/1088)
 
-![PhD Timeline](./random_comic.png)
+![Five Years](./random_comic.png)
 
-Rümeysa Öztürk was grabbed off the street in my town one month ago.
+'Well, no further questions. You're hired!' 'Oh, sorry! I'm no longer interested. There's a bunch of future I gotta go check out!'
 
