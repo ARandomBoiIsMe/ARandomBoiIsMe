@@ -1,6 +1,6 @@
-[Lasering Incidents](https://xkcd.com/3030)
+[The Ring](https://xkcd.com/396)
 
-![Lasering Incidents](./random_comic.png)
+![The Ring](./random_comic.png)
 
-I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range.
+On the other hand, poor Samara -- transcoded to FLV.  No one deserves that.
 
