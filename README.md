@@ -1,6 +1,6 @@
-[Contingency Plan](https://xkcd.com/531)
+[Earthquake Early Warnings](https://xkcd.com/2219)
 
-![Contingency Plan](./random_comic.png)
+![Earthquake Early Warnings](./random_comic.png)
 
-Kids are genetic experiments.  We're just experimenting responsibly!
+I was fired by the National Weather Service five minutes after they hired me for going into their code base and renaming all the tornado warnings to "tornado spoiler alerts."
 
