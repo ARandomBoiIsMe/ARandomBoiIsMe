@@ -1,6 +1,6 @@
-[Earthquake Early Warnings](https://xkcd.com/2219)
+[SafetySat](https://xkcd.com/1992)
 
-![Earthquake Early Warnings](./random_comic.png)
+![SafetySat](./random_comic.png)
 
-I was fired by the National Weather Service five minutes after they hired me for going into their code base and renaming all the tornado warnings to "tornado spoiler alerts."
+During launch, in the event of an unexpected sensor reading, SafetySat will extend prongs in all directions to secure itself and any other cubesats safely in the launch vehicle until the source of the problem can be determined.
 
