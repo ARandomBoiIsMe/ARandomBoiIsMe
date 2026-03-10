@@ -1,6 +1,6 @@
-[Making Plans](https://xkcd.com/2789)
+[Coronavirus Name](https://xkcd.com/2275)
 
-![Making Plans](./random_comic.png)
+![Coronavirus Name](./random_comic.png)
 
-Oh no, I haven't checked in with Yvonne in YEARS.
+It's important to keep the spider from touching your face.
 
