@@ -1,6 +1,6 @@
-[Sky Alarm](https://xkcd.com/2979)
+[Thor Tools](https://xkcd.com/2097)
 
-![Sky Alarm](./random_comic.png)
+![Thor Tools](./random_comic.png)
 
-During the day it also activates for neat clouds and pretty sunsets.
+CORRECTION: After careful evaluation, we have determined that the axis label on this chart was printed backward.
 
