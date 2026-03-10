@@ -1,6 +1,6 @@
-[Thor Tools](https://xkcd.com/2097)
+[Making Plans](https://xkcd.com/2789)
 
-![Thor Tools](./random_comic.png)
+![Making Plans](./random_comic.png)
 
-CORRECTION: After careful evaluation, we have determined that the axis label on this chart was printed backward.
+Oh no, I haven't checked in with Yvonne in YEARS.
 
