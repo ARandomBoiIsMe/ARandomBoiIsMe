@@ -1,6 +1,6 @@
-[Poll Watching](https://xkcd.com/1130)
+[Penises](https://xkcd.com/194)
 
-![Poll Watching](./random_comic.png)
+![Penises](./random_comic.png)
 
-The choices we make Tuesday could have MASSIVE and PERMANENT effects on the charts on Nate Silver's blog!
+The penis varies in size when flaccid and is pretty consistently about yea big when erect.  Anyway, back to the sitcom one-liners and the constant flow of spam.
 
