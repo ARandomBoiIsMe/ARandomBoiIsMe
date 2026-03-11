@@ -1,6 +1,6 @@
-[Types](https://xkcd.com/1537)
+[Poll Watching](https://xkcd.com/1130)
 
-![Types](./random_comic.png)
+![Poll Watching](./random_comic.png)
 
-colors.rgb("blue") yields "#0000FF". colors.rgb("yellowish blue") yields NaN. colors.sort() yields "rainbow"
+The choices we make Tuesday could have MASSIVE and PERMANENT effects on the charts on Nate Silver's blog!
 
