@@ -1,6 +1,6 @@
-[Election Impact Score Sheet](https://xkcd.com/2380)
+[Types](https://xkcd.com/1537)
 
-![Election Impact Score Sheet](./random_comic.png)
+![Types](./random_comic.png)
 
-You might think most people you know are reliable voters, or that your nudge won't convince them, and you will usually be right. But some small but significant percentage of the time, you'll be wrong, and that's why this works.
+colors.rgb("blue") yields "#0000FF". colors.rgb("yellowish blue") yields NaN. colors.sort() yields "rainbow"
 
