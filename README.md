@@ -1,6 +1,6 @@
-[Rental Car](https://xkcd.com/1837)
+[Wikipedia Caltrops](https://xkcd.com/2467)
 
-![Rental Car](./random_comic.png)
+![Wikipedia Caltrops](./random_comic.png)
 
-Technically, both cars are haunted, but the murder ghosts can't stand listening to the broken GPS for more than a few minutes.
+Oh no, they set up a roadblock which is just a sign with the entire 'Czech hedgehog' article printed on it.
 
