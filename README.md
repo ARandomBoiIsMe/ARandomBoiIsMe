@@ -1,6 +1,6 @@
-[Seven Years](https://xkcd.com/1928)
+[Rental Car](https://xkcd.com/1837)
 
-![Seven Years](./random_comic.png)
+![Rental Car](./random_comic.png)
 
-[hair in face] "SEVVVENNN YEEEARRRSSS"
+Technically, both cars are haunted, but the murder ghosts can't stand listening to the broken GPS for more than a few minutes.
 
