@@ -1,6 +1,6 @@
-[Location](https://xkcd.com/1143)
+[Seven Years](https://xkcd.com/1928)
 
-![Location](./random_comic.png)
+![Seven Years](./random_comic.png)
 
-Ingress: Foursquare With Space Noises.
+[hair in face] "SEVVVENNN YEEEARRRSSS"
 
