@@ -1,6 +1,6 @@
-[Further Boomerang Difficulties](https://xkcd.com/475)
+[Physics Cost-Saving Tips](https://xkcd.com/2649)
 
-![Further Boomerang Difficulties](./random_comic.png)
+![Physics Cost-Saving Tips](./random_comic.png)
 
-An eternity later, the universe having turned out to have positive curvature and lots of mass, the boomerang hits him in the back of the head.
+I got banned from the county fair for handing out Helium-2 balloons. Apparently the instant massive plasma explosions violated some local ordinance or something.
 
