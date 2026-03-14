@@ -1,6 +1,6 @@
-[Exercise Progression](https://xkcd.com/2631)
+[Etch-a-Sketch](https://xkcd.com/551)
 
-![Exercise Progression](./random_comic.png)
+![Etch-a-Sketch](./random_comic.png)
 
-They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!
+Surrounded by boring mysteries.
 
