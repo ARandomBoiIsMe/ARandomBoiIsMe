@@ -1,6 +1,6 @@
-[Bird/Plane/Superman](https://xkcd.com/1792)
+[Exercise Progression](https://xkcd.com/2631)
 
-![Bird/Plane/Superman](./random_comic.png)
+![Exercise Progression](./random_comic.png)
 
-You can apply special translucent films to your windows to help keep birds/Superman from accidentally flying into them.
+They said after I got into a routine, I'd enjoy getting progressively stronger and stop whining so much about how hard exercise was. Well, they were half right!
 
