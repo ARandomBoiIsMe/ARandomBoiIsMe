@@ -1,6 +1,6 @@
-[Physics Cost-Saving Tips](https://xkcd.com/2649)
+[Launch Status Check](https://xkcd.com/1596)
 
-![Physics Cost-Saving Tips](./random_comic.png)
+![Launch Status Check](./random_comic.png)
 
-I got banned from the county fair for handing out Helium-2 balloons. Apparently the instant massive plasma explosions violated some local ordinance or something.
+Visual checks suggest the cool bird has exited the launch zone. Tip the rocket sideways and resume the countdown--we're gonna go find it!
 
