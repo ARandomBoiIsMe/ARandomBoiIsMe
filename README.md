@@ -1,6 +1,6 @@
-[Launch Status Check](https://xkcd.com/1596)
+[Bird/Plane/Superman](https://xkcd.com/1792)
 
-![Launch Status Check](./random_comic.png)
+![Bird/Plane/Superman](./random_comic.png)
 
-Visual checks suggest the cool bird has exited the launch zone. Tip the rocket sideways and resume the countdown--we're gonna go find it!
+You can apply special translucent films to your windows to help keep birds/Superman from accidentally flying into them.
 
