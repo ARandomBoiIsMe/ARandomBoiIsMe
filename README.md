@@ -1,6 +1,6 @@
-[Margin](https://xkcd.com/1381)
+[Minifigs](https://xkcd.com/1281)
 
-![Margin](./random_comic.png)
+![Minifigs](./random_comic.png)
 
-PROTIP: You can get around the Shannon-Hartley limit by setting your font size to 0.
+The LEGO Group is already the world's largest tire manufacturer.
 
