@@ -1,6 +1,6 @@
-[Improvised](https://xkcd.com/469)
+[Sledding Discussion](https://xkcd.com/529)
 
-![Improvised](./random_comic.png)
+![Sledding Discussion](./random_comic.png)
 
-Oh, your brother is Luke.  Sorry, should've mentioned that first.
+If you get your hands on that one, it's the worst place to have a breaking-up conversation.
 
