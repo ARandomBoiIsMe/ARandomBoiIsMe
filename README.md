@@ -1,6 +1,6 @@
-[Minifigs](https://xkcd.com/1281)
+[Improvised](https://xkcd.com/469)
 
-![Minifigs](./random_comic.png)
+![Improvised](./random_comic.png)
 
-The LEGO Group is already the world's largest tire manufacturer.
+Oh, your brother is Luke.  Sorry, should've mentioned that first.
 
