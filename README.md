@@ -1,6 +1,6 @@
-[Etch-a-Sketch](https://xkcd.com/551)
+[Margin](https://xkcd.com/1381)
 
-![Etch-a-Sketch](./random_comic.png)
+![Margin](./random_comic.png)
 
-Surrounded by boring mysteries.
+PROTIP: You can get around the Shannon-Hartley limit by setting your font size to 0.
 
