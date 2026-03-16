@@ -1,6 +1,6 @@
-[Starwatching](https://xkcd.com/428)
+[Planet Definitions](https://xkcd.com/3063)
 
-![Starwatching](./random_comic.png)
+![Planet Definitions](./random_comic.png)
 
-I always figured the word 'blog' would sound *less* silly as the years went by.
+Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.
 
