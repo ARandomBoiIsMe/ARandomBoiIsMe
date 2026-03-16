@@ -1,6 +1,6 @@
-[Wasted Time](https://xkcd.com/1502)
+[Starwatching](https://xkcd.com/428)
 
-![Wasted Time](./random_comic.png)
+![Starwatching](./random_comic.png)
 
-Since it sounds like your time spent typing can't possibly be less productive than your time spent not typing, have you tried typing SLOWER?
+I always figured the word 'blog' would sound *less* silly as the years went by.
 
