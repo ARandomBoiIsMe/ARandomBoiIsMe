@@ -1,6 +1,6 @@
-[Sledding Discussion](https://xkcd.com/529)
+[Hardware Reductionism](https://xkcd.com/1588)
 
-![Sledding Discussion](./random_comic.png)
+![Hardware Reductionism](./random_comic.png)
 
-If you get your hands on that one, it's the worst place to have a breaking-up conversation.
+My MRI research shows a clear correlation between the size of the parietal lobe--the part of the brain that handles spatial reasoning--and enjoyment of 3D Doritos®.
 
