@@ -1,6 +1,6 @@
-[A Hypochondriac's Nightmare](https://xkcd.com/1097)
+[Record Scratch](https://xkcd.com/1745)
 
-![A Hypochondriac's Nightmare](./random_comic.png)
+![Record Scratch](./random_comic.png)
 
-BUT WHAT IF I REASSURE MYSELF WITH A JOKE AND THEN DON'T WORRY ABOUT THE RASH AND IT TURNS OUT TO BE DEATH MITES AND I COULD HAVE CAUGHT IT
+The 78-rpm era was closer to the Civil War than to today.
 
