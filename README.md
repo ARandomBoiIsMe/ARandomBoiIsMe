@@ -1,6 +1,6 @@
-[Planet Definitions](https://xkcd.com/3063)
+[A Hypochondriac's Nightmare](https://xkcd.com/1097)
 
-![Planet Definitions](./random_comic.png)
+![A Hypochondriac's Nightmare](./random_comic.png)
 
-Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.
+BUT WHAT IF I REASSURE MYSELF WITH A JOKE AND THEN DON'T WORRY ABOUT THE RASH AND IT TURNS OUT TO BE DEATH MITES AND I COULD HAVE CAUGHT IT
 
