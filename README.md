@@ -1,6 +1,6 @@
-[Record Scratch](https://xkcd.com/1745)
+[Wood Chips](https://xkcd.com/516)
 
-![Record Scratch](./random_comic.png)
+![Wood Chips](./random_comic.png)
 
-The 78-rpm era was closer to the Civil War than to today.
+You didn't run a chemical analysis against the Shroud of Turin?  Man, all that work for NOTHING.
 
