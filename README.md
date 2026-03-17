@@ -1,6 +1,6 @@
-[Wood Chips](https://xkcd.com/516)
+[I Don't Own a TV](https://xkcd.com/1299)
 
-![Wood Chips](./random_comic.png)
+![I Don't Own a TV](./random_comic.png)
 
-You didn't run a chemical analysis against the Shroud of Turin?  Man, all that work for NOTHING.
+Theory: Smugness is proportional to the negative second derivative of TV ownership rate with respect to time.
 
