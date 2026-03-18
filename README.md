@@ -1,6 +1,6 @@
-[Household Tips](https://xkcd.com/1715)
+[Diacritics](https://xkcd.com/1647)
 
-![Household Tips](./random_comic.png)
+![Diacritics](./random_comic.png)
 
-To make your shoes feel more comfortable, smell better, and last longer, try taking them off before you shower.
+Using diacritics correctly is not my forté.
 
