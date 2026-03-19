@@ -1,6 +1,6 @@
-[Tags](https://xkcd.com/1144)
+[Air Fact](https://xkcd.com/3079)
 
-![Tags](./random_comic.png)
+![Air Fact](./random_comic.png)
 
-<A>: Like </a>this.&nbsp;
+'Wow, that must be why you swallow so many of them per year!' 'No, that's spiders. You swallow WAY more ants.'
 
