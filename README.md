@@ -1,6 +1,6 @@
-[Baby](https://xkcd.com/1650)
+[Sitting in a Tree](https://xkcd.com/2919)
 
-![Baby](./random_comic.png)
+![Sitting in a Tree](./random_comic.png)
 
-Does it get taller first and then widen, or does it reach full width before getting taller, or alternate, or what?
+First comes blood / Then we perish / Then comes Death in his Eternity Carriage.
 
