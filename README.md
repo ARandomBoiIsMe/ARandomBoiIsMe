@@ -1,6 +1,6 @@
-[Air Fact](https://xkcd.com/3079)
+[New Study](https://xkcd.com/1295)
 
-![Air Fact](./random_comic.png)
+![New Study](./random_comic.png)
 
-'Wow, that must be why you swallow so many of them per year!' 'No, that's spiders. You swallow WAY more ants.'
+When the results are published, no one will be sure whether to report on them again.
 
