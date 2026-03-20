@@ -1,6 +1,6 @@
-[Trojan Horse](https://xkcd.com/3098)
+[Numerical Sex Positions](https://xkcd.com/487)
 
-![Trojan Horse](./random_comic.png)
+![Numerical Sex Positions](./random_comic.png)
 
-Ultimately, history would imperfectly record the story of the Foal of Troy.
+We didn't even get to the continued fractions!
 
