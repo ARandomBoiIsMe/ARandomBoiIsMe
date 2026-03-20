@@ -1,6 +1,6 @@
-[Numerical Sex Positions](https://xkcd.com/487)
+[Video Content](https://xkcd.com/1804)
 
-![Numerical Sex Positions](./random_comic.png)
+![Video Content](./random_comic.png)
 
-We didn't even get to the continued fractions!
+"So, like, sexy news videos?" "No, people have tried that--it's still just video content. We need to actually inform people THROUGH making out. I would call it 'Mouth Content,' but I think that's already the title of a Neil Cicierega album."
 
