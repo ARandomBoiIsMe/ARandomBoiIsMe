@@ -1,6 +1,6 @@
-[Sitting in a Tree](https://xkcd.com/2919)
+[Turbine](https://xkcd.com/1378)
 
-![Sitting in a Tree](./random_comic.png)
+![Turbine](./random_comic.png)
 
-First comes blood / Then we perish / Then comes Death in his Eternity Carriage.
+Ok, plan B: Fly a kite into the blades, with a rock in a sling dangling below it, and create the world's largest trebuchet.
 
