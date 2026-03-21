@@ -1,6 +1,6 @@
-[Sharing](https://xkcd.com/956)
+[Literary Opinions](https://xkcd.com/2162)
 
-![Sharing](./random_comic.png)
+![Literary Opinions](./random_comic.png)
 
-In the new edition of The Giving Tree, the tree uses social tools to share with its friend all the best places to buy things.
+If I really focus, I can distinguish between John Steinbeck and John Updike, or between Gore Vidal and Vidal Sassoon, but not both at once.
 
