@@ -1,6 +1,6 @@
-[6-Foot Zone](https://xkcd.com/2286)
+[Sharing](https://xkcd.com/956)
 
-![6-Foot Zone](./random_comic.png)
+![Sharing](./random_comic.png)
 
-Technically now it's a 34-foot zone.
+In the new edition of The Giving Tree, the tree uses social tools to share with its friend all the best places to buy things.
 
