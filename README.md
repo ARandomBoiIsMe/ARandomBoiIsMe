@@ -1,6 +1,6 @@
-[Literary Opinions](https://xkcd.com/2162)
+[Misconceptions](https://xkcd.com/843)
 
-![Literary Opinions](./random_comic.png)
+![Misconceptions](./random_comic.png)
 
-If I really focus, I can distinguish between John Steinbeck and John Updike, or between Gore Vidal and Vidal Sassoon, but not both at once.
+'Grandpa, what was it like in the Before time?' 'It was hell. People went around saying glass was a slow-flowing liquid. You folks these days don't know how good you have it.'
 
