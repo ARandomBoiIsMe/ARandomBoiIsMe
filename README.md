@@ -1,6 +1,6 @@
-[Video Content](https://xkcd.com/1804)
+[6-Foot Zone](https://xkcd.com/2286)
 
-![Video Content](./random_comic.png)
+![6-Foot Zone](./random_comic.png)
 
-"So, like, sexy news videos?" "No, people have tried that--it's still just video content. We need to actually inform people THROUGH making out. I would call it 'Mouth Content,' but I think that's already the title of a Neil Cicierega album."
+Technically now it's a 34-foot zone.
 
