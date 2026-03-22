@@ -1,6 +1,6 @@
-[Anchor Bolts](https://xkcd.com/3078)
+[Unstoppable Force and Immovable Object](https://xkcd.com/3084)
 
-![Anchor Bolts](./random_comic.png)
+![Unstoppable Force and Immovable Object](./random_comic.png)
 
-The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.
+Unstoppable force-carrying particles can't interact with immovable matter by definition.
 
