@@ -1,6 +1,6 @@
-[2016](https://xkcd.com/1624)
+[Anchor Bolts](https://xkcd.com/3078)
 
-![2016](./random_comic.png)
+![Anchor Bolts](./random_comic.png)
 
-Want to feel old? Wait.
+The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating.
 
