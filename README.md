@@ -1,6 +1,6 @@
-[On the Moon](https://xkcd.com/1456)
+[Flag](https://xkcd.com/1815)
 
-![On the Moon](./random_comic.png)
+![Flag](./random_comic.png)
 
-"I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on Venus and returning him safely to--" [an aide frantically whispers in the president's ear for a moment] "... of landing a man on Venus."
+There's a compromise bill to keep the notification bar but at least charge the battery.
 
