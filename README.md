@@ -1,6 +1,6 @@
-[Research Account](https://xkcd.com/2894)
+[Wikifriends](https://xkcd.com/185)
 
-![Research Account](./random_comic.png)
+![Wikifriends](./random_comic.png)
 
-Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO
+It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.
 
