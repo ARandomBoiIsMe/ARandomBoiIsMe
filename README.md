@@ -1,6 +1,6 @@
-[Wikifriends](https://xkcd.com/185)
+[On the Moon](https://xkcd.com/1456)
 
-![Wikifriends](./random_comic.png)
+![On the Moon](./random_comic.png)
 
-It's crazy how much my gut opinion of a movie/song is swayed by what other people say, regardless of how I felt coming out of the theater.
+"I believe that this nation should commit itself to achieving the goal, before this decade is out, of landing a man on Venus and returning him safely to--" [an aide frantically whispers in the president's ear for a moment] "... of landing a man on Venus."
 
