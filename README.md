@@ -1,6 +1,6 @@
-[ISS Solar Transit 2](https://xkcd.com/1830)
+[Barrel - Part 2](https://xkcd.com/11)
 
-![ISS Solar Transit 2](./random_comic.png)
+![Barrel - Part 2](./random_comic.png)
 
-Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.
+Awww.
 
