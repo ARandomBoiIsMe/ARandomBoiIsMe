@@ -1,6 +1,6 @@
-[D&D Combinatorics](https://xkcd.com/3015)
+[Metabolism](https://xkcd.com/1744)
 
-![D&D Combinatorics](./random_comic.png)
+![Metabolism](./random_comic.png)
 
-Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys.
+I have this weird thing where if I don't drink enough water, I start feeling bad and then die of dehydration.
 
