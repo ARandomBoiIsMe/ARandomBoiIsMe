@@ -1,6 +1,6 @@
-[Metabolism](https://xkcd.com/1744)
+[Rotational Gravity](https://xkcd.com/3220)
 
-![Metabolism](./random_comic.png)
+![Rotational Gravity](./random_comic.png)
 
-I have this weird thing where if I don't drink enough water, I start feeling bad and then die of dehydration.
+I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.
 
