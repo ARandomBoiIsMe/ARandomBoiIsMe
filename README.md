@@ -1,6 +1,6 @@
-[Barrel - Part 2](https://xkcd.com/11)
+[D&D Combinatorics](https://xkcd.com/3015)
 
-![Barrel - Part 2](./random_comic.png)
+![D&D Combinatorics](./random_comic.png)
 
-Awww.
+Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys.
 
