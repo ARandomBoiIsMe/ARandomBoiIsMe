@@ -1,6 +1,6 @@
-[Rotational Gravity](https://xkcd.com/3220)
+[Photoshops](https://xkcd.com/331)
 
-![Rotational Gravity](./random_comic.png)
+![Photoshops](./random_comic.png)
 
-I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.
+When I look into your eyes, I see JPEG artifacts.  I can tell by the pixels that we're wrong for each other.
 
