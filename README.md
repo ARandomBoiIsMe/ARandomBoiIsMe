@@ -1,6 +1,6 @@
-[Voting Machines](https://xkcd.com/463)
+[Pep Rally](https://xkcd.com/588)
 
-![Voting Machines](./random_comic.png)
+![Pep Rally](./random_comic.png)
 
-And that's *another* crypto conference I've been kicked out of.  C'mon, it's a great analogy!
+You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.
 
