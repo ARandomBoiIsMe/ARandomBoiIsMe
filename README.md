@@ -1,6 +1,6 @@
-[The General Problem](https://xkcd.com/974)
+[Voting Machines](https://xkcd.com/463)
 
-![The General Problem](./random_comic.png)
+![Voting Machines](./random_comic.png)
 
-I find that when someone's taking time to do something right in the present, they're a perfectionist with no ability to prioritize, whereas when someone took time to do something right in the past, they're a master artisan of great foresight.
+And that's *another* crypto conference I've been kicked out of.  C'mon, it's a great analogy!
 
