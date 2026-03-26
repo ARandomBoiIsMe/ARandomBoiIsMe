@@ -1,6 +1,6 @@
-[Pep Rally](https://xkcd.com/588)
+[Oversight](https://xkcd.com/940)
 
-![Pep Rally](./random_comic.png)
+![Oversight](./random_comic.png)
 
-You know, pep rallies weirded me out in high school, and they've only gotten creepier in retrospect.
+I felt so clever when I found a way to game the Fitocracy system by incorporating a set of easy but high-scoring activities into my regular schedule. Took me a bit to realize I'd been tricked into setting up a daily exercise routine.
 
