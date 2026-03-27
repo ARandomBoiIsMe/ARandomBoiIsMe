@@ -1,6 +1,6 @@
-[Restraining Order](https://xkcd.com/415)
+[Endangered](https://xkcd.com/2523)
 
-![Restraining Order](./random_comic.png)
+![Endangered](./random_comic.png)
 
-On Mondays I go running, so you'll have to get up early and follow along on a parallel street.  What fun!
+The list includes polio, Guinea worm, and this one particular enterovirus strain that they've been tracking out of spite after it went around the lab a few years ago.
 
