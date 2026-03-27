@@ -1,6 +1,6 @@
-[I am Not a Ninja](https://xkcd.com/486)
+[Consensus Time](https://xkcd.com/2594)
 
-![I am Not a Ninja](./random_comic.png)
+![Consensus Time](./random_comic.png)
 
-'The sad thing is that I just wanted to talk about your poor smoke-bomb techniques.'
+Now, you may argue that the varying hour lengths and feedback effects would cause chaos. To which I say, yeah, and I'm also curious to see how the weekday cycle interacts with it! So, you in?
 
