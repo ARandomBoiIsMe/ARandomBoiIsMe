@@ -1,6 +1,6 @@
-[Nachos](https://xkcd.com/654)
+[I am Not a Ninja](https://xkcd.com/486)
 
-![Nachos](./random_comic.png)
+![I am Not a Ninja](./random_comic.png)
 
-'Cheater!' 'Hey, gaming on wifi? You have only yourself to blame.'
+'The sad thing is that I just wanted to talk about your poor smoke-bomb techniques.'
 
