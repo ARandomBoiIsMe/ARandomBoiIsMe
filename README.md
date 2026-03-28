@@ -1,6 +1,6 @@
-[Check Engine](https://xkcd.com/3096)
+[Spirit](https://xkcd.com/695)
 
-![Check Engine](./random_comic.png)
+![Spirit](./random_comic.png)
 
-They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.
+On January 26th, 2274 Mars days into the mission, NASA declared Spirit a 'stationary research station', expected to stay operational for several more months until the dust buildup on its solar panels forces a final shutdown.
 
