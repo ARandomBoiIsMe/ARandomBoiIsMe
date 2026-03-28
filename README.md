@@ -1,6 +1,6 @@
-[Inspiraling Roundabout](https://xkcd.com/2842)
+[Check Engine](https://xkcd.com/3096)
 
-![Inspiraling Roundabout](./random_comic.png)
+![Check Engine](./random_comic.png)
 
-Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity.
+They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone.
 
