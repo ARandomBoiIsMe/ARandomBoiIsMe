@@ -1,6 +1,6 @@
-[Spirit](https://xkcd.com/695)
+[Blogofractal](https://xkcd.com/124)
 
-![Spirit](./random_comic.png)
+![Blogofractal](./random_comic.png)
 
-On January 26th, 2274 Mars days into the mission, NASA declared Spirit a 'stationary research station', expected to stay operational for several more months until the dust buildup on its solar panels forces a final shutdown.
+Edward Tufte's 'The Visual Display of Quantitative Information' is a fantastic book, and should be required reading for anyone in either the sciences or graphic design.
 
