@@ -1,6 +1,6 @@
-[Microdrones](https://xkcd.com/1523)
+[Heart Mountain](https://xkcd.com/3162)
 
-![Microdrones](./random_comic.png)
+![Heart Mountain](./random_comic.png)
 
-Oh, weird, Amazon is out of butterfly nets.
+Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."
 
