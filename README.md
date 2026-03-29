@@ -1,6 +1,6 @@
-[Heart Mountain](https://xkcd.com/3162)
+[Complex Conjugate](https://xkcd.com/849)
 
-![Heart Mountain](./random_comic.png)
+![Complex Conjugate](./random_comic.png)
 
-Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."
+Fun fact: if you say this every time a professor does something to a complex-number equation that drops the imaginary part, they'll eventually move the class to another room and tell everyone else except you.
 
