@@ -1,6 +1,6 @@
-[Complex Conjugate](https://xkcd.com/849)
+[Lisp](https://xkcd.com/224)
 
-![Complex Conjugate](./random_comic.png)
+![Lisp](./random_comic.png)
 
-Fun fact: if you say this every time a professor does something to a complex-number equation that drops the imaginary part, they'll eventually move the class to another room and tell everyone else except you.
+We lost the documentation on quantum mechanics.  You'll have to decode the regexes yourself.
 
