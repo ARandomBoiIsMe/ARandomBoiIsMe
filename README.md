@@ -1,6 +1,6 @@
-[Pixels](https://xkcd.com/1416)
+[Parking](https://xkcd.com/562)
 
-![Pixels](./random_comic.png)
+![Parking](./random_comic.png)
 
-It's turtles all the way down.
+Police reported three dozen cheerful bystanders, yet no one claims to have seen who did it.
 
