@@ -1,6 +1,6 @@
-[Parking](https://xkcd.com/562)
+[Dreams](https://xkcd.com/137)
 
-![Parking](./random_comic.png)
+![Dreams](./random_comic.png)
 
-Police reported three dozen cheerful bystanders, yet no one claims to have seen who did it.
+In Connor's second thesis it is stated 'There is no fate but what we make for ourselves.'  Does the routine destroy our creativity or do we lose creativity and fall into the routine?  Anyway, who's up for a road trip!
 
