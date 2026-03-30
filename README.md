@@ -1,6 +1,6 @@
-[Lisp](https://xkcd.com/224)
+[Pixels](https://xkcd.com/1416)
 
-![Lisp](./random_comic.png)
+![Pixels](./random_comic.png)
 
-We lost the documentation on quantum mechanics.  You'll have to decode the regexes yourself.
+It's turtles all the way down.
 
