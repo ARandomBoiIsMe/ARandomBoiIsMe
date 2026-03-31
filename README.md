@@ -1,6 +1,6 @@
-[Dreams](https://xkcd.com/137)
+[Mainly Known For](https://xkcd.com/2621)
 
-![Dreams](./random_comic.png)
+![Mainly Known For](./random_comic.png)
 
-In Connor's second thesis it is stated 'There is no fate but what we make for ourselves.'  Does the routine destroy our creativity or do we lose creativity and fall into the routine?  Anyway, who's up for a road trip!
+Oh sure, I know Keira Knightly, from the first movie in that series by The Land Before Time producer. You know, the franchise with the guy from Jurassic Park and Ghostwriter, and script work by Billie Lourd's mom?
 
