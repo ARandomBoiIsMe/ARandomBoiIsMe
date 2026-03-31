@@ -1,6 +1,6 @@
-[Mainly Known For](https://xkcd.com/2621)
+[Greek Letters](https://xkcd.com/2586)
 
-![Mainly Known For](./random_comic.png)
+![Greek Letters](./random_comic.png)
 
-Oh sure, I know Keira Knightly, from the first movie in that series by The Land Before Time producer. You know, the franchise with the guy from Jurassic Park and Ghostwriter, and script work by Billie Lourd's mom?
+If you ever see someone using a capital xi in an equation, just observe them quietly to learn as much as you can before they return to their home planet.
 
