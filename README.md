@@ -1,6 +1,6 @@
-[XKeyboarCD](https://xkcd.com/2150)
+[Carnot Cycle](https://xkcd.com/2063)
 
-![XKeyboarCD](./random_comic.png)
+![Carnot Cycle](./random_comic.png)
 
-The key caps use LCD displays for all the vowels, so they can automatically adjust over the years to reflect ongoing vowel shifts while allowing you to keep typing phonetically.
+The Carnot cycle is more properly known by its full title, the "Carnot-Tolkien-Wagner Ring Cycle."
 
