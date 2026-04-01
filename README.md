@@ -1,6 +1,6 @@
-[Carnot Cycle](https://xkcd.com/2063)
+[I Shouldn't Complain](https://xkcd.com/2590)
 
-![Carnot Cycle](./random_comic.png)
+![I Shouldn't Complain](./random_comic.png)
 
-The Carnot cycle is more properly known by its full title, the "Carnot-Tolkien-Wagner Ring Cycle."
+Bald-faced hornets are only a 2 on the Schmidt pain index, so I shouldn't complain. The tennis ball ejected from the dryer exhaust vent could have ricocheted off the nest of a much higher-scoring insect before knocking me off the ladder. Really, I'm lucky.
 
