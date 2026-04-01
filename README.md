@@ -1,6 +1,6 @@
-[I Shouldn't Complain](https://xkcd.com/2590)
+[Launch Risk](https://xkcd.com/2107)
 
-![I Shouldn't Complain](./random_comic.png)
+![Launch Risk](./random_comic.png)
 
-Bald-faced hornets are only a 2 on the Schmidt pain index, so I shouldn't complain. The tennis ball ejected from the dryer exhaust vent could have ricocheted off the nest of a much higher-scoring insect before knocking me off the ladder. Really, I'm lucky.
+Don't worry--you're less likely to die from a space launch than from a shark attack. The survival rate is pretty high for both!
 
