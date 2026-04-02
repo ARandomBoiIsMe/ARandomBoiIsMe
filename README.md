@@ -1,6 +1,6 @@
-[RPS](https://xkcd.com/645)
+[Presidential Middle Names](https://xkcd.com/2393)
 
-![RPS](./random_comic.png)
+![Presidential Middle Names](./random_comic.png)
 
-It looks good, but it needs more postfixins.
+The bottom of the list remains unchanged. Poor Rutherford Birchard Hayes.
 
