@@ -1,6 +1,6 @@
-[Launch Risk](https://xkcd.com/2107)
+[I Have Owned Two Electric Skateboards](https://xkcd.com/139)
 
-![Launch Risk](./random_comic.png)
+![I Have Owned Two Electric Skateboards](./random_comic.png)
 
-Don't worry--you're less likely to die from a space launch than from a shark attack. The survival rate is pretty high for both!
+Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.
 
