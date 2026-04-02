@@ -1,6 +1,6 @@
-[I Have Owned Two Electric Skateboards](https://xkcd.com/139)
+[Things You Learn](https://xkcd.com/1775)
 
-![I Have Owned Two Electric Skateboards](./random_comic.png)
+![Things You Learn](./random_comic.png)
 
-Both the skateboards I owned were pretty cheap and broke from heavy use;  I'm gonna get a really nice one if I move to the city.
+Guess who has two thumbs and spent the night in an ER after trying to rescue a kitten that ran under his car at a stoplight and climbed up into the engine compartment? And, thanks to antibiotics, will continue having two thumbs? THIS GUY. (P.S. kitten is safe!)
 
