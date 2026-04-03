@@ -1,6 +1,6 @@
-[Simple](https://xkcd.com/547)
+[Infinite Scrolling](https://xkcd.com/1309)
 
-![Simple](./random_comic.png)
+![Infinite Scrolling](./random_comic.png)
 
-Actually, I think if all higher math professors had to write for the Simple English Wikipedia for a year, we'd be in much better shape academically.
+Maybe we should give up on the whole idea of a 'back' button. 'Show me that thing I was looking at a moment ago' might just be too complicated an idea for the modern web.
 
