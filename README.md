@@ -1,6 +1,6 @@
-[Presidential Middle Names](https://xkcd.com/2393)
+[Simple](https://xkcd.com/547)
 
-![Presidential Middle Names](./random_comic.png)
+![Simple](./random_comic.png)
 
-The bottom of the list remains unchanged. Poor Rutherford Birchard Hayes.
+Actually, I think if all higher math professors had to write for the Simple English Wikipedia for a year, we'd be in much better shape academically.
 
