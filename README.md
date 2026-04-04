@@ -1,6 +1,6 @@
-[Star Wars](https://xkcd.com/1477)
+[Barrel - Part 3](https://xkcd.com/22)
 
-![Star Wars](./random_comic.png)
+![Barrel - Part 3](./random_comic.png)
 
-A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ...
+A whirlpool!
 
