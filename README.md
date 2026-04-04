@@ -1,6 +1,6 @@
-[New Products](https://xkcd.com/1497)
+[Pod Bay Doors](https://xkcd.com/375)
 
-![New Products](./random_comic.png)
+![Pod Bay Doors](./random_comic.png)
 
-If you ever hear "Wait, is that Kim Dotcom's new project? I'm really excited about it and already signed up, although I'm a little nervous about whether everyone should hand over control of their medical...", it's time to dig a bunker in your backyard.
+As they're both unplugged, they do a lovely Daisy Daisy/Still Alive duet.
 
