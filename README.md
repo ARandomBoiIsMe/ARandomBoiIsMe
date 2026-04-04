@@ -1,6 +1,6 @@
-[Barrel - Part 3](https://xkcd.com/22)
+[New Products](https://xkcd.com/1497)
 
-![Barrel - Part 3](./random_comic.png)
+![New Products](./random_comic.png)
 
-A whirlpool!
+If you ever hear "Wait, is that Kim Dotcom's new project? I'm really excited about it and already signed up, although I'm a little nervous about whether everyone should hand over control of their medical...", it's time to dig a bunker in your backyard.
 
