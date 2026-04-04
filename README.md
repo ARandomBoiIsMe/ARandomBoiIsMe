@@ -1,6 +1,6 @@
-[Snacktime Rules](https://xkcd.com/183)
+[Star Wars](https://xkcd.com/1477)
 
-![Snacktime Rules](./random_comic.png)
+![Star Wars](./random_comic.png)
 
-I am not making this rule up.  Although my mom wants you all to know it made perfect sense at the time.
+A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ...
 
