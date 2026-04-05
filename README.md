@@ -1,6 +1,6 @@
-[Weekend](https://xkcd.com/1073)
+[Color Models](https://xkcd.com/1882)
 
-![Weekend](./random_comic.png)
+![Color Models](./random_comic.png)
 
-Of the two Garfields, you wouldn't think the cat would turn out to be the more compelling presidential speechwriter, but there you go.
+What if what *I* see as blue, *you* see as a slightly different blue because you're using Chrome instead of Firefox and despite a decade of messing with profiles we STILL can't get this right somehow.
 
