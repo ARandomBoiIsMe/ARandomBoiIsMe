@@ -1,6 +1,6 @@
-[Solar System Cartogram](https://xkcd.com/2439)
+[Weekend](https://xkcd.com/1073)
 
-![Solar System Cartogram](./random_comic.png)
+![Weekend](./random_comic.png)
 
-For sentimental reasons, every active Mars rover is counted as one person, although that's not enough to make Mars more than a dot.
+Of the two Garfields, you wouldn't think the cat would turn out to be the more compelling presidential speechwriter, but there you go.
 
