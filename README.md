@@ -1,6 +1,6 @@
-[Color Models](https://xkcd.com/1882)
+[Worst-Case Scenario](https://xkcd.com/748)
 
-![Color Models](./random_comic.png)
+![Worst-Case Scenario](./random_comic.png)
 
-What if what *I* see as blue, *you* see as a slightly different blue because you're using Chrome instead of Firefox and despite a decade of messing with profiles we STILL can't get this right somehow.
+To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead.
 
