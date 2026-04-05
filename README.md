@@ -1,6 +1,6 @@
-[Pod Bay Doors](https://xkcd.com/375)
+[Solar System Cartogram](https://xkcd.com/2439)
 
-![Pod Bay Doors](./random_comic.png)
+![Solar System Cartogram](./random_comic.png)
 
-As they're both unplugged, they do a lovely Daisy Daisy/Still Alive duet.
+For sentimental reasons, every active Mars rover is counted as one person, although that's not enough to make Mars more than a dot.
 
