@@ -1,6 +1,6 @@
-[Worst-Case Scenario](https://xkcd.com/748)
+[Wikipedia Caltrops](https://xkcd.com/2467)
 
-![Worst-Case Scenario](./random_comic.png)
+![Wikipedia Caltrops](./random_comic.png)
 
-To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead.
+Oh no, they set up a roadblock which is just a sign with the entire 'Czech hedgehog' article printed on it.
 
