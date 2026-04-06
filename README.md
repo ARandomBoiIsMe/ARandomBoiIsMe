@@ -1,6 +1,6 @@
-[Wikipedia Caltrops](https://xkcd.com/2467)
+[Pole Vault Pole](https://xkcd.com/3183)
 
-![Wikipedia Caltrops](./random_comic.png)
+![Pole Vault Pole](./random_comic.png)
 
-Oh no, they set up a roadblock which is just a sign with the entire 'Czech hedgehog' article printed on it.
+My goal in life is to be personally responsible for at least one sports rule change.
 
