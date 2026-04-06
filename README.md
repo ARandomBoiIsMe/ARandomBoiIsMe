@@ -1,6 +1,6 @@
-[Barrel - Part 5](https://xkcd.com/31)
+[Big and Little Spoons](https://xkcd.com/3166)
 
-![Barrel - Part 5](./random_comic.png)
+![Big and Little Spoons](./random_comic.png)
 
-Too good not to happen.
+Are you the annoying spoon or the sleepy spoon?
 
