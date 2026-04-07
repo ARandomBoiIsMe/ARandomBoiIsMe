@@ -1,6 +1,6 @@
-[Big and Little Spoons](https://xkcd.com/3166)
+[Car Size](https://xkcd.com/3167)
 
-![Big and Little Spoons](./random_comic.png)
+![Car Size](./random_comic.png)
 
-Are you the annoying spoon or the sleepy spoon?
+'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'
 
