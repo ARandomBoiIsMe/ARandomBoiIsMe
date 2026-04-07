@@ -1,6 +1,6 @@
-[Car Size](https://xkcd.com/3167)
+[Admin Mourning](https://xkcd.com/686)
 
-![Car Size](./random_comic.png)
+![Admin Mourning](./random_comic.png)
 
-'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'
+And every day it gets harder to fight the urge to su to the user and freak people out.
 
