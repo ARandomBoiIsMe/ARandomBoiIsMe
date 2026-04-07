@@ -1,6 +1,6 @@
-[Gravity Wells](https://xkcd.com/681)
+[Escape Artist](https://xkcd.com/234)
 
-![Gravity Wells](./random_comic.png)
+![Escape Artist](./random_comic.png)
 
-This doesn't take into account the energy imparted by orbital motion (or gravity assists or the Oberth effect), all of which can make it easier to reach outer planets.
+Easier to escape: n-layered nested quotes or an iron maiden?
 
