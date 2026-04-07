@@ -1,6 +1,6 @@
-[Admin Mourning](https://xkcd.com/686)
+[Gravity Wells](https://xkcd.com/681)
 
-![Admin Mourning](./random_comic.png)
+![Gravity Wells](./random_comic.png)
 
-And every day it gets harder to fight the urge to su to the user and freak people out.
+This doesn't take into account the energy imparted by orbital motion (or gravity assists or the Oberth effect), all of which can make it easier to reach outer planets.
 
