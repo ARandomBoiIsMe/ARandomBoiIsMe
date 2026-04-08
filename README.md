@@ -1,6 +1,6 @@
-[Escape Artist](https://xkcd.com/234)
+[Snare](https://xkcd.com/1243)
 
-![Escape Artist](./random_comic.png)
+![Snare](./random_comic.png)
 
-Easier to escape: n-layered nested quotes or an iron maiden?
+It's going in A collection of satellites skewered with pins and mounted in display boxes. Not necessarily MY collection.
 
