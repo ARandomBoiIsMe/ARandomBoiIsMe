@@ -1,6 +1,6 @@
-[Clich&eacute;d Exchanges](https://xkcd.com/259)
+[Self-Driving Issues](https://xkcd.com/1958)
 
-![Clich&eacute;d Exchanges](./random_comic.png)
+![Self-Driving Issues](./random_comic.png)
 
-It's like they say, you gotta fight fire with clich&eacute;s.
+If most people turn into muderers all of a sudden, we'll need to push out a firmware update or something.
 
