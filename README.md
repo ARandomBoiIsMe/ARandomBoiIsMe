@@ -1,6 +1,6 @@
-[Snare](https://xkcd.com/1243)
+[Clich&eacute;d Exchanges](https://xkcd.com/259)
 
-![Snare](./random_comic.png)
+![Clich&eacute;d Exchanges](./random_comic.png)
 
-It's going in A collection of satellites skewered with pins and mounted in display boxes. Not necessarily MY collection.
+It's like they say, you gotta fight fire with clich&eacute;s.
 
