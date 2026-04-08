@@ -1,6 +1,6 @@
-[Self-Driving Issues](https://xkcd.com/1958)
+[Amperage](https://xkcd.com/3211)
 
-![Self-Driving Issues](./random_comic.png)
+![Amperage](./random_comic.png)
 
-If most people turn into muderers all of a sudden, we'll need to push out a firmware update or something.
+Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?
 
