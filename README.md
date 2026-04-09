@@ -1,6 +1,6 @@
-[Secretary: Part 3](https://xkcd.com/496)
+[Preferred Chat System](https://xkcd.com/1254)
 
-![Secretary: Part 3](./random_comic.png)
+![Preferred Chat System](./random_comic.png)
 
-He actually installed each piece in a different car in the lot, then built a new car in the spot from the displaced pieces.  It's a confusing maneuver known as the auto-troll shuffle.
+If you call my regular number, it just goes to my pager.
 
