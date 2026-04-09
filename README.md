@@ -1,6 +1,6 @@
-[Sky](https://xkcd.com/1115)
+[Choices: Part 2](https://xkcd.com/265)
 
-![Sky](./random_comic.png)
+![Choices: Part 2](./random_comic.png)
 
-I dropped a bird and I didn't hear it hit bottom.
+Maybe someday I'll get to write the Wikipedia article about this place!  Wait, damn, original research.
 
