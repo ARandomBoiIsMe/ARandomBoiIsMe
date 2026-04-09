@@ -1,6 +1,6 @@
-[Choices: Part 2](https://xkcd.com/265)
+[Secretary: Part 3](https://xkcd.com/496)
 
-![Choices: Part 2](./random_comic.png)
+![Secretary: Part 3](./random_comic.png)
 
-Maybe someday I'll get to write the Wikipedia article about this place!  Wait, damn, original research.
+He actually installed each piece in a different car in the lot, then built a new car in the spot from the displaced pieces.  It's a confusing maneuver known as the auto-troll shuffle.
 
