@@ -1,6 +1,6 @@
-[Google Trends](https://xkcd.com/522)
+[Spice Girl](https://xkcd.com/1511)
 
-![Google Trends](./random_comic.png)
+![Spice Girl](./random_comic.png)
 
-Obama has been writing Lincoln/Obama erotic fan fiction on his secret livejournal.  Excerpt:  Lincoln lay back on the bed, nude save for his trademark stovepipe hat.  'Tell me,' he purred seductively, as he and Obama formed a more perfect union. 'When you come, is it 10% ethanol?'
+Haha, you'll see!
 
