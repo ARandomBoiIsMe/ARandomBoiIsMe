@@ -1,6 +1,6 @@
-[College Athletes](https://xkcd.com/2210)
+[Sports Champions](https://xkcd.com/2022)
 
-![College Athletes](./random_comic.png)
+![Sports Champions](./random_comic.png)
 
-Their signature play is the three-point combinator, a recursive offense which is guaranteed not to halt and continues accumulating points until the buzzer.
+For a long time, people thought maybe Usain Bolt was the one for running, until the 2090s and the incredible dominance of Derek Legs.
 
