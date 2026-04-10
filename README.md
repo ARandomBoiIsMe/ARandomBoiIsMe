@@ -1,6 +1,6 @@
-[Spice Girl](https://xkcd.com/1511)
+[College Athletes](https://xkcd.com/2210)
 
-![Spice Girl](./random_comic.png)
+![College Athletes](./random_comic.png)
 
-Haha, you'll see!
+Their signature play is the three-point combinator, a recursive offense which is guaranteed not to halt and continues accumulating points until the buzzer.
 
