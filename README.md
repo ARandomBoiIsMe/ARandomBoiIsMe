@@ -1,6 +1,6 @@
-[Preferred Chat System](https://xkcd.com/1254)
+[Google Trends](https://xkcd.com/522)
 
-![Preferred Chat System](./random_comic.png)
+![Google Trends](./random_comic.png)
 
-If you call my regular number, it just goes to my pager.
+Obama has been writing Lincoln/Obama erotic fan fiction on his secret livejournal.  Excerpt:  Lincoln lay back on the bed, nude save for his trademark stovepipe hat.  'Tell me,' he purred seductively, as he and Obama formed a more perfect union. 'When you come, is it 10% ethanol?'
 
