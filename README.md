@@ -1,6 +1,6 @@
-[Latitude](https://xkcd.com/596)
+[Klout](https://xkcd.com/1057)
 
-![Latitude](./random_comic.png)
+![Klout](./random_comic.png)
 
-The G1, especially with the new Android upgrade, is way better than I originally thought.
+Though please do confirm that it's actually *me* on Klout first, and not one of my friends trying to get me punched. The great thing about this douchebag deadman switch is that I will never dare trigger it.
 
