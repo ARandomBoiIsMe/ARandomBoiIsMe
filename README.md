@@ -1,6 +1,6 @@
-[Is it Christmas?](https://xkcd.com/2236)
+[Latitude](https://xkcd.com/596)
 
-![Is it Christmas?](./random_comic.png)
+![Latitude](./random_comic.png)
 
-We've tested it on 30 different days and it hasn't gotten one wrong yet.
+The G1, especially with the new Android upgrade, is way better than I originally thought.
 
