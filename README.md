@@ -1,6 +1,6 @@
-[Functional](https://xkcd.com/1270)
+[Monty Hall](https://xkcd.com/1282)
 
-![Functional](./random_comic.png)
+![Monty Hall](./random_comic.png)
 
-Functional programming combines the flexibility and power of abstract mathematics with the intuitive clarity of abstract mathematics.
+A few minutes later, the goat from behind door C drives away in the car.
 
