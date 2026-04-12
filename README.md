@@ -1,6 +1,6 @@
-[Relationship Advice](https://xkcd.com/2890)
+[Map Projections](https://xkcd.com/977)
 
-![Relationship Advice](./random_comic.png)
+![Map Projections](./random_comic.png)
 
-Good to be a little wary of advice that sounds too much like a self pep talk.
+What's that? You think I don't like the Peters map because I'm uncomfortable with having my cultural assumptions challenged?  Are you sure you're not ... ::puts on sunglasses:: ... projecting?
 
