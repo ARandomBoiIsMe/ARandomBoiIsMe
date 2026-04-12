@@ -1,6 +1,6 @@
-[Monty Hall](https://xkcd.com/1282)
+[Relationship Advice](https://xkcd.com/2890)
 
-![Monty Hall](./random_comic.png)
+![Relationship Advice](./random_comic.png)
 
-A few minutes later, the goat from behind door C drives away in the car.
+Good to be a little wary of advice that sounds too much like a self pep talk.
 
