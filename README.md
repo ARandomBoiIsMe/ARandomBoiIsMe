@@ -1,6 +1,6 @@
-[Business Idea](https://xkcd.com/1721)
+[Fall Foliage](https://xkcd.com/648)
 
-![Business Idea](./random_comic.png)
+![Fall Foliage](./random_comic.png)
 
-Then we move to phase two. Gas stations store fuel in underground tanks. Normally, these are inaccessible except via the pump. However, with hydraulic fracturing, we-- Wait! Come back!
+And I could replace you with older pictures of you, from back when you looked happy.
 
