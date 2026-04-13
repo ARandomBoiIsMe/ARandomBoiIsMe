@@ -1,6 +1,6 @@
-[Fall Foliage](https://xkcd.com/648)
+[Red Rover](https://xkcd.com/1449)
 
-![Fall Foliage](./random_comic.png)
+![Red Rover](./random_comic.png)
 
-And I could replace you with older pictures of you, from back when you looked happy.
+I just learned about the Slide Mountain Ocean, which I like because it's three nouns that sound like they can't possibly all refer to the same thing.
 
