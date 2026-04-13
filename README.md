@@ -1,6 +1,6 @@
-[Map Projections](https://xkcd.com/977)
+[Quantum Vacuum Virtual Plasma](https://xkcd.com/1404)
 
-![Map Projections](./random_comic.png)
+![Quantum Vacuum Virtual Plasma](./random_comic.png)
 
-What's that? You think I don't like the Peters map because I'm uncomfortable with having my cultural assumptions challenged?  Are you sure you're not ... ::puts on sunglasses:: ... projecting?
+I don't understand the things you do, and you therefore may represent an interaction with the quantum vacuum virtual plasma.
 
