@@ -1,6 +1,6 @@
-[Presidential Middle Names](https://xkcd.com/2393)
+[Thorough Analysis](https://xkcd.com/2012)
 
-![Presidential Middle Names](./random_comic.png)
+![Thorough Analysis](./random_comic.png)
 
-The bottom of the list remains unchanged. Poor Rutherford Birchard Hayes.
+The likely shape of the bells was determined through consultation with several bellringing experts at the Tower of London. Transcripts of those interviews are available in Appendix VII.
 
