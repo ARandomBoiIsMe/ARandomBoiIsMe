@@ -1,6 +1,6 @@
-[Thorough Analysis](https://xkcd.com/2012)
+[ISO 8601](https://xkcd.com/1179)
 
-![Thorough Analysis](./random_comic.png)
+![ISO 8601](./random_comic.png)
 
-The likely shape of the bells was determined through consultation with several bellringing experts at the Tower of London. Transcripts of those interviews are available in Appendix VII.
+ISO 8601 was published on 06/05/88 and most recently amended on 12/01/04.
 
