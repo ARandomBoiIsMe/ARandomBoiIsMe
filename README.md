@@ -1,6 +1,6 @@
-[Red Rover](https://xkcd.com/1449)
+[Nothing to Offer](https://xkcd.com/1148)
 
-![Red Rover](./random_comic.png)
+![Nothing to Offer](./random_comic.png)
 
-I just learned about the Slide Mountain Ocean, which I like because it's three nouns that sound like they can't possibly all refer to the same thing.
+cerebrospinal fluid, pericardial fluid, sputum, aqueous humor, perilymph, chyme, hydatid fluid, interstitial fluid, rheum, and gin.
 
