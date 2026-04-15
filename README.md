@@ -1,6 +1,6 @@
-[MC Hammer Age](https://xkcd.com/1995)
+[Super Bowl Context](https://xkcd.com/1640)
 
-![MC Hammer Age](./random_comic.png)
+![Super Bowl Context](./random_comic.png)
 
-Wait, sorry, I got mixed up--he's actually almost 50. It's the kid from The Karate Kid who just turned 40.
+Why did the chicken cross the road? It begins over five thousand years ago with the domestication of the red junglefowl in southeast Asia and the development of paved roads in the Sumerian city of Ur.
 
