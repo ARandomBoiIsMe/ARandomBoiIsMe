@@ -1,6 +1,6 @@
-[Lamp](https://xkcd.com/879)
+[Gravitational Waves](https://xkcd.com/1642)
 
-![Lamp](./random_comic.png)
+![Gravitational Waves](./random_comic.png)
 
-'That was definitely not in my top three wishes.' 'Who said anything about YOUR wishes?'
+"That last LinkedIn request set a new record for the most energetic physical event ever observed. Maybe we should respond." "Nah."
 
