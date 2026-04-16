@@ -1,6 +1,6 @@
-[Super Bowl Context](https://xkcd.com/1640)
+[Mystery Solved](https://xkcd.com/950)
 
-![Super Bowl Context](./random_comic.png)
+![Mystery Solved](./random_comic.png)
 
-Why did the chicken cross the road? It begins over five thousand years ago with the domestication of the red junglefowl in southeast Asia and the development of paved roads in the Sumerian city of Ur.
+The Roanoke Lost Colonists founded Roanoke, the Franklin Expedition reached the Pacific in 2009 when the Northwest Passage opened, and Jimmy Hoffa currently heads the Teamsters Union--he just started going by 'James'.
 
