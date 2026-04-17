@@ -1,6 +1,6 @@
-[Drainage Basins](https://xkcd.com/2784)
+[USB Cables](https://xkcd.com/1892)
 
-![Drainage Basins](./random_comic.png)
+![USB Cables](./random_comic.png)
 
-After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume.
+Tag yourself, I'm "frayed."
 
