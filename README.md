@@ -1,6 +1,6 @@
-[Home Alone](https://xkcd.com/1164)
+[Drainage Basins](https://xkcd.com/2784)
 
-![Home Alone](./random_comic.png)
+![Drainage Basins](./random_comic.png)
 
-Starring Macaulay Culkin.
+After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume.
 
