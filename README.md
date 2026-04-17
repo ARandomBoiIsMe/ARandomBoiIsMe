@@ -1,6 +1,6 @@
-[Gravitational Waves](https://xkcd.com/1642)
+[Home Alone](https://xkcd.com/1164)
 
-![Gravitational Waves](./random_comic.png)
+![Home Alone](./random_comic.png)
 
-"That last LinkedIn request set a new record for the most energetic physical event ever observed. Maybe we should respond." "Nah."
+Starring Macaulay Culkin.
 
