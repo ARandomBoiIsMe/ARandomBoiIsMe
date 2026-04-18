@@ -1,6 +1,6 @@
-[Ksp 2](https://xkcd.com/2204)
+[Sigil Cycle](https://xkcd.com/1306)
 
-![Ksp 2](./random_comic.png)
+![Sigil Cycle](./random_comic.png)
 
-"The committee appreciates that your 2020 launch is on track, but the 'human capital/personnel retention' budget includes a lot more unmarked cash payments than usual. What are th--" "Public outreach."
+The cycle seems to be 'we need these symbols to clarify what types of things we're referring to!' followed by 'wait, it turns out words already do that.'
 
