@@ -1,6 +1,6 @@
-[Perseids Pronunciation](https://xkcd.com/2814)
+[Ghostbusters Marathon](https://xkcd.com/213)
 
-![Perseids Pronunciation](./random_comic.png)
+![Ghostbusters Marathon](./random_comic.png)
 
-When speaking out loud, you can can call it the 'Perseids meatier shower' and no one will ever know. (If you do get caught somehow, just tell them to Google the 'Kentucky meat shower' and that will distract them while you escape.)
+If you walk out that door you'll be crossing the Rubicon with me, and that's one stream I'm not ready to cross.
 
