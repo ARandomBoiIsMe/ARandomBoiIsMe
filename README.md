@@ -1,6 +1,6 @@
-[Ghostbusters Marathon](https://xkcd.com/213)
+[Ksp 2](https://xkcd.com/2204)
 
-![Ghostbusters Marathon](./random_comic.png)
+![Ksp 2](./random_comic.png)
 
-If you walk out that door you'll be crossing the Rubicon with me, and that's one stream I'm not ready to cross.
+"The committee appreciates that your 2020 launch is on track, but the 'human capital/personnel retention' budget includes a lot more unmarked cash payments than usual. What are th--" "Public outreach."
 
