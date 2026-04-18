@@ -1,6 +1,6 @@
-[Sigil Cycle](https://xkcd.com/1306)
+[Cat Proximity](https://xkcd.com/231)
 
-![Sigil Cycle](./random_comic.png)
+![Cat Proximity](./random_comic.png)
 
-The cycle seems to be 'we need these symbols to clarify what types of things we're referring to!' followed by 'wait, it turns out words already do that.'
+Yes you are!  And you're sitting there!  Hi, kitty!
 
