@@ -1,6 +1,6 @@
-[Wifi vs Cellular](https://xkcd.com/1865)
+[Linguists](https://xkcd.com/2390)
 
-![Wifi vs Cellular](./random_comic.png)
+![Linguists](./random_comic.png)
 
-According to the cable company reps who keep calling me, it's because I haven't upgraded to the XTREME GIGABAND PANAMAX FLAVOR-BLASTED PRO PACKAGE WITH HBO, which is only $5 more per month for the first 6 months and five billion dollars per month after that.
+"Do you feel like the answer depends on whether you're currently in the hole, versus when you refer to the events later after you get out? Assuming you get out."
 
