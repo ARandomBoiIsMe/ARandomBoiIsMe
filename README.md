@@ -1,6 +1,6 @@
-[Cat Proximity](https://xkcd.com/231)
+[Archimedes](https://xkcd.com/857)
 
-![Cat Proximity](./random_comic.png)
+![Archimedes](./random_comic.png)
 
-Yes you are!  And you're sitting there!  Hi, kitty!
+Give a man a fish, or he will destroy the only existing vial of antidote.
 
