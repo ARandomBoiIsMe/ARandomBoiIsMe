@@ -1,6 +1,6 @@
-[Space Basketball](https://xkcd.com/2328)
+[Worst-Case Scenario](https://xkcd.com/748)
 
-![Space Basketball](./random_comic.png)
+![Worst-Case Scenario](./random_comic.png)
 
-My shooting will improve over the short term, but over the long term the universe will take more shots.
+To get serious analyses of hurricanes and oil slicks, see Jeff Masters' blog. To get serious discussions of worst-case scenario thinking, see Bruce Schneier's blog. To get enough Vitamin D, don't read any blogs and go outside instead.
 
