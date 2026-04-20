@@ -1,6 +1,6 @@
-[Facebook](https://xkcd.com/300)
+[Space Basketball](https://xkcd.com/2328)
 
-![Facebook](./random_comic.png)
+![Space Basketball](./random_comic.png)
 
-'Here, I'll put my number in your cell pho -- wait, why is it already here?'
+My shooting will improve over the short term, but over the long term the universe will take more shots.
 
