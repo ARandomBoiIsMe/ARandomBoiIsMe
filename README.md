@@ -1,6 +1,6 @@
-[War](https://xkcd.com/769)
+[Escalators](https://xkcd.com/252)
 
-![War](./random_comic.png)
+![Escalators](./random_comic.png)
 
-They offered to make me a green beret, but I liked my regular one. Although it gets kind of squashed under my helmet.
+The one time I tried, I got hit by a slinky going down at double speed.
 
