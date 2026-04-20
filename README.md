@@ -1,6 +1,6 @@
-[Escalators](https://xkcd.com/252)
+[Facebook](https://xkcd.com/300)
 
-![Escalators](./random_comic.png)
+![Facebook](./random_comic.png)
 
-The one time I tried, I got hit by a slinky going down at double speed.
+'Here, I'll put my number in your cell pho -- wait, why is it already here?'
 
