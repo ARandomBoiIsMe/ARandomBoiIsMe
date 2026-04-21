@@ -1,6 +1,6 @@
-[ISS Solar Transit 2](https://xkcd.com/1830)
+[Black Hat Support](https://xkcd.com/278)
 
-![ISS Solar Transit 2](./random_comic.png)
+![Black Hat Support](./random_comic.png)
 
-Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.
+So as not to leave you hanging -- it was a problem with select() calls.
 
