@@ -1,6 +1,6 @@
-[Skynet](https://xkcd.com/1046)
+[Gravitational Wave Pulsars](https://xkcd.com/2358)
 
-![Skynet](./random_comic.png)
+![Gravitational Wave Pulsars](./random_comic.png)
 
-'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'
+The most important attributes of a vector in 3-space are {Location, Location, Location}
 
