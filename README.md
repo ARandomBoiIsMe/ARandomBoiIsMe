@@ -1,6 +1,6 @@
-[Gravitational Wave Pulsars](https://xkcd.com/2358)
+[ISS Solar Transit 2](https://xkcd.com/1830)
 
-![Gravitational Wave Pulsars](./random_comic.png)
+![ISS Solar Transit 2](./random_comic.png)
 
-The most important attributes of a vector in 3-space are {Location, Location, Location}
+Most people don't realize it, but they actually launch a new space station every few weeks because this keeps happening.
 
