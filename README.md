@@ -1,6 +1,6 @@
-[Black Hat Support](https://xkcd.com/278)
+[Sandboxing Cycle](https://xkcd.com/2044)
 
-![Black Hat Support](./random_comic.png)
+![Sandboxing Cycle](./random_comic.png)
 
-So as not to leave you hanging -- it was a problem with select() calls.
+All I want is a secure system where it's easy to do anything I want. Is that so much to ask?
 
