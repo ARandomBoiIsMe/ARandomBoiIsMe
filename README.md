@@ -1,6 +1,6 @@
-[Control](https://xkcd.com/790)
+[2018 CVE List](https://xkcd.com/1957)
 
-![Control](./random_comic.png)
+![2018 CVE List](./random_comic.png)
 
-Which, at one point, led to a study showing that LSD produces no more hallucinations than a placebo.
+CVE-2018-?????: It turns out Bruce Schneier is just two mischevious kids in a trenchcoat.
 
