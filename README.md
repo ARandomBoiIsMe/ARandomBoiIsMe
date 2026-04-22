@@ -1,6 +1,6 @@
-[Lincoln-Douglas](https://xkcd.com/639)
+[Control](https://xkcd.com/790)
 
-![Lincoln-Douglas](./random_comic.png)
+![Control](./random_comic.png)
 
-Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.
+Which, at one point, led to a study showing that LSD produces no more hallucinations than a placebo.
 
