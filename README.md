@@ -1,6 +1,6 @@
-[Sandboxing Cycle](https://xkcd.com/2044)
+[Lincoln-Douglas](https://xkcd.com/639)
 
-![Sandboxing Cycle](./random_comic.png)
+![Lincoln-Douglas](./random_comic.png)
 
-All I want is a secure system where it's easy to do anything I want. Is that so much to ask?
+Stephen Douglas actually died soon after the debates and election, but if you demand historical accuracy in your webcomics you should be reading Hark! A Vagrant.
 
