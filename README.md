@@ -1,6 +1,6 @@
-[Redwall](https://xkcd.com/370)
+[Party](https://xkcd.com/524)
 
-![Redwall](./random_comic.png)
+![Party](./random_comic.png)
 
-My Redwall/Jurassic Park crossover fanfic is almost complete!
+I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008.  I Accidentally <noun>?  Yo dawg?  Place your bets now!
 
