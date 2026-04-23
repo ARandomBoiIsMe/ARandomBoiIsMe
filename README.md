@@ -1,6 +1,6 @@
-[Party](https://xkcd.com/524)
+[Beam of Light](https://xkcd.com/2959)
 
-![Party](./random_comic.png)
+![Beam of Light](./random_comic.png)
 
-I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008.  I Accidentally <noun>?  Yo dawg?  Place your bets now!
+Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."
 
