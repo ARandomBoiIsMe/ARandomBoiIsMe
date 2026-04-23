@@ -1,6 +1,6 @@
-[Beam of Light](https://xkcd.com/2959)
+[Humidifier Review](https://xkcd.com/3044)
 
-![Beam of Light](./random_comic.png)
+![Humidifier Review](./random_comic.png)
 
-Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."
+They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation.
 
