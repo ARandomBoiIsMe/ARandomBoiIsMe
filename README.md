@@ -1,6 +1,6 @@
-[Election Screen Time](https://xkcd.com/2371)
+[Inbox](https://xkcd.com/2181)
 
-![Election Screen Time](./random_comic.png)
+![Inbox](./random_comic.png)
 
-Feels like I picked a bad year to try to start having a healthy relationship with political news.
+Rome's declaration of war against Carthage was sent from a no-reply address, so Hannibal had to cross the Alps to deliver his "UNSUBSCRIBE" response in person.
 
