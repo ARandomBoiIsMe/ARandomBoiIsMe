@@ -1,6 +1,6 @@
-[Incision](https://xkcd.com/738)
+[Election Screen Time](https://xkcd.com/2371)
 
-![Incision](./random_comic.png)
+![Election Screen Time](./random_comic.png)
 
-At one point, by force of childhood habit, the doctor accidentally removed three or four organs.
+Feels like I picked a bad year to try to start having a healthy relationship with political news.
 
