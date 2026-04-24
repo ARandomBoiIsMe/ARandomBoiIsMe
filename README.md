@@ -1,6 +1,6 @@
-[Inbox](https://xkcd.com/2181)
+[Webb](https://xkcd.com/2550)
 
-![Inbox](./random_comic.png)
+![Webb](./random_comic.png)
 
-Rome's declaration of war against Carthage was sent from a no-reply address, so Hannibal had to cross the Alps to deliver his "UNSUBSCRIBE" response in person.
+Each one contains a chocolate shaped like a famous spacecraft and, for the later numbers, a pamphlet on managing anxiety.
 
