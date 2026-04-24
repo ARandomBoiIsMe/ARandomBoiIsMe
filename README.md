@@ -1,6 +1,6 @@
-[Humidifier Review](https://xkcd.com/3044)
+[Incision](https://xkcd.com/738)
 
-![Humidifier Review](./random_comic.png)
+![Incision](./random_comic.png)
 
-They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation.
+At one point, by force of childhood habit, the doctor accidentally removed three or four organs.
 
