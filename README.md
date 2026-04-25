@@ -1,6 +1,6 @@
-[Webb](https://xkcd.com/2550)
+[MTV Generation](https://xkcd.com/973)
 
-![Webb](./random_comic.png)
+![MTV Generation](./random_comic.png)
 
-Each one contains a chocolate shaped like a famous spacecraft and, for the later numbers, a pamphlet on managing anxiety.
+If you identified with the kids from The Breakfast Club when it came out, you're now much closer to the age of Principal Vernon.
 
