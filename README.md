@@ -1,6 +1,6 @@
-[MTV Generation](https://xkcd.com/973)
+[Cool S](https://xkcd.com/2690)
 
-![MTV Generation](./random_comic.png)
+![Cool S](./random_comic.png)
 
-If you identified with the kids from The Breakfast Club when it came out, you're now much closer to the age of Principal Vernon.
+Although I hear they were caught cheating off of Rosalind, who sat at a desk in front of them.
 
