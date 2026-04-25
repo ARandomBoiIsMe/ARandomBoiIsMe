@@ -1,6 +1,6 @@
-[Document Forgery](https://xkcd.com/3160)
+[Contingency Plan](https://xkcd.com/531)
 
-![Document Forgery](./random_comic.png)
+![Contingency Plan](./random_comic.png)
 
-It comes with a certificate of authenticity, which comes with a certificate of authenticity, which comes with a...
+Kids are genetic experiments.  We're just experimenting responsibly!
 
