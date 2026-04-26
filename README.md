@@ -1,6 +1,6 @@
-[Contingency Plan](https://xkcd.com/531)
+[Literally](https://xkcd.com/725)
 
-![Contingency Plan](./random_comic.png)
+![Literally](./random_comic.png)
 
-Kids are genetic experiments.  We're just experimenting responsibly!
+The chemistry experiment had me figuratively -- and then shortly thereafter literally -- glued to my seat.
 
