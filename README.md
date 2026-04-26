@@ -1,6 +1,6 @@
-[Comic Fragment](https://xkcd.com/254)
+[Similarities](https://xkcd.com/1585)
 
-![Comic Fragment](./random_comic.png)
+![Similarities](./random_comic.png)
 
-No one wants an explanation more than us.  Except Ms. Garofalo.
+I just came from The Martian, and I just have to say: Forget BB-8; I want a pet Sojourner! It's always been the cutest of our Mars rovers.
 
