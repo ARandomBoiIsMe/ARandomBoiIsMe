@@ -1,6 +1,6 @@
-[Movie Ages](https://xkcd.com/891)
+[Hours Before Departure](https://xkcd.com/2211)
 
-![Movie Ages](./random_comic.png)
+![Hours Before Departure](./random_comic.png)
 
-If you're 15 or younger, then just remember that it's nevertheless probably too late to be a child prodigy.
+They could afford to cut it close because they all had Global Entry.
 
