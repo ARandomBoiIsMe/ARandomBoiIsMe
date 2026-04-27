@@ -1,6 +1,6 @@
-[Hours Before Departure](https://xkcd.com/2211)
+[Fire](https://xkcd.com/1794)
 
-![Hours Before Departure](./random_comic.png)
+![Fire](./random_comic.png)
 
-They could afford to cut it close because they all had Global Entry.
+Billy Joel briefly detained
 
