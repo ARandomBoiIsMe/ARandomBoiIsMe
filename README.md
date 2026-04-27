@@ -1,6 +1,6 @@
-[Similarities](https://xkcd.com/1585)
+[Movie Ages](https://xkcd.com/891)
 
-![Similarities](./random_comic.png)
+![Movie Ages](./random_comic.png)
 
-I just came from The Martian, and I just have to say: Forget BB-8; I want a pet Sojourner! It's always been the cutest of our Mars rovers.
+If you're 15 or younger, then just remember that it's nevertheless probably too late to be a child prodigy.
 
