@@ -1,6 +1,6 @@
-[Fire](https://xkcd.com/1794)
+[Vet](https://xkcd.com/1558)
 
-![Fire](./random_comic.png)
+![Vet](./random_comic.png)
 
-Billy Joel briefly detained
+It's probably for the best. Since Roombas are native to North America, it's illegal for Americans to keep them in their houses under the Migratory Bird Treaty Act.
 
