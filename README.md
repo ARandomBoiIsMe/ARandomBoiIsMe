@@ -1,6 +1,6 @@
-[Vet](https://xkcd.com/1558)
+[Candy Button Paper](https://xkcd.com/205)
 
-![Vet](./random_comic.png)
+![Candy Button Paper](./random_comic.png)
 
-It's probably for the best. Since Roombas are native to North America, it's illegal for Americans to keep them in their houses under the Migratory Bird Treaty Act.
+Nonrewritable tape?
 
