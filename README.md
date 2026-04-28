@@ -1,6 +1,6 @@
-[Excel Lambda](https://xkcd.com/2453)
+[HDTV](https://xkcd.com/732)
 
-![Excel Lambda](./random_comic.png)
+![HDTV](./random_comic.png)
 
-Extremely rude how Turing's later formulations of the halting problem called me out by name specifically.
+We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'.
 
