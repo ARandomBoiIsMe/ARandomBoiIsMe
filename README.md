@@ -1,6 +1,6 @@
-[Candy Button Paper](https://xkcd.com/205)
+[Excel Lambda](https://xkcd.com/2453)
 
-![Candy Button Paper](./random_comic.png)
+![Excel Lambda](./random_comic.png)
 
-Nonrewritable tape?
+Extremely rude how Turing's later formulations of the halting problem called me out by name specifically.
 
