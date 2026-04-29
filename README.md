@@ -1,6 +1,6 @@
-[Darmok and Jalad](https://xkcd.com/902)
+[Control Group](https://xkcd.com/2576)
 
-![Darmok and Jalad](./random_comic.png)
+![Control Group](./random_comic.png)
 
-I wonder how often Patrick Stewart has Darmok flashbacks when talking to Star Trek fans.
+Placeble 228 x/6n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜
 
