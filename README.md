@@ -1,6 +1,6 @@
-[Evolving](https://xkcd.com/1147)
+[Timeline of Bicycle Design](https://xkcd.com/1673)
 
-![Evolving](./random_comic.png)
+![Timeline of Bicycle Design](./random_comic.png)
 
-Biologists play reverse Pokémon, trying to avoid putting any one team member on the front lines long enough for the experience to cause evolution.
+I'll be honest--the 1950s were a rough time for cycling.
 
