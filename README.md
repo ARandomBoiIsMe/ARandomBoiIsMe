@@ -1,6 +1,6 @@
-[HDTV](https://xkcd.com/732)
+[Darmok and Jalad](https://xkcd.com/902)
 
-![HDTV](./random_comic.png)
+![Darmok and Jalad](./random_comic.png)
 
-We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'.
+I wonder how often Patrick Stewart has Darmok flashbacks when talking to Star Trek fans.
 
