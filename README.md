@@ -1,6 +1,6 @@
-[Control Group](https://xkcd.com/2576)
+[Evolving](https://xkcd.com/1147)
 
-![Control Group](./random_comic.png)
+![Evolving](./random_comic.png)
 
-Placeble 228 x/6n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜n⬜⬜⬜⬜⬜
+Biologists play reverse Pokémon, trying to avoid putting any one team member on the front lines long enough for the experience to cause evolution.
 
