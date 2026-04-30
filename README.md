@@ -1,6 +1,6 @@
-[Jupiter Core](https://xkcd.com/3083)
+[1337: Part 3](https://xkcd.com/343)
 
-![Jupiter Core](./random_comic.png)
+![1337: Part 3](./random_comic.png)
 
-Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System.
+I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.
 
