@@ -1,6 +1,6 @@
-[1337: Part 3](https://xkcd.com/343)
+[AI Methodology](https://xkcd.com/2451)
 
-![1337: Part 3](./random_comic.png)
+![AI Methodology](./random_comic.png)
 
-I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.
+We've learned that weird spacing and diacritics in the methodology description are apparently the key to good research; luckily, we've developed an AI tool to help us figure out where to add them.
 
