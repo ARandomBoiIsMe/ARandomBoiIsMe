@@ -1,6 +1,6 @@
-[Science](https://xkcd.com/54)
+[IMHO](https://xkcd.com/1989)
 
-![Science](./random_comic.png)
+![IMHO](./random_comic.png)
 
-Bonus points if you can identify the science in question
+"Ugh, TMI." "Yeah, that's some tantalizing meat info."
 
