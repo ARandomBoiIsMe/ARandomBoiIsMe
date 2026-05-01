@@ -1,6 +1,6 @@
-[Alignment Chart Alignment Chart](https://xkcd.com/2251)
+[Six Months](https://xkcd.com/158)
 
-![Alignment Chart Alignment Chart](./random_comic.png)
+![Six Months](./random_comic.png)
 
-I would describe my personal alignment as "lawful heterozygous silty liquid."
+But then she does that thing with her tongue and I remember why I left you.
 
