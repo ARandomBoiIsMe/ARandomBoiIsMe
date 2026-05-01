@@ -1,6 +1,6 @@
-[IMHO](https://xkcd.com/1989)
+[Alignment Chart Alignment Chart](https://xkcd.com/2251)
 
-![IMHO](./random_comic.png)
+![Alignment Chart Alignment Chart](./random_comic.png)
 
-"Ugh, TMI." "Yeah, that's some tantalizing meat info."
+I would describe my personal alignment as "lawful heterozygous silty liquid."
 
