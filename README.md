@@ -1,6 +1,6 @@
-[Alien Theories](https://xkcd.com/2953)
+[Keyboard Mash](https://xkcd.com/1530)
 
-![Alien Theories](./random_comic.png)
+![Keyboard Mash](./random_comic.png)
 
-They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.
+WHY DON'T YOU COME HANG OUT INSIDE MY HOUSE. WE CAN COOK BREAD AND CHAT ABOUT OUR INTERNAL SKELETONS.
 
