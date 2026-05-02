@@ -1,6 +1,6 @@
-[Six Months](https://xkcd.com/158)
+[Alien Theories](https://xkcd.com/2953)
 
-![Six Months](./random_comic.png)
+![Alien Theories](./random_comic.png)
 
-But then she does that thing with her tongue and I remember why I left you.
+They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.
 
