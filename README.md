@@ -1,6 +1,6 @@
-[Keyboard Mash](https://xkcd.com/1530)
+[Sharing](https://xkcd.com/956)
 
-![Keyboard Mash](./random_comic.png)
+![Sharing](./random_comic.png)
 
-WHY DON'T YOU COME HANG OUT INSIDE MY HOUSE. WE CAN COOK BREAD AND CHAT ABOUT OUR INTERNAL SKELETONS.
+In the new edition of The Giving Tree, the tree uses social tools to share with its friend all the best places to buy things.
 
