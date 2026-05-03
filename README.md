@@ -1,6 +1,6 @@
-[Timeline of Bicycle Design](https://xkcd.com/1673)
+[Endorheic Basin](https://xkcd.com/2325)
 
-![Timeline of Bicycle Design](./random_comic.png)
+![Endorheic Basin](./random_comic.png)
 
-I'll be honest--the 1950s were a rough time for cycling.
+My biggest fear is that colonial engineers will try to flood me to generate electricity. My biggest hope is that I'll develop sailing stones.
 
