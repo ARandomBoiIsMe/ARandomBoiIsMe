@@ -1,6 +1,6 @@
-[Alphabet](https://xkcd.com/1069)
+[Timeline of Bicycle Design](https://xkcd.com/1673)
 
-![Alphabet](./random_comic.png)
+![Timeline of Bicycle Design](./random_comic.png)
 
-Do I get to remove letters entirely? Or just rearrange them? Because the 'k/c' situation is ridiculous. Look, we can make out whenever. This is *immortality*!
+I'll be honest--the 1950s were a rough time for cycling.
 
