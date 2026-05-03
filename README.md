@@ -1,6 +1,6 @@
-[Tags](https://xkcd.com/1144)
+[Alphabet](https://xkcd.com/1069)
 
-![Tags](./random_comic.png)
+![Alphabet](./random_comic.png)
 
-<A>: Like </a>this.&nbsp;
+Do I get to remove letters entirely? Or just rearrange them? Because the 'k/c' situation is ridiculous. Look, we can make out whenever. This is *immortality*!
 
