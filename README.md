@@ -1,6 +1,6 @@
-[Catcalling](https://xkcd.com/1763)
+[Airspeed](https://xkcd.com/3161)
 
-![Catcalling](./random_comic.png)
+![Airspeed](./random_comic.png)
 
-Effect strength => [unstoppable] | Effect range => [2 miles] | Effect duration => [1 year]
+Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record
 
