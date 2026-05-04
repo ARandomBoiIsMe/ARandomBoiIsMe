@@ -1,6 +1,6 @@
-[Endorheic Basin](https://xkcd.com/2325)
+[Catcalling](https://xkcd.com/1763)
 
-![Endorheic Basin](./random_comic.png)
+![Catcalling](./random_comic.png)
 
-My biggest fear is that colonial engineers will try to flood me to generate electricity. My biggest hope is that I'll develop sailing stones.
+Effect strength => [unstoppable] | Effect range => [2 miles] | Effect duration => [1 year]
 
