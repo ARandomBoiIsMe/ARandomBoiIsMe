@@ -1,6 +1,6 @@
-[Airspeed](https://xkcd.com/3161)
+[Turtle Sandwich Standard Model](https://xkcd.com/2301)
 
-![Airspeed](./random_comic.png)
+![Turtle Sandwich Standard Model](./random_comic.png)
 
-Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record
+It's possible the bread and shell can be split into a top and bottom flavor, and some models additionally suggest Strange Bread and Charm Shells.
 
