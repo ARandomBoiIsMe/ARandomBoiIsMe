@@ -1,6 +1,6 @@
-[Turtle Sandwich Standard Model](https://xkcd.com/2301)
+[Dating Service](https://xkcd.com/120)
 
-![Turtle Sandwich Standard Model](./random_comic.png)
+![Dating Service](./random_comic.png)
 
-It's possible the bread and shell can be split into a top and bottom flavor, and some models additionally suggest Strange Bread and Charm Shells.
+I don't understand why people are so disingenuous!  I just want someone to walk with!
 
