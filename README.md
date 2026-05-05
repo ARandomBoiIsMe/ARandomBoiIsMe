@@ -1,6 +1,6 @@
-[Dating Service](https://xkcd.com/120)
+[Data Quality](https://xkcd.com/2739)
 
-![Dating Service](./random_comic.png)
+![Data Quality](./random_comic.png)
 
-I don't understand why people are so disingenuous!  I just want someone to walk with!
+[exclamation about how cute your cat is] -> [last 4 digits of your cat's chip ID] -> [your cat's full chip ID] -> [a drawing of your cat] -> [photo of your cat] -> [clone of your cat] -> [your actual cat] -> [my better cat]
 
