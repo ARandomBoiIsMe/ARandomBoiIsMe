@@ -1,6 +1,6 @@
-[Oxidation](https://xkcd.com/1693)
+[Cell Number](https://xkcd.com/1129)
 
-![Oxidation](./random_comic.png)
+![Cell Number](./random_comic.png)
 
-Calm down--there were lots of arthropods living on your skin already. These ones are just bigger.
+There's also a +1 sometimes, which is there to keep everyone on their toes. In the future, people who got to pick cool numbers by signing up for Google Voice early will be revered as wizards.
 
