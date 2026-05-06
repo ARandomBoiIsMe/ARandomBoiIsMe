@@ -1,6 +1,6 @@
-[Cell Number](https://xkcd.com/1129)
+[Communion](https://xkcd.com/1152)
 
-![Cell Number](./random_comic.png)
+![Communion](./random_comic.png)
 
-There's also a +1 sometimes, which is there to keep everyone on their toes. In the future, people who got to pick cool numbers by signing up for Google Voice early will be revered as wizards.
+The local police, growing increasingly concerned about this church, ask parishioners to take a sip of wine and then spit it back out for DNA testing. It's blood, and it matches a 1970s murder victim.
 
