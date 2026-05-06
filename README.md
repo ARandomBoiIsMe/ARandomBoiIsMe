@@ -1,6 +1,6 @@
-[Open Letter](https://xkcd.com/1274)
+[Seat Selection](https://xkcd.com/726)
 
-![Open Letter](./random_comic.png)
+![Seat Selection](./random_comic.png)
 
-Are you ok?  Do you need help?
+Don't click on the wing.
 
