@@ -1,6 +1,6 @@
-[Email](https://xkcd.com/1467)
+[Nerd Sniping](https://xkcd.com/356)
 
-![Email](./random_comic.png)
+![Nerd Sniping](./random_comic.png)
 
-My New Year's resolution for 2014-54-12/30/14 Dec:12:1420001642 is to learn these stupid time formatting strings.
+I first saw this problem on the Google Labs Aptitude Test.  A professor and I filled a blackboard without getting anywhere.  Have fun.
 
