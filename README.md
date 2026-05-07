@@ -1,6 +1,6 @@
-[Seat Selection](https://xkcd.com/726)
+[Archaeology Research](https://xkcd.com/3129)
 
-![Seat Selection](./random_comic.png)
+![Archaeology Research](./random_comic.png)
 
-Don't click on the wing.
+The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.
 
