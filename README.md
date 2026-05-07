@@ -1,6 +1,6 @@
-[Archaeology Research](https://xkcd.com/3129)
+[The Sky](https://xkcd.com/1556)
 
-![Archaeology Research](./random_comic.png)
+![The Sky](./random_comic.png)
 
-The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.
+The other half has some cool shipwrecks, rocks, and snakes, but if you move those out of the way, it also has more sky.
 
