@@ -1,6 +1,6 @@
-[Nerd Sniping](https://xkcd.com/356)
+[The Difference](https://xkcd.com/242)
 
-![Nerd Sniping](./random_comic.png)
+![The Difference](./random_comic.png)
 
-I first saw this problem on the Google Labs Aptitude Test.  A professor and I filled a blackboard without getting anywhere.  Have fun.
+How could you choose avoiding a little pain over understanding a magic lightning machine?
 
