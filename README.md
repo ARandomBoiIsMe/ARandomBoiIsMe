@@ -1,6 +1,6 @@
-[Apollo Speeches](https://xkcd.com/1484)
+[UV](https://xkcd.com/1469)
 
-![Apollo Speeches](./random_comic.png)
+![UV](./random_comic.png)
 
-While our commitment to recycling initiatives has been unwavering, this is not a cost any of us should be expected to pay.
+Hey, why stop at our house? We could burn down ALL these houses for the insurance money.
 
