@@ -1,6 +1,6 @@
-[The Difference](https://xkcd.com/242)
+[Apollo Speeches](https://xkcd.com/1484)
 
-![The Difference](./random_comic.png)
+![Apollo Speeches](./random_comic.png)
 
-How could you choose avoiding a little pain over understanding a magic lightning machine?
+While our commitment to recycling initiatives has been unwavering, this is not a cost any of us should be expected to pay.
 
