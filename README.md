@@ -1,6 +1,6 @@
-[Professional Oaths](https://xkcd.com/2843)
+[Coronavirus Worries](https://xkcd.com/2282)
 
-![Professional Oaths](./random_comic.png)
+![Coronavirus Worries](./random_comic.png)
 
-Interpretations of the Hermeneutic Oath differ.
+Offscreen, bottom left: Whether the custom :coronavirus: Slack react emoji you just added was public domain or whether you should have put a Creative Commons credit somewhere
 
