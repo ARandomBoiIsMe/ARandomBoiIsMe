@@ -1,6 +1,6 @@
-[Paleontology Museum](https://xkcd.com/2760)
+[Projecting](https://xkcd.com/2506)
 
-![Paleontology Museum](./random_comic.png)
+![Projecting](./random_comic.png)
 
-Nowadays the only ones left that do anything are turtles.
+This is something we all need to work on, but especially you all.
 
