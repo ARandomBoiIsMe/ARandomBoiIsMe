@@ -1,6 +1,6 @@
-[Wrong](https://xkcd.com/1731)
+[Time Management](https://xkcd.com/874)
 
-![Wrong](./random_comic.png)
+![Time Management](./random_comic.png)
 
-Hang on, I just remembered another thing I'm right about. See...
+I never trust anyone who's more excited about success than about doing the thing they want to be successful at.
 
