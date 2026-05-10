@@ -1,6 +1,6 @@
-[Time Management](https://xkcd.com/874)
+[United Shapes](https://xkcd.com/1079)
 
-![Time Management](./random_comic.png)
+![United Shapes](./random_comic.png)
 
-I never trust anyone who's more excited about success than about doing the thing they want to be successful at.
+That eggplant is in something of a flaccid state.
 
