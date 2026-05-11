@@ -1,6 +1,6 @@
-[1337: Part 2](https://xkcd.com/342)
+[How it Works](https://xkcd.com/385)
 
-![1337: Part 2](./random_comic.png)
+![How it Works](./random_comic.png)
 
-Trivia: Elaine is actually her middle name.
+It's pi plus C, of course.
 
