@@ -1,6 +1,6 @@
-[Physics Paths](https://xkcd.com/3155)
+[A Simple Plan](https://xkcd.com/97)
 
-![Physics Paths](./random_comic.png)
+![A Simple Plan](./random_comic.png)
 
-If nothing else, that reasoning definitely overturns syllogisms.
+This is true.  The lyrics are ridiculous.
 
