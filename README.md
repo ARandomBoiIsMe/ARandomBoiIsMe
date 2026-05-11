@@ -1,6 +1,6 @@
-[A Simple Plan](https://xkcd.com/97)
+[1337: Part 2](https://xkcd.com/342)
 
-![A Simple Plan](./random_comic.png)
+![1337: Part 2](./random_comic.png)
 
-This is true.  The lyrics are ridiculous.
+Trivia: Elaine is actually her middle name.
 
