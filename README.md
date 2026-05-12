@@ -1,6 +1,6 @@
-[Deer Turrets](https://xkcd.com/2350)
+[Mail](https://xkcd.com/96)
 
-![Deer Turrets](./random_comic.png)
+![Mail](./random_comic.png)
 
-When my great grandfather designed the Titanic and it hit an iceberg and sank, he didn't sit around moping. He took those lessons to his next job designing airships, and he made the Hindenburg completely iceberg-proof!
+I'm on the USPS No Fly List
 
