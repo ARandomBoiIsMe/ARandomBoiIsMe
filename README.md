@@ -1,6 +1,6 @@
-[How it Works](https://xkcd.com/385)
+[Screws](https://xkcd.com/1474)
 
-![How it Works](./random_comic.png)
+![Screws](./random_comic.png)
 
-It's pi plus C, of course.
+If you encounter a hex bolt, but you only brought screwdrivers, you can try sandwiching the head of the bolt between two parallel screwdriver shafts, squeezing the screwdrivers together with a hand at either end, then twisting. It doesn't work and it's a great way to hurt yourself, but you can try it!
 
