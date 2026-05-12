@@ -1,6 +1,6 @@
-[Screws](https://xkcd.com/1474)
+[Deer Turrets](https://xkcd.com/2350)
 
-![Screws](./random_comic.png)
+![Deer Turrets](./random_comic.png)
 
-If you encounter a hex bolt, but you only brought screwdrivers, you can try sandwiching the head of the bolt between two parallel screwdriver shafts, squeezing the screwdrivers together with a hand at either end, then twisting. It doesn't work and it's a great way to hurt yourself, but you can try it!
+When my great grandfather designed the Titanic and it hit an iceberg and sank, he didn't sit around moping. He took those lessons to his next job designing airships, and he made the Hindenburg completely iceberg-proof!
 
