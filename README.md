@@ -1,6 +1,6 @@
-[Mail](https://xkcd.com/96)
+[Sweet 16](https://xkcd.com/1819)
 
-![Mail](./random_comic.png)
+![Sweet 16](./random_comic.png)
 
-I'm on the USPS No Fly List
+Every year I make out my bracket at the season, and every year it's busted before the first game when I find out which teams are playing.
 
