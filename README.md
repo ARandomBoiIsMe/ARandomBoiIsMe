@@ -1,6 +1,6 @@
-[Fantastic Four](https://xkcd.com/3146)
+[Planespotting](https://xkcd.com/1669)
 
-![Fantastic Four](./random_comic.png)
+![Planespotting](./random_comic.png)
 
-One perk of being born at 0.88c is that your birthday is over two days long.
+No, a hydroplane doesn't land on water--that's an aquaplane. A hydroplane is a plane that gets electric power from an onboard water reservoir with a tiny dam and turbines.
 
