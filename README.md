@@ -1,6 +1,6 @@
-[Cougars](https://xkcd.com/999)
+[Constellation Monstrosity](https://xkcd.com/2356)
 
-![Cougars](./random_comic.png)
+![Constellation Monstrosity](./random_comic.png)
 
-If you're lying in bed tonight and you see yellow eyes glinting in your window, are you being stalked by a puma, a mountain lion, a panther, a catamount, or a cougar? Trick question--in North America, they're all names for the same species, Puma concolor! Isn't learning fun? Anyway, sleep tight!
+It's rare to get both astronomers and astrologers equally mad at you, but apparently I've messed up both a bunch of star location databases AND the will of the fates.
 
