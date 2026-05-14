@@ -1,6 +1,6 @@
-[US Survey Foot](https://xkcd.com/2888)
+[Number Line](https://xkcd.com/899)
 
-![US Survey Foot](./random_comic.png)
+![Number Line](./random_comic.png)
 
-Subway refuses to answer my questions about whether it's an International Footlong or a US Survey Footlong. A milligram of sandwich is at stake!
+The Wikipedia page "List of Numbers" opens with "This list is incomplete; you can help by expanding it."
 
