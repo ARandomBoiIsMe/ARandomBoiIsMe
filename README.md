@@ -1,6 +1,6 @@
-[Kilobyte](https://xkcd.com/394)
+[US Survey Foot](https://xkcd.com/2888)
 
-![Kilobyte](./random_comic.png)
+![US Survey Foot](./random_comic.png)
 
-I would take 'kibibyte' more seriously if it didn't sound so much like 'Kibbles N Bits'.
+Subway refuses to answer my questions about whether it's an International Footlong or a US Survey Footlong. A milligram of sandwich is at stake!
 
