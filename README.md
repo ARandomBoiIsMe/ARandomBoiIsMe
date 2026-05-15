@@ -1,6 +1,6 @@
-[Boathouses and Houseboats](https://xkcd.com/2043)
+[XKCD Stack](https://xkcd.com/1636)
 
-![Boathouses and Houseboats](./random_comic.png)
+![XKCD Stack](./random_comic.png)
 
-The <x> that is held by <y> is also a <y><x>, so if you go to a food truck, the stuff you buy is truck food. A phone that's in your car is a carphone, and a car equipped with a phone is a phonecar. When you play a mobile racing game, you're in your phonecar using your carphone to drive a different phonecar. I'm still not sure about bananaphones.
+This site requires Sun Java 6.0.0.1 (32-bit) or higher. You have Macromedia Java 7.3.8.1¾ (48-bit). Click here [link to java.com main page] to download an installer which will run fine but not really change anything.
 
