@@ -1,6 +1,6 @@
-[Settled](https://xkcd.com/1235)
+[Percentage Points](https://xkcd.com/985)
 
-![Settled](./random_comic.png)
+![Percentage Points](./random_comic.png)
 
-Well, we've really only settled the question of ghosts that emit or reflect visible light. Or move objects around. Or make any kind of sound. But that covers all the ones that appear in Ghostbusters, so I think we're good.
+Grayton also proposed making college scholarships available exclusively to sexually active teens, amnesty for illegal immigrants who create room for themselves by killing a citizen, and a graduated income tax based on penis size. He has been endorsed by Tracy Morgan, John Wilkes Booth's ghost, and the Time Cube guy.
 
