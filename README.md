@@ -1,6 +1,6 @@
-[Percentage Points](https://xkcd.com/985)
+[Open Source](https://xkcd.com/225)
 
-![Percentage Points](./random_comic.png)
+![Open Source](./random_comic.png)
 
-Grayton also proposed making college scholarships available exclusively to sexually active teens, amnesty for illegal immigrants who create room for themselves by killing a citizen, and a graduated income tax based on penis size. He has been endorsed by Tracy Morgan, John Wilkes Booth's ghost, and the Time Cube guy.
+Later we'll dress up like Big Oil thugs and jump Ralph Nader.
 
