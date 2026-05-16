@@ -1,6 +1,6 @@
-[XKCD Stack](https://xkcd.com/1636)
+[Rolle's Theorem](https://xkcd.com/2042)
 
-![XKCD Stack](./random_comic.png)
+![Rolle's Theorem](./random_comic.png)
 
-This site requires Sun Java 6.0.0.1 (32-bit) or higher. You have Macromedia Java 7.3.8.1¾ (48-bit). Click here [link to java.com main page] to download an installer which will run fine but not really change anything.
+I mean, if it's that easy to get a theorem named for you ... "a straight line that passes through the center of a coplanar circle always divides the circle into two equal halves." Can I have that one? Wait, can I auction off the naming rights? It can be the Red Bull Theorem or the Quicken Loans Theorem, depending who wants it more.
 
