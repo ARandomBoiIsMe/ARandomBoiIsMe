@@ -1,6 +1,6 @@
-[Catcalling](https://xkcd.com/1763)
+[2020 Google Trends](https://xkcd.com/2302)
 
-![Catcalling](./random_comic.png)
+![2020 Google Trends](./random_comic.png)
 
-Effect strength => [unstoppable] | Effect range => [2 miles] | Effect duration => [1 year]
+As the 'exotic animals in homemade aprons hosting baking shows' YouTube craze reached its peak in March 2020, Andrew Cuomo announced he was replacing the Statue of Liberty with a bronze pangolin in a chef's hat.
 
