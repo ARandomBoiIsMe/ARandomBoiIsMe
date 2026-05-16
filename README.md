@@ -1,6 +1,6 @@
-[Rolle's Theorem](https://xkcd.com/2042)
+[Backpack Decisions](https://xkcd.com/1952)
 
-![Rolle's Theorem](./random_comic.png)
+![Backpack Decisions](./random_comic.png)
 
-I mean, if it's that easy to get a theorem named for you ... "a straight line that passes through the center of a coplanar circle always divides the circle into two equal halves." Can I have that one? Wait, can I auction off the naming rights? It can be the Red Bull Theorem or the Quicken Loans Theorem, depending who wants it more.
+"This one is perfect in every way, except that for some reason it's woven from a tungsten mesh, so it weighs 85 pounds and I'll need to carry it around on a hand cart." "That seems like a bad--" "BUT IT HAS THE PERFECT POCKET ARRANGEMENT!"
 
