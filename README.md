@@ -1,6 +1,6 @@
-[Bird/Plane/Superman](https://xkcd.com/1792)
+[Tones](https://xkcd.com/479)
 
-![Bird/Plane/Superman](./random_comic.png)
+![Tones](./random_comic.png)
 
-You can apply special translucent films to your windows to help keep birds/Superman from accidentally flying into them.
+I need a lawn, so I can yell at kids to stay off it.
 
