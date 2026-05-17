@@ -1,6 +1,6 @@
-[Tones](https://xkcd.com/479)
+[Kolmogorov Directions](https://xkcd.com/1155)
 
-![Tones](./random_comic.png)
+![Kolmogorov Directions](./random_comic.png)
 
-I need a lawn, so I can yell at kids to stay off it.
+People get really grumpy when they realize you're giving them directions for how to go to the store and buy a GPS.
 
