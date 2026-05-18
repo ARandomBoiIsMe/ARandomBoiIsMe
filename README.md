@@ -1,6 +1,6 @@
-[Kolmogorov Directions](https://xkcd.com/1155)
+[Field Topology](https://xkcd.com/2625)
 
-![Kolmogorov Directions](./random_comic.png)
+![Field Topology](./random_comic.png)
 
-People get really grumpy when they realize you're giving them directions for how to go to the store and buy a GPS.
+The combination croquet set/10-lane pool can also be used for some varieties of foosball and Skee-Ball.
 
