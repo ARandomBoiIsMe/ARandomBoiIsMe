@@ -1,6 +1,6 @@
-[Fireflies](https://xkcd.com/2802)
+[Train](https://xkcd.com/1366)
 
-![Fireflies](./random_comic.png)
+![Train](./random_comic.png)
 
-I feel bad for Earth 2 and their shadowflies.
+Trains rotate the Earth around various axes while elevators shift its position in space.
 
