@@ -1,6 +1,6 @@
-[Field Topology](https://xkcd.com/2625)
+[Open Mic Night](https://xkcd.com/785)
 
-![Field Topology](./random_comic.png)
+![Open Mic Night](./random_comic.png)
 
-The combination croquet set/10-lane pool can also be used for some varieties of foosball and Skee-Ball.
+Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?
 
