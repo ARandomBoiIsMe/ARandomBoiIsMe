@@ -1,6 +1,6 @@
-[Sloped Border](https://xkcd.com/2519)
+[T. Rex Evolution](https://xkcd.com/3042)
 
-![Sloped Border](./random_comic.png)
+![T. Rex Evolution](./random_comic.png)
 
-"The slope will be 74° at ground level." "Okay, I think we can hack together a  ... wait, why did they specify ground level? It's 74° everywhere, right? ... Oh no, there's a whole section in the treaty labeled 'curvature.'"
+Unfortunately, body size and bite force continue to increase.
 
