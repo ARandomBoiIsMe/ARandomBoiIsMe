@@ -1,6 +1,6 @@
-[T. Rex Evolution](https://xkcd.com/3042)
+[Tech Support](https://xkcd.com/806)
 
-![T. Rex Evolution](./random_comic.png)
+![Tech Support](./random_comic.png)
 
-Unfortunately, body size and bite force continue to increase.
+I recently had someone ask me to go get a computer and turn it on so I could restart it. He refused to move further in the script until I said I had done that.
 
