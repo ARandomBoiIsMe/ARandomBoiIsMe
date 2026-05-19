@@ -1,6 +1,6 @@
-[Train](https://xkcd.com/1366)
+[Shadowfacts](https://xkcd.com/1272)
 
-![Train](./random_comic.png)
+![Shadowfacts](./random_comic.png)
 
-Trains rotate the Earth around various axes while elevators shift its position in space.
+'Look to my coming on the fifth day. At dawn, look to the east.' 'And look to the west to see our shadows!'
 
