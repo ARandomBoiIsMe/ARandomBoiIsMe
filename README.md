@@ -1,6 +1,6 @@
-[Shadowfacts](https://xkcd.com/1272)
+[Sloped Border](https://xkcd.com/2519)
 
-![Shadowfacts](./random_comic.png)
+![Sloped Border](./random_comic.png)
 
-'Look to my coming on the fifth day. At dawn, look to the east.' 'And look to the west to see our shadows!'
+"The slope will be 74° at ground level." "Okay, I think we can hack together a  ... wait, why did they specify ground level? It's 74° everywhere, right? ... Oh no, there's a whole section in the treaty labeled 'curvature.'"
 
