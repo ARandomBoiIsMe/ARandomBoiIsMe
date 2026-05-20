@@ -1,6 +1,6 @@
-[Air Force Museum](https://xkcd.com/1850)
+[Physical Quantities](https://xkcd.com/2780)
 
-![Air Force Museum](./random_comic.png)
+![Physical Quantities](./random_comic.png)
 
-I had fun visiting the museum at Dover Air Force Base, unless they don't have a museum, in which case I've never been to Delaware in my life.
+The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.
 
