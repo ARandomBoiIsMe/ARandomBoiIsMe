@@ -1,6 +1,6 @@
-[Tech Support](https://xkcd.com/806)
+[Air Force Museum](https://xkcd.com/1850)
 
-![Tech Support](./random_comic.png)
+![Air Force Museum](./random_comic.png)
 
-I recently had someone ask me to go get a computer and turn it on so I could restart it. He refused to move further in the script until I said I had done that.
+I had fun visiting the museum at Dover Air Force Base, unless they don't have a museum, in which case I've never been to Delaware in my life.
 
