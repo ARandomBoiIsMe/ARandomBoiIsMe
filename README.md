@@ -1,6 +1,6 @@
-[Physical Quantities](https://xkcd.com/2780)
+[Patch](https://xkcd.com/1685)
 
-![Physical Quantities](./random_comic.png)
+![Patch](./random_comic.png)
 
-The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy.
+My optimizer uses content-aware inpainting to fill in all the wasted whitespace in the code, repeating the process until it compiles.
 
