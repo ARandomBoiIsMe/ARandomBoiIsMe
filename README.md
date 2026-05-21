@@ -1,6 +1,6 @@
-[New](https://xkcd.com/1401)
+[Letting Go](https://xkcd.com/215)
 
-![New](./random_comic.png)
+![Letting Go](./random_comic.png)
 
-The nice thing about headcannnons is that it's really easy to get other people to believe in them.
+At least I never gave her the root password.
 
