@@ -1,6 +1,6 @@
-[Telephoto](https://xkcd.com/1855)
+[New](https://xkcd.com/1401)
 
-![Telephoto](./random_comic.png)
+![New](./random_comic.png)
 
-I was banned from the airliners.net photography forum by concerned moderators after the end of my lens started brushing against planes as they flew by.
+The nice thing about headcannnons is that it's really easy to get other people to believe in them.
 
