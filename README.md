@@ -1,6 +1,6 @@
-[Message in a Bottle](https://xkcd.com/1675)
+[Telephoto](https://xkcd.com/1855)
 
-![Message in a Bottle](./random_comic.png)
+![Telephoto](./random_comic.png)
 
-I tried to send a message back, but I accidentally hit 'reply all' and now the ocean is clogged with message bottles.
+I was banned from the airliners.net photography forum by concerned moderators after the end of my lens started brushing against planes as they flew by.
 
