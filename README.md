@@ -1,6 +1,6 @@
-[Catcalling](https://xkcd.com/1763)
+[Missed Connections](https://xkcd.com/935)
 
-![Catcalling](./random_comic.png)
+![Missed Connections](./random_comic.png)
 
-Effect strength => [unstoppable] | Effect range => [2 miles] | Effect duration => [1 year]
+The Street View van isn't going to find out anything Google won't already know from reading my email.
 
