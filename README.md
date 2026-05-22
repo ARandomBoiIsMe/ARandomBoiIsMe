@@ -1,6 +1,6 @@
-[Ocean Loop](https://xkcd.com/2935)
+[Astrophysics](https://xkcd.com/1758)
 
-![Ocean Loop](./random_comic.png)
+![Astrophysics](./random_comic.png)
 
-I can't believe they wouldn't even let me hold a vote among the passengers about whether to try the loop.
+DEPARTMENT OF NEUROSCIENCE / Motto: "If I hear the phrase 'mirror neurons' I swear to God I will flip this table."
 
