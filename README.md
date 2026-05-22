@@ -1,6 +1,6 @@
-[Astrophysics](https://xkcd.com/1758)
+[Catcalling](https://xkcd.com/1763)
 
-![Astrophysics](./random_comic.png)
+![Catcalling](./random_comic.png)
 
-DEPARTMENT OF NEUROSCIENCE / Motto: "If I hear the phrase 'mirror neurons' I swear to God I will flip this table."
+Effect strength => [unstoppable] | Effect range => [2 miles] | Effect duration => [1 year]
 
