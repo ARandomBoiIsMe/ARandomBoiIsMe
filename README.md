@@ -1,6 +1,6 @@
-[Roman Numerals](https://xkcd.com/2637)
+[Ocean Loop](https://xkcd.com/2935)
 
-![Roman Numerals](./random_comic.png)
+![Ocean Loop](./random_comic.png)
 
-100he100k out th1s 1nno5at4e str1ng en100o501ng 15e been 500e5e50op1ng! 1t's 6rtua100y perfe100t! ...hang on, what's a "virtuacy"?
+I can't believe they wouldn't even let me hold a vote among the passengers about whether to try the loop.
 
