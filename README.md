@@ -1,6 +1,6 @@
-[Missed Connections](https://xkcd.com/935)
+[Alternative Energy Revolution](https://xkcd.com/556)
 
-![Missed Connections](./random_comic.png)
+![Alternative Energy Revolution](./random_comic.png)
 
-The Street View van isn't going to find out anything Google won't already know from reading my email.
+The moment their arms spun freely in our air, they were doomed -- for Man has earned his right to hold this planet against all comers, by virtue of occasionally producing someone totally batshit insane.
 
