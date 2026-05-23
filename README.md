@@ -1,6 +1,6 @@
-[Alternative Energy Revolution](https://xkcd.com/556)
+[My Favorite Things](https://xkcd.com/2758)
 
-![Alternative Energy Revolution](./random_comic.png)
+![My Favorite Things](./random_comic.png)
 
-The moment their arms spun freely in our air, they were doomed -- for Man has earned his right to hold this planet against all comers, by virtue of occasionally producing someone totally batshit insane.
+When an Ur guy / sells Nanni things / but the copper's bad, / He simply records his complaint for all time / "I got a bad deal / I'm maaaaad"
 
