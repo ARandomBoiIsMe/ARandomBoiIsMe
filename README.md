@@ -1,6 +1,6 @@
-[Sphere Tastiness](https://xkcd.com/2893)
+[Episode VII](https://xkcd.com/1550)
 
-![Sphere Tastiness](./random_comic.png)
+![Episode VII](./random_comic.png)
 
-Baseballs do present a challenge to this theory, but I'm convinced we just haven't found the right seasoning.
+The Lord of the Rings sequel, set years after the Ring hubbub has died down, is just Samwise discreetly creeping back to Bag End to finish dropping the eaves.
 
