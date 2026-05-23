@@ -1,6 +1,6 @@
-[My Favorite Things](https://xkcd.com/2758)
+[Sphere Tastiness](https://xkcd.com/2893)
 
-![My Favorite Things](./random_comic.png)
+![Sphere Tastiness](./random_comic.png)
 
-When an Ur guy / sells Nanni things / but the copper's bad, / He simply records his complaint for all time / "I got a bad deal / I'm maaaaad"
+Baseballs do present a challenge to this theory, but I'm convinced we just haven't found the right seasoning.
 
