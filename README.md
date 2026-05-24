@@ -1,6 +1,6 @@
-[Episode VII](https://xkcd.com/1550)
+[FPS Mod](https://xkcd.com/873)
 
-![Episode VII](./random_comic.png)
+![FPS Mod](./random_comic.png)
 
-The Lord of the Rings sequel, set years after the Ring hubbub has died down, is just Samwise discreetly creeping back to Bag End to finish dropping the eaves.
+Wait, that second one is a woman?  ... wait, if that bothers me, then why doesn't ... man, this game is no fun anymore.
 
