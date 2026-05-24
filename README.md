@@ -1,6 +1,6 @@
-[Captain Picard Tea Order](https://xkcd.com/2570)
+[Tectonic Surfing](https://xkcd.com/2987)
 
-![Captain Picard Tea Order](./random_comic.png)
+![Tectonic Surfing](./random_comic.png)
 
-We can ask the Earl for his order once he's fully extruded from the dispenser.
+The worst is when you wipe out in the barrel and you're trapped for several million years until erosion frees you.
 
