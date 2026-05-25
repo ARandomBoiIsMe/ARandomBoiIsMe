@@ -1,6 +1,6 @@
-[Neutrino Modem](https://xkcd.com/3017)
+[Encoding](https://xkcd.com/1209)
 
-![Neutrino Modem](./random_comic.png)
+![Encoding](./random_comic.png)
 
-Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction.
+I don't see how; the C0 block is right there at the beginning.
 
