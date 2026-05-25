@@ -1,6 +1,6 @@
-[Shake That](https://xkcd.com/1261)
+[Neutrino Modem](https://xkcd.com/3017)
 
-![Shake That](./random_comic.png)
+![Neutrino Modem](./random_comic.png)
 
-How do I work it? IT'S ALREADY WORKING!
+Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction.
 
