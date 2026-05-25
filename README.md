@@ -1,6 +1,6 @@
-[Proterozoic Rocks](https://xkcd.com/3008)
+[Question Mark](https://xkcd.com/3143)
 
-![Proterozoic Rocks](./random_comic.png)
+![Question Mark](./random_comic.png)
 
-These rocks are from a time before eyes, brains, and bones, pieces of a land warmed by an unseen sun.
+Although now people will realize three-per-em space that all this time I've been using weird medium mathematical space whitespace characters in my hair space hair space hair space speech dot dot dot...
 
