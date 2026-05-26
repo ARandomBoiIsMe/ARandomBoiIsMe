@@ -1,6 +1,6 @@
-[Everything](https://xkcd.com/968)
+[Lakes and Oceans](https://xkcd.com/1040)
 
-![Everything](./random_comic.png)
+![Lakes and Oceans](./random_comic.png)
 
-I wanna hold your hand so I don't fall out of your gyrocopter.
+James Cameron has said that he didn't know its song would be so beautiful. He didn't close the door in time. He's sorry.
 
