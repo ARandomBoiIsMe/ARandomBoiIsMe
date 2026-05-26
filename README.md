@@ -1,6 +1,6 @@
-[Lakes and Oceans](https://xkcd.com/1040)
+[Types of Eclipse Photo](https://xkcd.com/2917)
 
-![Lakes and Oceans](./random_comic.png)
+![Types of Eclipse Photo](./random_comic.png)
 
-James Cameron has said that he didn't know its song would be so beautiful. He didn't close the door in time. He's sorry.
+The most rare, top-tier eclipse photo would be the Solar Earth Eclipse, but the Apollo 12 crew's attempt to capture it was marred by camera shake. They said it looked spectacular, though.
 
