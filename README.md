@@ -1,6 +1,6 @@
-[Types of Eclipse Photo](https://xkcd.com/2917)
+[Screws](https://xkcd.com/1474)
 
-![Types of Eclipse Photo](./random_comic.png)
+![Screws](./random_comic.png)
 
-The most rare, top-tier eclipse photo would be the Solar Earth Eclipse, but the Apollo 12 crew's attempt to capture it was marred by camera shake. They said it looked spectacular, though.
+If you encounter a hex bolt, but you only brought screwdrivers, you can try sandwiching the head of the bolt between two parallel screwdriver shafts, squeezing the screwdrivers together with a hand at either end, then twisting. It doesn't work and it's a great way to hurt yourself, but you can try it!
 
