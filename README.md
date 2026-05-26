@@ -1,6 +1,6 @@
-[Encoding](https://xkcd.com/1209)
+[Everything](https://xkcd.com/968)
 
-![Encoding](./random_comic.png)
+![Everything](./random_comic.png)
 
-I don't see how; the C0 block is right there at the beginning.
+I wanna hold your hand so I don't fall out of your gyrocopter.
 
