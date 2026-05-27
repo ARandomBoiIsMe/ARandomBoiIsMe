@@ -1,6 +1,6 @@
-[Disaster Voyeurism](https://xkcd.com/611)
+[Future Archaeology](https://xkcd.com/1748)
 
-![Disaster Voyeurism](./random_comic.png)
+![Future Archaeology](./random_comic.png)
 
-Hurricane forums are full of excited comments about central pressure and wind speed and comparisons to Camille and 1931 and 1938, with hastily-tacked-on notes about how it will be tragic if anyone dies and they hope it's a dud.
+"The only link we've found between the two documents is that a fragment of the Noah one mentions Aaron's brother Moses parting an ocean. Is that right?" "... yes. Yes, exactly."
 
