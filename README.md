@@ -1,6 +1,6 @@
-[Odyssey](https://xkcd.com/2837)
+[T-Cells](https://xkcd.com/938)
 
-![Odyssey](./random_comic.png)
+![T-Cells](./random_comic.png)
 
-Ugh, it says they attempted delivery but "Nobody was home."
+'We're not sure how to wipe out the chimeral T-cells after they've destroyed the cancer. Though I do have this vial of smallpox ...'
 
