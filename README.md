@@ -1,6 +1,6 @@
-[Screws](https://xkcd.com/1474)
+[Disaster Voyeurism](https://xkcd.com/611)
 
-![Screws](./random_comic.png)
+![Disaster Voyeurism](./random_comic.png)
 
-If you encounter a hex bolt, but you only brought screwdrivers, you can try sandwiching the head of the bolt between two parallel screwdriver shafts, squeezing the screwdrivers together with a hand at either end, then twisting. It doesn't work and it's a great way to hurt yourself, but you can try it!
+Hurricane forums are full of excited comments about central pressure and wind speed and comparisons to Camille and 1931 and 1938, with hastily-tacked-on notes about how it will be tragic if anyone dies and they hope it's a dud.
 
