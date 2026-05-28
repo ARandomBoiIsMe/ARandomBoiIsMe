@@ -1,6 +1,6 @@
-[The Universe by Scientific Field](https://xkcd.com/2640)
+[Hug Count](https://xkcd.com/2419)
 
-![The Universe by Scientific Field](./random_comic.png)
+![Hug Count](./random_comic.png)
 
-The math and philosophy people also claim everything, but the astronomers argue that the stuff they study really only comprises a small number of paper surfaces.
+I've never been that big of a hug person, but it turns out I'm not quite this small of a hug person either.
 
