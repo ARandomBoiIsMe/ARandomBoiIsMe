@@ -1,6 +1,6 @@
-[Hug Count](https://xkcd.com/2419)
+[1000 Comics](https://xkcd.com/1000)
 
-![Hug Count](./random_comic.png)
+![1000 Comics](./random_comic.png)
 
-I've never been that big of a hug person, but it turns out I'm not quite this small of a hug person either.
+Thank you for making me feel less alone.
 
