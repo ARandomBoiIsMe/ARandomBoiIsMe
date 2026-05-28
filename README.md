@@ -1,6 +1,6 @@
-[T-Cells](https://xkcd.com/938)
+[The Universe by Scientific Field](https://xkcd.com/2640)
 
-![T-Cells](./random_comic.png)
+![The Universe by Scientific Field](./random_comic.png)
 
-'We're not sure how to wipe out the chimeral T-cells after they've destroyed the cancer. Though I do have this vial of smallpox ...'
+The math and philosophy people also claim everything, but the astronomers argue that the stuff they study really only comprises a small number of paper surfaces.
 
