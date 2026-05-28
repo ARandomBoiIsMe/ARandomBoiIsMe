@@ -1,6 +1,6 @@
-[1000 Comics](https://xkcd.com/1000)
+[Dirty Harry](https://xkcd.com/692)
 
-![1000 Comics](./random_comic.png)
+![Dirty Harry](./random_comic.png)
 
-Thank you for making me feel less alone.
+Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.
 
