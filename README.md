@@ -1,6 +1,6 @@
-[Desecration](https://xkcd.com/782)
+[The Sea](https://xkcd.com/450)
 
-![Desecration](./random_comic.png)
+![The Sea](./random_comic.png)
 
-It gets worse! You know that wizened old monk with the gypsy wife whose voodoo shop we smash up every day after school?
+And then a second one, to drain the sea.
 
