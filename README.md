@@ -1,6 +1,6 @@
-[Dirty Harry](https://xkcd.com/692)
+[Sad](https://xkcd.com/1790)
 
-![Dirty Harry](./random_comic.png)
+![Sad](./random_comic.png)
 
-Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.
+With the right 90-degree rotation, any effect is a side effect.
 
