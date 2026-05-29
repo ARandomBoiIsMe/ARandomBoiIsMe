@@ -1,6 +1,6 @@
-[Sad](https://xkcd.com/1790)
+[Desecration](https://xkcd.com/782)
 
-![Sad](./random_comic.png)
+![Desecration](./random_comic.png)
 
-With the right 90-degree rotation, any effect is a side effect.
+It gets worse! You know that wizened old monk with the gypsy wife whose voodoo shop we smash up every day after school?
 
