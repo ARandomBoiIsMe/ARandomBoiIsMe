@@ -1,6 +1,6 @@
-[Stranded](https://xkcd.com/2978)
+[Pluto](https://xkcd.com/1551)
 
-![Stranded](./random_comic.png)
+![Pluto](./random_comic.png)
 
-At least they're not alone down there.
+After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."
 
