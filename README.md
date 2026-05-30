@@ -1,6 +1,6 @@
-[Pluto](https://xkcd.com/1551)
+[Optimization](https://xkcd.com/1691)
 
-![Pluto](./random_comic.png)
+![Optimization](./random_comic.png)
 
-After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."
+Premature optimization is the root of all evil, so to start this project I'd better come up with a system that can determine whether a possible optimization is premature or not.
 
