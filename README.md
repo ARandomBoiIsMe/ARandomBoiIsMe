@@ -1,6 +1,6 @@
-[Barrel - Part 5](https://xkcd.com/31)
+[Highlighting](https://xkcd.com/1271)
 
-![Barrel - Part 5](./random_comic.png)
+![Highlighting](./random_comic.png)
 
-Too good not to happen.
+And if clicking on any word pops up a site-search for articles about that word, I will close all windows in a panic and never come back.
 
