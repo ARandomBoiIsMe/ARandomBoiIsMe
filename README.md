@@ -1,6 +1,6 @@
-[Voyager 1](https://xkcd.com/1189)
+[Barrel - Part 5](https://xkcd.com/31)
 
-![Voyager 1](./random_comic.png)
+![Barrel - Part 5](./random_comic.png)
 
-So far Voyager 1 has 'left the Solar System' by passing through the termination shock three times, the heliopause twice, and once each through the heliosheath, heliosphere, heliodrome, auroral discontinuity, Heaviside layer, trans-Neptunian panic zone, magnetogap, US Census Bureau Solar System statistical boundary, Kuiper gauntlet, Oort void, and crystal sphere holding the fixed stars.
+Too good not to happen.
 
