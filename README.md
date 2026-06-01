@@ -1,6 +1,6 @@
-[Listen to Yourself](https://xkcd.com/481)
+[Pwned](https://xkcd.com/91)
 
-![Listen to Yourself](./random_comic.png)
+![Pwned](./random_comic.png)
 
-Man, I just wanted to know how babby was formed.
+I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
 
