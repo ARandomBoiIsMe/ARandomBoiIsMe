@@ -1,6 +1,6 @@
-[Highlighting](https://xkcd.com/1271)
+[Listen to Yourself](https://xkcd.com/481)
 
-![Highlighting](./random_comic.png)
+![Listen to Yourself](./random_comic.png)
 
-And if clicking on any word pops up a site-search for articles about that word, I will close all windows in a panic and never come back.
+Man, I just wanted to know how babby was formed.
 
