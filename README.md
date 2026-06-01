@@ -1,6 +1,6 @@
-[Actuarial](https://xkcd.com/493)
+[Self-Isolate](https://xkcd.com/2276)
 
-![Actuarial](./random_comic.png)
+![Self-Isolate](./random_comic.png)
 
-I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside.  Hat guy wins again.
+Turns out I've been "practicing social distancing" for years without even realizing it was a thing!
 
