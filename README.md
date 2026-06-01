@@ -1,6 +1,6 @@
-[Pwned](https://xkcd.com/91)
+[Actuarial](https://xkcd.com/493)
 
-![Pwned](./random_comic.png)
+![Actuarial](./random_comic.png)
 
-I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
+I started to do the tables for more famous people but it got really depressing and morbid and I had to go outside.  Hat guy wins again.
 
