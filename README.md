@@ -1,6 +1,6 @@
-[Self-Isolate](https://xkcd.com/2276)
+[EPIRBs](https://xkcd.com/3169)
 
-![Self-Isolate](./random_comic.png)
+![EPIRBs](./random_comic.png)
 
-Turns out I've been "practicing social distancing" for years without even realizing it was a thing!
+'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'
 
