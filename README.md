@@ -1,6 +1,6 @@
-[Wonder Woman 1984](https://xkcd.com/2396)
+[Delivery](https://xkcd.com/431)
 
-![Wonder Woman 1984](./random_comic.png)
+![Delivery](./random_comic.png)
 
-'Wait, why would you think a movie set in 1984 would do drive-ins as a retro promotion?' 'You know, 80s stuff. Drive-in movies. Britney Spears doing the hustle. Elvis going on Ed Sullivan and showing off his pog collection.' 'What year were you born, again?'
+Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery!  Ha ha, get it?  Oh God, don't throw those syringes!  Your baby's fine!
 
