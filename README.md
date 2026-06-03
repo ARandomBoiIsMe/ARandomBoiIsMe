@@ -1,6 +1,6 @@
-[Delivery](https://xkcd.com/431)
+[Starwatching](https://xkcd.com/428)
 
-![Delivery](./random_comic.png)
+![Starwatching](./random_comic.png)
 
-Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery!  Ha ha, get it?  Oh God, don't throw those syringes!  Your baby's fine!
+I always figured the word 'blog' would sound *less* silly as the years went by.
 
