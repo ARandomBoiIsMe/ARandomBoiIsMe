@@ -1,6 +1,6 @@
-[Archaeology Research](https://xkcd.com/3129)
+[Jet Lag](https://xkcd.com/1900)
 
-![Archaeology Research](./random_comic.png)
+![Jet Lag](./random_comic.png)
 
-The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.
+I had some important research to do on proposed interstellar space missions, basketball statistics, canceled skyscrapers, and every article linked from "Women in warfare and the military in the 19th century."
 
