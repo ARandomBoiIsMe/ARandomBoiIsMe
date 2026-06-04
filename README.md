@@ -1,6 +1,6 @@
-[Jet Lag](https://xkcd.com/1900)
+[App](https://xkcd.com/1174)
 
-![Jet Lag](./random_comic.png)
+![App](./random_comic.png)
 
-I had some important research to do on proposed interstellar space missions, basketball statistics, canceled skyscrapers, and every article linked from "Women in warfare and the military in the 19th century."
+If I click 'no', I've probably given up on everything, so don't bother taking me to the page I was trying to go to. Just drop me on the homepage. Thanks.
 
