@@ -1,6 +1,6 @@
-[Far Away](https://xkcd.com/352)
+[Archaeology Research](https://xkcd.com/3129)
 
-![Far Away](./random_comic.png)
+![Archaeology Research](./random_comic.png)
 
-Sometimes an impulsive 2:00 AM cross-country trip is the only solution.
+The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.
 
