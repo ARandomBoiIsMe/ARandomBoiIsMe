@@ -1,6 +1,6 @@
-[App](https://xkcd.com/1174)
+[Emoji Movie](https://xkcd.com/1857)
 
-![App](./random_comic.png)
+![Emoji Movie](./random_comic.png)
 
-If I click 'no', I've probably given up on everything, so don't bother taking me to the page I was trying to go to. Just drop me on the homepage. Thanks.
+Some other studio should do the Antz/A Bug's Life thing and release The Dingbats Movie at the same time.
 
