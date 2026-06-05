@@ -1,6 +1,6 @@
-[dPain over dt](https://xkcd.com/128)
+[Laser Products](https://xkcd.com/1681)
 
-![dPain over dt](./random_comic.png)
+![Laser Products](./random_comic.png)
 
-You laugh to keep from crying, you do math to keep from crying . . .
+ERRORS: HAIR JAM. COLOR-SAFE CONDITIONER CARTRIDGE RUNNING LOW. LEGAL-SIZE HAIR TRAY EMPTY, USING LETTER-SIZE HAIR ONLY.
 
