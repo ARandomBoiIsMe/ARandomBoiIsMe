@@ -1,6 +1,6 @@
-[Laser Products](https://xkcd.com/1681)
+[Purity](https://xkcd.com/435)
 
-![Laser Products](./random_comic.png)
+![Purity](./random_comic.png)
 
-ERRORS: HAIR JAM. COLOR-SAFE CONDITIONER CARTRIDGE RUNNING LOW. LEGAL-SIZE HAIR TRAY EMPTY, USING LETTER-SIZE HAIR ONLY.
+On the other hand, physicists like to say physics is to math as sex is to masturbation.
 
