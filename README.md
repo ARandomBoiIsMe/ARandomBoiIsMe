@@ -1,6 +1,6 @@
-[A-Minus-Minus](https://xkcd.com/325)
+[dPain over dt](https://xkcd.com/128)
 
-![A-Minus-Minus](./random_comic.png)
+![dPain over dt](./random_comic.png)
 
-You can do this one in every 30 times and still have 97% positive feedback.
+You laugh to keep from crying, you do math to keep from crying . . .
 
