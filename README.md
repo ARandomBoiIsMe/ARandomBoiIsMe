@@ -1,6 +1,6 @@
-[Emoji Movie](https://xkcd.com/1857)
+[A-Minus-Minus](https://xkcd.com/325)
 
-![Emoji Movie](./random_comic.png)
+![A-Minus-Minus](./random_comic.png)
 
-Some other studio should do the Antz/A Bug's Life thing and release The Dingbats Movie at the same time.
+You can do this one in every 30 times and still have 97% positive feedback.
 
