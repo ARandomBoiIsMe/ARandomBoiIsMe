@@ -1,6 +1,6 @@
-[Purity](https://xkcd.com/435)
+[Abstract Pickup](https://xkcd.com/2824)
 
-![Purity](./random_comic.png)
+![Abstract Pickup](./random_comic.png)
 
-On the other hand, physicists like to say physics is to math as sex is to masturbation.
+Escape Artist Frees Self From Conversation With Pickup Artist
 
