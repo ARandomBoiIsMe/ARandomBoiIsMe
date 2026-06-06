@@ -1,6 +1,6 @@
-[Canon](https://xkcd.com/3123)
+[NASA Press Conference](https://xkcd.com/1583)
 
-![Canon](./random_comic.png)
+![NASA Press Conference](./random_comic.png)
 
-Achilles was a mighty warrior, but his Achilles' heel was his heel.
+Why are we spending billions to ruin Mars with swarms of robots when Elon Musk has promised to ruin Mars for a FRACTION of the cost?
 
