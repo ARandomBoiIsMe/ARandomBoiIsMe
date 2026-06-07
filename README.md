@@ -1,6 +1,6 @@
-[NASA Press Conference](https://xkcd.com/1583)
+[Masks](https://xkcd.com/2367)
 
-![NASA Press Conference](./random_comic.png)
+![Masks](./random_comic.png)
 
-Why are we spending billions to ruin Mars with swarms of robots when Elon Musk has promised to ruin Mars for a FRACTION of the cost?
+Haunted Halloween masks from a mysterious costume shop that turn you evil and grow into your skin score a surprisingly high 80% filtration efficiency in R. L. Stine-sponsored NIOSH tests.
 
