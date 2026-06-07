@@ -1,6 +1,6 @@
-[Super Bowl Watch Party](https://xkcd.com/1951)
+[Europa Missions](https://xkcd.com/3234)
 
-![Super Bowl Watch Party](./random_comic.png)
+![Europa Missions](./random_comic.png)
 
-It's going to be weird near the end of May when the screen goes blank for over 18 hours.
+Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.
 
