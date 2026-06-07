@@ -1,6 +1,6 @@
-[Masks](https://xkcd.com/2367)
+[Super Bowl Watch Party](https://xkcd.com/1951)
 
-![Masks](./random_comic.png)
+![Super Bowl Watch Party](./random_comic.png)
 
-Haunted Halloween masks from a mysterious costume shop that turn you evil and grow into your skin score a surprisingly high 80% filtration efficiency in R. L. Stine-sponsored NIOSH tests.
+It's going to be weird near the end of May when the screen goes blank for over 18 hours.
 
