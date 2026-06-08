@@ -1,6 +1,6 @@
-[Tags](https://xkcd.com/1144)
+[Voting Referendum](https://xkcd.com/2225)
 
-![Tags](./random_comic.png)
+![Voting Referendum](./random_comic.png)
 
-<A>: Like </a>this.&nbsp;
+The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.
 
