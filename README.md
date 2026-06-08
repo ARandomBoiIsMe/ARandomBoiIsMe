@@ -1,6 +1,6 @@
-[Voting Referendum](https://xkcd.com/2225)
+[iNaturalist Animals and Plants](https://xkcd.com/3118)
 
-![Voting Referendum](./random_comic.png)
+![iNaturalist Animals and Plants](./random_comic.png)
 
-The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.
+Washington, DC: Eastern gray squirrel, Amur honeysuckle. Puerto Rico: Crested anole, sea grape. US as a whole: Mallard, eastern poison ivy.
 
