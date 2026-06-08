@@ -1,6 +1,6 @@
-[Launch Conditions](https://xkcd.com/2114)
+[Oxidation](https://xkcd.com/1693)
 
-![Launch Conditions](./random_comic.png)
+![Oxidation](./random_comic.png)
 
-Though I do think the tiny vent on one of the boosters labeled "O-RING" is in poor taste.
+Calm down--there were lots of arthropods living on your skin already. These ones are just bigger.
 
