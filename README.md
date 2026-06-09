@@ -1,6 +1,6 @@
-[Learning to Cook](https://xkcd.com/854)
+[So Bad It's Worse](https://xkcd.com/653)
 
-![Learning to Cook](./random_comic.png)
+![So Bad It's Worse](./random_comic.png)
 
-And yet I never stop thinking, 'sure, these ingredients cost more than a restaurant meal, but think how many meals I'll get out of them! Especially since each one will have leftovers!'
+You think it's so legendarily bad that you'll torrent it and sit through it just for the kitschy nerd cred. I, too, once thought as you did.
 
