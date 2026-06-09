@@ -1,6 +1,6 @@
-[Fucking Blue Shells](https://xkcd.com/290)
+[Learning to Cook](https://xkcd.com/854)
 
-![Fucking Blue Shells](./random_comic.png)
+![Learning to Cook](./random_comic.png)
 
-You can evade blue shells in Double Dash, but it is deep magic.
+And yet I never stop thinking, 'sure, these ingredients cost more than a restaurant meal, but think how many meals I'll get out of them! Especially since each one will have leftovers!'
 
