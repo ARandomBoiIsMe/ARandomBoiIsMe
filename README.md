@@ -1,6 +1,6 @@
-[Oxidation](https://xkcd.com/1693)
+[Fatal Crash Rate](https://xkcd.com/1993)
 
-![Oxidation](./random_comic.png)
+![Fatal Crash Rate](./random_comic.png)
 
-Calm down--there were lots of arthropods living on your skin already. These ones are just bigger.
+Fixating on this seems unhealty. But in general, the more likely I think a crash is, the less likely one becomes, which is a strange kind of reverse placebo effect.
 
