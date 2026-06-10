@@ -1,6 +1,6 @@
-[So Bad It's Worse](https://xkcd.com/653)
+[Bell's Theorem](https://xkcd.com/1591)
 
-![So Bad It's Worse](./random_comic.png)
+![Bell's Theorem](./random_comic.png)
 
-You think it's so legendarily bad that you'll torrent it and sit through it just for the kitschy nerd cred. I, too, once thought as you did.
+The no-communication theorem states that no communication about the no-communication theorem can clear up the misunderstanding quickly enough to allow faster-than-light signaling.
 
