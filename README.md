@@ -1,6 +1,6 @@
-[Old Files](https://xkcd.com/1360)
+[November 2016](https://xkcd.com/1757)
 
-![Old Files](./random_comic.png)
+![November 2016](./random_comic.png)
 
-Wow, ANIMORPHS-NOVEL.RTF? Just gonna, uh, go through and delete that from all my archives real quick.
+Once you've done this, make a note of how old they were. Then, when their age reaches double that, show them this chart again.
 
