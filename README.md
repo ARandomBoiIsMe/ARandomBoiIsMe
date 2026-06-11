@@ -1,6 +1,6 @@
-[Hot Dogs](https://xkcd.com/1641)
+[Hand Sanitizer](https://xkcd.com/1161)
 
-![Hot Dogs](./random_comic.png)
+![Hand Sanitizer](./random_comic.png)
 
-Okay, I'm just gonna order pizza, and let's never talk about this again.
+Hipster CDC Reports Flu Epidemic Peaked Years Ago
 
