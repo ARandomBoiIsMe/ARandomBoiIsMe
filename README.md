@@ -1,6 +1,6 @@
-[Hand Sanitizer](https://xkcd.com/1161)
+[Telescopes: Refractor vs Reflector](https://xkcd.com/1791)
 
-![Hand Sanitizer](./random_comic.png)
+![Telescopes: Refractor vs Reflector](./random_comic.png)
 
-Hipster CDC Reports Flu Epidemic Peaked Years Ago
+On the other hand, the refractor's limited light-gathering means it's unable to make out shadow people or the dark god Chernabog.
 
