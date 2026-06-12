@@ -1,6 +1,6 @@
-[Dear Diary](https://xkcd.com/1777)
+[SawStart](https://xkcd.com/3067)
 
-![Dear Diary](./random_comic.png)
+![SawStart](./random_comic.png)
 
-Dear Diary: UNSUBSCRIBE
+Unfortunately, SawStart is one-use-only. Once started, the blade cannot be stopped, and must be replaced with a fresh blade while the running one is carefully disposed of.
 
