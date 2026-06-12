@@ -1,6 +1,6 @@
-[Telescopes: Refractor vs Reflector](https://xkcd.com/1791)
+[Square Packing](https://xkcd.com/2740)
 
-![Telescopes: Refractor vs Reflector](./random_comic.png)
+![Square Packing](./random_comic.png)
 
-On the other hand, the refractor's limited light-gathering means it's unable to make out shadow people or the dark god Chernabog.
+I also managed to improve the solution for n=1 to s<0.97, and with some upgrades I think I can hit 0.96.
 
