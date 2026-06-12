@@ -1,6 +1,6 @@
-[SawStart](https://xkcd.com/3067)
+[Real Estate](https://xkcd.com/1894)
 
-![SawStart](./random_comic.png)
+![Real Estate](./random_comic.png)
 
-Unfortunately, SawStart is one-use-only. Once started, the blade cannot be stopped, and must be replaced with a fresh blade while the running one is carefully disposed of.
+I tried converting the prices into pizzas, to put it in more familiar terms, and it just became a hard-to-think-about number of pizzas.
 
