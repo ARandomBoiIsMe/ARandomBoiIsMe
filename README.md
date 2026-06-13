@@ -1,6 +1,6 @@
-[Freedom](https://xkcd.com/706)
+[The Race: Part 1](https://xkcd.com/577)
 
-![Freedom](./random_comic.png)
+![The Race: Part 1](./random_comic.png)
 
-Sometimes I'm terrified to realize how many options other people have.
+Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.
 
