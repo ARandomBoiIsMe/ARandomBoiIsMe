@@ -1,6 +1,6 @@
-[The Race: Part 1](https://xkcd.com/577)
+[October 30th](https://xkcd.com/656)
 
-![The Race: Part 1](./random_comic.png)
+![October 30th](./random_comic.png)
 
-Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.
+Not enough houses on your block?  Just hit them at 30-year intervals from here to 2300 and get 10x the candy.
 
