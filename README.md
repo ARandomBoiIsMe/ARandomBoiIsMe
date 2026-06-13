@@ -1,6 +1,6 @@
-[October 30th](https://xkcd.com/656)
+[Fortune Cookies](https://xkcd.com/425)
 
-![October 30th](./random_comic.png)
+![Fortune Cookies](./random_comic.png)
 
-Not enough houses on your block?  Just hit them at 30-year intervals from here to 2300 and get 10x the candy.
+'You will have hot, steamy, sweaty sex ... IN BED!'
 
