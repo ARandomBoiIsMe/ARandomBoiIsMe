@@ -1,6 +1,6 @@
-[Mispronunciation](https://xkcd.com/1816)
+[Sickness](https://xkcd.com/836)
 
-![Mispronunciation](./random_comic.png)
+![Sickness](./random_comic.png)
 
-I pronounce epitome "EPPY-tome", but EpiPen "uh-PIE-pen".
+At least, with p<0.05 confidence.
 
