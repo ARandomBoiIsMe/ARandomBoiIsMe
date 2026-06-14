@@ -1,6 +1,6 @@
-[Sickness](https://xkcd.com/836)
+[26-Second Pulse](https://xkcd.com/2344)
 
-![Sickness](./random_comic.png)
+![26-Second Pulse](./random_comic.png)
 
-At least, with p<0.05 confidence.
+There are some papers arguing that there's a volcanic component, but I personally think they're just feeling guilty and trying to cover the trail.
 
