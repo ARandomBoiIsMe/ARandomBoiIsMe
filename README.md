@@ -1,6 +1,6 @@
-[Search History](https://xkcd.com/155)
+[Mispronunciation](https://xkcd.com/1816)
 
-![Search History](./random_comic.png)
+![Mispronunciation](./random_comic.png)
 
-SomethingAwful has a wonderful compilation of crazy AOL searches in their Weekend Web archives, 2006-08-13.
+I pronounce epitome "EPPY-tome", but EpiPen "uh-PIE-pen".
 
