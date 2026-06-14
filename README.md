@@ -1,6 +1,6 @@
-[Fortune Cookies](https://xkcd.com/425)
+[Search History](https://xkcd.com/155)
 
-![Fortune Cookies](./random_comic.png)
+![Search History](./random_comic.png)
 
-'You will have hot, steamy, sweaty sex ... IN BED!'
+SomethingAwful has a wonderful compilation of crazy AOL searches in their Weekend Web archives, 2006-08-13.
 
