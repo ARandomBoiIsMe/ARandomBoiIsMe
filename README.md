@@ -1,6 +1,6 @@
-[Cyberintelligence](https://xkcd.com/1573)
+[Zealous Autoconfig](https://xkcd.com/416)
 
-![Cyberintelligence](./random_comic.png)
+![Zealous Autoconfig](./random_comic.png)
 
-We had gathered that raw information, but had yet to put it all together.
+I hear this is an option in the latest Ubuntu release.
 
