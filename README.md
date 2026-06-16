@@ -1,6 +1,6 @@
-[Hatchery](https://xkcd.com/2958)
+[1337: Part 3](https://xkcd.com/343)
 
-![Hatchery](./random_comic.png)
+![1337: Part 3](./random_comic.png)
 
-Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables.
+I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.
 
