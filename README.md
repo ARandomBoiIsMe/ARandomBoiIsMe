@@ -1,6 +1,6 @@
-[1337: Part 3](https://xkcd.com/343)
+[Beautiful Dream](https://xkcd.com/800)
 
-![1337: Part 3](./random_comic.png)
+![Beautiful Dream](./random_comic.png)
 
-I once asked an NSA guy whether they'd broken RSA.  And I know I can trust him, because I asked if he was lying to me and he said no.
+Lucky. In MY dream, all the people who grew up loving The Giving Tree paired up with all the students who had weird dreams after reading The Metamorphosis. That one was more confusing.
 
