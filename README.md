@@ -1,6 +1,6 @@
-[Zealous Autoconfig](https://xkcd.com/416)
+[Simple Machines](https://xkcd.com/3239)
 
-![Zealous Autoconfig](./random_comic.png)
+![Simple Machines](./random_comic.png)
 
-I hear this is an option in the latest Ubuntu release.
+It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.
 
