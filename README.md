@@ -1,6 +1,6 @@
-[Simple Machines](https://xkcd.com/3239)
+[Hatchery](https://xkcd.com/2958)
 
-![Simple Machines](./random_comic.png)
+![Hatchery](./random_comic.png)
 
-It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.
+Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables.
 
