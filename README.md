@@ -1,6 +1,6 @@
-[Effect Size](https://xkcd.com/2755)
+[Hell](https://xkcd.com/724)
 
-![Effect Size](./random_comic.png)
+![Hell](./random_comic.png)
 
-Subgroup analysis is ongoing.
+There's also a Katamari level where everything is just slightly bigger than you, and a Mario level with a star just out of reach.
 
