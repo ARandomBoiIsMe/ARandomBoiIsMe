@@ -1,6 +1,6 @@
-[Hell](https://xkcd.com/724)
+[Edge Cake](https://xkcd.com/2549)
 
-![Hell](./random_comic.png)
+![Edge Cake](./random_comic.png)
 
-There's also a Katamari level where everything is just slightly bigger than you, and a Mario level with a star just out of reach.
+Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.
 
