@@ -1,6 +1,6 @@
-[Beautiful Dream](https://xkcd.com/800)
+[Effect Size](https://xkcd.com/2755)
 
-![Beautiful Dream](./random_comic.png)
+![Effect Size](./random_comic.png)
 
-Lucky. In MY dream, all the people who grew up loving The Giving Tree paired up with all the students who had weird dreams after reading The Metamorphosis. That one was more confusing.
+Subgroup analysis is ongoing.
 
