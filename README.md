@@ -1,6 +1,6 @@
-[Edge Cake](https://xkcd.com/2549)
+[Day Counter](https://xkcd.com/3228)
 
-![Edge Cake](./random_comic.png)
+![Day Counter](./random_comic.png)
 
-Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.
+It has been −2,147,483,648 days since our last integer overflow.
 
