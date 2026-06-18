@@ -1,6 +1,6 @@
-[Battery Life](https://xkcd.com/2680)
+[Dirty Harry](https://xkcd.com/692)
 
-![Battery Life](./random_comic.png)
+![Dirty Harry](./random_comic.png)
 
-It's okay, I'm at 10%, so I'm good for another month or two.
+Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.
 
