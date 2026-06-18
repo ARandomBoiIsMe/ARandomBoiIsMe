@@ -1,6 +1,6 @@
-[Dirty Harry](https://xkcd.com/692)
+[Bookstore](https://xkcd.com/294)
 
-![Dirty Harry](./random_comic.png)
+![Bookstore](./random_comic.png)
 
-Sci-fi has energy weapons because otherwise the people like me who watch it get distracted counting shots.
+You can search it if you want, but you may want to skip the memories of your mom.
 
