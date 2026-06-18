@@ -1,6 +1,6 @@
-[Bookstore](https://xkcd.com/294)
+[Hand Dryers](https://xkcd.com/2743)
 
-![Bookstore](./random_comic.png)
+![Hand Dryers](./random_comic.png)
 
-You can search it if you want, but you may want to skip the memories of your mom.
+I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.
 
