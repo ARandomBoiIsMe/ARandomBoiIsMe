@@ -1,6 +1,6 @@
-[Hand Dryers](https://xkcd.com/2743)
+[Morning](https://xkcd.com/395)
 
-![Hand Dryers](./random_comic.png)
+![Morning](./random_comic.png)
 
-I know hand dryers have their problems, but I think for fun we should keep egging Dyson on and see if we can get them to make one where the airflow breaks the speed of sound.
+I'd press on them to try to unstick them, but I can't reach.  Can we try cycling day and night really fast?
 
