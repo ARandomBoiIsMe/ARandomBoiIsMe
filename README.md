@@ -1,6 +1,6 @@
-[Suggestions](https://xkcd.com/672)
+[Health Stats](https://xkcd.com/2581)
 
-![Suggestions](./random_comic.png)
+![Health Stats](./random_comic.png)
 
-An hour later: SUGGESTION: LICK HER NIPPLE MORE.
+You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze.
 
