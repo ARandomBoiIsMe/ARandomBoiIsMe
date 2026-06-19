@@ -1,6 +1,6 @@
-[Semicontrolled Demolition](https://xkcd.com/690)
+[Suggestions](https://xkcd.com/672)
 
-![Semicontrolled Demolition](./random_comic.png)
+![Suggestions](./random_comic.png)
 
-I believe the truth always lies halfway between the most extreme claims.
+An hour later: SUGGESTION: LICK HER NIPPLE MORE.
 
