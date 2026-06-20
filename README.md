@@ -1,6 +1,6 @@
-[Right Click](https://xkcd.com/1975)
+[Flow Charts](https://xkcd.com/518)
 
-![Right Click](./random_comic.png)
+![Flow Charts](./random_comic.png)
 
-Right-click or long press (where supported) to save!
+At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!
 
