@@ -1,6 +1,6 @@
-[Health Stats](https://xkcd.com/2581)
+[Voice](https://xkcd.com/1541)
 
-![Health Stats](./random_comic.png)
+![Voice](./random_comic.png)
 
-You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze.
+Anyway, we should totally go watch a video story or put some food in our normal mouths!
 
