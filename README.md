@@ -1,6 +1,6 @@
-[Flow Charts](https://xkcd.com/518)
+[MTV Generation](https://xkcd.com/973)
 
-![Flow Charts](./random_comic.png)
+![MTV Generation](./random_comic.png)
 
-At 8 drinks, you switch the torrent from FreeBSD to Microsoft Bob.  C'mon, it'll be fun!
+If you identified with the kids from The Breakfast Club when it came out, you're now much closer to the age of Principal Vernon.
 
