@@ -1,6 +1,6 @@
-[Alive or Not](https://xkcd.com/2307)
+[Screenshot](https://xkcd.com/1373)
 
-![Alive or Not](./random_comic.png)
+![Screenshot](./random_comic.png)
 
-Computer viruses currently fall somewhere between prions and fire.
+I'M PLUGGING IN MY PHONE BUT THE BATTERY ON THE SCREEN ISN'T CHARGING
 
