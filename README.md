@@ -1,6 +1,6 @@
-[Skateboard](https://xkcd.com/3152)
+[Heart-Stopping Texts](https://xkcd.com/2544)
 
-![Skateboard](./random_comic.png)
+![Heart-Stopping Texts](./random_comic.png)
 
-I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks.
+Was this your car? [looping 'image loading' animation]
 
