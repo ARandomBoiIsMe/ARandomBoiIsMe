@@ -1,6 +1,6 @@
-[2009 Called](https://xkcd.com/875)
+[Core](https://xkcd.com/913)
 
-![2009 Called](./random_comic.png)
+![Core](./random_comic.png)
 
-2017 called, but I couldn't understand what they were saying over all the screams.
+If you're a geologist or geophysicist and you don't introduce yourself by saying your name, then gesturing downward and saying "... and I study that", I don't know what you're doing with your life.
 
