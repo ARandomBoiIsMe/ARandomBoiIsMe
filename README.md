@@ -1,6 +1,6 @@
-[Core](https://xkcd.com/913)
+[Impostor Syndrome](https://xkcd.com/1954)
 
-![Core](./random_comic.png)
+![Impostor Syndrome](./random_comic.png)
 
-If you're a geologist or geophysicist and you don't introduce yourself by saying your name, then gesturing downward and saying "... and I study that", I don't know what you're doing with your life.
+It's actually worst in people who study the Dunning–Kruger effect. We tried to organize a conference on it, but the only people who would agree to give the keynote were random undergrads.
 
