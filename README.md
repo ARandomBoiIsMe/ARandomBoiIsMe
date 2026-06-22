@@ -1,6 +1,6 @@
-[Impostor Syndrome](https://xkcd.com/1954)
+[The Important Field](https://xkcd.com/970)
 
-![Impostor Syndrome](./random_comic.png)
+![The Important Field](./random_comic.png)
 
-It's actually worst in people who study the Dunning–Kruger effect. We tried to organize a conference on it, but the only people who would agree to give the keynote were random undergrads.
+I hear in some places, you need one form of ID to buy a gun, but two to pay for it by check. It's interesting who has what incentives to care about what mistakes.
 
