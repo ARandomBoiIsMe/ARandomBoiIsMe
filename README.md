@@ -1,6 +1,6 @@
-[Trebuchet](https://xkcd.com/382)
+[Conditioning](https://xkcd.com/1156)
 
-![Trebuchet](./random_comic.png)
+![Conditioning](./random_comic.png)
 
-It was also fun when those teenagers tried to egg our house and it insta-cooked the eggs in mid-air.
+'Why are you standing in the yard wearing a papal hat and a robe covered in seeds?' 'Well, the Pope is visiting our town next month ...'
 
