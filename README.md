@@ -1,6 +1,6 @@
-[The Important Field](https://xkcd.com/970)
+[Spore](https://xkcd.com/480)
 
-![The Important Field](./random_comic.png)
+![Spore](./random_comic.png)
 
-I hear in some places, you need one form of ID to buy a gun, but two to pay for it by check. It's interesting who has what incentives to care about what mistakes.
+Way to not support the GMA 950 under OS X, Spore.  :(
 
