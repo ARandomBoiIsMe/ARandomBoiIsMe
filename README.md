@@ -1,6 +1,6 @@
-[Spore](https://xkcd.com/480)
+[Stove Ownership](https://xkcd.com/418)
 
-![Spore](./random_comic.png)
+![Stove Ownership](./random_comic.png)
 
-Way to not support the GMA 950 under OS X, Spore.  :(
+Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.
 
