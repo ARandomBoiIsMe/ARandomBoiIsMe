@@ -1,6 +1,6 @@
-[Stove Ownership](https://xkcd.com/418)
+[Trebuchet](https://xkcd.com/382)
 
-![Stove Ownership](./random_comic.png)
+![Trebuchet](./random_comic.png)
 
-Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.
+It was also fun when those teenagers tried to egg our house and it insta-cooked the eggs in mid-air.
 
