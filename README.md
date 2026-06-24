@@ -1,6 +1,6 @@
-[Autumn and Fall](https://xkcd.com/2825)
+[Background Apps](https://xkcd.com/1965)
 
-![Autumn and Fall](./random_comic.png)
+![Background Apps](./random_comic.png)
 
-Of course in reality this is just a US/UK thing; in British English, 'fall' is the brief period in between and 'autumn' is the main season.
+My plane banner company gets business by flying around with a banner showing a <div> tag, waiting for a web developer to get frustrated enough to order a matching </div>.
 
