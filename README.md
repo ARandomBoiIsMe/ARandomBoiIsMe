@@ -1,6 +1,6 @@
-[Background Apps](https://xkcd.com/1965)
+[Frankenstein](https://xkcd.com/1589)
 
-![Background Apps](./random_comic.png)
+![Frankenstein](./random_comic.png)
 
-My plane banner company gets business by flying around with a banner showing a <div> tag, waiting for a web developer to get frustrated enough to order a matching </div>.
+"Wait, so in this version is Frankenstein also the doctor's name?" "No, he's just 'The Doctor'."
 
