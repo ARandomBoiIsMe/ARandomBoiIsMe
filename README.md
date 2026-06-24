@@ -1,6 +1,6 @@
-[Conditioning](https://xkcd.com/1156)
+[I Just Don't Trust Them](https://xkcd.com/2397)
 
-![Conditioning](./random_comic.png)
+![I Just Don't Trust Them](./random_comic.png)
 
-'Why are you standing in the yard wearing a papal hat and a robe covered in seeds?' 'Well, the Pope is visiting our town next month ...'
+I believe in getting immunity the old-fashioned way: By letting a bat virus take control of my lungs and turn my face into a disgusting plague fountain while my immune system desperately Googles 'how to make spike protein antibodies'.
 
