@@ -1,6 +1,6 @@
-[I Just Don't Trust Them](https://xkcd.com/2397)
+[Autumn and Fall](https://xkcd.com/2825)
 
-![I Just Don't Trust Them](./random_comic.png)
+![Autumn and Fall](./random_comic.png)
 
-I believe in getting immunity the old-fashioned way: By letting a bat virus take control of my lungs and turn my face into a disgusting plague fountain while my immune system desperately Googles 'how to make spike protein antibodies'.
+Of course in reality this is just a US/UK thing; in British English, 'fall' is the brief period in between and 'autumn' is the main season.
 
