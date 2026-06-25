@@ -1,6 +1,6 @@
-[Marsiforming](https://xkcd.com/2095)
+[Infrastructures](https://xkcd.com/743)
 
-![Marsiforming](./random_comic.png)
+![Infrastructures](./random_comic.png)
 
-It has so many advantages--it preserves Martian life, requires fewer interplanetary launches, and makes it much easier to field-test Mars rovers.
+The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.
 
