@@ -1,6 +1,6 @@
-[Anti-Glass](https://xkcd.com/1251)
+[Geeks and Nerds](https://xkcd.com/747)
 
-![Anti-Glass](./random_comic.png)
+![Geeks and Nerds](./random_comic.png)
 
-'Why don't you just point it at their eye directly?' 'What is this, 2007?'
+The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.
 
