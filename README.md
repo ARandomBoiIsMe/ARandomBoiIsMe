@@ -1,6 +1,6 @@
-[Geeks and Nerds](https://xkcd.com/747)
+[Marsiforming](https://xkcd.com/2095)
 
-![Geeks and Nerds](./random_comic.png)
+![Marsiforming](./random_comic.png)
 
-The definitions I grew up with were that a geek is someone unusually into something (so you could have computer geeks, baseball geeks, theater geeks, etc) and nerds are (often awkward) science, math, or computer geeks. But definitions vary.
+It has so many advantages--it preserves Martian life, requires fewer interplanetary launches, and makes it much easier to field-test Mars rovers.
 
