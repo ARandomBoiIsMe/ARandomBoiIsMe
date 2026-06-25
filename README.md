@@ -1,6 +1,6 @@
-[Frankenstein](https://xkcd.com/1589)
+[Anti-Glass](https://xkcd.com/1251)
 
-![Frankenstein](./random_comic.png)
+![Anti-Glass](./random_comic.png)
 
-"Wait, so in this version is Frankenstein also the doctor's name?" "No, he's just 'The Doctor'."
+'Why don't you just point it at their eye directly?' 'What is this, 2007?'
 
