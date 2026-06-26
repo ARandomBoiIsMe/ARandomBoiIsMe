@@ -1,6 +1,6 @@
-[Making Progress](https://xkcd.com/1906)
+[Seismologists](https://xkcd.com/3021)
 
-![Making Progress](./random_comic.png)
+![Seismologists](./random_comic.png)
 
-I started off with countless problems. But now I know, thanks to COUNT(), that I have "#REF! ERROR: Circular dependency detected" problems.
+And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'.
 
