@@ -1,6 +1,6 @@
-[Conversation](https://xkcd.com/1423)
+[Making Progress](https://xkcd.com/1906)
 
-![Conversation](./random_comic.png)
+![Making Progress](./random_comic.png)
 
-Later, at home: 'Dear diary: Still can't figure out what to write here ...'
+I started off with countless problems. But now I know, thanks to COUNT(), that I have "#REF! ERROR: Circular dependency detected" problems.
 
