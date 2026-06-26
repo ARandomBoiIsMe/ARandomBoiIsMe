@@ -1,6 +1,6 @@
-[Infrastructures](https://xkcd.com/743)
+[The True Meaning of Christmas](https://xkcd.com/1932)
 
-![Infrastructures](./random_comic.png)
+![The True Meaning of Christmas](./random_comic.png)
 
-The heartfelt tune it plays is CC licensed, and you can get it from my seed on JoinDiaspora.com whenever that project gets going.
+They all made fun of Autometalogolex, but someday there will be a problem with Christmas that can only be solved if Santa somehow gets a serious headache, and then they'll see.
 
