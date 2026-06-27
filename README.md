@@ -1,6 +1,6 @@
-[Seismologists](https://xkcd.com/3021)
+[The Cloud](https://xkcd.com/908)
 
-![Seismologists](./random_comic.png)
+![The Cloud](./random_comic.png)
 
-And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'.
+There's planned downtime every night when we turn on the Roomba and it runs over the cord.
 
