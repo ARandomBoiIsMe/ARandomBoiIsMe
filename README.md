@@ -1,6 +1,6 @@
-[Seven Years](https://xkcd.com/1928)
+[Wrong Superhero](https://xkcd.com/1012)
 
-![Seven Years](./random_comic.png)
+![Wrong Superhero](./random_comic.png)
 
-[hair in face] "SEVVVENNN YEEEARRRSSS"
+Hi! Someone call for me? I'm a superhero who specializes in the study of God's creation of Man in the Book of Genesi-- HOLY SHIT A GIANT BUG!
 
