@@ -1,6 +1,6 @@
-[The Cloud](https://xkcd.com/908)
+[Combination Vision Test](https://xkcd.com/1213)
 
-![The Cloud](./random_comic.png)
+![Combination Vision Test](./random_comic.png)
 
-There's planned downtime every night when we turn on the Roomba and it runs over the cord.
+If you see two numbers but they're both the same and you have to squint to read them, you have synesthesia, colorblindness, diplopia, and myopia.
 
