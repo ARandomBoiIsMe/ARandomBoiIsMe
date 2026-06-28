@@ -1,6 +1,6 @@
-[Dark Matter Candidates](https://xkcd.com/2035)
+[Expiration Date High Score](https://xkcd.com/2178)
 
-![Dark Matter Candidates](./random_comic.png)
+![Expiration Date High Score](./random_comic.png)
 
-My theory is that dark matter is actually just a thin patina of grime covering the whole universe, and we don't notice it because we haven't thoroughly cleaned the place in eons.
+"Wait, we've MOVED since 2010. How on Earth did--" "Look, some of us were just born to be champions."
 
