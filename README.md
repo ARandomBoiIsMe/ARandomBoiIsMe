@@ -1,6 +1,6 @@
-[Wrong Superhero](https://xkcd.com/1012)
+[Crossword Constructors](https://xkcd.com/2896)
 
-![Wrong Superhero](./random_comic.png)
+![Crossword Constructors](./random_comic.png)
 
-Hi! Someone call for me? I'm a superhero who specializes in the study of God's creation of Man in the Book of Genesi-- HOLY SHIT A GIANT BUG!
+Also, we would really appreciate it if you could prominently refer to it as an 'eHit'.
 
