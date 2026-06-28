@@ -1,6 +1,6 @@
-[Crossword Constructors](https://xkcd.com/2896)
+[Dark Matter Candidates](https://xkcd.com/2035)
 
-![Crossword Constructors](./random_comic.png)
+![Dark Matter Candidates](./random_comic.png)
 
-Also, we would really appreciate it if you could prominently refer to it as an 'eHit'.
+My theory is that dark matter is actually just a thin patina of grime covering the whole universe, and we don't notice it because we haven't thoroughly cleaned the place in eons.
 
