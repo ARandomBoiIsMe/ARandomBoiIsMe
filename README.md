@@ -1,6 +1,6 @@
-[Ringer Volume/Media Volume](https://xkcd.com/1884)
+[Moments of Inspiration](https://xkcd.com/1584)
 
-![Ringer Volume/Media Volume](./random_comic.png)
+![Moments of Inspiration](./random_comic.png)
 
-Our new video ad campaign has our product's name shouted in the first 500 milliseconds, so we can reach the people in adjacent rooms while the viewer is still turning down the volume.
+Charles, I just talked to John and Mildred, who run that company selling seeds and nuts, and their kids with MOUTHS are starving!
 
