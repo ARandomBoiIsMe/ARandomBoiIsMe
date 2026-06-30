@@ -1,6 +1,6 @@
-[Sticks and Stones](https://xkcd.com/1216)
+[Limerick](https://xkcd.com/301)
 
-![Sticks and Stones](./random_comic.png)
+![Limerick](./random_comic.png)
 
-Sticks and stones may break my bones, but words can make me think I deserved it.
+Fun game: try to post a YouTube comment so stupid that people realize you must be joking.  (Hint: this is impossible)
 
