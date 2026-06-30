@@ -1,6 +1,6 @@
-[Airplane Message](https://xkcd.com/1355)
+[dPain over dt](https://xkcd.com/128)
 
-![Airplane Message](./random_comic.png)
+![dPain over dt](./random_comic.png)
 
-PHARAOH IRY-HOR, FROM THE 3100s BC, IS THE FIRST HUMAN WHOSE NAME WE KNOW.
+You laugh to keep from crying, you do math to keep from crying . . .
 
