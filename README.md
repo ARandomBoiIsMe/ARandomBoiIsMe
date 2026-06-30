@@ -1,6 +1,6 @@
-[dPain over dt](https://xkcd.com/128)
+[Data Trap](https://xkcd.com/2582)
 
-![dPain over dt](./random_comic.png)
+![Data Trap](./random_comic.png)
 
-You laugh to keep from crying, you do math to keep from crying . . .
+It's important to make sure your analysis destroys as much information as it produces.
 
