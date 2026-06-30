@@ -1,6 +1,6 @@
-[Limerick](https://xkcd.com/301)
+[Airplane Message](https://xkcd.com/1355)
 
-![Limerick](./random_comic.png)
+![Airplane Message](./random_comic.png)
 
-Fun game: try to post a YouTube comment so stupid that people realize you must be joking.  (Hint: this is impossible)
+PHARAOH IRY-HOR, FROM THE 3100s BC, IS THE FIRST HUMAN WHOSE NAME WE KNOW.
 
