@@ -1,6 +1,6 @@
-[Data Trap](https://xkcd.com/2582)
+[Number Line Branch](https://xkcd.com/2956)
 
-![Data Trap](./random_comic.png)
+![Number Line Branch](./random_comic.png)
 
-It's important to make sure your analysis destroys as much information as it produces.
+Attention all passengers: This is an express sequence to infinity. If your stop is not a power of two, please disembark now.
 
