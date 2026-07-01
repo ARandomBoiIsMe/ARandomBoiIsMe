@@ -1,6 +1,6 @@
-[Tornado](https://xkcd.com/1487)
+[The Data So Far](https://xkcd.com/373)
 
-![Tornado](./random_comic.png)
+![The Data So Far](./random_comic.png)
 
-Nearby, there were also no injuries when a multi-vortex tornado hit one of those spinning teacup rides.
+But THIS guy, he might be for real!
 
