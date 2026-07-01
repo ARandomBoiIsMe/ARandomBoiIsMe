@@ -1,6 +1,6 @@
-[Number Line Branch](https://xkcd.com/2956)
+[Fissile Raspberry Isotopes](https://xkcd.com/2504)
 
-![Number Line Branch](./random_comic.png)
+![Fissile Raspberry Isotopes](./random_comic.png)
 
-Attention all passengers: This is an express sequence to infinity. If your stop is not a power of two, please disembark now.
+Grandma's shelf-stable blackberry pie meson recipe was a huge seller until her farm was shut down by a joint FDA/NRC investigation.
 
