@@ -1,6 +1,6 @@
-[Book Podcasts](https://xkcd.com/2834)
+[Hell](https://xkcd.com/724)
 
-![Book Podcasts](./random_comic.png)
+![Hell](./random_comic.png)
 
-I've been working my way through this 1950s podcast by someone named John Tolkien called 'Lord of the Rings'--it's a deep dive into this fictional world he created. Good stuff, really bingeable!
+There's also a Katamari level where everything is just slightly bigger than you, and a Mario level with a star just out of reach.
 
