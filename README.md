@@ -1,6 +1,6 @@
-[Hell](https://xkcd.com/724)
+[Settled](https://xkcd.com/1235)
 
-![Hell](./random_comic.png)
+![Settled](./random_comic.png)
 
-There's also a Katamari level where everything is just slightly bigger than you, and a Mario level with a star just out of reach.
+Well, we've really only settled the question of ghosts that emit or reflect visible light. Or move objects around. Or make any kind of sound. But that covers all the ones that appear in Ghostbusters, so I think we're good.
 
