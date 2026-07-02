@@ -1,6 +1,6 @@
-[The Data So Far](https://xkcd.com/373)
+[Edgelord](https://xkcd.com/2036)
 
-![The Data So Far](./random_comic.png)
+![Edgelord](./random_comic.png)
 
-But THIS guy, he might be for real!
+If you study graphs in which edges can link more than two nodes, you're more properly called a hyperedgelord.
 
