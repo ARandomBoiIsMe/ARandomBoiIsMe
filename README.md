@@ -1,6 +1,6 @@
-[Predictive Models](https://xkcd.com/2169)
+[Wanna See the Code?](https://xkcd.com/2138)
 
-![Predictive Models](./random_comic.png)
+![Wanna See the Code?](./random_comic.png)
 
-WE WILL ARREST THE REVOLUTION MEMBERS [AT THE JULY 28TH MEETING][tab] "Cancel the meeting! Our cover is blown."
+And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.
 
