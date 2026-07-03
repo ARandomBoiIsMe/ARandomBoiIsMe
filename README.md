@@ -1,6 +1,6 @@
-[Settled](https://xkcd.com/1235)
+[Forgot Algebra](https://xkcd.com/1050)
 
-![Settled](./random_comic.png)
+![Forgot Algebra](./random_comic.png)
 
-Well, we've really only settled the question of ghosts that emit or reflect visible light. Or move objects around. Or make any kind of sound. But that covers all the ones that appear in Ghostbusters, so I think we're good.
+The only things you HAVE to know are how to make enough of a living to stay alive and how to get your taxes done. All the fun parts of life are optional.
 
