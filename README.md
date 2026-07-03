@@ -1,6 +1,6 @@
-[Houseguests](https://xkcd.com/2479)
+[Predictive Models](https://xkcd.com/2169)
 
-![Houseguests](./random_comic.png)
+![Predictive Models](./random_comic.png)
 
-You can come on in, we're all fully vaccinated. Except the spare room off the living room. Don't go in there, we're not fully vaccinated in there.
+WE WILL ARREST THE REVOLUTION MEMBERS [AT THE JULY 28TH MEETING][tab] "Cancel the meeting! Our cover is blown."
 
