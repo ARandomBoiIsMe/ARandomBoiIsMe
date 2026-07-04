@@ -1,6 +1,6 @@
-[Parity Conservation](https://xkcd.com/2364)
+[arXiv](https://xkcd.com/2085)
 
-![Parity Conservation](./random_comic.png)
+![arXiv](./random_comic.png)
 
-Bloody Mary is made of antimatter. It explains so much.
+Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
 
