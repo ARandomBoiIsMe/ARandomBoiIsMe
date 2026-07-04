@@ -1,6 +1,6 @@
-[arXiv](https://xkcd.com/2085)
+[Worst Hurricane](https://xkcd.com/1407)
 
-![arXiv](./random_comic.png)
+![Worst Hurricane](./random_comic.png)
 
-Both arXiv and archive.org are invaluable projects which, if they didn't exist, we would dismiss as obviously ridiculous and unworkable.
+'Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.
 
