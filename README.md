@@ -1,6 +1,6 @@
-[Wanna See the Code?](https://xkcd.com/2138)
+[Photo Library Management](https://xkcd.com/1832)
 
-![Wanna See the Code?](./random_comic.png)
+![Photo Library Management](./random_comic.png)
 
-And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.
+A good lifehack is to use messy and unstable systems to organize your photos. That way, every five years or so it becomes obsolete and/or collapses, and you have to open it up and pick only your favorite pictures to salvage.
 
