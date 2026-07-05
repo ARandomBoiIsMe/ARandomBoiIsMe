@@ -1,6 +1,6 @@
-[Mars Rovers](https://xkcd.com/2433)
+[Proof Without Content](https://xkcd.com/3201)
 
-![Mars Rovers](./random_comic.png)
+![Proof Without Content](./random_comic.png)
 
-I just Googled 'roomba sojourner mod' and was sorely disappointed. Be the change, I guess!
+There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.
 
