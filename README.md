@@ -1,6 +1,6 @@
-[Proof Without Content](https://xkcd.com/3201)
+[Tones](https://xkcd.com/479)
 
-![Proof Without Content](./random_comic.png)
+![Tones](./random_comic.png)
 
-There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.
+I need a lawn, so I can yell at kids to stay off it.
 
