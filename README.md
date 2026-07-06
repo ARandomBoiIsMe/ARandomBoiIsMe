@@ -1,6 +1,6 @@
-[Research Areas by Size and Countedness](https://xkcd.com/1991)
+[Modern Tools](https://xkcd.com/2510)
 
-![Research Areas by Size and Countedness](./random_comic.png)
+![Modern Tools](./random_comic.png)
 
-Mathematicians give a third answer on the vertical axis, "That question is poorly defined, but we have a sub-field devoted to every plausible version of it."
+I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.
 
