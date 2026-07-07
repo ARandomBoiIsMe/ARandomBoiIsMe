@@ -1,6 +1,6 @@
-[Window Screen](https://xkcd.com/3151)
+[Anti-Mindvirus](https://xkcd.com/391)
 
-![Window Screen](./random_comic.png)
+![Anti-Mindvirus](./random_comic.png)
 
-The Nobel Prize in Physiology or Medicine or Home Improvement or DIY
+I'm as surprised as you!  I didn't think it was possible.
 
