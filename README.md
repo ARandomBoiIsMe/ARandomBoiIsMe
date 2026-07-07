@@ -1,6 +1,6 @@
-[Moon Landing](https://xkcd.com/1074)
+[Window Screen](https://xkcd.com/3151)
 
-![Moon Landing](./random_comic.png)
+![Window Screen](./random_comic.png)
 
-Ok, so Spirit and Opportunity are pretty awesome. And Kepler. And New Horizons, Cassini, Curiosity, TiME, and Project M. But c'mon, if the Earth were a basketball, in 40 years no human's been more than half an inch from the surface.
+The Nobel Prize in Physiology or Medicine or Home Improvement or DIY
 
