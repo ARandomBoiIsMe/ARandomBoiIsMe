@@ -1,6 +1,6 @@
-[Probability Comparisons](https://xkcd.com/2379)
+[Trimester](https://xkcd.com/699)
 
-![Probability Comparisons](./random_comic.png)
+![Trimester](./random_comic.png)
 
-Call me, MAYBE.
+Also, it's not like anyone actually calls up the Nobel committee to double-check things.
 
