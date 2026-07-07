@@ -1,6 +1,6 @@
-[Anti-Mindvirus](https://xkcd.com/391)
+[Probability Comparisons](https://xkcd.com/2379)
 
-![Anti-Mindvirus](./random_comic.png)
+![Probability Comparisons](./random_comic.png)
 
-I'm as surprised as you!  I didn't think it was possible.
+Call me, MAYBE.
 
