@@ -1,6 +1,6 @@
-[Trimester](https://xkcd.com/699)
+[Valentine - Karnaugh](https://xkcd.com/62)
 
-![Trimester](./random_comic.png)
+![Valentine - Karnaugh](./random_comic.png)
 
-Also, it's not like anyone actually calls up the Nobel committee to double-check things.
+Love and circuit analysis, hand in hand at last.
 
