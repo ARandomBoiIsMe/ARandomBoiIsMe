@@ -1,6 +1,6 @@
-[Real Programmers](https://xkcd.com/378)
+[Carcinization](https://xkcd.com/2314)
 
-![Real Programmers](./random_comic.png)
+![Carcinization](./random_comic.png)
 
-Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.
+Nature abhors a vacuum and also anything that's not a crab.
 
