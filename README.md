@@ -1,6 +1,6 @@
-[Valentine - Karnaugh](https://xkcd.com/62)
+[Voting Systems](https://xkcd.com/1844)
 
-![Valentine - Karnaugh](./random_comic.png)
+![Voting Systems](./random_comic.png)
 
-Love and circuit analysis, hand in hand at last.
+Kenneth Arrow hated me because the ordering of my preferences changes based on which voting systems have what level of support. But it tells me a lot about the people I'm going to be voting with!
 
