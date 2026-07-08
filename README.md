@@ -1,6 +1,6 @@
-[Voting Systems](https://xkcd.com/1844)
+[Real Programmers](https://xkcd.com/378)
 
-![Voting Systems](./random_comic.png)
+![Real Programmers](./random_comic.png)
 
-Kenneth Arrow hated me because the ordering of my preferences changes based on which voting systems have what level of support. But it tells me a lot about the people I'm going to be voting with!
+Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.
 
