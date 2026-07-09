@@ -1,6 +1,6 @@
-[Text Entry](https://xkcd.com/2137)
+[Effect an Effect](https://xkcd.com/326)
 
-![Text Entry](./random_comic.png)
+![Effect an Effect](./random_comic.png)
 
-I like to think that somewhere out there, there's someone whose personal quest is lobbying TV providers to add an option to switch their on-screen keyboards to Dvorak.
+Time to paint another grammarian silhouette on the side of the desktop.
 
