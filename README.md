@@ -1,6 +1,6 @@
-[Carcinization](https://xkcd.com/2314)
+[NEXUS](https://xkcd.com/1918)
 
-![Carcinization](./random_comic.png)
+![NEXUS](./random_comic.png)
 
-Nature abhors a vacuum and also anything that's not a crab.
+You also refuse to buy Cisco products because you hate the Thong Song, O. Henry, Deep Space Nine, freshwater whitefish, teenaged Incan emperors, Brak's brother, and vegetable-based shortening.
 
