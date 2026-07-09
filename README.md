@@ -1,6 +1,6 @@
-[Latitude](https://xkcd.com/596)
+[Text Entry](https://xkcd.com/2137)
 
-![Latitude](./random_comic.png)
+![Text Entry](./random_comic.png)
 
-The G1, especially with the new Android upgrade, is way better than I originally thought.
+I like to think that somewhere out there, there's someone whose personal quest is lobbying TV providers to add an option to switch their on-screen keyboards to Dvorak.
 
