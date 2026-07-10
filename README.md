@@ -1,6 +1,6 @@
-[Decision Paralysis](https://xkcd.com/1801)
+[Antique Factory](https://xkcd.com/1533)
 
-![Decision Paralysis](./random_comic.png)
+![Antique Factory](./random_comic.png)
 
-Good point--making no decision is itself a decision. So that's a THIRD option I have to research!
+WARNING: This item was aged by the same inexorable passage of time that also processes nuts.
 
