@@ -1,6 +1,6 @@
-[Effect an Effect](https://xkcd.com/326)
+[xkcd Phone 6](https://xkcd.com/1889)
 
-![Effect an Effect](./random_comic.png)
+![xkcd Phone 6](./random_comic.png)
 
-Time to paint another grammarian silhouette on the side of the desktop.
+We understand your privacy concerns; be assured that our phones will never store or transmit images of your face.
 
