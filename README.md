@@ -1,6 +1,6 @@
-[xkcd Phone 6](https://xkcd.com/1889)
+[Flowcharts](https://xkcd.com/1488)
 
-![xkcd Phone 6](./random_comic.png)
+![Flowcharts](./random_comic.png)
 
-We understand your privacy concerns; be assured that our phones will never store or transmit images of your face.
+Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!
 
