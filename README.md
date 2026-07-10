@@ -1,6 +1,6 @@
-[Flowcharts](https://xkcd.com/1488)
+[Decision Paralysis](https://xkcd.com/1801)
 
-![Flowcharts](./random_comic.png)
+![Decision Paralysis](./random_comic.png)
 
-Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!
+Good point--making no decision is itself a decision. So that's a THIRD option I have to research!
 
