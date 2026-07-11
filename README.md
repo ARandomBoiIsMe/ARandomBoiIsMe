@@ -1,6 +1,6 @@
-[Outlet Denier](https://xkcd.com/2589)
+[Revelation](https://xkcd.com/2512)
 
-![Outlet Denier](./random_comic.png)
+![Revelation](./random_comic.png)
 
-There are regularly placed bumps on the underside just the right size to press the rocker switch on the power strip.
+And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.
 
