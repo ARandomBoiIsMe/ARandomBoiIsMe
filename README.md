@@ -1,6 +1,6 @@
-[Revelation](https://xkcd.com/2512)
+[Gift Exchange](https://xkcd.com/2554)
 
-![Revelation](./random_comic.png)
+![Gift Exchange](./random_comic.png)
 
-And the heaven departed as a scroll when it is rolled together, but then more heaven kept appearing to replace it, as if the scroll was infinite.
+In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.
 
