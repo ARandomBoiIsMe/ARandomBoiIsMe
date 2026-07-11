@@ -1,6 +1,6 @@
-[River Border](https://xkcd.com/1986)
+[Outlet Denier](https://xkcd.com/2589)
 
-![River Border](./random_comic.png)
+![Outlet Denier](./random_comic.png)
 
-I'm not a lawyer, but I believe zones like this are technically considered the high seas, so if you cut a pizza into a spiral there you could be charged with pieracy under marinaritime law.
+There are regularly placed bumps on the underside just the right size to press the rocker switch on the power strip.
 
