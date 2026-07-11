@@ -1,6 +1,6 @@
-[Antique Factory](https://xkcd.com/1533)
+[River Border](https://xkcd.com/1986)
 
-![Antique Factory](./random_comic.png)
+![River Border](./random_comic.png)
 
-WARNING: This item was aged by the same inexorable passage of time that also processes nuts.
+I'm not a lawyer, but I believe zones like this are technically considered the high seas, so if you cut a pizza into a spiral there you could be charged with pieracy under marinaritime law.
 
