@@ -1,6 +1,6 @@
-[Gift Exchange](https://xkcd.com/2554)
+[Anti-Drone Eagles](https://xkcd.com/1842)
 
-![Gift Exchange](./random_comic.png)
+![Anti-Drone Eagles](./random_comic.png)
 
-In addition to having all their budgets in a spreadsheet with consistent formatting, they just love expressing preferences on a well-calibrated numerical scale.
+It's cool, it's totally ethical--they're all programmed to hunt whichever bird of prey is most numerous at the moment, so they leave the endangered ones alone until near the end.
 
