@@ -1,6 +1,6 @@
-[Snow](https://xkcd.com/2866)
+[Time Travel Thesis](https://xkcd.com/1716)
 
-![Snow](./random_comic.png)
+![Time Travel Thesis](./random_comic.png)
 
-For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.
+'Hey, what are those futuristic goggles for, anyway?' 'Oh, this is just a broken Google Glass. It was 2010's night at the club.'
 
