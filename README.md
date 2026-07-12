@@ -1,6 +1,6 @@
-[Time Travel Thesis](https://xkcd.com/1716)
+[My Other Car](https://xkcd.com/80)
 
-![Time Travel Thesis](./random_comic.png)
+![My Other Car](./random_comic.png)
 
-'Hey, what are those futuristic goggles for, anyway?' 'Oh, this is just a broken Google Glass. It was 2010's night at the club.'
+It's much better than the other one.
 
