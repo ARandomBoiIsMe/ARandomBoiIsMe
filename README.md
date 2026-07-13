@@ -1,6 +1,6 @@
-[Seventies](https://xkcd.com/1072)
+[Exoplanets](https://xkcd.com/1071)
 
-![Seventies](./random_comic.png)
+![Exoplanets](./random_comic.png)
 
-Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"
+Planets are turning out to be so common that to show all the planets in our galaxy, this chart would have to be nested in itself--with each planet replaced by a copy of the chart--at least three levels deep.
 
