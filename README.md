@@ -1,6 +1,6 @@
-[Solar System Questions](https://xkcd.com/1547)
+[Seventies](https://xkcd.com/1072)
 
-![Solar System Questions](./random_comic.png)
+![Seventies](./random_comic.png)
 
-My country's World Cup win was exciting and all, but c'mon, what if the players wore nylon wings and COULD LITERALLY FLY?
+Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"
 
