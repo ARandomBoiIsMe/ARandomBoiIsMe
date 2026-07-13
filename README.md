@@ -1,6 +1,6 @@
-[Synonym Movies](https://xkcd.com/1563)
+[Solar System Questions](https://xkcd.com/1547)
 
-![Synonym Movies](./random_comic.png)
+![Solar System Questions](./random_comic.png)
 
-Fans eagerly await 2015's 'Space Fights: Power Gets Up', although most think 1999's 'Space Fights: The Scary Ghost' didn't live up to the hype.
+My country's World Cup win was exciting and all, but c'mon, what if the players wore nylon wings and COULD LITERALLY FLY?
 
