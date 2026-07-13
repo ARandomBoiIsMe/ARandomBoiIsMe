@@ -1,6 +1,6 @@
-[My Other Car](https://xkcd.com/80)
+[Synonym Movies](https://xkcd.com/1563)
 
-![My Other Car](./random_comic.png)
+![Synonym Movies](./random_comic.png)
 
-It's much better than the other one.
+Fans eagerly await 2015's 'Space Fights: Power Gets Up', although most think 1999's 'Space Fights: The Scary Ghost' didn't live up to the hype.
 
