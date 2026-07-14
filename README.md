@@ -1,6 +1,6 @@
-[Anatomy Text](https://xkcd.com/631)
+[Book Podcasts](https://xkcd.com/2834)
 
-![Anatomy Text](./random_comic.png)
+![Book Podcasts](./random_comic.png)
 
-For many of the anatomy pictures on Wikipedia, I think this is actually not far from reality. They only look all formal and professional due to careful cropping.
+I've been working my way through this 1950s podcast by someone named John Tolkien called 'Lord of the Rings'--it's a deep dive into this fictional world he created. Good stuff, really bingeable!
 
