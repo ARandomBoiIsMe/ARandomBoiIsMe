@@ -1,6 +1,6 @@
-[Clickbait-Corrected p-Value](https://xkcd.com/2001)
+[Anatomy Text](https://xkcd.com/631)
 
-![Clickbait-Corrected p-Value](./random_comic.png)
+![Anatomy Text](./random_comic.png)
 
-When comparing hypotheses with Bayesian methods, the similar 'clickbayes factor' can account for some harder-to-quantify priors.
+For many of the anatomy pictures on Wikipedia, I think this is actually not far from reality. They only look all formal and professional due to careful cropping.
 
