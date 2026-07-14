@@ -1,6 +1,6 @@
-[Product Launch](https://xkcd.com/2473)
+[Clickbait-Corrected p-Value](https://xkcd.com/2001)
 
-![Product Launch](./random_comic.png)
+![Clickbait-Corrected p-Value](./random_comic.png)
 
-"Okay, that was weird, but the product reveal was normal. I think the danger is pas--" "One more thing." "Oh no."
+When comparing hypotheses with Bayesian methods, the similar 'clickbayes factor' can account for some harder-to-quantify priors.
 
