@@ -1,6 +1,6 @@
-[Exoplanets](https://xkcd.com/1071)
+[Product Launch](https://xkcd.com/2473)
 
-![Exoplanets](./random_comic.png)
+![Product Launch](./random_comic.png)
 
-Planets are turning out to be so common that to show all the planets in our galaxy, this chart would have to be nested in itself--with each planet replaced by a copy of the chart--at least three levels deep.
+"Okay, that was weird, but the product reveal was normal. I think the danger is pas--" "One more thing." "Oh no."
 
