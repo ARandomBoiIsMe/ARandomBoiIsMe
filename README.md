@@ -1,6 +1,6 @@
-[Book Podcasts](https://xkcd.com/2834)
+[The History of Unicode](https://xkcd.com/1953)
 
-![Book Podcasts](./random_comic.png)
+![The History of Unicode](./random_comic.png)
 
-I've been working my way through this 1950s podcast by someone named John Tolkien called 'Lord of the Rings'--it's a deep dive into this fictional world he created. Good stuff, really bingeable!
+2048: "Great news for Maine—we're once again an independent state!!! Thanks, @unicode, for ruling in our favor and sending troops to end New Hampshire's annexation. 🙏🚁🎖️"
 
