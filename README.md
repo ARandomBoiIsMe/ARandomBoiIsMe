@@ -1,6 +1,6 @@
-[Mess](https://xkcd.com/1267)
+[Pillow Talk](https://xkcd.com/69)
 
-![Mess](./random_comic.png)
+![Pillow Talk](./random_comic.png)
 
-'Sorry, I left out my glass of water from last night.' OH GOD I APPARENTLY LIVE IN A GARBAGE PIT.
+Maybe I should've tried Wexler?
 
