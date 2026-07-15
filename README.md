@@ -1,6 +1,6 @@
-[Pillow Talk](https://xkcd.com/69)
+[Homemade Masks](https://xkcd.com/2290)
 
-![Pillow Talk](./random_comic.png)
+![Homemade Masks](./random_comic.png)
 
-Maybe I should've tried Wexler?
+I'm going to change the sign so the pole is horizontal and the sign is mounted on the front like a plunger, so I can carry it around like a lance to gently push people back if they try to approach.
 
