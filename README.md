@@ -1,6 +1,6 @@
-[The History of Unicode](https://xkcd.com/1953)
+[Mess](https://xkcd.com/1267)
 
-![The History of Unicode](./random_comic.png)
+![Mess](./random_comic.png)
 
-2048: "Great news for Maine—we're once again an independent state!!! Thanks, @unicode, for ruling in our favor and sending troops to end New Hampshire's annexation. 🙏🚁🎖️"
+'Sorry, I left out my glass of water from last night.' OH GOD I APPARENTLY LIVE IN A GARBAGE PIT.
 
