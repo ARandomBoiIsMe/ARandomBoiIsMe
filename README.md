@@ -1,6 +1,6 @@
-[Spice Girl](https://xkcd.com/1511)
+[Estimating Time](https://xkcd.com/1658)
 
-![Spice Girl](./random_comic.png)
+![Estimating Time](./random_comic.png)
 
-Haha, you'll see!
+Corollary to Hofstadter's Law: Every minute you spend thinking about Hofstadter's Law is a minute you're NOT WORKING AND WILL NEVER FINISH! PAAAAAANIIIIIIC!
 
