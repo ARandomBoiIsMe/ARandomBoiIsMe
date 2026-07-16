@@ -1,6 +1,6 @@
-[Estimating Time](https://xkcd.com/1658)
+[Cautionary Ghost](https://xkcd.com/1108)
 
-![Estimating Time](./random_comic.png)
+![Cautionary Ghost](./random_comic.png)
 
-Corollary to Hofstadter's Law: Every minute you spend thinking about Hofstadter's Law is a minute you're NOT WORKING AND WILL NEVER FINISH! PAAAAAANIIIIIIC!
+But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.
 
