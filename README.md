@@ -1,6 +1,6 @@
-[Homemade Masks](https://xkcd.com/2290)
+[The Carriage](https://xkcd.com/788)
 
-![Homemade Masks](./random_comic.png)
+![The Carriage](./random_comic.png)
 
-I'm going to change the sign so the pole is horizontal and the sign is mounted on the front like a plunger, so I can carry it around like a lance to gently push people back if they try to approach.
+I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.
 
