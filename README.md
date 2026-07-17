@@ -1,6 +1,6 @@
-[Diffraction Spikes](https://xkcd.com/2762)
+[Million, Billion, Trillion](https://xkcd.com/2091)
 
-![Diffraction Spikes](./random_comic.png)
+![Million, Billion, Trillion](./random_comic.png)
 
-Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.
+You can tell most people don’t really assign an absolute meaning to these numbers because in some places and time periods, “billion” has meant 1,000x what it's meant in others, and a lot of us never even noticed.
 
