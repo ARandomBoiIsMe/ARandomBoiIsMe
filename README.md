@@ -1,6 +1,6 @@
-[Conic Sections](https://xkcd.com/3189)
+[Nightmare Email Feature](https://xkcd.com/1915)
 
-![Conic Sections](./random_comic.png)
+![Nightmare Email Feature](./random_comic.png)
 
-They're not generally used for crewed spacecraft because astronauts HATE going around the corners.
+"...just got back and didn't see your message until just now. Sorry! -- TIME THIS MESSAGE SAT HALF-FINISHED IN DRAFTS FOLDER: 3 days, 2 hours, 45 minutes."
 
