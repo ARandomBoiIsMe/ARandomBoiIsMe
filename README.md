@@ -1,6 +1,6 @@
-[Cautionary Ghost](https://xkcd.com/1108)
+[Conic Sections](https://xkcd.com/3189)
 
-![Cautionary Ghost](./random_comic.png)
+![Conic Sections](./random_comic.png)
 
-But then the Ghost of Subjunctive Past showed up and told me to stay strong on 'if it were'.
+They're not generally used for crewed spacecraft because astronauts HATE going around the corners.
 
