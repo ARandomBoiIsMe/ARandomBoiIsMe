@@ -1,6 +1,6 @@
-[Nightmare Email Feature](https://xkcd.com/1915)
+[Diffraction Spikes](https://xkcd.com/2762)
 
-![Nightmare Email Feature](./random_comic.png)
+![Diffraction Spikes](./random_comic.png)
 
-"...just got back and didn't see your message until just now. Sorry! -- TIME THIS MESSAGE SAT HALF-FINISHED IN DRAFTS FOLDER: 3 days, 2 hours, 45 minutes."
+Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them.
 
