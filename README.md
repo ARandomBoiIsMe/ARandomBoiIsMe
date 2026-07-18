@@ -1,6 +1,6 @@
-[Million, Billion, Trillion](https://xkcd.com/2091)
+[Keyed](https://xkcd.com/1030)
 
-![Million, Billion, Trillion](./random_comic.png)
+![Keyed](./random_comic.png)
 
-You can tell most people don’t really assign an absolute meaning to these numbers because in some places and time periods, “billion” has meant 1,000x what it's meant in others, and a lot of us never even noticed.
+I was sure he was just getting revenge, but then he did the same thing to Carrie Underwood. Then he mailed me a scone. I think I'm giving up dating.
 
