@@ -1,6 +1,6 @@
-[Keyed](https://xkcd.com/1030)
+[100% All Achievements](https://xkcd.com/3148)
 
-![Keyed](./random_comic.png)
+![100% All Achievements](./random_comic.png)
 
-I was sure he was just getting revenge, but then he did the same thing to Carrie Underwood. Then he mailed me a scone. I think I'm giving up dating.
+I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade.
 
