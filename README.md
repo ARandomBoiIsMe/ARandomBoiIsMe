@@ -1,6 +1,6 @@
-[Compass and Straightedge](https://xkcd.com/866)
+[Good Morning](https://xkcd.com/448)
 
-![Compass and Straightedge](./random_comic.png)
+![Good Morning](./random_comic.png)
 
-The Greeks long suspected this, but it wasn't until April 12th of 1882 that Ferdinand von Lindemann conclusively proved it when he constructed himself the most awesome birthday party possible and nobody showed up.
+As my standard, I use going to sleep at midnight and waking up at 8 AM.
 
