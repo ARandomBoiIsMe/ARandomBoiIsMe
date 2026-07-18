@@ -1,6 +1,6 @@
-[100% All Achievements](https://xkcd.com/3148)
+[Compass and Straightedge](https://xkcd.com/866)
 
-![100% All Achievements](./random_comic.png)
+![Compass and Straightedge](./random_comic.png)
 
-I'm trying to share my footage of the full run to prove it's not tool-assisted, but the uploader has problems with video lengths of more than a decade.
+The Greeks long suspected this, but it wasn't until April 12th of 1882 that Ferdinand von Lindemann conclusively proved it when he constructed himself the most awesome birthday party possible and nobody showed up.
 
