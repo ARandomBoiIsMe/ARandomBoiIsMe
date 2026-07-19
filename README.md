@@ -1,6 +1,6 @@
-[Wrapping Paper](https://xkcd.com/2403)
+[Brain Hemispheres](https://xkcd.com/2120)
 
-![Wrapping Paper](./random_comic.png)
+![Brain Hemispheres](./random_comic.png)
 
-Wow, rude of you to regift literally every gift that you or anyone else has ever received.
+Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.
 
