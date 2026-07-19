@@ -1,6 +1,6 @@
-[Good Morning](https://xkcd.com/448)
+[Map Age Guide](https://xkcd.com/1688)
 
-![Good Morning](./random_comic.png)
+![Map Age Guide](./random_comic.png)
 
-As my standard, I use going to sleep at midnight and waking up at 8 AM.
+Does the screeching chill your blood and herald death? If yes, banshee. If no, seagull.
 
