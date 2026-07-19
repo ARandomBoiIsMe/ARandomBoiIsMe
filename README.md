@@ -1,6 +1,6 @@
-[Map Age Guide](https://xkcd.com/1688)
+[Honest](https://xkcd.com/1146)
 
-![Map Age Guide](./random_comic.png)
+![Honest](./random_comic.png)
 
-Does the screeching chill your blood and herald death? If yes, banshee. If no, seagull.
+I didn't understand what you meant. I still don't. But I'll figure it out soon!
 
