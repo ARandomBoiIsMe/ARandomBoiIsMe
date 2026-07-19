@@ -1,6 +1,6 @@
-[Honest](https://xkcd.com/1146)
+[Wrapping Paper](https://xkcd.com/2403)
 
-![Honest](./random_comic.png)
+![Wrapping Paper](./random_comic.png)
 
-I didn't understand what you meant. I still don't. But I'll figure it out soon!
+Wow, rude of you to regift literally every gift that you or anyone else has ever received.
 
