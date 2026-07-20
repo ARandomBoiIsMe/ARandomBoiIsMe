@@ -1,6 +1,6 @@
-[Waiting for the But](https://xkcd.com/2146)
+[Babies](https://xkcd.com/441)
 
-![Waiting for the But](./random_comic.png)
+![Babies](./random_comic.png)
 
-Listen, I'm not a fan of the Spanish Inquisition OR predatory multi-level marketing schemes...
+I bet my future kids will read this someday.  DEAR FUTURE KIDS: how did you get internet in the cellar?
 
