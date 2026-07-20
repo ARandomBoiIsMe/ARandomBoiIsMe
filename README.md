@@ -1,6 +1,6 @@
-[Brain Hemispheres](https://xkcd.com/2120)
+[Waiting for the But](https://xkcd.com/2146)
 
-![Brain Hemispheres](./random_comic.png)
+![Waiting for the But](./random_comic.png)
 
-Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.
+Listen, I'm not a fan of the Spanish Inquisition OR predatory multi-level marketing schemes...
 
