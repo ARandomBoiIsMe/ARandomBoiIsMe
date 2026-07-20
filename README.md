@@ -1,6 +1,6 @@
-[Bursa of Fabricius](https://xkcd.com/2732)
+[Estimation](https://xkcd.com/612)
 
-![Bursa of Fabricius](./random_comic.png)
+![Estimation](./random_comic.png)
 
-If an anatomical structure is named for a person, it means they were the only person to have it. Pierre Paul Broca had a special area of his brain that created powerful magnetic fields, enabling him to do 19th century fMRI research.
+They could say "the connection is probably lost," but it's more fun to do naive time-averaging to give you hope that if you wait around for 1,163 hours, it will finally finish.
 
