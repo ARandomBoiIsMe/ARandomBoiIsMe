@@ -1,6 +1,6 @@
-[Babies](https://xkcd.com/441)
+[Bursa of Fabricius](https://xkcd.com/2732)
 
-![Babies](./random_comic.png)
+![Bursa of Fabricius](./random_comic.png)
 
-I bet my future kids will read this someday.  DEAR FUTURE KIDS: how did you get internet in the cellar?
+If an anatomical structure is named for a person, it means they were the only person to have it. Pierre Paul Broca had a special area of his brain that created powerful magnetic fields, enabling him to do 19th century fMRI research.
 
