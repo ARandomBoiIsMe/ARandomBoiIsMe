@@ -1,6 +1,6 @@
-[Push Notifications](https://xkcd.com/3074)
+[Height](https://xkcd.com/482)
 
-![Push Notifications](./random_comic.png)
+![Height](./random_comic.png)
 
-NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!
+Interestingly, on a true vertical log plot, I think the Eiffel Tower's sides really would be straight lines.
 
