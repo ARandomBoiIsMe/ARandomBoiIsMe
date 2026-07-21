@@ -1,6 +1,6 @@
-[Tony Hawk](https://xkcd.com/296)
+[Push Notifications](https://xkcd.com/3074)
 
-![Tony Hawk](./random_comic.png)
+![Push Notifications](./random_comic.png)
 
-Bad idea #271: Dropping into the half-pipe on a Segway.
+NOTIFICATION: Now dismissing a head of the Notification Hydra… NOTIFICATION: Success! You have dismissed a head of the Notification Hydra!
 
