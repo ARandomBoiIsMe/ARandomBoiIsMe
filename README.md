@@ -1,6 +1,6 @@
-[Solar System Changes](https://xkcd.com/2258)
+[Russell's Teapot](https://xkcd.com/1866)
 
-![Solar System Changes](./random_comic.png)
+![Russell's Teapot](./random_comic.png)
 
-"Actually, Jupiter already has a very impressive ring system!" --someone who knows Jupiter is within earshot
+Unfortunately, NASA regulations state that Bertrand Russell-related payloads can only be launched within launch vehicles which do not launch themselves.
 
