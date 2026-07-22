@@ -1,6 +1,6 @@
-[Bracket](https://xkcd.com/1529)
+[Solar System Changes](https://xkcd.com/2258)
 
-![Bracket](./random_comic.png)
+![Solar System Changes](./random_comic.png)
 
-I'm staring at the "doctor" section, and I can't help but feel like I've forgotten someone.
+"Actually, Jupiter already has a very impressive ring system!" --someone who knows Jupiter is within earshot
 
