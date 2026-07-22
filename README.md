@@ -1,6 +1,6 @@
-[Russell's Teapot](https://xkcd.com/1866)
+[Drawing Stars](https://xkcd.com/1029)
 
-![Russell's Teapot](./random_comic.png)
+![Drawing Stars](./random_comic.png)
 
-Unfortunately, NASA regulations state that Bertrand Russell-related payloads can only be launched within launch vehicles which do not launch themselves.
+Screw these 36-degree angles. I'm converting to Judaism.
 
