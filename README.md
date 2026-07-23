@@ -1,6 +1,6 @@
-[Ten Years](https://xkcd.com/2386)
+[Tattoo](https://xkcd.com/933)
 
-![Ten Years](./random_comic.png)
+![Tattoo](./random_comic.png)
 
-The ten-year cancerversary is traditionally the Cursed Artifact Granting Immortality anniversary.
+I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).
 
