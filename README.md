@@ -1,6 +1,6 @@
-[Engineering Hubris](https://xkcd.com/319)
+[Ten Years](https://xkcd.com/2386)
 
-![Engineering Hubris](./random_comic.png)
+![Ten Years](./random_comic.png)
 
-Chuck Jones is a vengeful god.
+The ten-year cancerversary is traditionally the Cursed Artifact Granting Immortality anniversary.
 
