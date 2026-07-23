@@ -1,6 +1,6 @@
-[Tattoo](https://xkcd.com/933)
+[Bigger Problem](https://xkcd.com/2368)
 
-![Tattoo](./random_comic.png)
+![Bigger Problem](./random_comic.png)
 
-I calculate that the electrons in radiation therapy hit you at 99.8% of the speed of light, and the beam used in a 90-second gamma ray therapy session could, if fired with less precision, kill a horse (they did not let me test this).
+Your point that the world contains multiple problems is a real slam-dunk argument against fixing any of them.
 
