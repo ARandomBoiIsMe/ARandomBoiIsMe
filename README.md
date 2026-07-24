@@ -1,6 +1,6 @@
-[Holes](https://xkcd.com/3266)
+[Electric vs Gas](https://xkcd.com/2948)
 
-![Holes](./random_comic.png)
+![Electric vs Gas](./random_comic.png)
 
-If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do.
+An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill.
 
