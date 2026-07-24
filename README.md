@@ -1,6 +1,6 @@
-[The Race: Part 4](https://xkcd.com/580)
+[Holes](https://xkcd.com/3266)
 
-![The Race: Part 4](./random_comic.png)
+![Holes](./random_comic.png)
 
-Things are rarely just crazy enough to work, but they're frequently just crazy enough to fail hilariously.
+If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do.
 
