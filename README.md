@@ -1,6 +1,6 @@
-[Electric vs Gas](https://xkcd.com/2948)
+[Snow](https://xkcd.com/2866)
 
-![Electric vs Gas](./random_comic.png)
+![Snow](./random_comic.png)
 
-An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill.
+For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet.
 
