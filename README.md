@@ -1,6 +1,6 @@
-[Bigger Problem](https://xkcd.com/2368)
+[The Race: Part 4](https://xkcd.com/580)
 
-![Bigger Problem](./random_comic.png)
+![The Race: Part 4](./random_comic.png)
 
-Your point that the world contains multiple problems is a real slam-dunk argument against fixing any of them.
+Things are rarely just crazy enough to work, but they're frequently just crazy enough to fail hilariously.
 
