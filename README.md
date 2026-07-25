@@ -1,6 +1,6 @@
-[Metacarcinization](https://xkcd.com/2418)
+[Heist](https://xkcd.com/2077)
 
-![Metacarcinization](./random_comic.png)
+![Heist](./random_comic.png)
 
-Scientists still don't know how marine biologists manage to so consistently bring up whalefall ecosystems, when relevant conversational openings are so few and far between.
+But he has a hat AND a toolbox! Where could someone planning a heist get THOSE?
 
