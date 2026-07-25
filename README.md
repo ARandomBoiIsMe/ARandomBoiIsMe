@@ -1,6 +1,6 @@
-[Exposure Models](https://xkcd.com/2429)
+[The Familiar](https://xkcd.com/187)
 
-![Exposure Models](./random_comic.png)
+![The Familiar](./random_comic.png)
 
-"Cumulative number of coronavirus spreadsheets created over time" is a spreadsheet I am coming dangerously close to creating.
+When I say we should do something sometime, I'm secretly hoping you'll say 'Why not now?'
 
