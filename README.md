@@ -1,6 +1,6 @@
-[The Familiar](https://xkcd.com/187)
+[Metacarcinization](https://xkcd.com/2418)
 
-![The Familiar](./random_comic.png)
+![Metacarcinization](./random_comic.png)
 
-When I say we should do something sometime, I'm secretly hoping you'll say 'Why not now?'
+Scientists still don't know how marine biologists manage to so consistently bring up whalefall ecosystems, when relevant conversational openings are so few and far between.
 
