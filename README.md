@@ -1,6 +1,6 @@
-[Writers Strike](https://xkcd.com/360)
+[Appliances](https://xkcd.com/2420)
 
-![Writers Strike](./random_comic.png)
+![Appliances](./random_comic.png)
 
-He's just jealous because everyone's up in the attic listening to Stephen Colbert.
+If you had an oven bag and a dryer that runs unusually hot, I guess you could in theory make tumbled eggs.
 
