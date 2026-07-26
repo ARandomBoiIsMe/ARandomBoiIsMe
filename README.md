@@ -1,6 +1,6 @@
-[Appliances](https://xkcd.com/2420)
+[Fluid Speech](https://xkcd.com/2942)
 
-![Appliances](./random_comic.png)
+![Fluid Speech](./random_comic.png)
 
-If you had an oven bag and a dryer that runs unusually hot, I guess you could in theory make tumbled eggs.
+Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring example phrases to yourself, people will eventually ask if you're okay.
 
