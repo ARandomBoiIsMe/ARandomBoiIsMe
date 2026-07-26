@@ -1,6 +1,6 @@
-[Fluid Speech](https://xkcd.com/2942)
+[Average Familiarity](https://xkcd.com/2501)
 
-![Fluid Speech](./random_comic.png)
+![Average Familiarity](./random_comic.png)
 
-Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring example phrases to yourself, people will eventually ask if you're okay.
+How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!
 
