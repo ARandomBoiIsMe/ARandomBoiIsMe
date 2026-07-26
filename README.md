@@ -1,6 +1,6 @@
-[Heist](https://xkcd.com/2077)
+[Writers Strike](https://xkcd.com/360)
 
-![Heist](./random_comic.png)
+![Writers Strike](./random_comic.png)
 
-But he has a hat AND a toolbox! Where could someone planning a heist get THOSE?
+He's just jealous because everyone's up in the attic listening to Stephen Colbert.
 
