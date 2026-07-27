@@ -1,6 +1,6 @@
-[Higgs Boson](https://xkcd.com/1437)
+[Goodhart's Law](https://xkcd.com/2899)
 
-![Higgs Boson](./random_comic.png)
+![Goodhart's Law](./random_comic.png)
 
-'Can't you just use the LHC you already built to find it again?' 'We MAY have disassembled it to build a death ray.' 'Just one, though.' 'Nothing you should worry about.' 'The death isn't even very serious.'
+[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour.
 
