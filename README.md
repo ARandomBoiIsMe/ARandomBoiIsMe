@@ -1,6 +1,6 @@
-[Average Familiarity](https://xkcd.com/2501)
+[Higgs Boson](https://xkcd.com/1437)
 
-![Average Familiarity](./random_comic.png)
+![Higgs Boson](./random_comic.png)
 
-How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!
+'Can't you just use the LHC you already built to find it again?' 'We MAY have disassembled it to build a death ray.' 'Just one, though.' 'Nothing you should worry about.' 'The death isn't even very serious.'
 
