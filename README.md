@@ -1,6 +1,6 @@
-[Kedging Cannon](https://xkcd.com/3013)
+[Consecutive Vowels](https://xkcd.com/853)
 
-![Kedging Cannon](./random_comic.png)
+![Consecutive Vowels](./random_comic.png)
 
-The real key was inventing the windmill-powered winch.
+But the windows! What if there's a voyeur watchi-- wait, now I'm turned on too.
 
