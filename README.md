@@ -1,6 +1,6 @@
-[The Best Camera](https://xkcd.com/2645)
+[Speed and Danger](https://xkcd.com/1701)
 
-![The Best Camera](./random_comic.png)
+![Speed and Danger](./random_comic.png)
 
-The best camera is the one at L2.
+NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."
 
