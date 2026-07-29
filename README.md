@@ -1,6 +1,6 @@
-[Cells](https://xkcd.com/1217)
+[Isolation](https://xkcd.com/1601)
 
-![Cells](./random_comic.png)
+![Isolation](./random_comic.png)
 
-Now, if it selectively kills cancer cells in a petri dish, you can be sure it's at least a great breakthrough for everyone suffering from petri dish cancer.
+2060: The gregarious superintelligent AI, happily talking its way out of a box, is fast becoming a relic of the past. Today's quantum hyper-beings are too busy with their internal multiverse sims to even notice that they're in boxes at all!
 
