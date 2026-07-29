@@ -1,6 +1,6 @@
-[Speed and Danger](https://xkcd.com/1701)
+[Election Commentary](https://xkcd.com/2136)
 
-![Speed and Danger](./random_comic.png)
+![Election Commentary](./random_comic.png)
 
-NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."
+This really validates Jones's strategy of getting several thousand more votes than Smith. In retrospect, that was a smart move; those votes were crucial.
 
