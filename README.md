@@ -1,6 +1,6 @@
-[Election Commentary](https://xkcd.com/2136)
+[Cells](https://xkcd.com/1217)
 
-![Election Commentary](./random_comic.png)
+![Cells](./random_comic.png)
 
-This really validates Jones's strategy of getting several thousand more votes than Smith. In retrospect, that was a smart move; those votes were crucial.
+Now, if it selectively kills cancer cells in a petri dish, you can be sure it's at least a great breakthrough for everyone suffering from petri dish cancer.
 
