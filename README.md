@@ -1,6 +1,6 @@
-[e to the pi times i](https://xkcd.com/179)
+[How it Happened](https://xkcd.com/436)
 
-![e to the pi times i](./random_comic.png)
+![How it Happened](./random_comic.png)
 
-I have never been totally satisfied by the explanations for why e to the ix gives a sinusoidal wave.
+I was there, dude.
 
