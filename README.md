@@ -1,6 +1,6 @@
-[Dilution](https://xkcd.com/765)
+[Two-Factor Security Key](https://xkcd.com/2522)
 
-![Dilution](./random_comic.png)
+![Two-Factor Security Key](./random_comic.png)
 
-Dear editors of Homeopathy Monthly: I have two small corrections for your July issue.  One, it's spelled "echinacea", and two, homeopathic medicines are no better than placebos and your entire magazine is a sham.
+The bruises on my fingertips are my proof of work.
 
