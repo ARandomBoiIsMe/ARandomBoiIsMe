@@ -1,6 +1,6 @@
-[How it Happened](https://xkcd.com/436)
+[RTFM](https://xkcd.com/293)
 
-![How it Happened](./random_comic.png)
+![RTFM](./random_comic.png)
 
-I was there, dude.
+Life is too short for man pages, but occasionally much too short without them.
 
