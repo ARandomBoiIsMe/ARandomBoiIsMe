@@ -1,6 +1,6 @@
-[RTFM](https://xkcd.com/293)
+[Dilution](https://xkcd.com/765)
 
-![RTFM](./random_comic.png)
+![Dilution](./random_comic.png)
 
-Life is too short for man pages, but occasionally much too short without them.
+Dear editors of Homeopathy Monthly: I have two small corrections for your July issue.  One, it's spelled "echinacea", and two, homeopathic medicines are no better than placebos and your entire magazine is a sham.
 
