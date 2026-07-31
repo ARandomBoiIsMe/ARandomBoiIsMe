@@ -1,6 +1,6 @@
-[Two-Factor Security Key](https://xkcd.com/2522)
+[Pi Equals](https://xkcd.com/10)
 
-![Two-Factor Security Key](./random_comic.png)
+![Pi Equals](./random_comic.png)
 
-The bruises on my fingertips are my proof of work.
+My most famous drawing, and one of the first I did for the site
 
