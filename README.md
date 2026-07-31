@@ -1,6 +1,6 @@
-[Julia Stiles](https://xkcd.com/130)
+[Recycling](https://xkcd.com/885)
 
-![Julia Stiles](./random_comic.png)
+![Recycling](./random_comic.png)
 
-I found an old tape of this episode in my family's closet.  Check the news section of the forums to see the clip!
+And given how much of my stuff they go through, they definitely know where I live.
 
