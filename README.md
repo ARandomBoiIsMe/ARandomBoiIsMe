@@ -1,6 +1,6 @@
-[Stephen Hawking](https://xkcd.com/799)
+[Julia Stiles](https://xkcd.com/130)
 
-![Stephen Hawking](./random_comic.png)
+![Julia Stiles](./random_comic.png)
 
-'Guys?  The Town is supposed to be good, and I thou--' 'PHYSICIST STEPHEN HAWKING DECLARES NEW FILM BEST IN ALL SPACE AND TIME' 'No, I just heard that--' 'SHOULD SCIENCE PLAY A ROLE IN JUDGING BEN AFFLECK?' 'I don't think--' 'WHAT ABOUT MATT DAMON?'
+I found an old tape of this episode in my family's closet.  Check the news section of the forums to see the clip!
 
