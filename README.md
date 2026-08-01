@@ -1,6 +1,6 @@
-[Footprints](https://xkcd.com/1575)
+[Supreme Court](https://xkcd.com/1607)
 
-![Footprints](./random_comic.png)
+![Supreme Court](./random_comic.png)
 
-"There's one set of foot-p's cause I was totes carrying you, bro!" said Jesus seconds before I punched him.
+Writing for the majority, Justice Kennedy called the man's arguments that he could be either Alito or Ginsburg "surprisingly compelling, but ultimately unconvincing."
 
