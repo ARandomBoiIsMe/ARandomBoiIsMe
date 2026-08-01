@@ -1,6 +1,6 @@
-[Age Milestone Privileges](https://xkcd.com/2661)
+[Footprints](https://xkcd.com/1575)
 
-![Age Milestone Privileges](./random_comic.png)
+![Footprints](./random_comic.png)
 
-If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article.
+"There's one set of foot-p's cause I was totes carrying you, bro!" said Jesus seconds before I punched him.
 
