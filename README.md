@@ -1,6 +1,6 @@
-[Supreme Court](https://xkcd.com/1607)
+[Only Serifs](https://xkcd.com/2736)
 
-![Supreme Court](./random_comic.png)
+![Only Serifs](./random_comic.png)
 
-Writing for the majority, Justice Kennedy called the man's arguments that he could be either Alito or Ginsburg "surprisingly compelling, but ultimately unconvincing."
+If you ever want to get beaten up by a bunch of graphic designers, try removing the serifs from Times New Roman and adding them to Comic Sans.
 
