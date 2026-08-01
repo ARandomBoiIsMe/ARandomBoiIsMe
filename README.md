@@ -1,6 +1,6 @@
-[Recycling](https://xkcd.com/885)
+[Age Milestone Privileges](https://xkcd.com/2661)
 
-![Recycling](./random_comic.png)
+![Age Milestone Privileges](./random_comic.png)
 
-And given how much of my stuff they go through, they definitely know where I live.
+If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article.
 
