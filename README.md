@@ -1,6 +1,6 @@
-[Effect Size](https://xkcd.com/2755)
+[Coupon Code](https://xkcd.com/837)
 
-![Effect Size](./random_comic.png)
+![Coupon Code](./random_comic.png)
 
-Subgroup analysis is ongoing.
+This also guarantees he won't be one of the ones to get a bobcat.
 
