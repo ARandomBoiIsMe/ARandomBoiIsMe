@@ -1,6 +1,6 @@
-[Coupon Code](https://xkcd.com/837)
+[After the Pandemic](https://xkcd.com/2457)
 
-![Coupon Code](./random_comic.png)
+![After the Pandemic](./random_comic.png)
 
-This also guarantees he won't be one of the ones to get a bobcat.
+I'm looking forward to having to worry a lot less about covid, but wouldn't mind if we worried a little more about giving each other colds. Colds are bad!
 
