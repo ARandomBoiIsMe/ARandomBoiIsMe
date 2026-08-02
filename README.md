@@ -1,6 +1,6 @@
-[After the Pandemic](https://xkcd.com/2457)
+[Rock Identification](https://xkcd.com/3068)
 
-![After the Pandemic](./random_comic.png)
+![Rock Identification](./random_comic.png)
 
-I'm looking forward to having to worry a lot less about covid, but wouldn't mind if we worried a little more about giving each other colds. Colds are bad!
+'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'
 
