@@ -1,6 +1,6 @@
-[Blanket Fort](https://xkcd.com/219)
+[Math](https://xkcd.com/1131)
 
-![Blanket Fort](./random_comic.png)
+![Math](./random_comic.png)
 
-Also, we have a fort out in the woods where we stashed that hooker's body.
+As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.
 
