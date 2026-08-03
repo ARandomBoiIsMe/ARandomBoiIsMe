@@ -1,6 +1,6 @@
-[Rock Identification](https://xkcd.com/3068)
+[CrowdStrike](https://xkcd.com/2961)
 
-![Rock Identification](./random_comic.png)
+![CrowdStrike](./random_comic.png)
 
-'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'
+We were going to try swordfighting, but all my compiling is on hold.
 
