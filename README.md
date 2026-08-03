@@ -1,6 +1,6 @@
-[Bayes' Theorem](https://xkcd.com/2545)
+[Blanket Fort](https://xkcd.com/219)
 
-![Bayes' Theorem](./random_comic.png)
+![Blanket Fort](./random_comic.png)
 
-P((B|A)|(A|B)) represents the probability that you'll mix up the order of the terms when using Bayesian notation.
+Also, we have a fort out in the woods where we stashed that hooker's body.
 
