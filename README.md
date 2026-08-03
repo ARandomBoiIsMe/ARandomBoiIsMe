@@ -1,6 +1,6 @@
-[CrowdStrike](https://xkcd.com/2961)
+[Bayes' Theorem](https://xkcd.com/2545)
 
-![CrowdStrike](./random_comic.png)
+![Bayes' Theorem](./random_comic.png)
 
-We were going to try swordfighting, but all my compiling is on hold.
+P((B|A)|(A|B)) represents the probability that you'll mix up the order of the terms when using Bayesian notation.
 
