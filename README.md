@@ -1,6 +1,6 @@
-[Rotary Tool](https://xkcd.com/3047)
+[Drop Those Pounds](https://xkcd.com/1160)
 
-![Rotary Tool](./random_comic.png)
+![Drop Those Pounds](./random_comic.png)
 
-It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.
+If the flyers don't work, we'll switch to the LEAST subtle method of informing a town of the existence of a trebuchet club.
 
