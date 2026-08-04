@@ -1,6 +1,6 @@
-[Godel, Escher, Kurt Halsey](https://xkcd.com/24)
+[Matrix Revisited](https://xkcd.com/566)
 
-![Godel, Escher, Kurt Halsey](./random_comic.png)
+![Matrix Revisited](./random_comic.png)
 
-I love the idea here, though of course it's not a great-quality drawing or scan.
+I actually remember being entertained by both the sequels while in the theater.  They just don't hold up nearly as well in later comparison.
 
