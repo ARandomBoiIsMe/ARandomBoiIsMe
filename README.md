@@ -1,6 +1,6 @@
-[Drop Those Pounds](https://xkcd.com/1160)
+[Godel, Escher, Kurt Halsey](https://xkcd.com/24)
 
-![Drop Those Pounds](./random_comic.png)
+![Godel, Escher, Kurt Halsey](./random_comic.png)
 
-If the flyers don't work, we'll switch to the LEAST subtle method of informing a town of the existence of a trebuchet club.
+I love the idea here, though of course it's not a great-quality drawing or scan.
 
