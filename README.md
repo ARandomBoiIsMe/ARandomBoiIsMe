@@ -1,6 +1,6 @@
-[Math](https://xkcd.com/1131)
+[Rotary Tool](https://xkcd.com/3047)
 
-![Math](./random_comic.png)
+![Rotary Tool](./random_comic.png)
 
-As of this writing, the only thing that's 'razor-thin' or 'too close to call' is the gap between the consensus poll forecast and the result.
+It was great until my thumb slipped and I accidentally launched my telescope into the air at Mach 8.
 
