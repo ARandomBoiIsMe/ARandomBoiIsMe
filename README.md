@@ -1,6 +1,6 @@
-[Matrix Revisited](https://xkcd.com/566)
+[Deer Turrets](https://xkcd.com/2350)
 
-![Matrix Revisited](./random_comic.png)
+![Deer Turrets](./random_comic.png)
 
-I actually remember being entertained by both the sequels while in the theater.  They just don't hold up nearly as well in later comparison.
+When my great grandfather designed the Titanic and it hit an iceberg and sank, he didn't sit around moping. He took those lessons to his next job designing airships, and he made the Hindenburg completely iceberg-proof!
 
