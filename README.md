@@ -1,6 +1,6 @@
-[Amazon](https://xkcd.com/1165)
+[Dating Pools](https://xkcd.com/314)
 
-![Amazon](./random_comic.png)
+![Dating Pools](./random_comic.png)
 
-Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.
+The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.
 
