@@ -1,6 +1,6 @@
-[Deer Turrets](https://xkcd.com/2350)
+[Amazon](https://xkcd.com/1165)
 
-![Deer Turrets](./random_comic.png)
+![Amazon](./random_comic.png)
 
-When my great grandfather designed the Titanic and it hit an iceberg and sank, he didn't sit around moping. He took those lessons to his next job designing airships, and he made the Hindenburg completely iceberg-proof!
+Amazon.com took a surprise early lead with 'Time required to transport a package from Iquitos, Peru to Manaus, Brazil' but then lost it at 'Minutes to skeletonize a cow'.
 
