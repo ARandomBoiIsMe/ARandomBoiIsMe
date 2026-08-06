@@ -1,6 +1,6 @@
-[Mnemonics](https://xkcd.com/992)
+[Christmas Eve Eve](https://xkcd.com/2089)
 
-![Mnemonics](./random_comic.png)
+![Christmas Eve Eve](./random_comic.png)
 
-'Sailor Moon's head exploded once' and 'Some men have explosive orgasms' both work for the Great Lakes from west to east (Paddle-to-the-Sea order).
+It turns out that saying "Oh, so THAT'S why they call it Boxing Day" is a good way to get punched a second time.
 
