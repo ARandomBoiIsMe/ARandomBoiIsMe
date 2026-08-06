@@ -1,6 +1,6 @@
-[Christmas Eve Eve](https://xkcd.com/2089)
+[Red Rover](https://xkcd.com/1449)
 
-![Christmas Eve Eve](./random_comic.png)
+![Red Rover](./random_comic.png)
 
-It turns out that saying "Oh, so THAT'S why they call it Boxing Day" is a good way to get punched a second time.
+I just learned about the Slide Mountain Ocean, which I like because it's three nouns that sound like they can't possibly all refer to the same thing.
 
