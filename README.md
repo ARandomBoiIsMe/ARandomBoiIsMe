@@ -1,6 +1,6 @@
-[Chorded Keyboard](https://xkcd.com/2583)
+[Terror Bird](https://xkcd.com/3069)
 
-![Chorded Keyboard](./random_comic.png)
+![Terror Bird](./random_comic.png)
 
-And even though it all went wrong / I'll stand before the lord of song / with nothing on my tongue but 'I don't understand, I swear I backed up my keyboard config before messing with it'
+There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes.
 
