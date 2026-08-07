@@ -1,6 +1,6 @@
-[Turn-On](https://xkcd.com/474)
+[Katamari](https://xkcd.com/83)
 
-![Turn-On](./random_comic.png)
+![Katamari](./random_comic.png)
 
-Supercollider?  I 'ardly know 'er!
+As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'
 
