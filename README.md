@@ -1,6 +1,6 @@
-[A �](https://xkcd.com/1913)
+[Turn-On](https://xkcd.com/474)
 
-![A �](./random_comic.png)
+![Turn-On](./random_comic.png)
 
-If you want in on the fun, map a key on your keyboard to the sequence U+0041 U+0020 U+FFFD (or U+0021 U+0020 U+FFFD for the exclamation point version), and then no update can never take this away from you.
+Supercollider?  I 'ardly know 'er!
 
