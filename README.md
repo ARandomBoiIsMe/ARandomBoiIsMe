@@ -1,6 +1,6 @@
-[Katamari](https://xkcd.com/83)
+[Weather](https://xkcd.com/1324)
 
-![Katamari](./random_comic.png)
+![Weather](./random_comic.png)
 
-As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'
+At least if you're really into, like, Turkish archaeology, store clerks aren't like 'hey, how 'bout those Derinkuyu underground cities!' when they're trying to be polite.
 
