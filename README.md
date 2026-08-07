@@ -1,6 +1,6 @@
-[Red Rover](https://xkcd.com/1449)
+[A �](https://xkcd.com/1913)
 
-![Red Rover](./random_comic.png)
+![A �](./random_comic.png)
 
-I just learned about the Slide Mountain Ocean, which I like because it's three nouns that sound like they can't possibly all refer to the same thing.
+If you want in on the fun, map a key on your keyboard to the sequence U+0041 U+0020 U+FFFD (or U+0021 U+0020 U+FFFD for the exclamation point version), and then no update can never take this away from you.
 
