@@ -1,6 +1,6 @@
-[Scientific Field Prefixes](https://xkcd.com/2656)
+[Outlet Denier](https://xkcd.com/2589)
 
-![Scientific Field Prefixes](./random_comic.png)
+![Outlet Denier](./random_comic.png)
 
-Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)
+There are regularly placed bumps on the underside just the right size to press the rocker switch on the power strip.
 
