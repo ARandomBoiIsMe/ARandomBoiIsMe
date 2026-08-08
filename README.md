@@ -1,6 +1,6 @@
-[Weather](https://xkcd.com/1324)
+[Scientific Field Prefixes](https://xkcd.com/2656)
 
-![Weather](./random_comic.png)
+![Scientific Field Prefixes](./random_comic.png)
 
-At least if you're really into, like, Turkish archaeology, store clerks aren't like 'hey, how 'bout those Derinkuyu underground cities!' when they're trying to be polite.
+Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)
 
