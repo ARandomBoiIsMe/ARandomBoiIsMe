@@ -1,6 +1,6 @@
-[Outlet Denier](https://xkcd.com/2589)
+[With Apologies to Robert Frost](https://xkcd.com/312)
 
-![Outlet Denier](./random_comic.png)
+![With Apologies to Robert Frost](./random_comic.png)
 
-There are regularly placed bumps on the underside just the right size to press the rocker switch on the power strip.
+Some say the world will end in fire; some say in segfaults.
 
