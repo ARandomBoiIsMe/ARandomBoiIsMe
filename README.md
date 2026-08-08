@@ -1,6 +1,6 @@
-[With Apologies to Robert Frost](https://xkcd.com/312)
+[Consensus Time](https://xkcd.com/2594)
 
-![With Apologies to Robert Frost](./random_comic.png)
+![Consensus Time](./random_comic.png)
 
-Some say the world will end in fire; some say in segfaults.
+Now, you may argue that the varying hour lengths and feedback effects would cause chaos. To which I say, yeah, and I'm also curious to see how the weekday cycle interacts with it! So, you in?
 
