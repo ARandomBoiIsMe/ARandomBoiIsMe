@@ -1,6 +1,6 @@
-[The Cure](https://xkcd.com/56)
+[Humidifier Review](https://xkcd.com/3044)
 
-![The Cure](./random_comic.png)
+![Humidifier Review](./random_comic.png)
 
-My first try at drawing a real face in years
+They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation.
 
