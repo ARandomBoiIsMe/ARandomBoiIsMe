@@ -1,6 +1,6 @@
-[The Fast and the Furious](https://xkcd.com/127)
+[Pwned](https://xkcd.com/91)
 
-![The Fast and the Furious](./random_comic.png)
+![Pwned](./random_comic.png)
 
-Sometimes when I steer shopping carts around corners, I slide them a little and pretend I'm getting the blue spark boost.
+I'm sure a discussion of the reason for the disappearance of adventure games in favor of RPGs would be fascinating
 
