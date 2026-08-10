@@ -1,6 +1,6 @@
-[Neighbor-Source Heat Pump](https://xkcd.com/3099)
+[Actually](https://xkcd.com/1318)
 
-![Neighbor-Source Heat Pump](./random_comic.png)
+![Actually](./random_comic.png)
 
-The installation of the pipes on the inside of the insulation can be challenging, especially when the neighbor could come home at any minute.
+Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.
 
