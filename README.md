@@ -1,6 +1,6 @@
-[Actually](https://xkcd.com/1318)
+[Lymphocytes](https://xkcd.com/2749)
 
-![Actually](./random_comic.png)
+![Lymphocytes](./random_comic.png)
 
-Protip: You can win every exchange just by being one level more precise than whoever talked last. Eventually, you'll defeat all conversational opponents and stand alone.
+It's very hard to detect, but recent studies have determined that when plasma B cells are producing antibodies, they go 'pew pew pew'
 
