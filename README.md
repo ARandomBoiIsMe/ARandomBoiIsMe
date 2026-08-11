@@ -1,6 +1,6 @@
-[Holes](https://xkcd.com/3266)
+[So Bad It's Worse](https://xkcd.com/653)
 
-![Holes](./random_comic.png)
+![So Bad It's Worse](./random_comic.png)
 
-If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do.
+You think it's so legendarily bad that you'll torrent it and sit through it just for the kitschy nerd cred. I, too, once thought as you did.
 
