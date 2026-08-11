@@ -1,6 +1,6 @@
-[Blagofaire](https://xkcd.com/239)
+[Cell Phones](https://xkcd.com/925)
 
-![Blagofaire](./random_comic.png)
+![Cell Phones](./random_comic.png)
 
-Things were better before the Structuring and the Levels.
+He holds the laptop like that on purpose, to make you cringe.
 
