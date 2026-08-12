@@ -1,6 +1,6 @@
-[Snopes](https://xkcd.com/250)
+[Barrel - Part 5](https://xkcd.com/31)
 
-![Snopes](./random_comic.png)
+![Barrel - Part 5](./random_comic.png)
 
-The MythBusters are even more sinister.
+Too good not to happen.
 
