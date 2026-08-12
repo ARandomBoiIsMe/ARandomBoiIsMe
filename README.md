@@ -1,6 +1,6 @@
-[Barrel - Part 5](https://xkcd.com/31)
+[Backup Batteries](https://xkcd.com/1872)
 
-![Barrel - Part 5](./random_comic.png)
+![Backup Batteries](./random_comic.png)
 
-Too good not to happen.
+If it falls below 20% full, my bag turns red and I start to panic.
 
