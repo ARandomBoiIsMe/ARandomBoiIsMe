@@ -1,6 +1,6 @@
-[Two Mirrors](https://xkcd.com/555)
+[Vacuum](https://xkcd.com/1486)
 
-![Two Mirrors](./random_comic.png)
+![Vacuum](./random_comic.png)
 
-If you actually do this, what really happens is Douglas Hofstadter appears and talks to you for eight hours about strange loops.
+Do you think you could actually clean the living room at some point, though?
 
