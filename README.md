@@ -1,6 +1,6 @@
-[Alignment Chart Alignment Chart](https://xkcd.com/2251)
+[Two Mirrors](https://xkcd.com/555)
 
-![Alignment Chart Alignment Chart](./random_comic.png)
+![Two Mirrors](./random_comic.png)
 
-I would describe my personal alignment as "lawful heterozygous silty liquid."
+If you actually do this, what really happens is Douglas Hofstadter appears and talks to you for eight hours about strange loops.
 
