@@ -1,6 +1,6 @@
-[Backup Batteries](https://xkcd.com/1872)
+[Update Notes](https://xkcd.com/2010)
 
-![Backup Batteries](./random_comic.png)
+![Update Notes](./random_comic.png)
 
-If it falls below 20% full, my bag turns red and I start to panic.
+v3.0.2: Hey, if anyone still using this app is headed to the beach, can you stop at 4th and River St and grab the sunscreen from my car? Trunk should be unlocked. Thanks!
 
