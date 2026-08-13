@@ -1,6 +1,6 @@
-[Update Notes](https://xkcd.com/2010)
+[Alignment Chart Alignment Chart](https://xkcd.com/2251)
 
-![Update Notes](./random_comic.png)
+![Alignment Chart Alignment Chart](./random_comic.png)
 
-v3.0.2: Hey, if anyone still using this app is headed to the beach, can you stop at 4th and River St and grab the sunscreen from my car? Trunk should be unlocked. Thanks!
+I would describe my personal alignment as "lawful heterozygous silty liquid."
 
