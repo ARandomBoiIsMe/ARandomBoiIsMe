@@ -1,6 +1,6 @@
-[Computers vs Humans](https://xkcd.com/1875)
+[Recurring Nightmare](https://xkcd.com/2285)
 
-![Computers vs Humans](./random_comic.png)
+![Recurring Nightmare](./random_comic.png)
 
-It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.
+Oh thank goodness, I forgot my clothes, so now everyone's looking embarrassed and backing away.
 
