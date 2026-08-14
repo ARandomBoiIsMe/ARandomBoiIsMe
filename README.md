@@ -1,6 +1,6 @@
-[Recurring Nightmare](https://xkcd.com/2285)
+[Formal Logic](https://xkcd.com/1033)
 
-![Recurring Nightmare](./random_comic.png)
+![Formal Logic](./random_comic.png)
 
-Oh thank goodness, I forgot my clothes, so now everyone's looking embarrassed and backing away.
+Note that this implies you should NOT honk solely because I stopped for a pedestrian and you're behind me.
 
