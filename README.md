@@ -1,6 +1,6 @@
-[Choices: Part 2](https://xkcd.com/265)
+[Computers vs Humans](https://xkcd.com/1875)
 
-![Choices: Part 2](./random_comic.png)
+![Computers vs Humans](./random_comic.png)
 
-Maybe someday I'll get to write the Wikipedia article about this place!  Wait, damn, original research.
+It's hard to train deep learning algorithms when most of the positive feedback they get is sarcastic.
 
