@@ -1,6 +1,6 @@
-[Vacuum](https://xkcd.com/1486)
+[Choices: Part 2](https://xkcd.com/265)
 
-![Vacuum](./random_comic.png)
+![Choices: Part 2](./random_comic.png)
 
-Do you think you could actually clean the living room at some point, though?
+Maybe someday I'll get to write the Wikipedia article about this place!  Wait, damn, original research.
 
