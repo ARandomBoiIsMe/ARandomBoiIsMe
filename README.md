@@ -1,6 +1,6 @@
-[Formal Logic](https://xkcd.com/1033)
+[My Other Car](https://xkcd.com/80)
 
-![Formal Logic](./random_comic.png)
+![My Other Car](./random_comic.png)
 
-Note that this implies you should NOT honk solely because I stopped for a pedestrian and you're behind me.
+It's much better than the other one.
 
