@@ -1,6 +1,6 @@
-[Just Alerting You](https://xkcd.com/15)
+[Regrets](https://xkcd.com/458)
 
-![Just Alerting You](./random_comic.png)
+![Regrets](./random_comic.png)
 
-Just thought you should know
+And nothing for 'I'm glad I saw Epic Movie.'
 
