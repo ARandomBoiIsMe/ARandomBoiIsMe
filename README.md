@@ -1,6 +1,6 @@
-[2024](https://xkcd.com/2875)
+[Just Alerting You](https://xkcd.com/15)
 
-![2024](./random_comic.png)
+![Just Alerting You](./random_comic.png)
 
-It wasn't originally constitutionally required, but presidents who served two terms have traditionally followed George Washington's example and gotten false teeth.
+Just thought you should know
 
