@@ -1,6 +1,6 @@
-[My Other Car](https://xkcd.com/80)
+[2024](https://xkcd.com/2875)
 
-![My Other Car](./random_comic.png)
+![2024](./random_comic.png)
 
-It's much better than the other one.
+It wasn't originally constitutionally required, but presidents who served two terms have traditionally followed George Washington's example and gotten false teeth.
 
