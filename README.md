@@ -1,6 +1,6 @@
-[Campaign Fundraising Emails](https://xkcd.com/1948)
+[Profile Creation Flowchart](https://xkcd.com/94)
 
-![Campaign Fundraising Emails](./random_comic.png)
+![Profile Creation Flowchart](./random_comic.png)
 
-The establishment doesn't take us seriously. You know who else they didn't take seriously? Hitler. I'll be like him, but a GOOD guy instead of...
+This one goes out to xxCrazyPixie1987xx
 
