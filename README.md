@@ -1,6 +1,6 @@
-[Regrets](https://xkcd.com/458)
+[Campaign Fundraising Emails](https://xkcd.com/1948)
 
-![Regrets](./random_comic.png)
+![Campaign Fundraising Emails](./random_comic.png)
 
-And nothing for 'I'm glad I saw Epic Movie.'
+The establishment doesn't take us seriously. You know who else they didn't take seriously? Hitler. I'll be like him, but a GOOD guy instead of...
 
