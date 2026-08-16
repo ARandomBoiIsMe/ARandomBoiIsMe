@@ -1,6 +1,6 @@
-[Profile Creation Flowchart](https://xkcd.com/94)
+[Hell](https://xkcd.com/724)
 
-![Profile Creation Flowchart](./random_comic.png)
+![Hell](./random_comic.png)
 
-This one goes out to xxCrazyPixie1987xx
+There's also a Katamari level where everything is just slightly bigger than you, and a Mario level with a star just out of reach.
 
