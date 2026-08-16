@@ -1,6 +1,6 @@
-[Hell](https://xkcd.com/724)
+[Snow Tracking](https://xkcd.com/702)
 
-![Hell](./random_comic.png)
+![Snow Tracking](./random_comic.png)
 
-There's also a Katamari level where everything is just slightly bigger than you, and a Mario level with a star just out of reach.
+I suppose that's more accurately a hare dryer.
 
