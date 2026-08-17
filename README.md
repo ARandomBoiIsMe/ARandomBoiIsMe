@@ -1,6 +1,6 @@
-[Snow Tracking](https://xkcd.com/702)
+[Getting Out of Hand](https://xkcd.com/333)
 
-![Snow Tracking](./random_comic.png)
+![Getting Out of Hand](./random_comic.png)
 
-I suppose that's more accurately a hare dryer.
+Wikipedia's role as brain-extension, while a little troubling, is also really cool.
 
