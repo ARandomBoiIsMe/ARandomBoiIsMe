@@ -1,6 +1,6 @@
-[Getting Out of Hand](https://xkcd.com/333)
+[RTFM](https://xkcd.com/293)
 
-![Getting Out of Hand](./random_comic.png)
+![RTFM](./random_comic.png)
 
-Wikipedia's role as brain-extension, while a little troubling, is also really cool.
+Life is too short for man pages, but occasionally much too short without them.
 
