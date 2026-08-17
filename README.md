@@ -1,6 +1,6 @@
-[Pinouts](https://xkcd.com/2317)
+[Clich&eacute;d Exchanges](https://xkcd.com/259)
 
-![Pinouts](./random_comic.png)
+![Clich&eacute;d Exchanges](./random_comic.png)
 
-The other side of USB-C is rotationally symmetric except that the 3rd pin from the top is designated FIREWIRE TRIBUTE PIN.
+It's like they say, you gotta fight fire with clich&eacute;s.
 
