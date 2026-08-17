@@ -1,6 +1,6 @@
-[RTFM](https://xkcd.com/293)
+[Pinouts](https://xkcd.com/2317)
 
-![RTFM](./random_comic.png)
+![Pinouts](./random_comic.png)
 
-Life is too short for man pages, but occasionally much too short without them.
+The other side of USB-C is rotationally symmetric except that the 3rd pin from the top is designated FIREWIRE TRIBUTE PIN.
 
