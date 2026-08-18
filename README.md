@@ -1,6 +1,6 @@
-[When You Assume](https://xkcd.com/1339)
+[Airspeed](https://xkcd.com/3161)
 
-![When You Assume](./random_comic.png)
+![Airspeed](./random_comic.png)
 
-You know what happens when you assert--you make an ass out of the emergency response team.
+Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record
 
