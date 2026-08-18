@@ -1,6 +1,6 @@
-[Clich&eacute;d Exchanges](https://xkcd.com/259)
+[When You Assume](https://xkcd.com/1339)
 
-![Clich&eacute;d Exchanges](./random_comic.png)
+![When You Assume](./random_comic.png)
 
-It's like they say, you gotta fight fire with clich&eacute;s.
+You know what happens when you assert--you make an ass out of the emergency response team.
 
