@@ -1,6 +1,6 @@
-[Airspeed](https://xkcd.com/3161)
+[Vacuum](https://xkcd.com/1486)
 
-![Airspeed](./random_comic.png)
+![Vacuum](./random_comic.png)
 
-Carefully maneuvering the balloon down a mineshaft in an effort to break the OTHER altitude record
+Do you think you could actually clean the living room at some point, though?
 
