@@ -1,6 +1,6 @@
-[Laser Danger](https://xkcd.com/3108)
+[Tape Measure](https://xkcd.com/284)
 
-![Laser Danger](./random_comic.png)
+![Tape Measure](./random_comic.png)
 
-To combat the threat, many airlines are installing wing-mounted spray bottles.
+This sequence was later reproduced in the International Tape-Extending Federation archives, retitled 'The Founding of the Sport'.
 
