@@ -1,6 +1,6 @@
-[Voting Systems](https://xkcd.com/1844)
+[Laser Danger](https://xkcd.com/3108)
 
-![Voting Systems](./random_comic.png)
+![Laser Danger](./random_comic.png)
 
-Kenneth Arrow hated me because the ordering of my preferences changes based on which voting systems have what level of support. But it tells me a lot about the people I'm going to be voting with!
+To combat the threat, many airlines are installing wing-mounted spray bottles.
 
