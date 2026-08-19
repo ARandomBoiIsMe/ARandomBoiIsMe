@@ -1,6 +1,6 @@
-[Visited](https://xkcd.com/1051)
+[Voting Systems](https://xkcd.com/1844)
 
-![Visited](./random_comic.png)
+![Voting Systems](./random_comic.png)
 
-I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.
+Kenneth Arrow hated me because the ordering of my preferences changes based on which voting systems have what level of support. But it tells me a lot about the people I'm going to be voting with!
 
