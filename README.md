@@ -1,6 +1,6 @@
-[Classical Periodic Table](https://xkcd.com/2975)
+[Chin-Up Bar](https://xkcd.com/954)
 
-![Classical Periodic Table](./random_comic.png)
+![Chin-Up Bar](./random_comic.png)
 
-Personally I think mercury is more of a 'wet earth' hybrid element.
+Those few who escaped found the emergency cutoff box disabled. The stampede lasted two hours and reached the bottom three times.
 
