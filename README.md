@@ -1,6 +1,6 @@
-[Suggestions](https://xkcd.com/672)
+[Holy Ghost](https://xkcd.com/459)
 
-![Suggestions](./random_comic.png)
+![Holy Ghost](./random_comic.png)
 
-An hour later: SUGGESTION: LICK HER NIPPLE MORE.
+Okay, everyone, cross yourselves, then cross the streams.
 
