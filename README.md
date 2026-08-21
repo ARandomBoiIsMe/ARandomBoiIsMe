@@ -1,6 +1,6 @@
-[Strengths and Weaknesses](https://xkcd.com/1545)
+[Sabotage](https://xkcd.com/2284)
 
-![Strengths and Weaknesses](./random_comic.png)
+![Sabotage](./random_comic.png)
 
-Do you need me to do a quicksort on the whiteboard or produce a generation of offspring or something? It might take me a bit, but I can do it.
+So excited to see everyone after my luxury cruise home from the World Handshake Championships!
 
