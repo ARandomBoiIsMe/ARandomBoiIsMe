@@ -1,6 +1,6 @@
-[YouTube Parties](https://xkcd.com/920)
+[Abusive Astronomy](https://xkcd.com/66)
 
-![YouTube Parties](./random_comic.png)
+![Abusive Astronomy](./random_comic.png)
 
-This reminds me of that video where ... no? How have you not seen that? Oh man, let me find it. No, it's ok, we can go back to your video later.
+Medium: Pencil on paper
 
