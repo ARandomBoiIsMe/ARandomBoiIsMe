@@ -1,6 +1,6 @@
-[Cat Proximity](https://xkcd.com/231)
+[The Race: Part 1](https://xkcd.com/577)
 
-![Cat Proximity](./random_comic.png)
+![The Race: Part 1](./random_comic.png)
 
-Yes you are!  And you're sitting there!  Hi, kitty!
+Great, and you JUST finished paying off the settlement over the Wayne Coyne hamster ball incident.
 
