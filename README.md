@@ -1,6 +1,6 @@
-[The Race: Part 5](https://xkcd.com/581)
+[Cat Proximity](https://xkcd.com/231)
 
-![The Race: Part 5](./random_comic.png)
+![Cat Proximity](./random_comic.png)
 
-It was actually canceled because they just noticed he's been naked under that coat the whole time.  There's a petition on Facebook to get Fox to un-cancel it, and one on Livejournal to get him to take off the coat.
+Yes you are!  And you're sitting there!  Hi, kitty!
 
