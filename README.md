@@ -1,6 +1,6 @@
-[Self-Description](https://xkcd.com/688)
+[The Race: Part 5](https://xkcd.com/581)
 
-![Self-Description](./random_comic.png)
+![The Race: Part 5](./random_comic.png)
 
-The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.
+It was actually canceled because they just noticed he's been naked under that coat the whole time.  There's a petition on Facebook to get Fox to un-cancel it, and one on Livejournal to get him to take off the coat.
 
