@@ -1,6 +1,6 @@
-[Important Life Lesson](https://xkcd.com/400)
+[Biology vs Robotics](https://xkcd.com/2720)
 
-![Important Life Lesson](./random_comic.png)
+![Biology vs Robotics](./random_comic.png)
 
-I didn't even know I *had* the Monty Python 'Lumberjack' song.
+Sorry, I've just always had these random things I don't like--like olives, or robots drilling holes in me without warning.
 
