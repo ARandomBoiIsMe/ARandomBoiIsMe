@@ -1,6 +1,6 @@
-[Kedging Cannon](https://xkcd.com/3013)
+[Important Life Lesson](https://xkcd.com/400)
 
-![Kedging Cannon](./random_comic.png)
+![Important Life Lesson](./random_comic.png)
 
-The real key was inventing the windmill-powered winch.
+I didn't even know I *had* the Monty Python 'Lumberjack' song.
 
