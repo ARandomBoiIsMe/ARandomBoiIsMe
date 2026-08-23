@@ -1,6 +1,6 @@
-[Misinterpretation](https://xkcd.com/1984)
+[Kedging Cannon](https://xkcd.com/3013)
 
-![Misinterpretation](./random_comic.png)
+![Kedging Cannon](./random_comic.png)
 
-"But there are seven billion people in the world! I can't possibly stop to consider how ALL of them might interpret something!" "Ah, yes, there's no middle ground between 'taking personal responsibility for the thoughts and feelings of every single person on Earth' and 'covering your eyes and ears and yelling logically correct statements into the void.' That's a very insightful point and not at all inane."
+The real key was inventing the windmill-powered winch.
 
