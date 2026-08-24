@@ -1,6 +1,6 @@
-[Vice President First Names](https://xkcd.com/2969)
+[A Crossword Puzzle](https://xkcd.com/2957)
 
-![Vice President First Names](./random_comic.png)
+![A Crossword Puzzle](./random_comic.png)
 
-[Political pundit on the ScrabbleTV News channel] "After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim."
+Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality].
 
