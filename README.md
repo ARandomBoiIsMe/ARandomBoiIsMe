@@ -1,6 +1,6 @@
-[Birds and Dinosaurs](https://xkcd.com/1211)
+[Thanksgiving Arguments](https://xkcd.com/2858)
 
-![Birds and Dinosaurs](./random_comic.png)
+![Thanksgiving Arguments](./random_comic.png)
 
-Sure, T. rex is closer in height to Stegosaurus than a sparrow. But that doesn't tell you much; 'Dinosaur Comics' author Ryan North is closer in height to certain dinosaurs than to the average human.
+An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it.
 
