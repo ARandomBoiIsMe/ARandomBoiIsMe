@@ -1,6 +1,6 @@
-[Sick Day](https://xkcd.com/1157)
+[NASA Press Conference](https://xkcd.com/1583)
 
-![Sick Day](./random_comic.png)
+![NASA Press Conference](./random_comic.png)
 
-Wikipedia path: Virus -> Immune system -> Innate immune system -> Parasites -> List of parasites of humans -> Naegleria fowleri -> Primary amoebic meningoencephalitis -> Deciding I DEFINITELY shouldn't connect an aquarium pump to my sinuses
+Why are we spending billions to ruin Mars with swarms of robots when Elon Musk has promised to ruin Mars for a FRACTION of the cost?
 
