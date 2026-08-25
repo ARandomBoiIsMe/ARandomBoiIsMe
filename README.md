@@ -1,6 +1,6 @@
-[NASA Press Conference](https://xkcd.com/1583)
+[Update Notes](https://xkcd.com/2010)
 
-![NASA Press Conference](./random_comic.png)
+![Update Notes](./random_comic.png)
 
-Why are we spending billions to ruin Mars with swarms of robots when Elon Musk has promised to ruin Mars for a FRACTION of the cost?
+v3.0.2: Hey, if anyone still using this app is headed to the beach, can you stop at 4th and River St and grab the sunscreen from my car? Trunk should be unlocked. Thanks!
 
