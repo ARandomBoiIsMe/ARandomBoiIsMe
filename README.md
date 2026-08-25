@@ -1,6 +1,6 @@
-[Thanksgiving Arguments](https://xkcd.com/2858)
+[Sick Day](https://xkcd.com/1157)
 
-![Thanksgiving Arguments](./random_comic.png)
+![Sick Day](./random_comic.png)
 
-An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it.
+Wikipedia path: Virus -> Immune system -> Innate immune system -> Parasites -> List of parasites of humans -> Naegleria fowleri -> Primary amoebic meningoencephalitis -> Deciding I DEFINITELY shouldn't connect an aquarium pump to my sinuses
 
