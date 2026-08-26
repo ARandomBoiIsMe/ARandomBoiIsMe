@@ -1,6 +1,6 @@
-[Update Notes](https://xkcd.com/2010)
+[Euler Diagrams](https://xkcd.com/2721)
 
-![Update Notes](./random_comic.png)
+![Euler Diagrams](./random_comic.png)
 
-v3.0.2: Hey, if anyone still using this app is headed to the beach, can you stop at 4th and River St and grab the sunscreen from my car? Trunk should be unlocked. Thanks!
+Things Leonhard Euler created ( most of math ( overlapping circle diagrams ) a cricket bowling machine ) Things John Venn created
 
