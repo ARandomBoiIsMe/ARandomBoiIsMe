@@ -1,6 +1,6 @@
-[Euler Diagrams](https://xkcd.com/2721)
+[Bumblebees](https://xkcd.com/1186)
 
-![Euler Diagrams](./random_comic.png)
+![Bumblebees](./random_comic.png)
 
-Things Leonhard Euler created ( most of math ( overlapping circle diagrams ) a cricket bowling machine ) Things John Venn created
+Did you know sociologists can't explain why people keep repeating that urban legend about bumblebees not being able to fly!?
 
