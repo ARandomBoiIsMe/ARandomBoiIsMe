@@ -1,6 +1,6 @@
-[Bonding](https://xkcd.com/1188)
+[Unfulfilling Toys](https://xkcd.com/2049)
 
-![Bonding](./random_comic.png)
+![Unfulfilling Toys](./random_comic.png)
 
-I'm trying to build character but Eclipse is really confusing.
+We were going to do a falling-apart Rubik's cube that was just 27 independent blocks stuck together with magnets, but then we realized it was actually really cool and even kind of worked, so we cut that one.
 
