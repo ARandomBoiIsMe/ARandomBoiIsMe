@@ -1,6 +1,6 @@
-[Unfulfilling Toys](https://xkcd.com/2049)
+[Phone Security](https://xkcd.com/1934)
 
-![Unfulfilling Toys](./random_comic.png)
+![Phone Security](./random_comic.png)
 
-We were going to do a falling-apart Rubik's cube that was just 27 independent blocks stuck together with magnets, but then we realized it was actually really cool and even kind of worked, so we cut that one.
+...wait until they type in payment information, then use it to order yourself a replacement phone.
 
