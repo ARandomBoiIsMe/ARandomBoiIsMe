@@ -1,6 +1,6 @@
-[Wrong Times Table](https://xkcd.com/2313)
+[Conversation](https://xkcd.com/1423)
 
-![Wrong Times Table](./random_comic.png)
+![Conversation](./random_comic.png)
 
-Deep in some corner of my heart, I suspect that real times tables are wrong about 6x7=42 and 8x7=56.
+Later, at home: 'Dear diary: Still can't figure out what to write here ...'
 
