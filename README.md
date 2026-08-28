@@ -1,6 +1,6 @@
-[Train](https://xkcd.com/1366)
+[Wrong Times Table](https://xkcd.com/2313)
 
-![Train](./random_comic.png)
+![Wrong Times Table](./random_comic.png)
 
-Trains rotate the Earth around various axes while elevators shift its position in space.
+Deep in some corner of my heart, I suspect that real times tables are wrong about 6x7=42 and 8x7=56.
 
