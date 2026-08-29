@@ -1,6 +1,6 @@
-[Electoral Precedent 2020](https://xkcd.com/2383)
+[Smart Home Security](https://xkcd.com/1966)
 
-![Electoral Precedent 2020](./random_comic.png)
+![Smart Home Security](./random_comic.png)
 
-He also broke the streak that incumbents with websites are unbeatable and Delawareans can't win, creating a new precedent: Only someone from Delaware can defeat an incumbent with a website.
+If they're getting valuable enough stuff from you, at least the organized crime folks have an incentive to issue regular updates to keep the appliance working after the manufacturer discontinues support.
 
