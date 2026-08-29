@@ -1,6 +1,6 @@
-[Actual Progress](https://xkcd.com/2797)
+[Electoral Precedent 2020](https://xkcd.com/2383)
 
-![Actual Progress](./random_comic.png)
+![Electoral Precedent 2020](./random_comic.png)
 
-Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'
+He also broke the streak that incumbents with websites are unbeatable and Delawareans can't win, creating a new precedent: Only someone from Delaware can defeat an incumbent with a website.
 
