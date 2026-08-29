@@ -1,6 +1,6 @@
-[Conversation](https://xkcd.com/1423)
+[Actual Progress](https://xkcd.com/2797)
 
-![Conversation](./random_comic.png)
+![Actual Progress](./random_comic.png)
 
-Later, at home: 'Dear diary: Still can't figure out what to write here ...'
+Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'
 
