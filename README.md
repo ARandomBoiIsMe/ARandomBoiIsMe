@@ -1,6 +1,6 @@
-[Opportunity Rover](https://xkcd.com/2111)
+[Launch Status Check](https://xkcd.com/1596)
 
-![Opportunity Rover](./random_comic.png)
+![Launch Status Check](./random_comic.png)
 
-Thanks for bringing us along.
+Visual checks suggest the cool bird has exited the launch zone. Tip the rocket sideways and resume the countdown--we're gonna go find it!
 
