@@ -1,6 +1,6 @@
-[Smart Home Security](https://xkcd.com/1966)
+[Super Bowl](https://xkcd.com/1480)
 
-![Smart Home Security](./random_comic.png)
+![Super Bowl](./random_comic.png)
 
-If they're getting valuable enough stuff from you, at least the organized crime folks have an incentive to issue regular updates to keep the appliance working after the manufacturer discontinues support.
+My hobby: Pretending to miss the sarcasm when people show off their lack of interest in football by talking about 'sportsball' and acting excited to find someone else who's interested, then acting confused when they try to clarify.
 
