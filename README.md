@@ -1,6 +1,6 @@
-[Launch Status Check](https://xkcd.com/1596)
+[Skew-T Log-P](https://xkcd.com/3032)
 
-![Launch Status Check](./random_comic.png)
+![Skew-T Log-P](./random_comic.png)
 
-Visual checks suggest the cool bird has exited the launch zone. Tip the rocket sideways and resume the countdown--we're gonna go find it!
+The most important quantity for meteorologists is of course the product of latent pressure and temperostrophic enthalpy, though 'how nice the weather is' is a close second.
 
