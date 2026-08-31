@@ -1,6 +1,6 @@
-[Research Account](https://xkcd.com/2894)
+[Kepler](https://xkcd.com/21)
 
-![Research Account](./random_comic.png)
+![Kepler](./random_comic.png)
 
-Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO
+Science joke.  You should probably just move along.
 
