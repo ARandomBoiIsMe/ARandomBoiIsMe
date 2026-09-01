@@ -1,6 +1,6 @@
-[Location Reviews](https://xkcd.com/1803)
+[Ancient Stars](https://xkcd.com/1342)
 
-![Location Reviews](./random_comic.png)
+![Ancient Stars](./random_comic.png)
 
-Google and Yelp keep deleting my scathing reviews of the Mariana Trench, the Chernobyl reactor core, the jet stream, and the equator.
+'The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.
 
