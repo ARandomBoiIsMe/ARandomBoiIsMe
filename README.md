@@ -1,6 +1,6 @@
-[Ancient Stars](https://xkcd.com/1342)
+[Room Code](https://xkcd.com/2937)
 
-![Ancient Stars](./random_comic.png)
+![Room Code](./random_comic.png)
 
-'The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.
+Sorry to make you memorize this random string of digits. If it helps, it can also double as a mnemonic for remembering your young relatives' birthdays, if they happened to have been born on February 5th, 2018.
 
