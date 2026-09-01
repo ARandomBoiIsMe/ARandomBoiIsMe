@@ -1,6 +1,6 @@
-[Room Code](https://xkcd.com/2937)
+[Emojic 8 Ball](https://xkcd.com/1525)
 
-![Room Code](./random_comic.png)
+![Emojic 8 Ball](./random_comic.png)
 
-Sorry to make you memorize this random string of digits. If it helps, it can also double as a mnemonic for remembering your young relatives' birthdays, if they happened to have been born on February 5th, 2018.
+
 
