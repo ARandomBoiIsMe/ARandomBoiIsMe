@@ -1,6 +1,6 @@
-[Kepler](https://xkcd.com/21)
+[Location Reviews](https://xkcd.com/1803)
 
-![Kepler](./random_comic.png)
+![Location Reviews](./random_comic.png)
 
-Science joke.  You should probably just move along.
+Google and Yelp keep deleting my scathing reviews of the Mariana Trench, the Chernobyl reactor core, the jet stream, and the equator.
 
