@@ -1,6 +1,6 @@
-[Artifacts](https://xkcd.com/1781)
+[Book Podcasts](https://xkcd.com/2834)
 
-![Artifacts](./random_comic.png)
+![Book Podcasts](./random_comic.png)
 
-I didn't even realize you could HAVE a data set made up entirely of outliers.
+I've been working my way through this 1950s podcast by someone named John Tolkien called 'Lord of the Rings'--it's a deep dive into this fictional world he created. Good stuff, really bingeable!
 
