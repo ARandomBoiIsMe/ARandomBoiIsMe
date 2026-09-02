@@ -1,6 +1,6 @@
-[Book Podcasts](https://xkcd.com/2834)
+[Ringer Volume/Media Volume](https://xkcd.com/1884)
 
-![Book Podcasts](./random_comic.png)
+![Ringer Volume/Media Volume](./random_comic.png)
 
-I've been working my way through this 1950s podcast by someone named John Tolkien called 'Lord of the Rings'--it's a deep dive into this fictional world he created. Good stuff, really bingeable!
+Our new video ad campaign has our product's name shouted in the first 500 milliseconds, so we can reach the people in adjacent rooms while the viewer is still turning down the volume.
 
