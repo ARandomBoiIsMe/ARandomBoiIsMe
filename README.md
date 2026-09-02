@@ -1,6 +1,6 @@
-[Emojic 8 Ball](https://xkcd.com/1525)
+[Artifacts](https://xkcd.com/1781)
 
-![Emojic 8 Ball](./random_comic.png)
+![Artifacts](./random_comic.png)
 
-
+I didn't even realize you could HAVE a data set made up entirely of outliers.
 
