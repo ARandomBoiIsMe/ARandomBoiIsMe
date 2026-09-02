@@ -1,6 +1,6 @@
-[Ringer Volume/Media Volume](https://xkcd.com/1884)
+[Raptor Fences](https://xkcd.com/758)
 
-![Ringer Volume/Media Volume](./random_comic.png)
+![Raptor Fences](./random_comic.png)
 
-Our new video ad campaign has our product's name shouted in the first 500 milliseconds, so we can reach the people in adjacent rooms while the viewer is still turning down the volume.
+If at least one person has a nightmare about being swarmed by hundreds of mouse-sized dromaeosaurids, my work will have been done.
 
