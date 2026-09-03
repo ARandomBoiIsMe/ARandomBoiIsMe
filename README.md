@@ -1,6 +1,6 @@
-[Raptor Fences](https://xkcd.com/758)
+[Superstition](https://xkcd.com/3191)
 
-![Raptor Fences](./random_comic.png)
+![Superstition](./random_comic.png)
 
-If at least one person has a nightmare about being swarmed by hundreds of mouse-sized dromaeosaurids, my work will have been done.
+It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!
 
