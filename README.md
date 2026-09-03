@@ -1,6 +1,6 @@
-[Artificial Gravity](https://xkcd.com/3111)
+[Modern History](https://xkcd.com/845)
 
-![Artificial Gravity](./random_comic.png)
+![Modern History](./random_comic.png)
 
-Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing.
+During the week, I research my character by living in his house and raising his children.
 
