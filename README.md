@@ -1,6 +1,6 @@
-[Modern History](https://xkcd.com/845)
+[How Old](https://xkcd.com/2213)
 
-![Modern History](./random_comic.png)
+![How Old](./random_comic.png)
 
-During the week, I research my character by living in his house and raising his children.
+We've met! I remember you when you were thiiiis tall! [*holds a hand an inch above their head*]
 
