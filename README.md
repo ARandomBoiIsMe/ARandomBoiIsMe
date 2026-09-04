@@ -1,6 +1,6 @@
-[Sports Knowledge](https://xkcd.com/1859)
+[Google Announcement](https://xkcd.com/1361)
 
-![Sports Knowledge](./random_comic.png)
+![Google Announcement](./random_comic.png)
 
-I heard they might make the wild card game, which would be cool. Do you know when that is? I have a wedding next weekend, but if it's after that we could try to go!
+The less popular 8.8.4.4 is slated for discontinuation.
 
