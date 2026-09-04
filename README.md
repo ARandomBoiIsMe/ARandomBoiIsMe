@@ -1,6 +1,6 @@
-[Proofs](https://xkcd.com/1724)
+[Sports Knowledge](https://xkcd.com/1859)
 
-![Proofs](./random_comic.png)
+![Sports Knowledge](./random_comic.png)
 
-Next, let's assume the decision of whether to take the Axiom of Choice is made by a deterministic process ...
+I heard they might make the wild card game, which would be cool. Do you know when that is? I have a wedding next weekend, but if it's after that we could try to go!
 
