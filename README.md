@@ -1,6 +1,6 @@
-[How Old](https://xkcd.com/2213)
+[Wake Up Sheeple](https://xkcd.com/1013)
 
-![How Old](./random_comic.png)
+![Wake Up Sheeple](./random_comic.png)
 
-We've met! I remember you when you were thiiiis tall! [*holds a hand an inch above their head*]
+You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.
 
