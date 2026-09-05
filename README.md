@@ -1,6 +1,6 @@
-[Suckville](https://xkcd.com/1008)
+[Proteins](https://xkcd.com/1430)
 
-![Suckville](./random_comic.png)
+![Proteins](./random_comic.png)
 
-Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.
+Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!
 
