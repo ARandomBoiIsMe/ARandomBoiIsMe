@@ -1,6 +1,6 @@
-[Proteins](https://xkcd.com/1430)
+[Duty Calls](https://xkcd.com/386)
 
-![Proteins](./random_comic.png)
+![Duty Calls](./random_comic.png)
 
-Check it out--when I tug the C-terminal tail, the binding tunnel squeezes!
+What do you want me to do?  LEAVE?  Then they'll keep being wrong!
 
