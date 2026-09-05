@@ -1,6 +1,6 @@
-[Duty Calls](https://xkcd.com/386)
+[Geologist](https://xkcd.com/1198)
 
-![Duty Calls](./random_comic.png)
+![Geologist](./random_comic.png)
 
-What do you want me to do?  LEAVE?  Then they'll keep being wrong!
+'It seems like it's still alive, Professor.' 'Yeah, a big one like this can keep running around for a few billion years after you remove the head."
 
