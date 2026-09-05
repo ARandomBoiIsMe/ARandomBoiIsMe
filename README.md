@@ -1,6 +1,6 @@
-[Google Announcement](https://xkcd.com/1361)
+[Suckville](https://xkcd.com/1008)
 
-![Google Announcement](./random_comic.png)
+![Suckville](./random_comic.png)
 
-The less popular 8.8.4.4 is slated for discontinuation.
+Suckville is considered by the Census Bureau to be part of the Detroit metropolitan statistical area, despite not being located anywhere near Detroit.
 
