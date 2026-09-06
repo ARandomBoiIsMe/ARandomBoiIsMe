@@ -1,6 +1,6 @@
-[Drone Training](https://xkcd.com/1881)
+[Conversations](https://xkcd.com/646)
 
-![Drone Training](./random_comic.png)
+![Conversations](./random_comic.png)
 
-The joke will be on him in a few weeks when animal control shows up and takes custody of his Roomba.
+If the dysentery graph looks historically inaccurate it's because I got all my data from Oregon Trail.
 
