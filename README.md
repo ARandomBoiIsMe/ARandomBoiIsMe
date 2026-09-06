@@ -1,6 +1,6 @@
-[Geologist](https://xkcd.com/1198)
+[Humming](https://xkcd.com/1192)
 
-![Geologist](./random_comic.png)
+![Humming](./random_comic.png)
 
-'It seems like it's still alive, Professor.' 'Yeah, a big one like this can keep running around for a few billion years after you remove the head."
+I'm so bad at carrying a tune, those 'find a song by humming its melody' websites throw an HTTP 406 error as soon as I start to hum.
 
