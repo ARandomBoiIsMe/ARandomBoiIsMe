@@ -1,6 +1,6 @@
-[Humming](https://xkcd.com/1192)
+[Cosmologist Genres](https://xkcd.com/2340)
 
-![Humming](./random_comic.png)
+![Cosmologist Genres](./random_comic.png)
 
-I'm so bad at carrying a tune, those 'find a song by humming its melody' websites throw an HTTP 406 error as soon as I start to hum.
+Inflationary cosmologists call all music from after the first 10^-30 seconds "post-"
 
