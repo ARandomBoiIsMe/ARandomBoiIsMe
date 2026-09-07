@@ -1,6 +1,6 @@
-[Location Reviews](https://xkcd.com/1803)
+[COVID Risk Comfort Zone](https://xkcd.com/2346)
 
-![Location Reviews](./random_comic.png)
+![COVID Risk Comfort Zone](./random_comic.png)
 
-Google and Yelp keep deleting my scathing reviews of the Mariana Trench, the Chernobyl reactor core, the jet stream, and the equator.
+I'm like a vampire, except I'm not crossing that threshold even if you invite me.
 
