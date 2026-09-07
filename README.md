@@ -1,6 +1,6 @@
-[Conversations](https://xkcd.com/646)
+[Nerd Sniping](https://xkcd.com/356)
 
-![Conversations](./random_comic.png)
+![Nerd Sniping](./random_comic.png)
 
-If the dysentery graph looks historically inaccurate it's because I got all my data from Oregon Trail.
+I first saw this problem on the Google Labs Aptitude Test.  A professor and I filled a blackboard without getting anywhere.  Have fun.
 
