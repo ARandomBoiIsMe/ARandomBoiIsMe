@@ -1,6 +1,6 @@
-[Nerd Sniping](https://xkcd.com/356)
+[Location Reviews](https://xkcd.com/1803)
 
-![Nerd Sniping](./random_comic.png)
+![Location Reviews](./random_comic.png)
 
-I first saw this problem on the Google Labs Aptitude Test.  A professor and I filled a blackboard without getting anywhere.  Have fun.
+Google and Yelp keep deleting my scathing reviews of the Mariana Trench, the Chernobyl reactor core, the jet stream, and the equator.
 
