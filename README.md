@@ -1,6 +1,6 @@
-[Moon Landing](https://xkcd.com/1074)
+[Video Content](https://xkcd.com/1804)
 
-![Moon Landing](./random_comic.png)
+![Video Content](./random_comic.png)
 
-Ok, so Spirit and Opportunity are pretty awesome. And Kepler. And New Horizons, Cassini, Curiosity, TiME, and Project M. But c'mon, if the Earth were a basketball, in 40 years no human's been more than half an inch from the surface.
+"So, like, sexy news videos?" "No, people have tried that--it's still just video content. We need to actually inform people THROUGH making out. I would call it 'Mouth Content,' but I think that's already the title of a Neil Cicierega album."
 
