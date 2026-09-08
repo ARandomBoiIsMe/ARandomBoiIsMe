@@ -1,6 +1,6 @@
-[Video Content](https://xkcd.com/1804)
+[Genetic Algorithms](https://xkcd.com/534)
 
-![Video Content](./random_comic.png)
+![Genetic Algorithms](./random_comic.png)
 
-"So, like, sexy news videos?" "No, people have tried that--it's still just video content. We need to actually inform people THROUGH making out. I would call it 'Mouth Content,' but I think that's already the title of a Neil Cicierega album."
+Just make sure you don't have it maximize instead of minimize.
 
