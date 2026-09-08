@@ -1,6 +1,6 @@
-[Privacy](https://xkcd.com/983)
+[1999](https://xkcd.com/855)
 
-![Privacy](./random_comic.png)
+![1999](./random_comic.png)
 
-Eventual headline: 'University Researchers Create Life in Lab! Darkness, Faulty Condoms Blamed.'
+'Whoa, twenty-two in two hours!' 'Your site got twenty-two hundred hits in two hours?' 'No. Twenty-two. But still, that's like half the people on the internet!'
 
