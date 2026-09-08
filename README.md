@@ -1,6 +1,6 @@
-[Genetic Algorithms](https://xkcd.com/534)
+[Privacy](https://xkcd.com/983)
 
-![Genetic Algorithms](./random_comic.png)
+![Privacy](./random_comic.png)
 
-Just make sure you don't have it maximize instead of minimize.
+Eventual headline: 'University Researchers Create Life in Lab! Darkness, Faulty Condoms Blamed.'
 
