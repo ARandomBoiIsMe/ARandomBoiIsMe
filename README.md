@@ -1,6 +1,6 @@
-[Strunk and White](https://xkcd.com/923)
+[Chemistry](https://xkcd.com/1442)
 
-![Strunk and White](./random_comic.png)
+![Chemistry](./random_comic.png)
 
-The best thing about Strunk/White fanfiction is that it's virtually guaranteed to be well written.
+These are all sans-serif compounds. Serif compounds are dramatically different and usually much more reactive.
 
