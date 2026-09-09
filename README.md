@@ -1,6 +1,6 @@
-[1999](https://xkcd.com/855)
+[Possible Undiscovered Planets](https://xkcd.com/1633)
 
-![1999](./random_comic.png)
+![Possible Undiscovered Planets](./random_comic.png)
 
-'Whoa, twenty-two in two hours!' 'Your site got twenty-two hundred hits in two hours?' 'No. Twenty-two. But still, that's like half the people on the internet!'
+Superman lies near the bird/plane boundary over a range of distances, which explains the confusion.
 
