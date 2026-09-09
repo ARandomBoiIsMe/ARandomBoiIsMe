@@ -1,6 +1,6 @@
-[Zealous Autoconfig](https://xkcd.com/416)
+[Strunk and White](https://xkcd.com/923)
 
-![Zealous Autoconfig](./random_comic.png)
+![Strunk and White](./random_comic.png)
 
-I hear this is an option in the latest Ubuntu release.
+The best thing about Strunk/White fanfiction is that it's virtually guaranteed to be well written.
 
