@@ -1,6 +1,6 @@
-[Fixing Problems](https://xkcd.com/1739)
+[Dating Pools](https://xkcd.com/314)
 
-![Fixing Problems](./random_comic.png)
+![Dating Pools](./random_comic.png)
 
-'What was the original problem you were trying to fix?' 'Well, I noticed one of the tools I was using had an inefficiency that was wasting my time.'
+The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.
 
