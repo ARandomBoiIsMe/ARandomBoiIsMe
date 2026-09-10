@@ -1,6 +1,6 @@
-[Chemistry](https://xkcd.com/1442)
+[Mario](https://xkcd.com/151)
 
-![Chemistry](./random_comic.png)
+![Mario](./random_comic.png)
 
-These are all sans-serif compounds. Serif compounds are dramatically different and usually much more reactive.
+Why would anyone ever, ever say that?  Please, nobody ever say that.
 
