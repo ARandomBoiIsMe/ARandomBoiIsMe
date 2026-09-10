@@ -1,6 +1,6 @@
-[Mario](https://xkcd.com/151)
+[Flag Design](https://xkcd.com/3250)
 
-![Mario](./random_comic.png)
+![Flag Design](./random_comic.png)
 
-Why would anyone ever, ever say that?  Please, nobody ever say that.
+Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.
 
