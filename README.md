@@ -1,6 +1,6 @@
-[Flag Design](https://xkcd.com/3250)
+[Fixing Problems](https://xkcd.com/1739)
 
-![Flag Design](./random_comic.png)
+![Fixing Problems](./random_comic.png)
 
-Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be.
+'What was the original problem you were trying to fix?' 'Well, I noticed one of the tools I was using had an inefficiency that was wasting my time.'
 
