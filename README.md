@@ -1,6 +1,6 @@
-[Dating Pools](https://xkcd.com/314)
+[Drawing Stars](https://xkcd.com/1029)
 
-![Dating Pools](./random_comic.png)
+![Drawing Stars](./random_comic.png)
 
-The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.
+Screw these 36-degree angles. I'm converting to Judaism.
 
