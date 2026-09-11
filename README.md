@@ -1,6 +1,6 @@
-[Monty Hall](https://xkcd.com/1282)
+[Advent Calendar Advent Calendar](https://xkcd.com/3019)
 
-![Monty Hall](./random_comic.png)
+![Advent Calendar Advent Calendar](./random_comic.png)
 
-A few minutes later, the goat from behind door C drives away in the car.
+The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song.
 
