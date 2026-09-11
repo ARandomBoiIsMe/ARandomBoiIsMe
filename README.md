@@ -1,6 +1,6 @@
-[Drawing Stars](https://xkcd.com/1029)
+[Monty Hall](https://xkcd.com/1282)
 
-![Drawing Stars](./random_comic.png)
+![Monty Hall](./random_comic.png)
 
-Screw these 36-degree angles. I'm converting to Judaism.
+A few minutes later, the goat from behind door C drives away in the car.
 
