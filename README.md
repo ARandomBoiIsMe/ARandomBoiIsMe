@@ -1,6 +1,6 @@
-[Feedback](https://xkcd.com/1457)
+[Side Effect](https://xkcd.com/3261)
 
-![Feedback](./random_comic.png)
+![Side Effect](./random_comic.png)
 
-A new study finds that if you give rats a cell phone and a lever they can push to improve the signal, the rats will chew on the cell phone until it breaks and your research supervisors will start to ask some questions about your grant money.
+Brace yourself--the chirp gets pretty weird.
 
