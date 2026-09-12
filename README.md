@@ -1,6 +1,6 @@
-[Side Effect](https://xkcd.com/3261)
+[Collections](https://xkcd.com/625)
 
-![Side Effect](./random_comic.png)
+![Collections](./random_comic.png)
 
-Brace yourself--the chirp gets pretty weird.
+You know what really helps an existential crisis? Wondering how much shelf space to leave for a Terry Pratchett collection.
 
