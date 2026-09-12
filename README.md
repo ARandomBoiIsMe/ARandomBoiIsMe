@@ -1,6 +1,6 @@
-[Collections](https://xkcd.com/625)
+[Everyday Carry](https://xkcd.com/2674)
 
-![Collections](./random_comic.png)
+![Everyday Carry](./random_comic.png)
 
-You know what really helps an existential crisis? Wondering how much shelf space to leave for a Terry Pratchett collection.
+Someday I just know I'm going to encounter a problem that requires 500 flashlights and 700 knives with weird holes in them, and on that day I won't be caught unprepared.
 
