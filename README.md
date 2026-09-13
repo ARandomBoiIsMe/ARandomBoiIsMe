@@ -1,6 +1,6 @@
-[Everyday Carry](https://xkcd.com/2674)
+[Space Basketball](https://xkcd.com/2328)
 
-![Everyday Carry](./random_comic.png)
+![Space Basketball](./random_comic.png)
 
-Someday I just know I'm going to encounter a problem that requires 500 flashlights and 700 knives with weird holes in them, and on that day I won't be caught unprepared.
+My shooting will improve over the short term, but over the long term the universe will take more shots.
 
