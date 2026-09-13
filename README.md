@@ -1,6 +1,6 @@
-[Space Basketball](https://xkcd.com/2328)
+[Chess Notation](https://xkcd.com/1800)
 
-![Space Basketball](./random_comic.png)
+![Chess Notation](./random_comic.png)
 
-My shooting will improve over the short term, but over the long term the universe will take more shots.
+I've decided to score all my conversations using chess win-loss notation. (??)
 
