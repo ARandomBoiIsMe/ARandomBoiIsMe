@@ -1,6 +1,6 @@
-[Chess Notation](https://xkcd.com/1800)
+[Recurring Nightmare](https://xkcd.com/2285)
 
-![Chess Notation](./random_comic.png)
+![Recurring Nightmare](./random_comic.png)
 
-I've decided to score all my conversations using chess win-loss notation. (??)
+Oh thank goodness, I forgot my clothes, so now everyone's looking embarrassed and backing away.
 
