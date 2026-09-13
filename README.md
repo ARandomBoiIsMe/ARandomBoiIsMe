@@ -1,6 +1,6 @@
-[Recurring Nightmare](https://xkcd.com/2285)
+[Linguists](https://xkcd.com/2390)
 
-![Recurring Nightmare](./random_comic.png)
+![Linguists](./random_comic.png)
 
-Oh thank goodness, I forgot my clothes, so now everyone's looking embarrassed and backing away.
+"Do you feel like the answer depends on whether you're currently in the hole, versus when you refer to the events later after you get out? Assuming you get out."
 
