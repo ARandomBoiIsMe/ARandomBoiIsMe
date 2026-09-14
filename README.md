@@ -1,6 +1,6 @@
-[Linguists](https://xkcd.com/2390)
+[Baker's Units](https://xkcd.com/3092)
 
-![Linguists](./random_comic.png)
+![Baker's Units](./random_comic.png)
 
-"Do you feel like the answer depends on whether you're currently in the hole, versus when you refer to the events later after you get out? Assuming you get out."
+169 is a baker's gross.
 
