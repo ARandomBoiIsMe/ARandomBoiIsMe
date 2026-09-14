@@ -1,6 +1,6 @@
-[Conversation](https://xkcd.com/1423)
+[1337: Part 2](https://xkcd.com/342)
 
-![Conversation](./random_comic.png)
+![1337: Part 2](./random_comic.png)
 
-Later, at home: 'Dear diary: Still can't figure out what to write here ...'
+Trivia: Elaine is actually her middle name.
 
