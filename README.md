@@ -1,6 +1,6 @@
-[Baker's Units](https://xkcd.com/3092)
+[Conversation](https://xkcd.com/1423)
 
-![Baker's Units](./random_comic.png)
+![Conversation](./random_comic.png)
 
-169 is a baker's gross.
+Later, at home: 'Dear diary: Still can't figure out what to write here ...'
 
