@@ -1,6 +1,6 @@
-[1337: Part 2](https://xkcd.com/342)
+[The Tell-Tale Beat](https://xkcd.com/740)
 
-![1337: Part 2](./random_comic.png)
+![The Tell-Tale Beat](./random_comic.png)
 
-Trivia: Elaine is actually her middle name.
+You fancy me mad. Could a madman have outsmarted the greatest electronica/techno artists of our era? Next to fall will be Roderick Usher's house/trance band.
 
