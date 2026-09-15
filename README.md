@@ -1,6 +1,6 @@
-[The Tell-Tale Beat](https://xkcd.com/740)
+[Coronavirus Worries](https://xkcd.com/2282)
 
-![The Tell-Tale Beat](./random_comic.png)
+![Coronavirus Worries](./random_comic.png)
 
-You fancy me mad. Could a madman have outsmarted the greatest electronica/techno artists of our era? Next to fall will be Roderick Usher's house/trance band.
+Offscreen, bottom left: Whether the custom :coronavirus: Slack react emoji you just added was public domain or whether you should have put a Creative Commons credit somewhere
 
