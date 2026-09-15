@@ -1,6 +1,6 @@
-[Elevator](https://xkcd.com/288)
+[‮LTR](https://xkcd.com/1137)
 
-![Elevator](./random_comic.png)
+![‮LTR](./random_comic.png)
 
-Quick, try it with 'LOVE'.
+Collaborative editing can quickly become a textual rap battle fought with increasingly convoluted invocations of U+202a to U+202e.
 
