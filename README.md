@@ -1,6 +1,6 @@
-[Begging the Question](https://xkcd.com/2039)
+[Nighttime Stories](https://xkcd.com/304)
 
-![Begging the Question](./random_comic.png)
+![Nighttime Stories](./random_comic.png)
 
-At least we can all agree on the enormity of this usage.
+Cue angry letters from all seven fans of Xenocide.
 
