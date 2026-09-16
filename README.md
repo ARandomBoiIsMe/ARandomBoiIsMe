@@ -1,6 +1,6 @@
-[Depth Perception](https://xkcd.com/941)
+[Begging the Question](https://xkcd.com/2039)
 
-![Depth Perception](./random_comic.png)
+![Begging the Question](./random_comic.png)
 
-I've looked at clouds from both sides now.
+At least we can all agree on the enormity of this usage.
 
