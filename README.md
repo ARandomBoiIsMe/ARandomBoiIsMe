@@ -1,6 +1,6 @@
-[Lisp](https://xkcd.com/224)
+[Admin Mourning](https://xkcd.com/686)
 
-![Lisp](./random_comic.png)
+![Admin Mourning](./random_comic.png)
 
-We lost the documentation on quantum mechanics.  You'll have to decode the regexes yourself.
+And every day it gets harder to fight the urge to su to the user and freak people out.
 
