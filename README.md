@@ -1,6 +1,6 @@
-[The Corliss Resolution](https://xkcd.com/962)
+[Taxiing](https://xkcd.com/2774)
 
-![The Corliss Resolution](./random_comic.png)
+![Taxiing](./random_comic.png)
 
-And no avian society ever develops space travel because it's impossible to focus on calculus when you could be outside flying.
+I don't understand why anyone would pay full price for a flatbed truck rental when you can buy 'DETOUR' signs online for like $10.
 
