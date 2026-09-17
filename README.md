@@ -1,6 +1,6 @@
-[Taxiing](https://xkcd.com/2774)
+[Silence](https://xkcd.com/1199)
 
-![Taxiing](./random_comic.png)
+![Silence](./random_comic.png)
 
-I don't understand why anyone would pay full price for a flatbed truck rental when you can buy 'DETOUR' signs online for like $10.
+All music is just performances of 4'33" in studios where another band happened to be playing at the time.
 
