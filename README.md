@@ -1,6 +1,6 @@
-[Silence](https://xkcd.com/1199)
+[Lisp](https://xkcd.com/224)
 
-![Silence](./random_comic.png)
+![Lisp](./random_comic.png)
 
-All music is just performances of 4'33" in studios where another band happened to be playing at the time.
+We lost the documentation on quantum mechanics.  You'll have to decode the regexes yourself.
 
