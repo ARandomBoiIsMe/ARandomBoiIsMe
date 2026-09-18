@@ -1,6 +1,6 @@
-[Eternal Flame](https://xkcd.com/961)
+[Effect an Effect](https://xkcd.com/326)
 
-![Eternal Flame](./random_comic.png)
+![Effect an Effect](./random_comic.png)
 
-There's always the hope that if you sit and watch for long enough, the beachball will vanish and the thing it interrupted will return.
+Time to paint another grammarian silhouette on the side of the desktop.
 
