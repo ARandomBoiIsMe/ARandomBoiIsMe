@@ -1,6 +1,6 @@
-[Admin Mourning](https://xkcd.com/686)
+[Eternal Flame](https://xkcd.com/961)
 
-![Admin Mourning](./random_comic.png)
+![Eternal Flame](./random_comic.png)
 
-And every day it gets harder to fight the urge to su to the user and freak people out.
+There's always the hope that if you sit and watch for long enough, the beachball will vanish and the thing it interrupted will return.
 
