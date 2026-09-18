@@ -1,6 +1,6 @@
-[Effect an Effect](https://xkcd.com/326)
+[Increased Risk](https://xkcd.com/1252)
 
-![Effect an Effect](./random_comic.png)
+![Increased Risk](./random_comic.png)
 
-Time to paint another grammarian silhouette on the side of the desktop.
+You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!
 
