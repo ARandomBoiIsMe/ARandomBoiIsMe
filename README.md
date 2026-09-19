@@ -1,6 +1,6 @@
-[Increased Risk](https://xkcd.com/1252)
+[T-shirts](https://xkcd.com/23)
 
-![Increased Risk](./random_comic.png)
+![T-shirts](./random_comic.png)
 
-You may point out that strictly speaking, you can use that statement to prove that all risks are tiny--to which I reply HOLY SHIT WATCH OUT FOR THAT DOG!
+It's depressing how many of these are real shirts
 
