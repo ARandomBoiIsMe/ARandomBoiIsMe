@@ -1,6 +1,6 @@
-[T-shirts](https://xkcd.com/23)
+[Vaccinated](https://xkcd.com/2460)
 
-![T-shirts](./random_comic.png)
+![Vaccinated](./random_comic.png)
 
-It's depressing how many of these are real shirts
+I built a model that combines local case rates and vaccination stats to estimate when it's reasonable to attend various types of party, but I forgot to include anything about where to find them.
 
