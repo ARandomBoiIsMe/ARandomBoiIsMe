@@ -1,6 +1,6 @@
-[Interior Decorating](https://xkcd.com/2692)
+[Space Typography](https://xkcd.com/2863)
 
-![Interior Decorating](./random_comic.png)
+![Space Typography](./random_comic.png)
 
-It all came flat-packed in Pandora's Box.
+And over heeee[...]eeeere (i)s Saturn.
 
