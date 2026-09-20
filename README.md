@@ -1,6 +1,6 @@
-[Space Typography](https://xkcd.com/2863)
+[Religions](https://xkcd.com/900)
 
-![Space Typography](./random_comic.png)
+![Religions](./random_comic.png)
 
-And over heeee[...]eeeere (i)s Saturn.
+But to us there is but one God, plus or minus one. --1 Corinthians 8:6±2.
 
