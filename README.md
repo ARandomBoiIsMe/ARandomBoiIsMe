@@ -1,6 +1,6 @@
-[Rotation](https://xkcd.com/2671)
+[Legal Hacks](https://xkcd.com/504)
 
-![Rotation](./random_comic.png)
+![Legal Hacks](./random_comic.png)
 
-It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.
+It's totally a reasonable modern analogue.  Jefferson would have been all about crypto.
 
