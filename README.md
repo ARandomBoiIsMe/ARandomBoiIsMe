@@ -1,6 +1,6 @@
-[Fish](https://xkcd.com/1377)
+[The Perfect Sound](https://xkcd.com/193)
 
-![Fish](./random_comic.png)
+![The Perfect Sound](./random_comic.png)
 
-[Astronomer peers into telescope] [Jaws theme begins playing]
+Oh, what a pity, can't you understand . . .
 
