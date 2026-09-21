@@ -1,6 +1,6 @@
-[Credit Card Rewards](https://xkcd.com/1908)
+[Goofs](https://xkcd.com/2623)
 
-![Credit Card Rewards](./random_comic.png)
+![Goofs](./random_comic.png)
 
-I should make a list of all the things I could be trying to optimize, prioritized by ... well, I guess there are a few different variables I could use. I'll create a spreadsheet ...
+The film is set in 2018, but when Commander Bremberly chases the hologram through Times Square, there's a billboard for Avengers: Age of Ultron. Depending on the date, that billboard would have been advertising either Infinity War or this movie.
 
