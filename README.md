@@ -1,6 +1,6 @@
-[Quirky Girls](https://xkcd.com/122)
+[Soniferous Aether](https://xkcd.com/3238)
 
-![Quirky Girls](./random_comic.png)
+![Soniferous Aether](./random_comic.png)
 
-Romantic comedy heroines, I'm talking to you.
+Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.
 
