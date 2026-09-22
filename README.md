@@ -1,6 +1,6 @@
-[Starlight](https://xkcd.com/811)
+[Quirky Girls](https://xkcd.com/122)
 
-![Starlight](./random_comic.png)
+![Quirky Girls](./random_comic.png)
 
-Don't worry! From the light's point of view, home and your eye are in the same place, and the journey takes no time at all! Relativity saves the day again.
+Romantic comedy heroines, I'm talking to you.
 
