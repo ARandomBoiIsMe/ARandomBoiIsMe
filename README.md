@@ -1,6 +1,6 @@
-[The Perfect Sound](https://xkcd.com/193)
+[Good Cop, Dadaist Cop](https://xkcd.com/1018)
 
-![The Perfect Sound](./random_comic.png)
+![Good Cop, Dadaist Cop](./random_comic.png)
 
-Oh, what a pity, can't you understand . . .
+NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.
 
