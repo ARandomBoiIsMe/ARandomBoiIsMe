@@ -1,6 +1,6 @@
-[Good Cop, Dadaist Cop](https://xkcd.com/1018)
+[Starlight](https://xkcd.com/811)
 
-![Good Cop, Dadaist Cop](./random_comic.png)
+![Starlight](./random_comic.png)
 
-NOW INVENT AN IMPOSSIBLE-TO-TRANSLATE LANGUAGE AND USE IT TO TELL US WHERE THE MONEY IS.
+Don't worry! From the light's point of view, home and your eye are in the same place, and the journey takes no time at all! Relativity saves the day again.
 
