@@ -1,6 +1,6 @@
-[Soniferous Aether](https://xkcd.com/3238)
+[Unsolved Math Problems](https://xkcd.com/2529)
 
-![Soniferous Aether](./random_comic.png)
+![Unsolved Math Problems](./random_comic.png)
 
-Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.
+After decades of studying the curve and the procedure that generates it, the consensus explanation is "it's just like that."
 
