@@ -1,6 +1,6 @@
-[Unsolved Math Problems](https://xkcd.com/2529)
+[Modern](https://xkcd.com/3089)
 
-![Unsolved Math Problems](./random_comic.png)
+![Modern](./random_comic.png)
 
-After decades of studying the curve and the procedure that generates it, the consensus explanation is "it's just like that."
+Scholars are still debating whether the current period is post-postmodern or neo-contemporary.
 
