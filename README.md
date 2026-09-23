@@ -1,6 +1,6 @@
-[Modern](https://xkcd.com/3089)
+[Screenshot](https://xkcd.com/1373)
 
-![Modern](./random_comic.png)
+![Screenshot](./random_comic.png)
 
-Scholars are still debating whether the current period is post-postmodern or neo-contemporary.
+I'M PLUGGING IN MY PHONE BUT THE BATTERY ON THE SCREEN ISN'T CHARGING
 
