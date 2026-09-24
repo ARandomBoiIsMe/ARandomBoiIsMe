@@ -1,6 +1,6 @@
-[Fermat's First Theorem](https://xkcd.com/2689)
+[False Dichotomy](https://xkcd.com/2592)
 
-![Fermat's First Theorem](./random_comic.png)
+![False Dichotomy](./random_comic.png)
 
-Mathematicians quickly determined that it spells ANT BNECN, an unusual theoretical dish which was not successfully cooked until Andrew Wiles made it for breakfast in the 1990s.
+There are two types of dichotomy: False dichotomies, true dichotomies, and surprise trichotomies.
 
