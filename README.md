@@ -1,6 +1,6 @@
-[Napoleon](https://xkcd.com/1510)
+[Bookshelf](https://xkcd.com/1049)
 
-![Napoleon](./random_comic.png)
+![Bookshelf](./random_comic.png)
 
-"Mr. President, what if the unthinkable happens? What if the launch goes wrong, and Napoleon is not stranded on the Moon?" "Have Safire write up a speech."
+I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'
 
