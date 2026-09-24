@@ -1,6 +1,6 @@
-[False Dichotomy](https://xkcd.com/2592)
+[Napoleon](https://xkcd.com/1510)
 
-![False Dichotomy](./random_comic.png)
+![Napoleon](./random_comic.png)
 
-There are two types of dichotomy: False dichotomies, true dichotomies, and surprise trichotomies.
+"Mr. President, what if the unthinkable happens? What if the launch goes wrong, and Napoleon is not stranded on the Moon?" "Have Safire write up a speech."
 
