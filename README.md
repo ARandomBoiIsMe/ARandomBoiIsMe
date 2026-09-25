@@ -1,6 +1,6 @@
-[Business Greetings](https://xkcd.com/2277)
+[Carnot Cycle](https://xkcd.com/2063)
 
-![Business Greetings](./random_comic.png)
+![Carnot Cycle](./random_comic.png)
 
-We have email and social media now, so we probably don't need to keep exchanging business cards by pressing them gently against each others' faces with an open palm and smearing them around.
+The Carnot cycle is more properly known by its full title, the "Carnot-Tolkien-Wagner Ring Cycle."
 
