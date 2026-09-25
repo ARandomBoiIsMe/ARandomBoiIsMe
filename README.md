@@ -1,6 +1,6 @@
-[Laser Products](https://xkcd.com/1681)
+[Business Greetings](https://xkcd.com/2277)
 
-![Laser Products](./random_comic.png)
+![Business Greetings](./random_comic.png)
 
-ERRORS: HAIR JAM. COLOR-SAFE CONDITIONER CARTRIDGE RUNNING LOW. LEGAL-SIZE HAIR TRAY EMPTY, USING LETTER-SIZE HAIR ONLY.
+We have email and social media now, so we probably don't need to keep exchanging business cards by pressing them gently against each others' faces with an open palm and smearing them around.
 
