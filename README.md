@@ -1,6 +1,6 @@
-[Bookshelf](https://xkcd.com/1049)
+[Good and Bad Ideas](https://xkcd.com/2929)
 
-![Bookshelf](./random_comic.png)
+![Good and Bad Ideas](./random_comic.png)
 
-I had a hard time with Ayn Rand because I found myself enthusiastically agreeing with the first 90% of every sentence, but getting lost at 'therefore, be a huge asshole to everyone.'
+While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.
 
