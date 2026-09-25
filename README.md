@@ -1,6 +1,6 @@
-[Good and Bad Ideas](https://xkcd.com/2929)
+[Laser Products](https://xkcd.com/1681)
 
-![Good and Bad Ideas](./random_comic.png)
+![Laser Products](./random_comic.png)
 
-While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.
+ERRORS: HAIR JAM. COLOR-SAFE CONDITIONER CARTRIDGE RUNNING LOW. LEGAL-SIZE HAIR TRAY EMPTY, USING LETTER-SIZE HAIR ONLY.
 
