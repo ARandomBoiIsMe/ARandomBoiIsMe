@@ -1,6 +1,6 @@
-[Carnot Cycle](https://xkcd.com/2063)
+[Flying Cars](https://xkcd.com/864)
 
-![Carnot Cycle](./random_comic.png)
+![Flying Cars](./random_comic.png)
 
-The Carnot cycle is more properly known by its full title, the "Carnot-Tolkien-Wagner Ring Cycle."
+It's hard to fit in the backseat of my flying car with my android Realdoll when we're both wearing jetpacks.
 
