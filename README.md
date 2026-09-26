@@ -1,6 +1,6 @@
-[Habitable Zone](https://xkcd.com/1231)
+[Inside Joke](https://xkcd.com/794)
 
-![Habitable Zone](./random_comic.png)
+![Inside Joke](./random_comic.png)
 
-They have a telescope pointed RIGHT AT US!
+I've looked through a few annotated versions of classic books, and it's shocking how much of what's in there is basically pop-culture references totally lost on us now.
 
