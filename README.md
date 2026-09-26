@@ -1,6 +1,6 @@
-[People are Stupid](https://xkcd.com/1386)
+[Habitable Zone](https://xkcd.com/1231)
 
-![People are Stupid](./random_comic.png)
+![Habitable Zone](./random_comic.png)
 
-To everyone who responds to everything by saying they've 'lost their faith in humanity': Thanks--I'll let humanity know. I'm sure they'll be crushed.
+They have a telescope pointed RIGHT AT US!
 
