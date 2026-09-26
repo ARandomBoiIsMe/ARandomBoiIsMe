@@ -1,6 +1,6 @@
-[Flying Cars](https://xkcd.com/864)
+[People are Stupid](https://xkcd.com/1386)
 
-![Flying Cars](./random_comic.png)
+![People are Stupid](./random_comic.png)
 
-It's hard to fit in the backseat of my flying car with my android Realdoll when we're both wearing jetpacks.
+To everyone who responds to everything by saying they've 'lost their faith in humanity': Thanks--I'll let humanity know. I'm sure they'll be crushed.
 
