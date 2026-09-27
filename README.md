@@ -1,6 +1,6 @@
-[Audiophiles](https://xkcd.com/841)
+[Earth Formation Site](https://xkcd.com/2925)
 
-![Audiophiles](./random_comic.png)
+![Earth Formation Site](./random_comic.png)
 
-For years, I took the wrong lesson from that Monster Cable experiment and only listened to my music through alligator-clipped coat hangers.
+It's not far from the sign marking the exact latitude and longitude of the Earth's core.
 
