@@ -1,6 +1,6 @@
-[Earth Formation Site](https://xkcd.com/2925)
+[Perspective](https://xkcd.com/198)
 
-![Earth Formation Site](./random_comic.png)
+![Perspective](./random_comic.png)
 
-It's not far from the sign marking the exact latitude and longitude of the Earth's core.
+I wonder what I was dreaming to prompt that.  I hope it wasn't the Richard Stallman Cirque de Soleil thing again.
 
