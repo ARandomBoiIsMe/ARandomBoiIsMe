@@ -1,6 +1,6 @@
-[Inside Joke](https://xkcd.com/794)
+[Audiophiles](https://xkcd.com/841)
 
-![Inside Joke](./random_comic.png)
+![Audiophiles](./random_comic.png)
 
-I've looked through a few annotated versions of classic books, and it's shocking how much of what's in there is basically pop-culture references totally lost on us now.
+For years, I took the wrong lesson from that Monster Cable experiment and only listened to my music through alligator-clipped coat hangers.
 
