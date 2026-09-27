@@ -1,6 +1,6 @@
-[Perspective](https://xkcd.com/198)
+[Average Familiarity](https://xkcd.com/2501)
 
-![Perspective](./random_comic.png)
+![Average Familiarity](./random_comic.png)
 
-I wonder what I was dreaming to prompt that.  I hope it wasn't the Richard Stallman Cirque de Soleil thing again.
+How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!
 
