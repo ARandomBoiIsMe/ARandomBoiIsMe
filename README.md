@@ -1,6 +1,6 @@
-[Average Familiarity](https://xkcd.com/2501)
+[Magnetic Pole](https://xkcd.com/2098)
 
-![Average Familiarity](./random_comic.png)
+![Magnetic Pole](./random_comic.png)
 
-How could anyone consider themselves a well-rounded adult without a basic understanding of silicate geochemistry? Silicates are everywhere! It's hard to throw a rock without throwing one!
+People keep trying to come up with reasons that we should worry about the magnetic field collapsing or reversing, but honestly I think it's fine. Whatever minor problems it causes will be made up for by the mid-latitude auroras.
 
