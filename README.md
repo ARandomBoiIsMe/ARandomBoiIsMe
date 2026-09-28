@@ -1,6 +1,6 @@
-[Magnetic Pole](https://xkcd.com/2098)
+[Mattresses](https://xkcd.com/2096)
 
-![Magnetic Pole](./random_comic.png)
+![Mattresses](./random_comic.png)
 
-People keep trying to come up with reasons that we should worry about the magnetic field collapsing or reversing, but honestly I think it's fine. Whatever minor problems it causes will be made up for by the mid-latitude auroras.
+After reading that "The War To Sell You A Mattress Is An Internet Nightmare" article, I've decided it's safer and less complicated to just sleep on the floor. DISCLOSURE: THE AUTHOR OF THIS MOUSEOVER TEXT RECEIVED FINANCIAL COMPENSATION FROM THE FLOOR INDUSTRY FOR THIS MESSAGE.
 
