@@ -1,6 +1,6 @@
-[Mattresses](https://xkcd.com/2096)
+[Dying Gift](https://xkcd.com/1941)
 
-![Mattresses](./random_comic.png)
+![Dying Gift](./random_comic.png)
 
-After reading that "The War To Sell You A Mattress Is An Internet Nightmare" article, I've decided it's safer and less complicated to just sleep on the floor. DISCLOSURE: THE AUTHOR OF THIS MOUSEOVER TEXT RECEIVED FINANCIAL COMPENSATION FROM THE FLOOR INDUSTRY FOR THIS MESSAGE.
+And to you, I leave my life-sized ice sculpture replica of the Pietà which was blessed by the Pope. You must never let it melt! Now, remember, all gifts must be removed from my estate within 24 hours.
 
