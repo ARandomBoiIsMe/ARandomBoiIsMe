@@ -1,6 +1,6 @@
-[The Wrong Stuff](https://xkcd.com/2865)
+[Turn Back](https://xkcd.com/170)
 
-![The Wrong Stuff](./random_comic.png)
+![Turn Back](./random_comic.png)
 
-The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.
+I hear that these days Bill Watterson is happy just painting in the Ohio woods with his father and doesn't get any mail or talk to anyone.
 
