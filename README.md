@@ -1,6 +1,6 @@
-[Dying Gift](https://xkcd.com/1941)
+[For the Sake of Simplicity](https://xkcd.com/2587)
 
-![Dying Gift](./random_comic.png)
+![For the Sake of Simplicity](./random_comic.png)
 
-And to you, I leave my life-sized ice sculpture replica of the Pietà which was blessed by the Pope. You must never let it melt! Now, remember, all gifts must be removed from my estate within 24 hours.
+For the sake of simplicity, gardeners are assumed to move through Euclidean space--neglecting the distortion from general relativity--unless they are in the vicinity of a Schwarzschild Orchid.
 
