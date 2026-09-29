@@ -1,6 +1,6 @@
-[For the Sake of Simplicity](https://xkcd.com/2587)
+[The Wrong Stuff](https://xkcd.com/2865)
 
-![For the Sake of Simplicity](./random_comic.png)
+![The Wrong Stuff](./random_comic.png)
 
-For the sake of simplicity, gardeners are assumed to move through Euclidean space--neglecting the distortion from general relativity--unless they are in the vicinity of a Schwarzschild Orchid.
+The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction.
 
