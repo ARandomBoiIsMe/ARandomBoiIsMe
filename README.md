@@ -1,6 +1,6 @@
-[Turn Back](https://xkcd.com/170)
+[Useless](https://xkcd.com/55)
 
-![Turn Back](./random_comic.png)
+![Useless](./random_comic.png)
 
-I hear that these days Bill Watterson is happy just painting in the Ohio woods with his father and doesn't get any mail or talk to anyone.
+Even the identity matrix doesn't work normally
 
