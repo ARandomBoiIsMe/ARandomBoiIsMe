@@ -1,6 +1,6 @@
-[Stargazing](https://xkcd.com/1644)
+[Emails](https://xkcd.com/1783)
 
-![Stargazing](./random_comic.png)
+![Emails](./random_comic.png)
 
-Some of you may be thinking, 'But wait, isn't the brightest star in our sky the Sun?' I think that's a great question and you should totally ask it. On the infinite tree of possible conversations spread out before us, I think that's definitely the most promising branch.
+Hey Rob, sorry it took me a while to get back to you! Sure, I'd love to see WALL-E opening weekend! Are you still doing that, or...?
 
