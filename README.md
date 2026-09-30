@@ -1,6 +1,6 @@
-[Emails](https://xkcd.com/1783)
+[Heartbleed Explanation](https://xkcd.com/1354)
 
-![Emails](./random_comic.png)
+![Heartbleed Explanation](./random_comic.png)
 
-Hey Rob, sorry it took me a while to get back to you! Sure, I'd love to see WALL-E opening weekend! Are you still doing that, or...?
+Are you still there, server? It's me, Margaret.
 
