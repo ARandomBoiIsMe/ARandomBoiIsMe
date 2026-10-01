@@ -1,6 +1,6 @@
-[Eagle](https://xkcd.com/733)
+[Crowdsourcing](https://xkcd.com/1060)
 
-![Eagle](./random_comic.png)
+![Crowdsourcing](./random_comic.png)
 
-In the off-seasons, I hire an animal trainer to help confront secret agents with situations which they are unable to report by radio.
+We don't sell products; we sell the marketplace. And by 'sell the marketplace' we mean 'play shooters, sometimes for upwards of 20 hours straight.'
 
