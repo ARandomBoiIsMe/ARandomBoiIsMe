@@ -1,6 +1,6 @@
-[Internet Archive](https://xkcd.com/2102)
+[Rulebook](https://xkcd.com/1552)
 
-![Internet Archive](./random_comic.png)
+![Rulebook](./random_comic.png)
 
-The fact that things like the npm left-pad incident are so rare is oddly reassuring.
+It's definitely an intentional foul, but we've decided it's worth it.
 
