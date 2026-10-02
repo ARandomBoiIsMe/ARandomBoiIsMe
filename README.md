@@ -1,6 +1,6 @@
-[Crowdsourcing](https://xkcd.com/1060)
+[Internet Archive](https://xkcd.com/2102)
 
-![Crowdsourcing](./random_comic.png)
+![Internet Archive](./random_comic.png)
 
-We don't sell products; we sell the marketplace. And by 'sell the marketplace' we mean 'play shooters, sometimes for upwards of 20 hours straight.'
+The fact that things like the npm left-pad incident are so rare is oddly reassuring.
 
