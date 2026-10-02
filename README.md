@@ -1,6 +1,6 @@
-[Rulebook](https://xkcd.com/1552)
+[Planetary Scientist](https://xkcd.com/2773)
 
-![Rulebook](./random_comic.png)
+![Planetary Scientist](./random_comic.png)
 
-It's definitely an intentional foul, but we've decided it's worth it.
+This rumpled fabric at the corner looks like evidence of ongoing tectonic activity.
 
