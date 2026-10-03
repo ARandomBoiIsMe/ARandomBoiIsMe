@@ -1,6 +1,6 @@
-[Savannah Ancestry](https://xkcd.com/775)
+[Stargazing](https://xkcd.com/1644)
 
-![Savannah Ancestry](./random_comic.png)
+![Stargazing](./random_comic.png)
 
-She's a perfectly nice lady from a beautiful city, and there's no reason to be mean just because she thinks a quarterback is a river in Egypt.
+Some of you may be thinking, 'But wait, isn't the brightest star in our sky the Sun?' I think that's a great question and you should totally ask it. On the infinite tree of possible conversations spread out before us, I think that's definitely the most promising branch.
 
