@@ -1,6 +1,6 @@
-[The Future of Orion](https://xkcd.com/3012)
+[Skynet](https://xkcd.com/1046)
 
-![The Future of Orion](./random_comic.png)
+![Skynet](./random_comic.png)
 
-Dinosaur Cosmics
+'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'
 
