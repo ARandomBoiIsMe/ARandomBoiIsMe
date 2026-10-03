@@ -1,6 +1,6 @@
-[Trimester](https://xkcd.com/699)
+[The Future of Orion](https://xkcd.com/3012)
 
-![Trimester](./random_comic.png)
+![The Future of Orion](./random_comic.png)
 
-Also, it's not like anyone actually calls up the Nobel committee to double-check things.
+Dinosaur Cosmics
 
