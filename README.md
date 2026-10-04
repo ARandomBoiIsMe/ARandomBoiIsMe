@@ -1,6 +1,6 @@
-[Skynet](https://xkcd.com/1046)
+[Supernova](https://xkcd.com/2878)
 
-![Skynet](./random_comic.png)
+![Supernova](./random_comic.png)
 
-'YOUR CLOTHES. GIVE THEM TO ME.' 'Shit, uh ... you are now breathing manually!' 'I AM ALWAYS BREATHING MANUALLY.'
+They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.
 
