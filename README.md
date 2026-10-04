@@ -1,6 +1,6 @@
-[Supernova](https://xkcd.com/2878)
+[Linguists](https://xkcd.com/2390)
 
-![Supernova](./random_comic.png)
+![Linguists](./random_comic.png)
 
-They're a little cagey about exactly where the crossover point lies relative to the likelihood of devastating effects on the planet.
+"Do you feel like the answer depends on whether you're currently in the hole, versus when you refer to the events later after you get out? Assuming you get out."
 
