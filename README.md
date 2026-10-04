@@ -1,6 +1,6 @@
-[Pi vs. Tau](https://xkcd.com/1292)
+[Seventies](https://xkcd.com/1072)
 
-![Pi vs. Tau](./random_comic.png)
+![Seventies](./random_comic.png)
 
-Conveniently approximated as e+2, Pau is commonly known as the Devil's Ratio (because in the octal expansion, '666' appears four times in the first 200 digits while no other run of 3+ digits appears more than once.)
+Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"
 
