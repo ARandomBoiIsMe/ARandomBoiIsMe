@@ -1,6 +1,6 @@
-[Linguists](https://xkcd.com/2390)
+[Pi vs. Tau](https://xkcd.com/1292)
 
-![Linguists](./random_comic.png)
+![Pi vs. Tau](./random_comic.png)
 
-"Do you feel like the answer depends on whether you're currently in the hole, versus when you refer to the events later after you get out? Assuming you get out."
+Conveniently approximated as e+2, Pau is commonly known as the Devil's Ratio (because in the octal expansion, '666' appears four times in the first 200 digits while no other run of 3+ digits appears more than once.)
 
