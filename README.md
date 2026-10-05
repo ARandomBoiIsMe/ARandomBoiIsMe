@@ -1,6 +1,6 @@
-[President Venn Diagram](https://xkcd.com/2962)
+[Moon Landing Mission Profiles](https://xkcd.com/2909)
 
-![President Venn Diagram](./random_comic.png)
+![Moon Landing Mission Profiles](./random_comic.png)
 
-Hard to imagine political rhetoric more microtargeted at me than 'I love Venn diagrams. I really do, I love Venn diagrams. It's just something about those three circles.'
+If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder.
 
