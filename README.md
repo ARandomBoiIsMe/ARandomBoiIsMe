@@ -1,6 +1,6 @@
-[Morning Routine](https://xkcd.com/490)
+[President Venn Diagram](https://xkcd.com/2962)
 
-![Morning Routine](./random_comic.png)
+![President Venn Diagram](./random_comic.png)
 
-I had a really hard time not writing '... profit!'
+Hard to imagine political rhetoric more microtargeted at me than 'I love Venn diagrams. I really do, I love Venn diagrams. It's just something about those three circles.'
 
