@@ -1,6 +1,6 @@
-[Seventies](https://xkcd.com/1072)
+[Morning Routine](https://xkcd.com/490)
 
-![Seventies](./random_comic.png)
+![Morning Routine](./random_comic.png)
 
-Hey, man, the 1670s called. They were like 'Wherefore this demonic inſtrument? By what ſorcery does it produce ſuch ſounds?"
+I had a really hard time not writing '... profit!'
 
