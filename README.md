@@ -1,6 +1,6 @@
-[Sky](https://xkcd.com/1115)
+[Geography](https://xkcd.com/1472)
 
-![Sky](./random_comic.png)
+![Geography](./random_comic.png)
 
-I dropped a bird and I didn't hear it hit bottom.
+The place I'd least like to live is the farm in the background of those diagrams showing how tornadoes form.
 
