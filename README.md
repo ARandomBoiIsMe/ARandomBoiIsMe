@@ -1,6 +1,6 @@
-[Geography](https://xkcd.com/1472)
+[Stephen Hawking](https://xkcd.com/799)
 
-![Geography](./random_comic.png)
+![Stephen Hawking](./random_comic.png)
 
-The place I'd least like to live is the farm in the background of those diagrams showing how tornadoes form.
+'Guys?  The Town is supposed to be good, and I thou--' 'PHYSICIST STEPHEN HAWKING DECLARES NEW FILM BEST IN ALL SPACE AND TIME' 'No, I just heard that--' 'SHOULD SCIENCE PLAY A ROLE IN JUDGING BEN AFFLECK?' 'I don't think--' 'WHAT ABOUT MATT DAMON?'
 
