@@ -1,6 +1,6 @@
-[Stephen Hawking](https://xkcd.com/799)
+[Python Environment](https://xkcd.com/1987)
 
-![Stephen Hawking](./random_comic.png)
+![Python Environment](./random_comic.png)
 
-'Guys?  The Town is supposed to be good, and I thou--' 'PHYSICIST STEPHEN HAWKING DECLARES NEW FILM BEST IN ALL SPACE AND TIME' 'No, I just heard that--' 'SHOULD SCIENCE PLAY A ROLE IN JUDGING BEN AFFLECK?' 'I don't think--' 'WHAT ABOUT MATT DAMON?'
+The Python environmental protection agency wants to seal it in a cement chamber, with pictorial messages to future civilizations warning them about the danger of using sudo to install random Python packages.
 
