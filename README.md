@@ -1,6 +1,6 @@
-[Real Programmers](https://xkcd.com/378)
+[Map Projections](https://xkcd.com/977)
 
-![Real Programmers](./random_comic.png)
+![Map Projections](./random_comic.png)
 
-Real programmers set the universal constants at the start such that the universe evolves to contain the disk with the data they want.
+What's that? You think I don't like the Peters map because I'm uncomfortable with having my cultural assumptions challenged?  Are you sure you're not ... ::puts on sunglasses:: ... projecting?
 
