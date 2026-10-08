@@ -1,6 +1,6 @@
-[Map Projections](https://xkcd.com/977)
+[Hurricane Hunters](https://xkcd.com/2353)
 
-![Map Projections](./random_comic.png)
+![Hurricane Hunters](./random_comic.png)
 
-What's that? You think I don't like the Peters map because I'm uncomfortable with having my cultural assumptions challenged?  Are you sure you're not ... ::puts on sunglasses:: ... projecting?
+Our flight gathered valuable data on whether a commercial airliner in the eye of a hurricane can do a loop.
 
