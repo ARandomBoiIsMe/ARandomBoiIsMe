@@ -1,6 +1,6 @@
-[Hurricane Hunters](https://xkcd.com/2353)
+[Overqualified](https://xkcd.com/408)
 
-![Hurricane Hunters](./random_comic.png)
+![Overqualified](./random_comic.png)
 
-Our flight gathered valuable data on whether a commercial airliner in the eye of a hurricane can do a loop.
+To anyone I've taken on a terrible date, this is retroactively my cover story.
 
