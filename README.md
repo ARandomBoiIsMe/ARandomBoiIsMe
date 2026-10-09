@@ -1,6 +1,6 @@
-[Proxy Variable](https://xkcd.com/2652)
+[Circumappendiceal Somectomy](https://xkcd.com/2508)
 
-![Proxy Variable](./random_comic.png)
+![Circumappendiceal Somectomy](./random_comic.png)
 
-Our work has produced great answers. Now someone just needs to figure out which questions they go with.
+Some personal news: After treating my first case a few years ago with antibiotics, I can report that I have now had appendicitis for the second and--unless something extremely unexpected happened with the surgery--final time.
 
