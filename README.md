@@ -1,6 +1,6 @@
-[Overqualified](https://xkcd.com/408)
+[Hipsters](https://xkcd.com/1220)
 
-![Overqualified](./random_comic.png)
+![Hipsters](./random_comic.png)
 
-To anyone I've taken on a terrible date, this is retroactively my cover story.
+You may point out that this very retreat into ironic detachment while still clearly participating in the thing in question is the very definition of contemporary hipsterdom. But on the other hand, wait, you're in an empty room. Who are you talking to?
 
