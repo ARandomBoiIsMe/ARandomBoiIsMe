@@ -1,6 +1,6 @@
-[Hipsters](https://xkcd.com/1220)
+[Proxy Variable](https://xkcd.com/2652)
 
-![Hipsters](./random_comic.png)
+![Proxy Variable](./random_comic.png)
 
-You may point out that this very retreat into ironic detachment while still clearly participating in the thing in question is the very definition of contemporary hipsterdom. But on the other hand, wait, you're in an empty room. Who are you talking to?
+Our work has produced great answers. Now someone just needs to figure out which questions they go with.
 
