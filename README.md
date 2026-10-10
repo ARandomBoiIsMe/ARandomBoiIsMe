@@ -1,6 +1,6 @@
-[Barrel - Part 3](https://xkcd.com/22)
+[Linked List Interview Problem](https://xkcd.com/2483)
 
-![Barrel - Part 3](./random_comic.png)
+![Linked List Interview Problem](./random_comic.png)
 
-A whirlpool!
+I'd traverse it myself, but it's singly linked, so I'm worried that I won't be able to find my way back to 2021.
 
