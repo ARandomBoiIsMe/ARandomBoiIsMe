@@ -1,6 +1,6 @@
-[Circumappendiceal Somectomy](https://xkcd.com/2508)
+[Phone Alarm](https://xkcd.com/1359)
 
-![Circumappendiceal Somectomy](./random_comic.png)
+![Phone Alarm](./random_comic.png)
 
-Some personal news: After treating my first case a few years ago with antibiotics, I can report that I have now had appendicitis for the second and--unless something extremely unexpected happened with the surgery--final time.
+Who's calling me?? WHY IS THE WORST PERSON IN THE WORLD CALLING ME!?
 
