@@ -1,6 +1,6 @@
-[Phone Alarm](https://xkcd.com/1359)
+[Theft](https://xkcd.com/1317)
 
-![Phone Alarm](./random_comic.png)
+![Theft](./random_comic.png)
 
-Who's calling me?? WHY IS THE WORST PERSON IN THE WORLD CALLING ME!?
+Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?
 
