@@ -1,6 +1,6 @@
-[Linked List Interview Problem](https://xkcd.com/2483)
+[Jurassic World](https://xkcd.com/1452)
 
-![Linked List Interview Problem](./random_comic.png)
+![Jurassic World](./random_comic.png)
 
-I'd traverse it myself, but it's singly linked, so I'm worried that I won't be able to find my way back to 2021.
+Hey guys! What's eating you? Ha ha ha it's me! Oh, what fun we have.
 
