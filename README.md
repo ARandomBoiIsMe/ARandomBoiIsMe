@@ -1,6 +1,6 @@
-[Nightmare Code](https://xkcd.com/2485)
+[Food Rule](https://xkcd.com/1587)
 
-![Nightmare Code](./random_comic.png)
+![Food Rule](./random_comic.png)
 
-Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.
+I won't eat invertebrates, because I can fight a skeleton, but I have no idea what kind of spooky warrior a squid leaves behind.
 
