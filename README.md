@@ -1,6 +1,6 @@
-[Marie Curie](https://xkcd.com/896)
+[Nightmare Code](https://xkcd.com/2485)
 
-![Marie Curie](./random_comic.png)
+![Nightmare Code](./random_comic.png)
 
-Although not permanently.
+Charsets even used to be known as 'alpha-bets' before that word's obvious negative associations caused it to die out.
 
