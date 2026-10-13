@@ -1,6 +1,6 @@
-[Food Rule](https://xkcd.com/1587)
+[UK Coal](https://xkcd.com/2992)
 
-![Food Rule](./random_comic.png)
+![UK Coal](./random_comic.png)
 
-I won't eat invertebrates, because I can fight a skeleton, but I have no idea what kind of spooky warrior a squid leaves behind.
+The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.
 
