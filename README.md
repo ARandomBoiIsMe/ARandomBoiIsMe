@@ -1,6 +1,6 @@
-[Adjusting a Chair](https://xkcd.com/2144)
+[Just Alerting You](https://xkcd.com/15)
 
-![Adjusting a Chair](./random_comic.png)
+![Just Alerting You](./random_comic.png)
 
-When I was looking at the box, I should have thought more about what "360 degrees of freedom" meant.
+Just thought you should know
 
