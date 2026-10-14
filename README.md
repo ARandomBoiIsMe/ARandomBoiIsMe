@@ -1,6 +1,6 @@
-[xkcd Phone 5](https://xkcd.com/1809)
+[Anyone Else Here](https://xkcd.com/3188)
 
-![xkcd Phone 5](./random_comic.png)
+![Anyone Else Here](./random_comic.png)
 
-The phone will be collected by the toll operators and mailed back to you within 4-6 weeks.
+Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.
 
