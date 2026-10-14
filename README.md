@@ -1,6 +1,6 @@
-[Just Alerting You](https://xkcd.com/15)
+[xkcd Phone 5](https://xkcd.com/1809)
 
-![Just Alerting You](./random_comic.png)
+![xkcd Phone 5](./random_comic.png)
 
-Just thought you should know
+The phone will be collected by the toll operators and mailed back to you within 4-6 weeks.
 
