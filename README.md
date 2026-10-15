@@ -1,6 +1,6 @@
-[Anyone Else Here](https://xkcd.com/3188)
+[Chemistry Nobel](https://xkcd.com/2214)
 
-![Anyone Else Here](./random_comic.png)
+![Chemistry Nobel](./random_comic.png)
 
-Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.
+Most chemists thought the lanthanides and actinides could be inserted in the sixth and seventh rows, but no, they're just floating down at the bottom with lots more undiscovered elements all around them.
 
