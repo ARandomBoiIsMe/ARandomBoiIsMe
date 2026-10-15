@@ -1,6 +1,6 @@
-[Chemistry Nobel](https://xkcd.com/2214)
+[Welcome Back](https://xkcd.com/2615)
 
-![Chemistry Nobel](./random_comic.png)
+![Welcome Back](./random_comic.png)
 
-Most chemists thought the lanthanides and actinides could be inserted in the sixth and seventh rows, but no, they're just floating down at the bottom with lots more undiscovered elements all around them.
+'We're shocked by the Notre Dame fire. Click for our tribute to--' [okay] 'Now that we're all staying at home these past few weeks thanks to this new coronavirus, we--' [okay]
 
