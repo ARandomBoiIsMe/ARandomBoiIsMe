@@ -1,6 +1,6 @@
-[Fall Foliage](https://xkcd.com/648)
+[Ferret](https://xkcd.com/20)
 
-![Fall Foliage](./random_comic.png)
+![Ferret](./random_comic.png)
 
-And I could replace you with older pictures of you, from back when you looked happy.
+My brother had a ferret he loved which died since I drew this strip.  RIP.
 
