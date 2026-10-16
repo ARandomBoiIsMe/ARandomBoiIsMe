@@ -1,6 +1,6 @@
-[Ferret](https://xkcd.com/20)
+[Formal Languages](https://xkcd.com/1090)
 
-![Ferret](./random_comic.png)
+![Formal Languages](./random_comic.png)
 
-My brother had a ferret he loved which died since I drew this strip.  RIP.
+[audience looks around] 'What just happened?' 'There must be some context we're missing.'
 
