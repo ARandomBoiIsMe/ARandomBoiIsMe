@@ -1,6 +1,6 @@
-[Formal Languages](https://xkcd.com/1090)
+[Placebo Blocker](https://xkcd.com/1526)
 
-![Formal Languages](./random_comic.png)
+![Placebo Blocker](./random_comic.png)
 
-[audience looks around] 'What just happened?' 'There must be some context we're missing.'
+They work even better if you take them with our experimental placebo booster, which I keep in the same bottle.
 
