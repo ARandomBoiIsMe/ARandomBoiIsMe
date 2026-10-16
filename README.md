@@ -1,6 +1,6 @@
-[Placebo Blocker](https://xkcd.com/1526)
+[Turbine](https://xkcd.com/1378)
 
-![Placebo Blocker](./random_comic.png)
+![Turbine](./random_comic.png)
 
-They work even better if you take them with our experimental placebo booster, which I keep in the same bottle.
+Ok, plan B: Fly a kite into the blades, with a rock in a sling dangling below it, and create the world's largest trebuchet.
 
