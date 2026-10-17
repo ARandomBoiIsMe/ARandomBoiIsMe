@@ -1,6 +1,6 @@
-[Constructive](https://xkcd.com/810)
+[Main Span](https://xkcd.com/3279)
 
-![Constructive](./random_comic.png)
+![Main Span](./random_comic.png)
 
-And what about all the people who won't be able to join the community because they're terrible at making helpful and constructive co-- ... oh.
+Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?
 
