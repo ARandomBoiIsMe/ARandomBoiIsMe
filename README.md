@@ -1,6 +1,6 @@
-[Turbine](https://xkcd.com/1378)
+[Relativity](https://xkcd.com/1233)
 
-![Turbine](./random_comic.png)
+![Relativity](./random_comic.png)
 
-Ok, plan B: Fly a kite into the blades, with a rock in a sling dangling below it, and create the world's largest trebuchet.
+It's commonly believed that Lorentz contraction makes objects appear flatter along the direction of travel. However, this ignores light travel times. In fact, a fast-moving butt would appear rotated toward the observer but not substantially distorted. Shakira was right.
 
