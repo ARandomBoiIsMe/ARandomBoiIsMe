@@ -1,6 +1,6 @@
-[Relativity](https://xkcd.com/1233)
+[Tractor Beam](https://xkcd.com/2579)
 
-![Relativity](./random_comic.png)
+![Tractor Beam](./random_comic.png)
 
-It's commonly believed that Lorentz contraction makes objects appear flatter along the direction of travel. However, this ignores light travel times. In fact, a fast-moving butt would appear rotated toward the observer but not substantially distorted. Shakira was right.
+Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?
 
