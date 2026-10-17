@@ -1,6 +1,6 @@
-[Tractor Beam](https://xkcd.com/2579)
+[Constructive](https://xkcd.com/810)
 
-![Tractor Beam](./random_comic.png)
+![Constructive](./random_comic.png)
 
-Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?
+And what about all the people who won't be able to join the community because they're terrible at making helpful and constructive co-- ... oh.
 
