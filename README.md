@@ -1,6 +1,6 @@
-[Water Phase Diagram](https://xkcd.com/1561)
+[Electric vs Gas](https://xkcd.com/2948)
 
-![Water Phase Diagram](./random_comic.png)
+![Electric vs Gas](./random_comic.png)
 
-Vanilla Ice was produced in small quantities for years, but it wasn't until the 90s that experimenters collaborated to produce a sample that could survive at room temperature for several months. 
+An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill.
 
