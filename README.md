@@ -1,6 +1,6 @@
-[Main Span](https://xkcd.com/3279)
+[2012](https://xkcd.com/998)
 
-![Main Span](./random_comic.png)
+![2012](./random_comic.png)
 
-Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?
+To compensate for this, I plan to spend 2013 doing nothing but talking about Mayans. My relationships with my friends and family may not fare well.
 
