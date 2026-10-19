@@ -1,6 +1,6 @@
-[Electric vs Gas](https://xkcd.com/2948)
+[Upcoming Hurricanes](https://xkcd.com/453)
 
-![Electric vs Gas](./random_comic.png)
+![Upcoming Hurricanes](./random_comic.png)
 
-An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill.
+I'd like to see more damage assessments for hurricanes hitting New York and flooding Manhattan -- something like the 1938 Long Island Express, but aimed a bit more to the west.  It's just a matter of time.
 
