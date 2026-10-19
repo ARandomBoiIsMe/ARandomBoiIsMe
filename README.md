@@ -1,6 +1,6 @@
-[Advent](https://xkcd.com/1577)
+[Dental Formulas](https://xkcd.com/3213)
 
-![Advent](./random_comic.png)
+![Dental Formulas](./random_comic.png)
 
-The few dozen doors that have little Christmas trees on them are a nice touch.
+I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.
 
