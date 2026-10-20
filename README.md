@@ -1,6 +1,6 @@
-[Challengers](https://xkcd.com/2067)
+[The bacon](https://xkcd.com/1054)
 
-![Challengers](./random_comic.png)
+![The bacon](./random_comic.png)
 
-Use your mouse or fingers to pan + zoom. To edit the map, submit your ballot on November 6th.
+Normally pronounced 'THEH-buh-kon', I assume.
 
