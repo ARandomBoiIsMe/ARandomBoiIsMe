@@ -1,6 +1,6 @@
-[Delivery](https://xkcd.com/431)
+[Felidae](https://xkcd.com/1056)
 
-![Delivery](./random_comic.png)
+![Felidae](./random_comic.png)
 
-Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery!  Ha ha, get it?  Oh God, don't throw those syringes!  Your baby's fine!
+'Smilodon fatalis' narrowly edged out 'Tyrannosaurus rex' to win this year's Most Badass Latin Names competition, after edging out 'Dracorex hogwartsia' and 'Stygimoloch spinifer' (meaning 'horned dragon from the river of death') in the semifinals.
 
