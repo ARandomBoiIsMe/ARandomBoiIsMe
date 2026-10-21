@@ -1,6 +1,6 @@
-[Into My Veins](https://xkcd.com/2402)
+[Delivery](https://xkcd.com/431)
 
-![Into My Veins](./random_comic.png)
+![Delivery](./random_comic.png)
 
-"Okay, for the last time, the shot is free, so we can't--" "Shut up and take my money!"
+Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery!  Ha ha, get it?  Oh God, don't throw those syringes!  Your baby's fine!
 
