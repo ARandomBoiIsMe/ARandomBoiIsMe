@@ -1,6 +1,6 @@
-[Phone](https://xkcd.com/1802)
+[Autoresponder](https://xkcd.com/2574)
 
-![Phone](./random_comic.png)
+![Autoresponder](./random_comic.png)
 
-[*disables social networking accounts*] [*social isolation increases*] Wait, why does this ALSO feel bad?
+I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!
 
