@@ -1,6 +1,6 @@
-[Autoresponder](https://xkcd.com/2574)
+[Cool S](https://xkcd.com/2690)
 
-![Autoresponder](./random_comic.png)
+![Cool S](./random_comic.png)
 
-I ADMIRE HOW YOU SET BOUNDARIES AND I HOPE YOUR COLLEAGUES RESPECT THEM! PLEASE SPARE MY LIFE!
+Although I hear they were caught cheating off of Rosalind, who sat at a desk in front of them.
 
