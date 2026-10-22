@@ -1,6 +1,6 @@
-[British Map](https://xkcd.com/1759)
+[Phone](https://xkcd.com/1802)
 
-![British Map](./random_comic.png)
+![Phone](./random_comic.png)
 
-West Norsussex is east of East Norwessex, but they're both far north of Middlesex and West Norwex.
+[*disables social networking accounts*] [*social isolation increases*] Wait, why does this ALSO feel bad?
 
