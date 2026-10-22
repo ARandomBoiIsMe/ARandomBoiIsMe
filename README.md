@@ -1,6 +1,6 @@
-[Felidae](https://xkcd.com/1056)
+[British Map](https://xkcd.com/1759)
 
-![Felidae](./random_comic.png)
+![British Map](./random_comic.png)
 
-'Smilodon fatalis' narrowly edged out 'Tyrannosaurus rex' to win this year's Most Badass Latin Names competition, after edging out 'Dracorex hogwartsia' and 'Stygimoloch spinifer' (meaning 'horned dragon from the river of death') in the semifinals.
+West Norsussex is east of East Norwessex, but they're both far north of Middlesex and West Norwex.
 
