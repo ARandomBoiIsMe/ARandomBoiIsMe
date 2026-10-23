@@ -1,6 +1,6 @@
-[Location](https://xkcd.com/1143)
+[Orbital Mechanics](https://xkcd.com/1356)
 
-![Location](./random_comic.png)
+![Orbital Mechanics](./random_comic.png)
 
-Ingress: Foursquare With Space Noises.
+To be fair, my job at NASA was working on robots and didn't actually involve any orbital mechanics. The small positive slope over that period is because it turns out that if you hang around at NASA, you get in a lot of conversations about space.
 
