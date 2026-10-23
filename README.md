@@ -1,6 +1,6 @@
-[Cool S](https://xkcd.com/2690)
+[Romney Quiz](https://xkcd.com/1044)
 
-![Cool S](./random_comic.png)
+![Romney Quiz](./random_comic.png)
 
-Although I hear they were caught cheating off of Rosalind, who sat at a desk in front of them.
+Charlie actually delivered the Medicare line almost verbatim in the 1971 movie's Fizzy Lifting Drink scene, but it was ultimately cut from the final release.
 
