@@ -1,6 +1,6 @@
-[Meteor Showers](https://xkcd.com/1249)
+[Found](https://xkcd.com/48)
 
-![Meteor Showers](./random_comic.png)
+![Found](./random_comic.png)
 
-Remember, meteors always hit the tallest object around.
+No more, no less
 
