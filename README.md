@@ -1,6 +1,6 @@
-[Convincing](https://xkcd.com/833)
+[Beamsplitters](https://xkcd.com/2991)
 
-![Convincing](./random_comic.png)
+![Beamsplitters](./random_comic.png)
 
-And if you labeled your axes, I could tell you exactly how MUCH better.
+Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.
 
