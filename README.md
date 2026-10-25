@@ -1,6 +1,6 @@
-[Genetic Testing Results](https://xkcd.com/1840)
+[HDTV](https://xkcd.com/732)
 
-![Genetic Testing Results](./random_comic.png)
+![HDTV](./random_comic.png)
 
-That's very exciting! The bad news is that it's a risk factor for a lot of things.
+We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'.
 
