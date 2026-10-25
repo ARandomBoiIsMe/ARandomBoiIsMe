@@ -1,6 +1,6 @@
-[HDTV](https://xkcd.com/732)
+[Ice Core](https://xkcd.com/2902)
 
-![HDTV](./random_comic.png)
+![Ice Core](./random_comic.png)
 
-We're also stuck with blurry, juddery, slow-panning 24fps movies forever because (thanks to 60fps home video) people associate high framerates with camcorders and cheap sitcoms, and thus think good framerates look 'fake'.
+If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.
 
