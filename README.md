@@ -1,6 +1,6 @@
-[Mimic Octopus](https://xkcd.com/928)
+[Genetic Testing Results](https://xkcd.com/1840)
 
-![Mimic Octopus](./random_comic.png)
+![Genetic Testing Results](./random_comic.png)
 
-Even if the dictionaries are starting to give in, I refuse to accept 'octopi' as a word mainly because--I'm not making this up--there's a really satisfying climactic scene in the Orson Scott Card horror novel 'Lost Boys' which hinges on it being an incorrect pluralization.
+That's very exciting! The bad news is that it's a risk factor for a lot of things.
 
