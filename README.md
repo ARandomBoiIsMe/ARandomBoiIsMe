@@ -1,6 +1,6 @@
-[Found](https://xkcd.com/48)
+[Mimic Octopus](https://xkcd.com/928)
 
-![Found](./random_comic.png)
+![Mimic Octopus](./random_comic.png)
 
-No more, no less
+Even if the dictionaries are starting to give in, I refuse to accept 'octopi' as a word mainly because--I'm not making this up--there's a really satisfying climactic scene in the Orson Scott Card horror novel 'Lost Boys' which hinges on it being an incorrect pluralization.
 
