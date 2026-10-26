@@ -1,6 +1,6 @@
-[Ice Core](https://xkcd.com/2902)
+[Ineffective Sorts](https://xkcd.com/1185)
 
-![Ice Core](./random_comic.png)
+![Ineffective Sorts](./random_comic.png)
 
-If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.
+StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.
 
