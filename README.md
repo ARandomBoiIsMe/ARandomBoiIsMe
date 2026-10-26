@@ -1,6 +1,6 @@
-[Ineffective Sorts](https://xkcd.com/1185)
+[Cyberintelligence](https://xkcd.com/1573)
 
-![Ineffective Sorts](./random_comic.png)
+![Cyberintelligence](./random_comic.png)
 
-StackSort connects to StackOverflow, searches for 'sort a list', and downloads and runs code snippets until the list is sorted.
+We had gathered that raw information, but had yet to put it all together.
 
