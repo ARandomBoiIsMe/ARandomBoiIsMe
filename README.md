@@ -1,6 +1,6 @@
-[Once Per Day](https://xkcd.com/1853)
+[Query](https://xkcd.com/1409)
 
-![Once Per Day](./random_comic.png)
+![Query](./random_comic.png)
 
-I'm not totally locked into my routine—twice a year, I take a break to change the batteries in my smoke detectors.
+SELECT * FROM GHOSTS
 
