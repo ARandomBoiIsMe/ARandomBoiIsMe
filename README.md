@@ -1,6 +1,6 @@
-[Stellar Evolution](https://xkcd.com/2354)
+[Glass Trolling](https://xkcd.com/1304)
 
-![Stellar Evolution](./random_comic.png)
+![Glass Trolling](./random_comic.png)
 
-It may remain in equilibrium for some time, slowly growing, and then suddenly become significantly redder.
+Plus, when someone finally grabs your glasses and stomps on them, it costs way less than $1,500 to replace them.
 
