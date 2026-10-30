@@ -1,6 +1,6 @@
-[2009 Called](https://xkcd.com/875)
+[Upcoming Hurricanes](https://xkcd.com/453)
 
-![2009 Called](./random_comic.png)
+![Upcoming Hurricanes](./random_comic.png)
 
-2017 called, but I couldn't understand what they were saying over all the screams.
+I'd like to see more damage assessments for hurricanes hitting New York and flooding Manhattan -- something like the 1938 Long Island Express, but aimed a bit more to the west.  It's just a matter of time.
 
